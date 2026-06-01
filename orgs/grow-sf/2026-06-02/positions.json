@@ -1,0 +1,41 @@
+{
+  "context": {
+    "title": "GrowSF — June 2, 2026 SF + California primary endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "GrowSF",
+      "uri": "https://growsf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "San Francisco Board of Supervisors, District 2", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Stephen Sherrill", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alan Wong", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco Unified School District Board of Education", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Phil Kim", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "Superior Court of San Francisco County, Seat 16", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Phoebe Maffei", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Matt Mahan", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Josh Fryday", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley N. Weber", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia M. Cohen", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eleni Kounalakis", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Patrick Wolff", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Josh Newman", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California State Board of Equalization, District 2", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sally J. Lieber", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California State Assembly, District 17", "kind": "race", "jurisdiction": "us/ca/ad-17", "election": "2026-06-02" }, "stance": "endorse", "choice": "Matt Haney", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "California State Assembly, District 19", "kind": "race", "jurisdiction": "us/ca/ad-19", "election": "2026-06-02" }, "stance": "endorse", "choice": "Catherine Stefani", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" },
+    { "subject": { "title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-06-02" }, "stance": "endorse", "choice": "Scott Wiener", "source": "https://growsf.org/voter-guide/san-francisco-voter-guide-june-2026-election/" }
+  ]
+}

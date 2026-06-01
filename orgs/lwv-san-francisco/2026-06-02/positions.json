@@ -1,0 +1,25 @@
+{
+  "context": {
+    "title": "League of Women Voters of San Francisco — June 2, 2026 ballot recommendations",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters of San Francisco",
+      "uri": "https://lwvsf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://lwvsf.org/ballot-recommendations"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "'Responsible, necessary' infrastructure investment with public oversight.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "Opposes restricting voter choice; argues term limits reduce accountability.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "Opposes given city's budget deficit and need for revenue to protect services.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "Restores a 2020 voter-approved measure, expected to raise $250M-$350M annually.", "source": "https://lwvsf.org/ballot-recommendations" }
+  ]
+}
