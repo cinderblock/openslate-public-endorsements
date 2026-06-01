@@ -1,0 +1,35 @@
+{
+  "context": {
+    "title": "League of Women Voters of California — November 3, 2026 general election recommendations",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters of California",
+      "uri": "https://lwvc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://lwvc.org/ballot-initiatives/",
+      "https://lwvc.org/ballot-recommendations/",
+      "https://lwvc.org/wp-content/uploads/2026/03/CA-Fair-Elections-Act.pdf"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Fair Elections Act",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "LWV-CA is a co-sponsor of SB 42 (Umberg-Allen-Cervantes-Lee), the legislative vehicle that placed this measure on the November 2026 ballot, and urges a Yes vote to (per LWV-CA's stated reason) 'lift the ban on public campaign financing in California and help ensure that everyday Californians, not just wealthy special interests, have a meaningful voice in our elections.'",
+      "source": "https://lwvc.org/ballot-initiatives/"
+    }
+  ]
+}
