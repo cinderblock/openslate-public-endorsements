@@ -1,0 +1,198 @@
+{
+  "context": {
+    "title": "San Francisco Chronicle editorial board — California statewide and SF Bay Area races, June 2, 2026 primary",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Chronicle (editorial board)",
+      "uri": "https://www.sfchronicle.com/opinion/editorials/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/",
+      "https://ballotpedia.org/Endorsements_by_San_Francisco_Chronicle_Editorial_Board"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Katie Porter",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Michael Tubbs",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Wolff",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "John Pimentel",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of San Francisco County",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Phoebe Maffei",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Alameda County",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Michael P. Johnson",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Contra Costa County",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa",
+        "election": "2026-06-02"
+      },
+      "stance": "endorse",
+      "choice": "Jesse J. Hsieh",
+      "source": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/"
+    }
+  ]
+}
