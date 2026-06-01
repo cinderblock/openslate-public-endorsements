@@ -1,0 +1,35 @@
+{
+  "context": {
+    "title": "Courage California — June 2, 2026 primary endorsements (selected races)",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Courage California", "uri": "https://couragecalifornia.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://couragecalifornia.org/2026-midterm-election-resources/",
+      "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Tubbs" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Richard Barrera", "statement": "Dual endorsement with Nichelle Henderson." },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nichelle Henderson", "statement": "Dual endorsement with Richard Barrera." },
+    { "subject": { "title": "California State Board of Equalization, District 4", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Cody Petterson" },
+    { "subject": { "title": "California State Senate, District 18", "kind": "race", "jurisdiction": "us/ca/sd-18", "election": "2026-06-02" }, "stance": "endorse", "choice": "Steve Padilla" },
+    { "subject": { "title": "California State Senate, District 38", "kind": "race", "jurisdiction": "us/ca/sd-38", "election": "2026-06-02" }, "stance": "endorse", "choice": "Catherine Blakespear" },
+    { "subject": { "title": "California State Senate, District 40", "kind": "race", "jurisdiction": "us/ca/sd-40", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mara Elliott" },
+    { "subject": { "title": "California State Assembly, District 74", "kind": "race", "jurisdiction": "us/ca/ad-74", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sergio Farias" },
+    { "subject": { "title": "California State Assembly, District 76", "kind": "race", "jurisdiction": "us/ca/ad-76", "election": "2026-06-02" }, "stance": "endorse", "choice": "Dr. Darshana Patel" },
+    { "subject": { "title": "California State Assembly, District 77", "kind": "race", "jurisdiction": "us/ca/ad-77", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tasha Boerner" },
+    { "subject": { "title": "California State Assembly, District 78", "kind": "race", "jurisdiction": "us/ca/ad-78", "election": "2026-06-02" }, "stance": "endorse", "choice": "Christopher Ward" },
+    { "subject": { "title": "California State Assembly, District 79", "kind": "race", "jurisdiction": "us/ca/ad-79", "election": "2026-06-02" }, "stance": "endorse", "choice": "LaShae Sharp-Collins" },
+    { "subject": { "title": "California State Assembly, District 80", "kind": "race", "jurisdiction": "us/ca/ad-80", "election": "2026-06-02" }, "stance": "endorse", "choice": "David Alvarez" }
+  ]
+}

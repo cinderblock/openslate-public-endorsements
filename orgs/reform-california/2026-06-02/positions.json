@@ -1,0 +1,42 @@
+{
+  "context": {
+    "title": "Reform California — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Reform California", "uri": "https://reformcalifornia.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Steve Hilton", "statement": "Dual endorsement with Chad Bianco." },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Chad Bianco", "statement": "Dual endorsement with Steve Hilton." },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gloria Romero" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Gates" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Don Wagner" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jennifer Hawks" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Herb Morgan" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Stacy Korsgaden" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sonja Shaw" },
+    { "subject": { "title": "California State Board of Equalization, District 4", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Denis Bilodeau" },
+    { "subject": { "title": "US House of Representatives, California District 48", "kind": "race", "jurisdiction": "us/ca/cd-48", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jim Desmond" },
+    { "subject": { "title": "US House of Representatives, California District 49", "kind": "race", "jurisdiction": "us/ca/cd-49", "election": "2026-06-02" }, "stance": "endorse", "choice": "Star Parker" },
+    { "subject": { "title": "US House of Representatives, California District 50", "kind": "race", "jurisdiction": "us/ca/cd-50", "election": "2026-06-02" }, "stance": "endorse", "choice": "Steve Cohen" },
+    { "subject": { "title": "US House of Representatives, California District 51", "kind": "race", "jurisdiction": "us/ca/cd-51", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ricardo Cabrera" },
+    { "subject": { "title": "California State Senate, District 18", "kind": "race", "jurisdiction": "us/ca/sd-18", "election": "2026-06-02" }, "stance": "endorse", "choice": "Art Hodges" },
+    { "subject": { "title": "California State Senate, District 38", "kind": "race", "jurisdiction": "us/ca/sd-38", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laura Bassett" },
+    { "subject": { "title": "California State Senate, District 40", "kind": "race", "jurisdiction": "us/ca/sd-40", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kristie Bruce-Lane" },
+    { "subject": { "title": "California State Assembly, District 74", "kind": "race", "jurisdiction": "us/ca/ad-74", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laurie Davies" },
+    { "subject": { "title": "California State Assembly, District 75", "kind": "race", "jurisdiction": "us/ca/ad-75", "election": "2026-06-02" }, "stance": "endorse", "choice": "Carl DeMaio" },
+    { "subject": { "title": "California State Assembly, District 76", "kind": "race", "jurisdiction": "us/ca/ad-76", "election": "2026-06-02" }, "stance": "endorse", "choice": "Carrie Villanueva Espinoza" },
+    { "subject": { "title": "California State Assembly, District 77", "kind": "race", "jurisdiction": "us/ca/ad-77", "election": "2026-06-02" }, "stance": "endorse", "choice": "Trinity Hannaway" },
+    { "subject": { "title": "California State Assembly, District 78", "kind": "race", "jurisdiction": "us/ca/ad-78", "election": "2026-06-02" }, "stance": "endorse", "choice": "Payton Galvez" },
+    { "subject": { "title": "California State Assembly, District 79", "kind": "race", "jurisdiction": "us/ca/ad-79", "election": "2026-06-02" }, "stance": "endorse", "choice": "Andrew Lawson" },
+    { "subject": { "title": "California State Assembly, District 80", "kind": "race", "jurisdiction": "us/ca/ad-80", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alejandro Galicia" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rebecca Jones" },
+    { "subject": { "title": "San Diego County Treasurer-Tax Collector", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Nakawatase" },
+    { "subject": { "title": "San Diego — Measure A (Empty Homes Tax)", "kind": "measure", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "No" }
+  ]
+}

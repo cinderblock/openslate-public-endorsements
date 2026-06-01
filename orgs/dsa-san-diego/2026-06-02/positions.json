@@ -1,0 +1,25 @@
+{
+  "context": {
+    "title": "DSA San Diego — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Democratic Socialists of America, San Diego", "uri": "https://dsasandiego.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Oliver Ma" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nichelle Henderson" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jane Kim" },
+    { "subject": { "title": "California State Board of Equalization, District 4", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Cody Petterson" },
+    { "subject": { "title": "US House of Representatives, California District 48", "kind": "race", "jurisdiction": "us/ca/cd-48", "election": "2026-06-02" }, "stance": "endorse", "choice": "Corinna Contreras" },
+    { "subject": { "title": "US House of Representatives, California District 50", "kind": "race", "jurisdiction": "us/ca/cd-50", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sparky Mitra" },
+    { "subject": { "title": "US House of Representatives, California District 52", "kind": "race", "jurisdiction": "us/ca/cd-52", "election": "2026-06-02" }, "stance": "endorse", "choice": "Frances Yasmeen Motiwalla" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sasha Miller" },
+    { "subject": { "title": "San Diego — Measure A (Empty Homes Tax)", "kind": "measure", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" }
+  ]
+}

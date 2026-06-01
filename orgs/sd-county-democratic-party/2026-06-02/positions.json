@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "San Diego County Democratic Party — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "San Diego County Democratic Party", "uri": "https://sddemocrats.org/", "kind": "party" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta" },
+    { "subject": { "title": "US House of Representatives, California District 49", "kind": "race", "jurisdiction": "us/ca/cd-49", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mike Levin" },
+    { "subject": { "title": "US House of Representatives, California District 50", "kind": "race", "jurisdiction": "us/ca/cd-50", "election": "2026-06-02" }, "stance": "endorse", "choice": "Scott Peters" },
+    { "subject": { "title": "US House of Representatives, California District 51", "kind": "race", "jurisdiction": "us/ca/cd-51", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sara Jacobs" },
+    { "subject": { "title": "US House of Representatives, California District 52", "kind": "race", "jurisdiction": "us/ca/cd-52", "election": "2026-06-02" }, "stance": "endorse", "choice": "Juan Vargas" },
+    { "subject": { "title": "California State Senate, District 18", "kind": "race", "jurisdiction": "us/ca/sd-18", "election": "2026-06-02" }, "stance": "endorse", "choice": "Steve Padilla" },
+    { "subject": { "title": "California State Senate, District 32", "kind": "race", "jurisdiction": "us/ca/sd-32", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tiffanie Tate" },
+    { "subject": { "title": "California State Senate, District 38", "kind": "race", "jurisdiction": "us/ca/sd-38", "election": "2026-06-02" }, "stance": "endorse", "choice": "Catherine Blakespear" },
+    { "subject": { "title": "California State Senate, District 40", "kind": "race", "jurisdiction": "us/ca/sd-40", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mara Elliott" },
+    { "subject": { "title": "California State Assembly, District 74", "kind": "race", "jurisdiction": "us/ca/ad-74", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sergio Farias" },
+    { "subject": { "title": "California State Assembly, District 75", "kind": "race", "jurisdiction": "us/ca/ad-75", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gerald Boursiquot" },
+    { "subject": { "title": "California State Assembly, District 76", "kind": "race", "jurisdiction": "us/ca/ad-76", "election": "2026-06-02" }, "stance": "endorse", "choice": "Darshana Patel" },
+    { "subject": { "title": "California State Assembly, District 77", "kind": "race", "jurisdiction": "us/ca/ad-77", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tasha Boerner" },
+    { "subject": { "title": "California State Assembly, District 78", "kind": "race", "jurisdiction": "us/ca/ad-78", "election": "2026-06-02" }, "stance": "endorse", "choice": "Chris Ward" },
+    { "subject": { "title": "California State Assembly, District 79", "kind": "race", "jurisdiction": "us/ca/ad-79", "election": "2026-06-02" }, "stance": "endorse", "choice": "LaShae Sharp-Collins" },
+    { "subject": { "title": "California State Assembly, District 80", "kind": "race", "jurisdiction": "us/ca/ad-80", "election": "2026-06-02" }, "stance": "endorse", "choice": "David Alvarez" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kyle Krahel" },
+    { "subject": { "title": "San Diego County Treasurer-Tax Collector", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Larry Cohen" },
+    { "subject": { "title": "Superior Court of San Diego County, Office 31", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jodi Cleesattle" },
+    { "subject": { "title": "Superior Court of San Diego County, Office 32", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tia Ramirez" },
+    { "subject": { "title": "San Diego — Measure A (Empty Homes Tax)", "kind": "measure", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" }
+  ]
+}

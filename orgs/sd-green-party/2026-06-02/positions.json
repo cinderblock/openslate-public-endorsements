@@ -1,0 +1,24 @@
+{
+  "context": {
+    "title": "Green Party of San Diego County — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Green Party of San Diego County", "uri": "https://www.cagreens.org/sandiego", "kind": "party" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Butch Ware" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alice Stek" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gary N. Blenner" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Meghann Adams" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Glenn Turner" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Marjorie Mikels" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eduardo \"Lalo\" Vargas" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Frank Lara" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sasha Miller" }
+  ]
+}

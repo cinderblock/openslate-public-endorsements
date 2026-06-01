@@ -1,0 +1,18 @@
+{
+  "context": {
+    "title": "Working Families Party (California) — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Working Families Party (California)", "uri": "https://workingfamilies.org/states/california/", "kind": "party" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Tubbs" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jane Kim" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Monica Montgomery Steppe" }
+  ]
+}

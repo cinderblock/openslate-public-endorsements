@@ -1,0 +1,29 @@
+{
+  "context": {
+    "title": "San Diego Lincoln Club — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "San Diego Lincoln Club", "uri": "https://lincolnclubsd.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Don Wagner" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Herb Morgan" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Gates" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sonja Shaw" },
+    { "subject": { "title": "US House of Representatives, California District 48", "kind": "race", "jurisdiction": "us/ca/cd-48", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jim Desmond" },
+    { "subject": { "title": "US House of Representatives, California District 49", "kind": "race", "jurisdiction": "us/ca/cd-49", "election": "2026-06-02" }, "stance": "endorse", "choice": "Armen Kurdian" },
+    { "subject": { "title": "California State Senate, District 32", "kind": "race", "jurisdiction": "us/ca/sd-32", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kelly Seyarto" },
+    { "subject": { "title": "California State Senate, District 38", "kind": "race", "jurisdiction": "us/ca/sd-38", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laura Bassett" },
+    { "subject": { "title": "California State Senate, District 40", "kind": "race", "jurisdiction": "us/ca/sd-40", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ed Musgrove" },
+    { "subject": { "title": "California State Assembly, District 74", "kind": "race", "jurisdiction": "us/ca/ad-74", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laurie Davies" },
+    { "subject": { "title": "San Diego County Assessor/Recorder/Clerk", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jordan Marks" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "John Franklin" },
+    { "subject": { "title": "Superior Court of San Diego County, Office 31", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Adam Noakes" },
+    { "subject": { "title": "Superior Court of San Diego County, Office 32", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nicole D'Ambrogi" }
+  ]
+}

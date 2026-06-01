@@ -1,0 +1,19 @@
+{
+  "context": {
+    "title": "San Diego Libertarian Party — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "San Diego Libertarian Party", "uri": "https://sdlpca.org/", "kind": "party" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.kpbs.org/news/politics/2026/05/06/2026-primary-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian" ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Woodard" },
+    { "subject": { "title": "California State Board of Equalization, District 4", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gardner Osborne" },
+    { "subject": { "title": "US House of Representatives, California District 50", "kind": "race", "jurisdiction": "us/ca/cd-50", "election": "2026-06-02" }, "stance": "endorse", "choice": "Joe Shea" },
+    { "subject": { "title": "California State Assembly, District 78", "kind": "race", "jurisdiction": "us/ca/ad-78", "election": "2026-06-02" }, "stance": "endorse", "choice": "Antonio Salguero" }
+  ]
+}
