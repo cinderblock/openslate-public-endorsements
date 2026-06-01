@@ -9,6 +9,30 @@ organization whose public stances are being summarized. The named
 organization did not sign the slate themselves. Consumers should always
 prefer a firsthand slate from an organization if one becomes available.
 
+## Scope
+
+Only positions with a **direct mapping to a specific ballot entry** belong
+here:
+
+- Candidate endorsements / opposition for a named race (e.g. "Sierra Club
+  endorses Alice for State Senate District 4").
+- Stances on a specific named ballot measure or proposition (e.g.
+  "Editorial board endorses Yes on Prop 12").
+
+These are NOT in scope for this repo:
+
+- General policy issue stances ("supports voting rights expansion",
+  "opposes gerrymandering") that don't map to a named race or measure on a
+  ballot.
+- Legislative position calls (support/oppose a federal bill).
+- Platform planks, mission statements, or principles.
+
+Such content may be valuable elsewhere in the OpenSlate ecosystem, but it
+does not help a voter make a decision on a specific ballot entry, so it is
+out of scope here. Organizations that publish only policy positions and
+explicitly do not endorse candidates or measures (e.g. ACLU, League of
+Women Voters) are usually a poor fit for this repo.
+
 ## How it works
 
 - Source of truth: human-editable `orgs/<slug>/<election>/positions.json`
@@ -83,22 +107,26 @@ slates can be discovered and verified under one consistent issuer.
 
 1. Pick or create an org slug (kebab-case): `orgs/<slug>/`.
 2. Write `orgs/<slug>/meta.yaml` with the org's display name, URL, and kind.
-3. Pick or create an election/period folder. Use a date-shaped label like
-   `2026-11-03` for a specific election; a year like `2026` is acceptable
-   for ongoing organizational policy positions.
-4. Write `orgs/<slug>/<period>/positions.json`. Saving source pages under
-   `orgs/<slug>/<period>/evidence/*.md` is recommended (mirrors the
+3. Pick the election the endorsements are for and use its date as the folder
+   name: `orgs/<slug>/<YYYY-MM-DD>/` (e.g. `2026-11-03`). One folder per
+   election the org has weighed in on.
+4. Write `orgs/<slug>/<YYYY-MM-DD>/positions.json`. Saving source pages under
+   `orgs/<slug>/<YYYY-MM-DD>/evidence/*.md` is recommended (mirrors the
    research-bot convention).
 
-   The file is the shape that `openslate sign` accepts — an object with
-   `positions`, `attribution`, and optionally `context` / `endorsed_by`:
+   Each Position's `subject` MUST identify a specific ballot entry. Prefer
+   `subject.id` in the `vip:contest-XXX` form when a VIP/Google Civic contest
+   ID is known, and always set `choice` to the candidate name (for races) or
+   `"Yes"` / `"No"` (for measures). The file is the shape that
+   `openslate sign` accepts — an object with `positions`, `attribution`, and
+   optionally `context` / `endorsed_by`:
 
    ```json
    {
      "context": {
-       "title": "...",
-       "jurisdiction": "us",
-       "election": "2026-general"
+       "title": "Example Org — 2026 general election endorsements",
+       "jurisdiction": "us/ca/sf",
+       "election": "2026-11-03"
      },
      "attribution": {
        "of": {
@@ -107,14 +135,35 @@ slates can be discovered and verified under one consistent issuer.
          "kind": "organization"
        },
        "mode": "scraped",
-       "retrieved_at": "2026-06-01T00:00:00Z",
-       "sources": ["https://example.org/endorsements/2026"]
+       "retrieved_at": "2026-09-15T00:00:00Z",
+       "sources": ["https://example.org/endorsements/2026-general"]
      },
      "positions": [
        {
-         "subject": { "title": "Candidate A for City Council" },
+         "subject": {
+           "title": "State Senate District 4",
+           "id": "vip:contest-12345",
+           "kind": "race",
+           "jurisdiction": "us/ca",
+           "election": "2026-11-03"
+         },
          "stance": "endorse",
-         "source": "https://example.org/endorsements/2026"
+         "choice": "Alice Example",
+         "statement": "Quoted reasoning from the source page.",
+         "source": "https://example.org/endorsements/2026-general#sd-4"
+       },
+       {
+         "subject": {
+           "title": "Proposition 12 — Parks Bond",
+           "id": "vip:measure-77",
+           "kind": "measure",
+           "jurisdiction": "us/ca",
+           "election": "2026-11-03"
+         },
+         "stance": "endorse",
+         "choice": "Yes",
+         "statement": "Quoted reasoning from the source page.",
+         "source": "https://example.org/endorsements/2026-general#prop-12"
        }
      ]
    }
