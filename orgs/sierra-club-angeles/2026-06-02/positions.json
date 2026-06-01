@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "Sierra Club Angeles Chapter — June 2, 2026 California primary endorsements",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Sierra Club Angeles Chapter", "uri": "https://www.sierraclub.org/angeles", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.sierraclub.org/angeles/endorsements" ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eleni Kounalakis" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ben Allen" },
+    { "subject": { "title": "US House of Representatives, California District 27", "kind": "race", "jurisdiction": "us/ca/cd-27", "election": "2026-06-02" }, "stance": "endorse", "choice": "George Whitesides" },
+    { "subject": { "title": "US House of Representatives, California District 28", "kind": "race", "jurisdiction": "us/ca/cd-28", "election": "2026-06-02" }, "stance": "endorse", "choice": "Judy Chu" },
+    { "subject": { "title": "US House of Representatives, California District 29", "kind": "race", "jurisdiction": "us/ca/cd-29", "election": "2026-06-02" }, "stance": "endorse", "choice": "Luz Rivas" },
+    { "subject": { "title": "US House of Representatives, California District 30", "kind": "race", "jurisdiction": "us/ca/cd-30", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laura Friedman" },
+    { "subject": { "title": "US House of Representatives, California District 31", "kind": "race", "jurisdiction": "us/ca/cd-31", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gil Cisneros" },
+    { "subject": { "title": "US House of Representatives, California District 32", "kind": "race", "jurisdiction": "us/ca/cd-32", "election": "2026-06-02" }, "stance": "endorse", "choice": "Brad Sherman" },
+    { "subject": { "title": "US House of Representatives, California District 34", "kind": "race", "jurisdiction": "us/ca/cd-34", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jimmy Gomez" },
+    { "subject": { "title": "US House of Representatives, California District 36", "kind": "race", "jurisdiction": "us/ca/cd-36", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ted Lieu" },
+    { "subject": { "title": "US House of Representatives, California District 37", "kind": "race", "jurisdiction": "us/ca/cd-37", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sydney Kamlager-Dove" },
+    { "subject": { "title": "US House of Representatives, California District 41", "kind": "race", "jurisdiction": "us/ca/cd-41", "election": "2026-06-02" }, "stance": "endorse", "choice": "Linda Sanchez" },
+    { "subject": { "title": "US House of Representatives, California District 42", "kind": "race", "jurisdiction": "us/ca/cd-42", "election": "2026-06-02" }, "stance": "endorse", "choice": "Robert Garcia" },
+    { "subject": { "title": "US House of Representatives, California District 43", "kind": "race", "jurisdiction": "us/ca/cd-43", "election": "2026-06-02" }, "stance": "endorse", "choice": "Maxine Waters" },
+    { "subject": { "title": "US House of Representatives, California District 44", "kind": "race", "jurisdiction": "us/ca/cd-44", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nanette Barragan" },
+    { "subject": { "title": "US House of Representatives, California District 45", "kind": "race", "jurisdiction": "us/ca/cd-45", "election": "2026-06-02" }, "stance": "endorse", "choice": "Derek Tran" },
+    { "subject": { "title": "US House of Representatives, California District 46", "kind": "race", "jurisdiction": "us/ca/cd-46", "election": "2026-06-02" }, "stance": "endorse", "choice": "Lou Correa" },
+    { "subject": { "title": "US House of Representatives, California District 47", "kind": "race", "jurisdiction": "us/ca/cd-47", "election": "2026-06-02" }, "stance": "endorse", "choice": "Dave Min" },
+    { "subject": { "title": "US House of Representatives, California District 49", "kind": "race", "jurisdiction": "us/ca/cd-49", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mike Levin" }
+  ]
+}

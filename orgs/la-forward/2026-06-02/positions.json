@@ -1,0 +1,51 @@
+{
+  "context": {
+    "title": "LA Forward Progressive Voter Guide — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "LA Forward", "uri": "https://www.laforward.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "https://www.laforward.org/voterguide" ]
+  },
+  "positions": [
+    { "subject": { "title": "Los Angeles County — Measure ER (Healthcare Sales Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },
+    { "subject": { "title": "Los Angeles County Sheriff", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eric Strong" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 2", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tal K. Valbuena" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 14", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Angie Christides" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 39", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Binh Dang" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 64", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Maria Ghobadi" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 65", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Anna S. Reitano" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 66", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ben Forer" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 81", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "David Walgren" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 87", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Anthony (A.J.) Bayne" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 116", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Paul A. Thompson" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 131", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "David Ross" },
+    { "subject": { "title": "Superior Court of Los Angeles County, Office 176", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Zachary Smith" },
+    { "subject": { "title": "Los Angeles County Board of Supervisors, District 1", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Maria Elena Durazo" },
+    { "subject": { "title": "Los Angeles County Board of Supervisors, District 3", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Lindsey Horvath" },
+    { "subject": { "title": "Los Angeles Mayor", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nithya Raman", "statement": "Recommended to block Spencer Pratt." },
+    { "subject": { "title": "Los Angeles City Attorney", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Marissa Roy" },
+    { "subject": { "title": "Los Angeles City Controller", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kenneth Mejia" },
+    { "subject": { "title": "Los Angeles City Council, District 1", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eunisses Hernandez" },
+    { "subject": { "title": "Los Angeles City Council, District 3", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Barri Worth Girvan" },
+    { "subject": { "title": "Los Angeles City Council, District 5", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Katy Yaroslavsky" },
+    { "subject": { "title": "Los Angeles City Council, District 9", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Estuardo Mazariegos" },
+    { "subject": { "title": "Los Angeles City Council, District 11", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Faizah Malik" },
+    { "subject": { "title": "Los Angeles City Council, District 13", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Hugo Soto-Martinez" },
+    { "subject": { "title": "Los Angeles City Council, District 15", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tim McOsker" },
+    { "subject": { "title": "Los Angeles City — Proposition CB (Cannabis Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },
+    { "subject": { "title": "Los Angeles City — Proposition TC (Hotel Tax Expansion)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },
+    { "subject": { "title": "Los Angeles City — Proposition TT (Increase Hotel Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },
+    { "subject": { "title": "Long Beach City Council, District 1", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mary Zendejas" },
+    { "subject": { "title": "Long Beach City Council, District 3", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ronald Sampson" },
+    { "subject": { "title": "Long Beach City Council, District 5", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Megan Kerr" },
+    { "subject": { "title": "Long Beach City Council, District 7", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Vivian Malauulu" },
+    { "subject": { "title": "Long Beach City Council, District 9", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Joni Ricks-Oddie" },
+    { "subject": { "title": "Long Beach City Auditor", "kind": "race", "jurisdiction": "us/ca/long-beach", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laura Doud" },
+    { "subject": { "title": "Pasadena City Council, District 5", "kind": "race", "jurisdiction": "us/ca/pasadena", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jess Rivas" },
+    { "subject": { "title": "Pasadena City Council, District 7", "kind": "race", "jurisdiction": "us/ca/pasadena", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jason Lyon" }
+  ]
+}

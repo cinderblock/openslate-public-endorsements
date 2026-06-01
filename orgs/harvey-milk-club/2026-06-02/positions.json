@@ -1,0 +1,31 @@
+{
+  "context": {
+    "title": "Harvey Milk LGBTQ Democratic Club — June 2, 2026 SF primary endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": { "name": "Harvey Milk LGBTQ Democratic Club", "uri": "http://www.milkclub.org/", "kind": "organization" },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [ "http://www.milkclub.org/endorsements" ]
+  },
+  "positions": [
+    { "subject": { "title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-06-02" }, "stance": "endorse", "choice": "Connie Chan" },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tony Thurmond" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Tubbs" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jane Kim" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nichelle Henderson" },
+    { "subject": { "title": "California State Board of Equalization, District 2", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sally Lieber" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Natalie Gee" },
+    { "subject": { "title": "San Francisco Unified School District Board of Education", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Brandee Marckmann" },
+    { "subject": { "title": "Superior Court of San Francisco County, Seat 16", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alexandra Pray" },
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" }
+  ]
+}
