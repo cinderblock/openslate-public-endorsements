@@ -1,0 +1,56 @@
+{
+  "context": {
+    "title": "Thrive LA voter guide — June 2, 2026 California primary endorsements",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "Thrive LA",
+      "uri": "https://www.thrivelosangeles.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.thrivelosangeles.org/voter-guide"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Los Angeles Mayor", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Spencer Pratt", "statement": "Joint endorsement with Karen Bass.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles Mayor", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Karen Bass", "statement": "Joint endorsement with Spencer Pratt.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Attorney", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "John McKinney", "statement": "Joint endorsement with Hydee Feldstein Soto.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Attorney", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Hydee Feldstein Soto", "statement": "Joint endorsement with John McKinney.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Controller", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Zach Sokoloff", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 1", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Maria Lou Calanche", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 3", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Timothy K. Gaspar", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 5", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Katy Yaroslavsky", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 7", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Monica Rodriguez", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 9", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jose Ugarte", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 11", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Traci Park", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 13", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rich Sarian", "statement": "Joint endorsement with Dylan Kendall.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 13", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Dylan Kendall", "statement": "Joint endorsement with Rich Sarian.", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City Council, District 15", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tim McOsker", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City — Proposition CB (Cannabis Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City — Proposition TC (Hotel Tax, online travel agencies)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles City — Proposition TT (Hotel Tax, short-term rentals)", "kind": "measure", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles County Assessor", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jeffrey Prang", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles County Sheriff", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Robert Luna", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles County — Measure ER (Sales Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Irene Lee", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Maria Ghobadi", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Samuel Wolloch Krause", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ben Forer", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "David Walgren", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "David DeJute", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Donna Tryfman", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gloria Marin", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Superior Court of Los Angeles County", "kind": "race", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Ryan Dibble", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Los Angeles Unified School District Board, District 4", "kind": "race", "jurisdiction": "us/ca/los-angeles", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nick Melvoin", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Matt Mahan", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Fiona Ma", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia M. Cohen", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eleni Kounalakis", "source": "https://www.thrivelosangeles.org/voter-guide" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley N. Weber", "source": "https://www.thrivelosangeles.org/voter-guide" }
+  ]
+}

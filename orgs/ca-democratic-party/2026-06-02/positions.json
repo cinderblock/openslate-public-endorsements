@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "California Democratic Party — confirmed 2026 endorsing-conference results (partial)",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Democratic Party",
+      "uri": "https://cadem.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://cadem.org/endorsements/",
+      "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber", "statement": "Placed on consent calendar (96.99% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen", "statement": "Placed on consent calendar (95.90% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta", "statement": "Placed on consent calendar (97.50% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California State Board of Equalization, District 1", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nelson Esparza", "statement": "Placed on consent calendar (90.16% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California State Board of Equalization, District 2", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sally Lieber", "statement": "Placed on consent calendar (69.75% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California State Board of Equalization, District 3", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mike Gipson", "statement": "Placed on consent calendar (80.70% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "US House of Representatives, California District 1", "kind": "race", "jurisdiction": "us/ca/cd-1", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mike McGuire", "statement": "Placed on consent calendar (74.12% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "US House of Representatives, California District 5", "kind": "race", "jurisdiction": "us/ca/cd-5", "election": "2026-06-02" }, "stance": "endorse", "choice": "Michael Curtis Meyer Masuda", "statement": "Placed on consent calendar (84.75% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "US House of Representatives, California District 7", "kind": "race", "jurisdiction": "us/ca/cd-7", "election": "2026-06-02" }, "stance": "endorse", "choice": "Doris Matsui", "statement": "Placed on consent calendar (67.01% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California State Senate, District 24", "kind": "race", "jurisdiction": "us/ca/sd-24", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sion Roy", "statement": "Placed on consent calendar (67.39% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" },
+    { "subject": { "title": "California State Assembly, District 58", "kind": "race", "jurisdiction": "us/ca/ad-58", "election": "2026-06-02" }, "stance": "endorse", "choice": "Clarissa Cervantes", "statement": "Placed on consent calendar (71.43% of conference vote).", "source": "https://cadem.org/wp-content/uploads/2026/02/2026-Convention-Endorsing-Conference-Results-FINAL-Results-PDF.pdf" }
+  ]
+}

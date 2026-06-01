@@ -1,0 +1,28 @@
+{
+  "context": {
+    "title": "Santa Barbara Independent editorial board — June 2, 2026 California primary endorsements",
+    "jurisdiction": "us/ca/santa-barbara",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Barbara Independent (editorial board)",
+      "uri": "https://www.independent.com/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer", "statement": "Cited 'clearest understanding of California's housing affordability crisis' and commitment to climate action.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "US House of Representatives, California District 24", "kind": "race", "jurisdiction": "us/ca/cd-24", "election": "2026-06-02" }, "stance": "endorse", "choice": "Salud Carbajal", "statement": "Effective legislator who secures federal funding; 'conscious and effective representative in Congress.'", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "California State Assembly, District 37", "kind": "race", "jurisdiction": "us/ca/ad-37", "election": "2026-06-02" }, "stance": "endorse", "choice": "Gregg Hart", "statement": "Long record of public service; 'skillful, determined politician' with expertise in regional issues.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "Santa Barbara County Board of Supervisors, District 2", "kind": "race", "jurisdiction": "us/ca/santa-barbara", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laura Capps", "statement": "Uses 'bully pulpit' to advance tenant protections and workforce housing.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "Santa Barbara County Auditor-Controller", "kind": "race", "jurisdiction": "us/ca/santa-barbara", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kyle Slattery", "statement": "More qualified than incumbent; better positioned to launch independent audits.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "Santa Barbara County Clerk-Recorder-Assessor", "kind": "race", "jurisdiction": "us/ca/santa-barbara", "election": "2026-06-02" }, "stance": "endorse", "choice": "Melinda Greene", "statement": "'Exceptionally capable' with 12 years experience; incumbent absent for 18 months and unable to lead.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" },
+    { "subject": { "title": "Santa Barbara — Measure A (2026)", "kind": "measure", "jurisdiction": "us/ca/santa-barbara", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "Enables downtown housing development by extending city lease authority from 50 to 99 years.", "source": "https://www.independent.com/2026/05/14/primary-election-2026-endorsements/" }
+  ]
+}

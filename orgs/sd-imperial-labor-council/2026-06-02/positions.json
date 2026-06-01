@@ -1,0 +1,56 @@
+{
+  "context": {
+    "title": "San Diego & Imperial Counties Labor Council — June 2, 2026 California primary endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego & Imperial Counties Labor Council",
+      "uri": "https://www.unionyes.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.unionyes.org/2026-endorsements"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer", "statement": "Co-endorsed with Antonio Villaraigosa and Katie Porter.", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Antonio Villaraigosa", "statement": "Co-endorsed with Tom Steyer and Katie Porter.", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Katie Porter", "statement": "Co-endorsed with Tom Steyer and Antonio Villaraigosa.", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Lieutenant Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Fiona Ma", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eleni Kounalakis", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Al Muratsuchi", "statement": "Co-endorsed with Anthony Rendon.", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Anthony Rendon", "statement": "Co-endorsed with Al Muratsuchi.", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Board of Equalization, District 4", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Umberg", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 36", "kind": "race", "jurisdiction": "us/ca/ad-36", "election": "2026-06-02" }, "stance": "endorse", "choice": "Oscar Ortiz", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "US House of Representatives, California District 25", "kind": "race", "jurisdiction": "us/ca/cd-25", "election": "2026-06-02" }, "stance": "endorse", "choice": "Raul Ruiz", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Imperial Irrigation District Board, Division 1", "kind": "race", "jurisdiction": "us/ca/imperial", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alex Cardenas", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Imperial Irrigation District Board, Division 5", "kind": "race", "jurisdiction": "us/ca/imperial", "election": "2026-06-02" }, "stance": "endorse", "choice": "Karin Euginio", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 74", "kind": "race", "jurisdiction": "us/ca/ad-74", "election": "2026-06-02" }, "stance": "endorse", "choice": "Laurie Davies", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 76", "kind": "race", "jurisdiction": "us/ca/ad-76", "election": "2026-06-02" }, "stance": "endorse", "choice": "Darshana Patel", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 77", "kind": "race", "jurisdiction": "us/ca/ad-77", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tasha Boerner", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 78", "kind": "race", "jurisdiction": "us/ca/ad-78", "election": "2026-06-02" }, "stance": "endorse", "choice": "Chris Ward", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Assembly, District 79", "kind": "race", "jurisdiction": "us/ca/ad-79", "election": "2026-06-02" }, "stance": "endorse", "choice": "LaShae Sharp-Collins", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Senate, District 18", "kind": "race", "jurisdiction": "us/ca/sd-18", "election": "2026-06-02" }, "stance": "endorse", "choice": "Steve Padilla", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "California State Senate, District 40", "kind": "race", "jurisdiction": "us/ca/sd-40", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mara Elliott", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "US House of Representatives, California District 48", "kind": "race", "jurisdiction": "us/ca/cd-48", "election": "2026-06-02" }, "stance": "endorse", "choice": "Marni von Wilpert", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "US House of Representatives, California District 49", "kind": "race", "jurisdiction": "us/ca/cd-49", "election": "2026-06-02" }, "stance": "endorse", "choice": "Mike Levin", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "US House of Representatives, California District 51", "kind": "race", "jurisdiction": "us/ca/cd-51", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sara Jacobs", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "US House of Representatives, California District 52", "kind": "race", "jurisdiction": "us/ca/cd-52", "election": "2026-06-02" }, "stance": "endorse", "choice": "Juan Vargas", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego City Council, District 2", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Nicole Crosby", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego City Council, District 4", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Henry Foster III", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego City Council, District 6", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kent Lee", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Monica Montgomery Steppe", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kyle Krahel", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego County Treasurer-Tax Collector", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Larry Cohen", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Chula Vista City Council, District 1", "kind": "race", "jurisdiction": "us/ca/chula-vista", "election": "2026-06-02" }, "stance": "endorse", "choice": "Carolina Chavez", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "Chula Vista City Council, District 2", "kind": "race", "jurisdiction": "us/ca/chula-vista", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jose Preciado", "source": "https://www.unionyes.org/2026-endorsements" },
+    { "subject": { "title": "San Diego Unified School District Board, District C", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Hayden Gore", "source": "https://www.unionyes.org/2026-endorsements" }
+  ]
+}
