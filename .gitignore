@@ -1,0 +1,23 @@
+# OpenSlate clone fetched on demand by scripts/workflows
+.openslate/
+
+# Build output
+dist/
+
+# Node / Bun
+node_modules/
+bun.lockb
+
+# Keys and identities — the project private key only lives in CI secrets
+*.key
+*.identity.json
+*signing*.json
+
+# Signed slates and the batch catalog are CI build artifacts, not committed source
+orgs/**/signed.slate
+/index.json
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/

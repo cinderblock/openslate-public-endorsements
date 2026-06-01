@@ -1,0 +1,78 @@
+name: publish
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Fetch OpenSlate at pinned ref
+        run: |
+          set -euo pipefail
+          ref=$(cat .openslate-version)
+          git clone --quiet https://github.com/cinderblock/openslate.git .openslate
+          git -C .openslate checkout --quiet "$ref"
+
+      - name: Install OpenSlate deps
+        working-directory: .openslate
+        run: bun install --frozen-lockfile
+
+      - name: Stage signing key from secret
+        env:
+          OPENSLATE_SIGNING_KEY: ${{ secrets.OPENSLATE_SIGNING_KEY }}
+        run: |
+          set -euo pipefail
+          if [ -z "${OPENSLATE_SIGNING_KEY:-}" ]; then
+            echo "::error::OPENSLATE_SIGNING_KEY secret is not set on this repo."
+            echo "Add the full project signing identity JSON as a repository secret named OPENSLATE_SIGNING_KEY."
+            exit 1
+          fi
+          mkdir -p "$RUNNER_TEMP/signing"
+          chmod 700 "$RUNNER_TEMP/signing"
+          printf '%s' "$OPENSLATE_SIGNING_KEY" > "$RUNNER_TEMP/signing/key.json"
+          chmod 600 "$RUNNER_TEMP/signing/key.json"
+          echo "SIGNING_KEY_PATH=$RUNNER_TEMP/signing/key.json" >> "$GITHUB_ENV"
+
+      - name: Schema-validate every positions.json
+        run: bun scripts/verify-positions.ts
+
+      - name: Sign every slate
+        run: bun .openslate/packages/cli/src/index.ts sign --batch . --key "$SIGNING_KEY_PATH" --force
+
+      - name: Verify signed slates round-trip against project public key
+        run: bun scripts/verify-signed.ts
+
+      - name: Build static site
+        run: bun scripts/build-site.ts
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

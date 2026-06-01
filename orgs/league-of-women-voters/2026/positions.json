@@ -1,0 +1,52 @@
+{
+  "context": {
+    "title": "League of Women Voters — selected ongoing federal policy stances",
+    "jurisdiction": "us"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters of the United States",
+      "uri": "https://www.lwv.org/",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.lwv.org/our-work/voting-rights-democracy",
+      "https://www.lwv.org/our-work/redistricting",
+      "https://www.lwv.org/issues"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Federal voting-rights legislation expanding access (Freedom to Vote Act-type)",
+        "kind": "policy",
+        "jurisdiction": "us"
+      },
+      "stance": "endorse",
+      "statement": "Researcher summary of LWV's long-standing public stance favoring federal legislation that protects and expands voter access — including automatic and same-day registration, no-excuse absentee voting, and strong nationwide voting standards.",
+      "source": "https://www.lwv.org/our-work/voting-rights-democracy"
+    },
+    {
+      "subject": {
+        "title": "Independent (non-partisan) redistricting commissions",
+        "kind": "policy",
+        "jurisdiction": "us"
+      },
+      "stance": "endorse",
+      "statement": "Researcher summary of LWV's long-standing opposition to partisan gerrymandering and support for placing redistricting authority in independent, transparent commissions.",
+      "source": "https://www.lwv.org/our-work/redistricting"
+    },
+    {
+      "subject": {
+        "title": "Statehood for the District of Columbia",
+        "kind": "policy",
+        "jurisdiction": "us"
+      },
+      "stance": "endorse",
+      "statement": "Researcher summary of LWV's publicly stated support for full voting representation for DC residents, including DC statehood.",
+      "source": "https://www.lwv.org/issues"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "openslate-public-endorsements",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Publicly-attributed endorsement slates, signed in CI and published to GitHub Pages.",
+  "license": "MIT",
+  "scripts": {
+    "fetch-openslate": "bun scripts/fetch-openslate.ts",
+    "verify": "bun scripts/verify-positions.ts",
+    "sign": "bun .openslate/packages/cli/src/index.ts sign --batch . --force",
+    "verify-signed": "bun scripts/verify-signed.ts",
+    "build-site": "bun scripts/build-site.ts",
+    "build": "bun scripts/build-site.ts",
+    "format": "biome format --write .",
+    "lint": "biome check ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.1.14",
+    "typescript": "^5.7.2"
+  }
+}
