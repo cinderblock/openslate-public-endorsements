@@ -1,0 +1,37 @@
+{
+  "context": {
+    "title": "San Francisco Democratic Party — June 2, 2026 primary endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Democratic Party (DCCC)",
+      "uri": "https://www.sfdems.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.sfdems.org/endorsements/june-2-2026-primary-election"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Superior Court of San Francisco County, Seat 16", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Phoebe Maffei", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco Unified School District Board of Education", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Phil Kim", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 2", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Stephen Sherrill", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alan Wong", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber", "statement": "Pass-through of California Democratic Party endorsement.", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Malia Cohen", "statement": "Pass-through of California Democratic Party endorsement.", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Rob Bonta", "statement": "Pass-through of California Democratic Party endorsement.", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "California State Board of Equalization, District 2", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sally Lieber", "statement": "Pass-through of California Democratic Party endorsement.", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-06-02" }, "stance": "endorse", "choice": "Scott Wiener", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "US House of Representatives, California District 15", "kind": "race", "jurisdiction": "us/ca/cd-15", "election": "2026-06-02" }, "stance": "endorse", "choice": "Kevin Mullin", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "California State Assembly, District 17", "kind": "race", "jurisdiction": "us/ca/ad-17", "election": "2026-06-02" }, "stance": "endorse", "choice": "Matt Haney", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "California State Assembly, District 19", "kind": "race", "jurisdiction": "us/ca/ad-19", "election": "2026-06-02" }, "stance": "endorse", "choice": "Catherine Stefani", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.sfdems.org/endorsements/june-2-2026-primary-election" }
+  ]
+}
