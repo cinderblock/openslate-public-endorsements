@@ -1,0 +1,31 @@
+{
+  "context": {
+    "title": "SPUR — June 2, 2026 ballot measure recommendations (SF, San Jose, Oakland)",
+    "jurisdiction": "us/ca",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "SPUR",
+      "uri": "https://www.spur.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.spur.org/voter-guide/2026-06"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "San Jose — Measure A (Hotel Tax Increase)", "kind": "measure", "jurisdiction": "us/ca/san-jose", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "San Jose — Measure D (Open Space Tax)", "kind": "measure", "jurisdiction": "us/ca/san-jose", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "Oakland — Measure A (Community College Tax)", "kind": "measure", "jurisdiction": "us/ca/oakland", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "Oakland — Measure C (Small Business Tax Relief)", "kind": "measure", "jurisdiction": "us/ca/oakland", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "Oakland — Measure D (Police and Fire Retirement)", "kind": "measure", "jurisdiction": "us/ca/oakland", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "source": "https://www.spur.org/voter-guide/2026-06" },
+    { "subject": { "title": "Oakland — Measure E (City Services Tax)", "kind": "measure", "jurisdiction": "us/ca/oakland", "election": "2026-06-02" }, "stance": "neutral", "source": "https://www.spur.org/voter-guide/2026-06" }
+  ]
+}

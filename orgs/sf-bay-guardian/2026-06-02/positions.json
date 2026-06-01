@@ -1,0 +1,36 @@
+{
+  "context": {
+    "title": "SF Bay Guardian — June 2, 2026 California primary endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF Bay Guardian",
+      "uri": "https://www.sfbg.com/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/"
+    ]
+  },
+  "positions": [
+    { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Shirley Weber", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Jane Kim", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "California State Board of Equalization, District 2", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sally Lieber", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-06-02" }, "stance": "endorse", "choice": "Connie Chan", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 2", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Lori Brooke", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Natalie Gee", "weight": 1, "statement": "Ranked-choice 1st choice (followed by David Lee 2nd, Albert Chow 3rd).", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "lean_for", "choice": "David Lee", "weight": 0.66, "statement": "Ranked-choice 2nd choice after Natalie Gee.", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "lean_for", "choice": "Albert Chow", "weight": 0.33, "statement": "Ranked-choice 3rd choice after Natalie Gee and David Lee.", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco Unified School District Board of Education", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Brandee Marckmann", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "Superior Court of San Francisco County, Seat 16", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Alexandra Pray", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "'Valid project' addressing infrastructure needs.", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "'Takes control away from the voters.'", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "Designed to undermine Prop D.", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "Would 'bring some $300 million into the city's coffers'.", "source": "https://www.sfbg.com/2026/05/06/endorsements-for-the-june-2-election/" }
+  ]
+}
