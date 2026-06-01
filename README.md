@@ -57,6 +57,14 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 A consumer (such as the OpenSlate web app) only needs the URL of a single
 `signed.slate` to import and offline-verify it.
 
+### Browse from the OpenSlate web app
+
+OpenSlate's web app ships with a **Catalog** tab that fetches this site's
+`index.json` and offers one-click import of any listed slate. The default
+catalog URL is `https://cinderblock.github.io/openslate-public-endorsements/index.json`;
+end-users (or self-hosters) can override it via the in-app URL field, or at
+build time via `VITE_PUBLIC_ENDORSEMENTS_CATALOG`.
+
 ## Relationship to OpenSlate `research-bot/`
 
 OpenSlate ships a [`research-bot/`](https://github.com/cinderblock/openslate/tree/master/research-bot)
