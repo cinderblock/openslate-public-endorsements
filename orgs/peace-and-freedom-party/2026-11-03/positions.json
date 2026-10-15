@@ -1,0 +1,57 @@
+{
+  "context": {
+    "title": "Peace and Freedom Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Peace and Freedom Party",
+      "uri": "https://www.peaceandfreedom.us/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:13:21Z",
+    "sources": [
+      "https://www.peaceandfreedom.us/index.php/news/elections-campaigns/june-2026-california-primary-results-growing-vote-for-peace-and-freedom-and-left-unity"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Rendon",
+      "statement": "Mark Rendòn of the Green Party, who came in 2nd in Assembly District 14 in northern Alameda County and western Contra Costa County. There, his active campaign, growing dissatisfaction with the Democratic Party incumbent, and the endorsement by both the GP and PFP, put him ahead of the Republican in the three-way race.",
+      "source": "https://www.peaceandfreedom.us/index.php/news/elections-campaigns/june-2026-california-primary-results-growing-vote-for-peace-and-freedom-and-left-unity"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 59",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-59",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Victor Hernandez",
+      "statement": "Three candidates endorsed by the Peace and Freedom Party will appear on the November 2026 ballot … Victor Hernandez of the Green Party, who was one of only 2 candidates on the primary ballot for the 59th Assembly District in northern Orange County and southwestern San Bernardino County.",
+      "source": "https://www.peaceandfreedom.us/index.php/news/elections-campaigns/june-2026-california-primary-results-growing-vote-for-peace-and-freedom-and-left-unity"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 63",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-63",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Akin",
+      "statement": "Kevin Akin of the Peace and Freedom Party, who gained a spot in the November election for the 63rd Assembly District in Riverside County as a write-in candidate against the unopposed Republican incumbent.",
+      "source": "https://www.peaceandfreedom.us/index.php/news/elections-campaigns/june-2026-california-primary-results-growing-vote-for-peace-and-freedom-and-left-unity"
+    }
+  ]
+}
