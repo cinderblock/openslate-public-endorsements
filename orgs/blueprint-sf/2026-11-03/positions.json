@@ -1,0 +1,224 @@
+{
+  "context": {
+    "title": "Blueprint SF (formerly TogetherSF) — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Blueprint SF",
+      "uri": "https://www.sfblueprint.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:14:17Z",
+    "sources": [
+      "https://www.sfblueprint.org/advocacy/november-2026-voter-guide",
+      "https://cdn.prod.website-files.com/6842b9b588e1dab9f1d01ce9/6aa496004ec0cd1a899d8a2b_BP-NovVoterGuide.pdf"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "Let’s make sure he can keep up the good work and re-elect him this November.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "Vote for Autumn Brown Garibay to ensure families have a strong voice on the School Board.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "statement": "Vote for Tim Tung to set SFUSD on the right financial path.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"Stephen Sherrill for District 2 Supervisor\"",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "\"Alan Wong for District 4 Supervisor\"",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "If you care about public safety and addressing SF’s drug crisis, re-elect Matt Dorsey for D6 this November.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "A vote for Theo Ellington is a vote for a revitalized District 10.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend voting Yes on A. This is a common-sense measure that streamlines city government.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "No",
+      "statement": "We recommend voting No on B. There's good reason to be skeptical that a public bank would be well-run in SF, especially given that the city's current deficit stems from overspending.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "We are neutral on C. There's no strong case for either supporting or opposing this one.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend voting Yes on D. We support this measure because San Francisco’s current ballot measure system is flawed and results in overly long ballots in which residents are asked to vote on a wide variety of measures that can be quite complex in nature.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend voting Yes on E. This charter amendment makes critical reforms to our City government’s contracting system.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend voting Yes on F. This charter amendment makes much-needed changes to SF’s government structure as recommended both by 2023’s Rose Report (sponsored by our predecessor organization TogetherSF) and by good government think tank SPUR.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "We are neutral on G. There are good arguments on both sides here, and reasonable San Franciscans have landed in different places.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "No",
+      "statement": "We recommend voting No on H. Transit is important. But so is everything the city provides -that doesn’t mean we keep charging taxpayers more instead of fixing the city budget.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "No",
+      "statement": "We recommend voting No on I. This measure moves General Fund money into an earmarked fund, which means the city loses flexibility to use those dollars where they're needed most, like covering budget shortfalls.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "No",
+      "statement": "We recommend voting No on J. Originally, this measure was supposed to be paired with a reduction in the real transfer tax to be part of a revenue-neutral package. But now that it’s not, all this measure does is raise taxes, hampering Downtown’s recovery.",
+      "source": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide"
+    }
+  ]
+}

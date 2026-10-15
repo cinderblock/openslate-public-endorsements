@@ -1,0 +1,391 @@
+{
+  "context": {
+    "title": "Sierra Club San Diego Chapter — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sierra Club San Diego",
+      "uri": "https://sandiegosierraclub.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:19:59Z",
+    "sources": [
+      "https://sandiegosierraclub.org/news/endorsed-candidates",
+      "https://sandiegosierraclub.org/",
+      "https://sandiegosierraclub.org/no-on-45"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "\"Position: United States Representative, 49TH District\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"Position: House of Representatives in 48th District\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Blakespear",
+      "statement": "Listed as \"Senator Catherine Blakespear\", \"Position: California 38th Senate District\".",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tasha Boerner",
+      "statement": "\"Position: California State Assemblymember, District 77\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kyle Krahel",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicole Crosby",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Martha Abraham",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Antonio Martinez",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Meghan O’Ryan Spieker",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jas Grewal",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rimga Viskanta",
+      "statement": "\"Position: Mayor of Encinitas\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Arielle Golden",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Lefkowits",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jillian Cocayne",
+      "statement": "\"Position: Encinitas Union School District Board of Trustees\" (trustee area not stated).",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Shen",
+      "statement": "\"Position: Encinitas Union School District Board of Trustees\" (trustee area not stated).",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Hargrave",
+      "statement": "\"Position: Encinitas Union School District Board of Education\" (trustee area not stated).",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-dieguito-uhsd",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Helen Doyle",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-dieguito-uhsd",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Justin Moodie",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristi J. Becker",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jenna Dellamano",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michele Tsutagawa Ward",
+      "statement": "\"Position: Carlsbad Unified School District Board of Trustees\" (trustee area not stated).",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Waidelich",
+      "statement": "\"Position: Carlsbad Unified School Board Trustee, Area 5\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Joyce",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emily Gonzales",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joey Pearson",
+      "statement": "Listed as \"Dr. Joey Pearson\", \"running for Area 3 on the Oceanside Unified School District Board of Education\".",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corinna Contreras",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan O’Donnell",
+      "statement": "\"Position: Vista City Council\" (district not stated).",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth Zuniga",
+      "statement": "\"Position: Mayor of Vista\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dellena Olps",
+      "statement": "\"Position: Mayor of Poway\"",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Walder",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/helix-water-district",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Beth Damsky",
+      "statement": "Listed as \"Andrea Beth Damsky, L.Ac.\", \"Position: Helix Water District Board Division 2\".",
+      "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "No",
+      "statement": "Together, we say NO ON PROP 45.",
+      "source": "https://sandiegosierraclub.org/no-on-45"
+    }
+  ]
+}
