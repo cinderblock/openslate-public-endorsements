@@ -1,0 +1,597 @@
+{
+  "context": {
+    "title": "San Francisco Chronicle editorial board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Chronicle (editorial board)",
+      "uri": "https://www.sfchronicle.com/opinion/editorials/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:10:12Z",
+    "sources": [
+      "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "Fiona Ma comes with significant baggage — which is why she wasn’t our first choice for the role in the June primary. But she has the competence and experience to smoothly assume the duties of the state’s No. 2 office. Given the ramblings of her opponent, we cautiously recommend Ma for lieutenant governor.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "Shirley Weber’s breadth of experience, willingness to do the right thing and fierce advocacy for voting rights make her the strongest candidate.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "Overall, we think Cohen has made enough progress to merit another term. But Californians should stay watchful to ensure she keeps the positive momentum going.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "With her thorough grasp of the treasurer’s complex duties and the political gravitas to get things done, Eleni Kounalakis deserves your vote.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "In our endorsement interview, incumbent Rob Bonta’s calm, clear and concise grasp of the complexities and nuances of California law — honed through more than eight years in the state Assembly — surpassed that of most of the current gubernatorial candidates.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "Ben Allen has what it takes to hold insurers accountable and regulate their market conduct while also fostering the conditions necessary to keep the market stable.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "Richard Barrera is an increasingly rare California progressive who brings all parties to the table, a skill that the new state superintendent of public instruction will need as the role of the office changes.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But the need for more affordable housing is too desperate to wait — and Prop 1 is well-positioned to reap the benefits of the state’s new streamlining laws.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Voters should support Prop 3 to sustain funding levels but also keep pressure on their politicians to work toward a fairer and more sustainable tax system.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 4 has a fatal flaw that opens the door to limited taxpayer funds being wasted on efforts that don’t meaningfully move the needle — at a time of widespread budget deficits.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "The process can certainly be improved, but the problem isn’t so dire that voters need to accept Prop 5’s glaring flaw.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But given how dire our housing crisis is, any positive impact is better than none at all.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "In fact, it’s one of the most noxious deposits on California’s political dung heap in years.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But even if you think voter fraud is a problem in California, Prop 39 would turn our elections into a never-ending lawsuit.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But really it’s a cheap ruse to nullify Prop 40, the billionaire wealth tax.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "In reality, it’s just another poison-pill measure aimed at killing Prop 40, the billionaire wealth tax.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But it creates a complex administrative and legal regime that will drain limited staff time and resources from nonprofit clinics while distracting from patient care.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "With Scott Wiener, San Franciscans would send the state’s most relentless and effective legislator to Washington to zero in on universal healthcare, humane immigration policies, protections for the LGBTQ community and preserving democracy from President Donald Trump.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "Congress in the age of Trump is no place to learn on the job. Wahab is the only candidate prepared for the gravity of the moment.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Daniel H. Bromberg",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles E. Wilson II",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles F. Adams",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Frederick S. Chung",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Allison Marston Danner",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a “yes” vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But it is a necessary investment in keeping the region’s transit system functioning while those larger challenges are addressed.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "Wong’s opponents in November are two political novices with good intentions but without the government experience needed to effect change.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop A would clean up San Francisco’s bloated charter to better serve city residents.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But good intentions do not automatically make a good institution — and Prop B is set up to fail.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop C will not solve San Francisco’s housing crisis, but it is part of a concerted and thoughtful city-directed effort to stem the bleeding.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop D contains many essential fixes that voters will need to ratify one way or another. They should get the job done now with a yes vote.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "San Francisco has little to lose and much to gain by professionalizing the way it does business.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop F gives the mayor tools to manage the executive branch while preserving review by the Board of Supervisors and the public.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "The editorial board endorsed a yes vote on Prop K in 2024, and we still believe that Sunset Dunes offers San Francisco the opportunity to build a transformative public space.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Proposition H would help stem the bleeding.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Everyone wants affordable housing. But Prop I is a cocktail of poison pills that will actually make San Francisco’s housing crisis worse.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    }
+  ]
+}

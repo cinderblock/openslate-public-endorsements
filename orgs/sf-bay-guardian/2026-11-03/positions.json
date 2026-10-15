@@ -1,0 +1,528 @@
+{
+  "context": {
+    "title": "SF Bay Guardian — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF Bay Guardian",
+      "uri": "https://www.sfbg.com/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:08:32Z",
+    "sources": [
+      "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/",
+      "https://www.sfbg.com/2026/10/07/guardian-clean-slate-guide-take-this-to-the-polls-on-nov-3-2026/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "At a time when Trump is trying to destroy democracy by undermining the right to vote, Weber has been a consistent advocate for open government and voting rights. We’ll back her for another term.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "Vote for Kim.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "We disagree—and we’re willing to support Lieber, the current chair, who has a long record on environmental and labor issues.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "Barrera, a longtime San Diego School Board member, has the support of the California Teachers Association, and we support him too.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop. 1 would allow the state to issue $11.2 billion in bonds for affordable housing. It’s a tiny, tiny fraction of what the state needs; just funding San Francisco’s state-mandated affordable housing goals would cost $19 billion. But it’s a start. Vote yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Nobody seriously opposes it.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "This one is absolutely critical.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "That’s a small step toward limiting the power of billionaires to control cities and counties. Vote yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop. 5 would change the rules to what they currently are in San Francisco: After a recall, the position is declared vacant, and filled either by statute, appointment, or special election. Vote yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But it won’t do any harm, and may help a few people.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "the $8.4 billion in state bonds, which will take $500 million annually out of the state budget, must go to an organization that meets a set of difficult criteria—and the only organization currently meeting those rules is run by the person who funded Prop. 38.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "This is a California GOP version of Trump’s efforts to disenfranchise voters. Vote No.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop. 40 won’t solve the problem, but it’s a small start: It would impose a one-time five percent tax on fortunes of more than $1 billion.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop. 41 is just a poison pill that would undermine the billionaire tax. Vote no.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop. 42 is a simple poison pill that would not only undermine Prop. 40 but would ban any future wealth taxes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "The right wing anti-tax folks want to make that two-thirds. Vote No.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But it creates such a burden in reporting that it could lead to lower levels of service. We’re opposed.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Supporters are pushing this as a pro-housing measure, but it’s actually a sweeping attack on the California Environmental Quality Act. Even California YIMBY opposes it. Vote no.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "statement": "Vote for Connie Chan.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mano Raju",
+      "statement": "He is a leader in criminal justice reform, and we are happy to support him for another term.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "Torres has done a credible job, although the Recorder’s Office website, which should have a simple database of property records, is still a bit clunky and hard to use.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Nguyen",
+      "weight": 1,
+      "statement": "We prefer Nguyen. We can live with McCoy.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gary McCoy",
+      "weight": 0.5,
+      "statement": "We do not agree with his priorities or positions on many issues, but he is a strong advocate for public health.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "DJ Brookter",
+      "statement": "Pick an order; both are great choices.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "JR Eppler",
+      "statement": "Pick an order; both are great choices.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "statement": "A progressive slate backed by the teachers’ union is running to restore some credibility to the critical institution. We support all of them.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "statement": "A progressive slate backed by the teachers’ union is running to restore some credibility to the critical institution. We support all of them.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "statement": "A progressive slate backed by the teachers’ union is running to restore some credibility to the critical institution. We support all of them.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "statement": "Now the union has a slate of candidates who can expand that vision. We support them all.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "statement": "Now the union has a slate of candidates who can expand that vision. We support them all.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "statement": "Now the union has a slate of candidates who can expand that vision. We support them all.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "So RTM it’s regressive and unfair, but we really have no choice. The measure needs to pass. Vote Yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop. A is part of Lurie’s move, supported by $8 million in billionaire tech money, to increase the power of the Mayor’s Office and eliminate community oversight of City Hall.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But it’s an excellent idea, and Prop. B moves it forward. Vote yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "But it’s still a good measure: It would use tax-increment financing to increase the amount of city money that is earmarked for affordable housing, reaching as much as $125 million a year.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop. D is another in a series of mayoral and billionaire power grabs, and it’s the worst of the package",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop. E would eliminate Board of Supes and community oversight of tens of millions in city contracts. Vote No.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "It’s another power grab. Vote No.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "The original deal worked fine: Open the road to cars during the week, and close it on weekends.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "This one is easy: The city desperately needs money to keep Muni alive and functioning, and although we prefer income taxes to property taxes, this proposal is relatively fair.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop. I mandates that the tax money go where it was always supposed to go. Vote yes.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Nothing wrong with that, now that Prop. I is on the ballot too and his plan to cut taxes on the very rich has gone nowhere.",
+      "source": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election/"
+    }
+  ]
+}

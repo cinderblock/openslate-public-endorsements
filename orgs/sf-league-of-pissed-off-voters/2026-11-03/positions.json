@@ -1,0 +1,624 @@
+{
+  "context": {
+    "title": "SF League of Pissed Off Voters — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF League of Pissed Off Voters",
+      "uri": "https://www.theleaguesf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:09:56Z",
+    "sources": [
+      "https://www.theleaguesf.org/",
+      "https://www.theleaguesf.org/november_2026_endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mano Raju",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "weight": 1,
+      "statement": "Supervisor, District 8: Ranked Endorsement: #1 Gary McCoy, #2 Michael Nguyen",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Michael Nguyen",
+      "weight": 0.5,
+      "statement": "Supervisor, District 8: Ranked Endorsement: #1 Gary McCoy, #2 Michael Nguyen",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Eppler",
+      "statement": "Supervisor, District 10: Non-Ranked Dual Endorsement: J.R. Eppler and D.J. Brookter",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "D.J. Brookter",
+      "statement": "Supervisor, District 10: Non-Ranked Dual Endorsement: J.R. Eppler and D.J. Brookter",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "CA Supreme Court: Retain all (Groban, Evans)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "CA Supreme Court: Retain all (Groban, Evans)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "First Court of Appeals: Retain all (Smiley, Banke, Wilson, Stewart, Fujisaki, Desautels, Petrou, Rodriguez, Brown, Chou, Simons, Burns)",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop A: Weaken citizen oversight: No",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop B: Public bank: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop C: Housing Trust Fund: Yes",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop D: Reduce ballot initiative access: Hellllllll No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop E: Decrease government spending oversight on contracts: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop F: Mayoral power grab: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop H: Parcel tax to fund Muni: Yes, and…",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop I: Affordable housing guarantee act: Oh Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop J: Close foreclosure tax loophole: Yes",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop RTM: Regional transit sales tax: Yes, and…",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 1: $11 billion affordable housing bond: Yes",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 3: Extend high income tax for schools and healthcare: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 4: Legalize public campaign financing: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 5: State recall reform: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 38: $8.4B bond for billionaire’s immunology research projects: No",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 39: Require ID to vote: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 40: Billionaire wealth tax: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 41: Wealth tax poison pill audit requirements: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 42: Poison pill to prevent future wealth taxes: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 43: Limit local voters' ability to pass local taxes: Hell No!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 44: Burdensome requirement for health clinic spending: No",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 45: Limit environmental CEQA review: No",
+      "source": "https://www.theleaguesf.org/"
+    }
+  ]
+}
