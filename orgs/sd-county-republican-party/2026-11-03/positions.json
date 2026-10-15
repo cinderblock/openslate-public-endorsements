@@ -1,0 +1,1847 @@
+{
+  "context": {
+    "title": "Republican Party of San Diego County — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Republican Party of San Diego County",
+      "uri": "https://sandiegorepublicans.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:09:07Z",
+    "sources": [
+      "https://sandiegorepublicans.org/voter-guides/san-diego",
+      "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gates",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Don Wagner",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb Morgan",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Jane Kim",
+      "statement": "Insurance Commissioner: DEFINITELY NOT Jane Kim",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denis Bilodeau",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Desmond",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Armen Kurdian",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Cohen",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricardo Cabrera",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Art Hodges",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Seyarto",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Bassett",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristie Bruce-Lane",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Davies",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carl DeMaio",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carrie S. Espinoza Villanueva",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Trinity Hannaway",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Payton Galvez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Lawson",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alejandro Galicia",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Jones",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristine C. Alessio",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Assessor/Recorder/Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jordan Marks",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Treasurer-Tax Collector",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Nakawatase",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cory Brown",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Keith Blackburn",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Krouse",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Burkholder",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McCann",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Martinez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelica Martinez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Purvis",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricky Hoyt",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Wells",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Kaye",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dane White",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanner Horsley",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Garcia",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Berry",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mariko Nakawatase",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Lothian",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Exeter",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Cline",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Robinson",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Vaus",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Pikus",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter De Hoff",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Nicole Crosby",
+      "statement": "Council District 2: DEFINITELY NOT Nicole Crosby",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Powell",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Sannella",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Gabriele",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lindsey Smith",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob McNelis",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Nunez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angela May",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Glenn Dickie",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Wray",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Bonsall Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gaddis",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony Carnevale",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Covell",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emily Schworm",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amber Martinez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gretchen Vurbeff",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joel Gutierrez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Delia Dominguez Cervantes",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Toothman",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Cochrane",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Hinrichs",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Vincent",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ranglas",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zesty Harper",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Huston",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Woods",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Kelly",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosangela Cribbs",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Myriam S. Moody",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicole Watson",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Bethurum",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Moore",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniela Darling",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Bennett",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brett Davis",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maya Phillips",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Summers",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rodger Dohm",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jee Manghani",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Seitz",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Summer Boger",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ginny Merrifield",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derrick Davis",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cindy Petretta",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven Dobesh",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "South Bay Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erika Lowery",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jon Moffat",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Otay Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Croucher",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Padre Dam Municipal Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Fordyce",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rainbow Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Irvine",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cole Marting",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Lenac",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggie T. Watkins",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Edwards-Tate",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Clark",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jerome Kern",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Oleksandra Reva",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ashley Carnevale",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Craig Allen",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Noe",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel Burow",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Hodge",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Heavilin",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carri Jo Fernandez",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly sales tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach — Measure C (Solana Beach Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly Business tax despite that will destroy jobs to simply support more massive levels of wasteful spending by the city.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Jamul-Dulzura Union School District — Measure H (Jamul-Dulzura Union School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Julian Union High School District — Measure J (Julian Union High School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District — Measure K (Fallbrook Union Elementary School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "Addresses genuine health and safety hazards in a small rural school district by repairing deteriorating classrooms that fail building and earthquake-safety standards, removing asbestos, lead pipes and mold, and replacing failing roofs, plumbing, sewer and electrical systems.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District — Measure P (Amendment of Proposition 'NN' to Modernize the Ordinance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Currently voters have to approve any contract or project $1 million or more. This measure would adjust that outdated amount to $10 million and achieve cost efficiencies.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 9B (Harris Annex) — Measure Q (Harris Annex Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly sales tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 13A (Pala Mesa Zone A) — Measure T (Pala Mesa Zone A Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes costly sales tax hike at a time when we face a cost-of-living crisis.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District — Measure AA (La Mesa-Spring Valley School District Classroom Repair & Upgrade Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Imposes a new costly property tax despite massive levels of wasteful spending, giving government workers massive salary hikes and pension spikes, and awarding contracts to political supporters without fair and open competition.",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Kelli Evans - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Joshua Groban - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Eran M. Bermudez",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Eran M. Bermudez (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Jose S. Castillo",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Jose S. Castillo (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice William S. Dato",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "William S. Dato (Associate Justice) - RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Thomas A. Delaney",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Thomas A. Delaney (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Truc T. Do",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Truc T. Do (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Martha K. Gooding",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Martha K. Gooding (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Julia C. Kelety",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Julia C. Kelety (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Corey G. Lee",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Corey G. Lee (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Juliet O. Macaulay",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Juliet O. Macaulay (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Joanne Motoike",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Joanne Motoike (Presiding Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Michael J. Raphael",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Michael J. Raphael (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice David M. Rubin",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "David M. Rubin (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Nathan R. Scott",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Nathan R. Scott (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Deborah C. Servino",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Deborah C. Servino (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Lisa Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Lisa Rodriguez (Associate Justice) - DO NOT RETAIN",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    }
+  ]
+}

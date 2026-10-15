@@ -1,0 +1,586 @@
+{
+  "context": {
+    "title": "DSA San Diego — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Democratic Socialists of America, San Diego",
+      "uri": "https://dsasandiego.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:09:07Z",
+    "sources": [
+      "https://www.dsasandiego.org/november-2026-voter-guide",
+      "https://www.dsasandiego.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jane Kim",
+      "statement": "Insurance Commissioner: Jane Kim",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Sonja Shaw",
+      "statement": "State Superintendent of Public Instruction: NOT Sonja Shaw (see CA DSA Guide)",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sara Jacobs",
+      "statement": "We recommend a vote for Sara Jacobs.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "The choice here is clear: we recommend a vote for LaShae Sharp-Collins.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Monica Montgomery Steppe",
+      "statement": "We recommend a vote for Monica Montgomery Steppe.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alicia Muñoz",
+      "statement": "In solidarity with AFT Guild Local 1931, the chapter recommends voting for each of its endorsed members for county and community college district offices. Thus, we recommend a vote for Alicia Muñoz.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rick Shea",
+      "statement": "In solidarity with AFT Guild Local 1931, the chapter recommends voting for each of its endorsed members for county and community college district offices. Thus, we recommend a vote for Rick Shea.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "In an effort not to let the perfect be the enemy of the good, we recommend a Yes vote on Measure A.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend a Yes vote on Measure B.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nicole Crosby",
+      "statement": "All of that being said, we recommend Nicole Crosby for San Diego City Council, District 2.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Henry Foster III",
+      "statement": "Foster is a progressive ally that we want to keep in City Council. We recommend voting for Henry Foster III.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maria Nieto Senour",
+      "statement": "Thus, we recommend a vote for Maria Senour.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Craig Milgrim",
+      "statement": "Thus, we recommend a vote for Craig Milgrim.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Hayden Gore",
+      "statement": "We recommend Hayden Gore for SD Unified School District, District C.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend a Yes vote on Measure M.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eric Joyce",
+      "statement": "We recommend a vote for Eric Joyce for Oceanside City Council, District 1.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Emily Gonzales",
+      "statement": "We believe Gonzales is the most viable challenge to Robinson and because of her strong labor backing, we recommend a vote for Emily Gonzales for Oceanside City Council, District 2.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kayla Lauriano",
+      "statement": "We recommend Kayla Lauriano.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure R (Oceanside Charter — Prevailing Wage & Fair Competition Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend a Yes vote on Measure R.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We therefore recommend a Yes vote on Measure S.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth Zuniga",
+      "statement": "We proudly endorse Kenneth Zuniga for Mayor of Vista.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Corinna Contreras",
+      "statement": "We recommend Corinna Contreras.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend a Yes vote on Measure N.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Elias Velazquez",
+      "statement": "We recommend a vote for Elias Velazquez for mayor of Escondido.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Vanessa Valenzuela",
+      "statement": "We recommend Vanessa Valenzuela.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anthony DiMartino",
+      "statement": "We recommend Anthony Dimartino.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexander Kraft",
+      "statement": "We wholeheartedly endorse Alexander Kraft for Mayor of El Cajon.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jenee Littrell",
+      "statement": "As Woods has been complicit if not a driving force behind many of the board’s controversies, we recommend Jenne Littrell.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steve Mull",
+      "statement": "We trust the teacher’s union endorsement and positions Mull has taken as enough reason to recommend Steve Mull.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pete Mergens",
+      "statement": "We recommend Pete Mergens.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mary Gwin",
+      "statement": "Thus, we recommend a vote for Mary Gwin.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "We recommend a Yes vote on Measure G.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Matthew Leyba-Gonzalez",
+      "statement": "Due to his strong connection to labor and his experience in city government, we recommend Matthew Lebya-Gonzalez for Imperial Beach Mayor.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jose Lopez Eguino",
+      "statement": "Lopez Eguino has demonstrated himself as the only candidate worth supporting in D1, therefore we recommend Jose Lopez Eguino for IB D1.",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 1: Yes",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 2: Yes",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 4: Yes",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 5: Yes",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 38: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 39: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 41: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 42: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 43: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 44: Yes",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 45: No",
+      "source": "https://www.dsasandiego.org/november-2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Vote YES on Prop 3!",
+      "source": "https://www.dsasandiego.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Vote YES on Prop 40!",
+      "source": "https://www.dsasandiego.org/endorsements"
+    }
+  ]
+}
