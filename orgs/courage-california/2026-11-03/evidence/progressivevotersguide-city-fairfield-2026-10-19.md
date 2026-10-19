@@ -1,0 +1,13 @@
+# Evidence: Courage California digital voter guide — city view: fairfield
+
+- **Source URL**: https://www.progressivevotersguide.com/california/2026/general/city/fairfield
+- **Linked from**: https://www.progressivevotersguide.com/california (county/city selector; page header "GUIDE POWERED BY Courage California")
+- **Retrieved**: 2026-10-19T21:15:56Z (server-rendered HTML fetched with curl; text extracted from the race cards with a local HTML parser)
+- Only the local race and local measure cards are reproduced (statewide, federal, legislative and proposition cards on this page are covered by `progressivevotersguide-california.md`).
+  Each card: race heading, candidate or measure label, name, tagline (if any), then the card's write-up text verbatim.
+
+## Fairfield City Council, District 5
+
+- **Non-Partisan** | **Doriss Panduro**
+
+  > Re-elect Councilmember Doriss Panduro to keep Fairfield on the right track for progress. Doriss Panduro has served as a Fairfield City Council member since 2020, and is an outreach coordinator for CASA of Solano County. She is a board member of Asian Pacific Islander American Public Affairs Association - Solano County Chapter, Solano Hispanic Chamber, Fairfied-Suisun Rotary Club, and Voces Unidas de Solano, and a mentor for the Puente program at Solano College. Panduro was previously an at-large commissioner on the Solano Commission for Women and Girls and field representative for State Assemblymember Jim Frazier and State Senator Lois Wolk. Her priorities are homelessness, affordable housing, economic development, children and family services, and community engagement and representation. Panduro is endorsed by the Napa-Solano Central Labor Council, United Food and Commercial Workers, SEIU Local 1021/FEA, Solano County Democratic Central Committee, Solano County Young Democrats, Asm. Lori Wilson, and a majority of the Fairfield City Council. The Race General election: There are two candidates running in the November 3 general election: Doriss Panduro (incumbent) and Lynda Davis-Robinson. The Position Fairfield is governed by a seven-person city council. A city council is responsible for establishing policy, passing local laws (called ordinances), voting on budget appropriations, and developing an overall vision for the city with the mayor. Disclosure: Doriss Panduro’s sister works for Courage California. She is not involved in the Courage Voter Guide. Last updated: 10/5/26 References: https://www.votepanduro.com/ https://www.fairfield.ca.gov/government/city-council/city-councilmembers/councilwoman-doriss-panduro Panduro(FairfieldCityCouncilDistrict5,California,candidate_2026)> Read More

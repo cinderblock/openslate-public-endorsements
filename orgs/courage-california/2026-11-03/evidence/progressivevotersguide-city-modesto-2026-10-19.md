@@ -1,0 +1,13 @@
+# Evidence: Courage California digital voter guide — city view: modesto
+
+- **Source URL**: https://www.progressivevotersguide.com/california/2026/general/city/modesto
+- **Linked from**: https://www.progressivevotersguide.com/california (county/city selector; page header "GUIDE POWERED BY Courage California")
+- **Retrieved**: 2026-10-19T21:15:56Z (server-rendered HTML fetched with curl; text extracted from the race cards with a local HTML parser)
+- Only the local race and local measure cards are reproduced (statewide, federal, legislative and proposition cards on this page are covered by `progressivevotersguide-california.md`).
+  Each card: race heading, candidate or measure label, name, tagline (if any), then the card's write-up text verbatim.
+
+## Modesto City Council, District 2
+
+- **Non-Partisan** | **Juan Telles**
+
+  > Elect Juan Telles for City Council to put Modesto on the right track for progress. Progressive endorsements: Telles is endorsed by California Working Families Party, Stanislaus County Democratic Party, Dolores Huerta Action Fund, California Democratic Renters Council, Central Valley Latino Democrats, Modesto Progressive Democrats, Planned Parenthood Advocates Mar Monte, City of Modesto Equity Commissioner Lindsey Bird, and Latino Community Roundtable Executive Board Member Celia Garcia Perez. Top issues: Supporting street vendors and community entrepreneurs, new wave industries, pathways to housing, Tuolumne River Regional Park, community programs, community culture, health care and mental health access, sustainable growth policy, infill and high-rise development, environmental justice practices, and rethinking current development policy. Community leadership experience: Telles is a community organizer and advocate and a nonprofit professional. He is a project coordinator at Valley Improvement Project, and serves as a board member of the Latino Community Roundtable, Bay Valley Tech, and West Modesto Community Collaborative. He volunteers for Latino Outdoors and Valley Watch Network. Other background: Telles was born and raised on the West Side of Modesto. The Race General election: Three candidates are running in the nonpartisan November 3 general election: Eric Alvarez (incumbent), Jon Rodriguez, and Juan Telles. The Position Incorporated cities in California are generally governed by a five-person city council. A city council is responsible for establishing policy, passing local laws (called ordinances), voting on budget appropriations, and developing an overall vision for the city. Last updated: 9/26/26 References: https://juanformodesto.com/ Telles(ModestoCityCouncilDistrict2,California,candidate2026)> Read More
