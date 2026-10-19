@@ -1,0 +1,47 @@
+{
+  "context": {
+    "title": "Indivisible — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Indivisible",
+      "uri": "https://indivisible.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:22:30Z",
+    "sources": [
+      "https://indivisible.org/resources/candidates/",
+      "https://indivisible.org/candidates/randy-villegas-ca-22/",
+      "https://indivisible.org/candidates/aisha-wahab-ca-14/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "\"Randy Villegas\" — \"Endorsed by Indivisible\". \"We’re proud to stand with La Raza Indivisibles to support Villegas in his run to be the next Representative for California’s 22nd district.\"",
+      "source": "https://indivisible.org/candidates/randy-villegas-ca-22/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "\"Dr. Aisha Wahab\" — \"Endorsed by Indivisible\". \"Split a donation today between Indivisible Action and Dr. Aisha Wahab to support her campaign and all of our GOTV efforts from the primary through the general election.\"",
+      "source": "https://indivisible.org/candidates/aisha-wahab-ca-14/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "Republican Jewish Coalition PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Republican Jewish Coalition PAC",
+      "uri": "https://www.rjchq.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:16:14Z",
+    "sources": [
+      "https://www.rjcpac.com/",
+      "https://www.rjcpac.com/candidate/david-valadao/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Valadao",
+      "statement": "Candidate page \"Rep. David Valadao\", \"CA-22·House·CA·Incumbent\", marked \"Endorsed\": \"Democrats have high hopes that they’ll unseat Valadao this year as they did in 2018.\"",
+      "source": "https://www.rjcpac.com/candidate/david-valadao/"
+    }
+  ]
+}

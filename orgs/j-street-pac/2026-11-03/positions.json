@@ -1,0 +1,393 @@
+{
+  "context": {
+    "title": "J Street PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "JStreetPAC",
+      "uri": "https://jstreetpac.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:50:16Z",
+    "sources": [
+      "https://jstreetpac.org/candidates/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"Endorsed\" / \"1st District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-mcguire/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"Endorsed\" / \"2nd District, california\"",
+      "source": "https://jstreetpac.org/candidate/jared-huffman/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"Endorsed\" / \"3rd District, california\"",
+      "source": "https://jstreetpac.org/candidate/ami-bera/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"Endorsed\" / \"4th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-thompson/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"Endorsed\" / \"CA-06, california\"",
+      "source": "https://jstreetpac.org/candidate/richard-pan/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"Endorsed\" / \"8th District, california\"",
+      "source": "https://jstreetpac.org/candidate/john-garamendi/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "\"Endorsed\" / \"9th District, california\"",
+      "source": "https://jstreetpac.org/candidate/josh-harder/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "\"Endorsed\" / \"10th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mark-desaulnier/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"Endorsed\" / \"11th District, california\"",
+      "source": "https://jstreetpac.org/candidate/scott-wiener/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "\"Endorsed\" / \"12th District, california\"",
+      "source": "https://jstreetpac.org/candidate/lateefah-simon/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "\"Endorsed\" / \"CA-14, california\"",
+      "source": "https://jstreetpac.org/candidate/aisha-wahab/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "\"Endorsed\" / \"15th District, california\"",
+      "source": "https://jstreetpac.org/candidate/kevin-mullin/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "statement": "\"Endorsed\" / \"16th District , california\"",
+      "source": "https://jstreetpac.org/candidate/sam-liccardo/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "statement": "\"Endorsed\" / \"17th District, california\"",
+      "source": "https://jstreetpac.org/candidate/ro-khanna/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "\"Endorsed\" / \"18th District, california\"",
+      "source": "https://jstreetpac.org/candidate/zoe-lofgren/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "\"Endorsed\" / \"24th District, california\"",
+      "source": "https://jstreetpac.org/candidate/salud-carbajal/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "\"Endorsed\" / \"25th District, california\"",
+      "source": "https://jstreetpac.org/candidate/raul-ruiz/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "\"Endorsed\" / \"28th District, california\"",
+      "source": "https://jstreetpac.org/candidate/judy-chu/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "\"Endorsed\" / \"30th District, california\"",
+      "source": "https://jstreetpac.org/candidate/laura-friedman/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "\"Endorsed\" / \"31st District, california\"",
+      "source": "https://jstreetpac.org/candidate/gil-cisneros/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "\"Endorsed\" / \"33rd District, california\"",
+      "source": "https://jstreetpac.org/candidate/pete-aguilar/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"Endorsed\" / \"37th District, california\"",
+      "source": "https://jstreetpac.org/candidate/sydney-kamlager/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "\"Endorsed\" / \"39th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mark-takano/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "\"Endorsed\" / \"41st District, california\"",
+      "source": "https://jstreetpac.org/candidate/linda-sanchez/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Endorsed\" / \"42nd District, california\"",
+      "source": "https://jstreetpac.org/candidate/robert-garcia/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "\"Endorsed\" / \"45th District , california\"",
+      "source": "https://jstreetpac.org/candidate/derek-tran/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "statement": "\"Endorsed\" / \"47th District, california\"",
+      "source": "https://jstreetpac.org/candidate/dave-min/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"Endorsed\" / \"48th District, california\"",
+      "source": "https://jstreetpac.org/candidate/marni-von-wilpert/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "\"Endorsed\" / \"49th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-levin/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "statement": "\"Endorsed\" / \"50th District, california\"",
+      "source": "https://jstreetpac.org/candidate/scott-peters/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "statement": "\"Endorsed\" / \"51th District, california\"",
+      "source": "https://jstreetpac.org/candidate/sara-jacobs/"
+    }
+  ]
+}

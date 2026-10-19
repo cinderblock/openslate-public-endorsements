@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "Americans for Prosperity Action — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Americans for Prosperity Action",
+      "uri": "https://afpaction.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:13:32Z",
+    "sources": [
+      "https://afpaction.com/endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Young Kim",
+      "statement": "Listed under \"2026 Endorsements\", House: \"Young Kim\" / \"CA-40\" / \"California\".",
+      "source": "https://afpaction.com/endorsements/"
+    }
+  ]
+}

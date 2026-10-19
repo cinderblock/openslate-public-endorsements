@@ -1,0 +1,57 @@
+{
+  "context": {
+    "title": "Justice Democrats — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Justice Democrats",
+      "uri": "https://justicedemocrats.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:06:50Z",
+    "sources": [
+      "https://justicedemocrats.com/candidates/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "statement": "Listed under \"Upcoming Elections\": \"Primary Winner Mai Vang CA-07\".",
+      "source": "https://justicedemocrats.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "statement": "Listed under \"Current Congressmembers\": \"Primary Winner Ro Khanna CA-17\".",
+      "source": "https://justicedemocrats.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angela Gonzales-Torres",
+      "statement": "Listed under \"Upcoming Elections\": \"Primary Winner Angela Gonzales-Torres CA-34\".",
+      "source": "https://justicedemocrats.com/candidates/"
+    }
+  ]
+}

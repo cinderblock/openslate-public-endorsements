@@ -1,0 +1,69 @@
+{
+  "context": {
+    "title": "Congressional Progressive Caucus PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Congressional Progressive Caucus PAC",
+      "uri": "https://weareprogressives.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:18:04Z",
+    "sources": [
+      "https://weareprogressives.org/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — MIKE McGUIRE — U.S. CONGRESS CALIFORNIA’S 1ST DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — AISHA WAHAB — U.S. CONGRESS CALIFORNIA’S 14TH DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — RANDY VILLEGAS — U.S. CONGRESS CALIFORNIA’S 22ND DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — HILDA SOLIS — U.S. CONGRESS CALIFORNIA’S 38TH DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    }
+  ]
+}

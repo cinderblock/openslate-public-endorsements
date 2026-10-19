@@ -1,0 +1,429 @@
+{
+  "context": {
+    "title": "NRA Political Victory Fund — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "NRA Political Victory Fund",
+      "uri": "https://www.nrapvf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:06:34Z",
+    "sources": [
+      "https://www.nrapvf.org/grades/california/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Gallagher",
+      "statement": "\"US House - 1st Congressional District\": \"*James Gallagher\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "\"US House - 5th Congressional District\": \"*Tom McClintock\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Kiley",
+      "statement": "\"US House - 6th Congressional District\": \"*Kevin Kiley\", \"Incumbent (NPP)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vince Fong",
+      "statement": "\"US House - 20th Congressional District\": \"*Vince Fong\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Valadao",
+      "statement": "\"US House - 22nd Congressional District\": \"*David G. Valadao\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "statement": "\"US House - 23rd Congressional District\": \"*Jay Obernolte\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gates",
+      "statement": "\"Attorney General - Statewide\": \"Michael Gates\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra Duarte",
+      "statement": "\"State Senate - District 04\": \"Alexandra Duarte\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roger Niello",
+      "statement": "\"State Senate - District 06\": \"*Roger Niello\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Magsig",
+      "statement": "\"State Senate - District 12\": \"Nathan Magsig\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Art Hodges",
+      "statement": "\"State Senate - District 18\": \"Art Hodges\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Seyarto",
+      "statement": "\"State Senate - District 32\": \"*Kelly Seyarto\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhonda Shader",
+      "statement": "\"State Senate - District 34\": \"Rhonda Shader\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Strickland",
+      "statement": "\"State Senate - District 36\": \"*Tony Strickland\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristie Bruce-Lane",
+      "statement": "\"State Senate - District 40\": \"Kristie Bruce-Lane\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "statement": "\"State Assembly - District 01\": \"*Heather Hadwick\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Patterson",
+      "statement": "\"State Assembly - District 05\": \"*Joe Patterson\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Hoover",
+      "statement": "\"State Assembly - District 07\": \"*Josh Hoover\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Tangipa",
+      "statement": "\"State Assembly - District 08\": \"*David Tangipa\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heath Flora",
+      "statement": "\"State Assembly - District 09\": \"*Heath Flora\", \"Incumbent (R)\", grade \"A+\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Murphy",
+      "statement": "\"State Assembly - District 27\": \"Mike Murphy\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Polsgrove",
+      "statement": "\"State Assembly - District 31\": \"Jim Polsgrove\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra Macedo",
+      "statement": "\"State Assembly - District 33\": \"*Alexandra Macedo\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Hughes",
+      "statement": "\"State Assembly - District 34\": \"Charles Hughes\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Gonzalez",
+      "statement": "\"State Assembly - District 36\": \"*Jeff Gonzalez\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Nordblum",
+      "statement": "\"State Assembly - District 42\": \"Ted Nordblum\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Wallis",
+      "statement": "\"State Assembly - District 47\": \"*Greg Wallis\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leticia Castillo",
+      "statement": "\"State Assembly - District 58\": \"*Leticia Castillo\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 59",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-59",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phillip Chen",
+      "statement": "\"State Assembly - District 59\": \"*Phillip Chen\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ed Delgado",
+      "statement": "\"State Assembly - District 60\": \"Ed Delgado\", \"Candidate (R)\", grade \"AQ\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 63",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-63",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Natasha Johnson",
+      "statement": "\"State Assembly - District 63\": \"*Natasha Johnson\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tri Ta",
+      "statement": "\"State Assembly - District 70\": \"*Tri Ta\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kate Sanchez",
+      "statement": "\"State Assembly - District 71\": \"*Kate Sanchez\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carl DeMaio",
+      "statement": "\"State Assembly - District 75\": \"*Carl DeMaio\", \"Incumbent (R)\", grade \"A\", shown with the \"NRA Endorsed\" badge (\"Indicates an NRA Endorsed Candidate.\")",
+      "source": "https://www.nrapvf.org/grades/california/"
+    }
+  ]
+}

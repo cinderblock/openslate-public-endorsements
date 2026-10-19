@@ -1,0 +1,45 @@
+{
+  "context": {
+    "title": "Climate Hawks Vote — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Climate Hawks Vote",
+      "uri": "https://climatehawksvote.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:04Z",
+    "sources": [
+      "https://climatehawksvote.com/endorsements/endorsements-2026/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "2026 Endorsements: \"CA-01 Mike McGuire — Mike McGuire is running in the radically redrawn First Congressional District which was formerly a deep red seat but now is expected to flip blue.\"",
+      "source": "https://climatehawksvote.com/endorsements/endorsements-2026/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "2026 Endorsements: \"CA-22 Randy Villegas — Randy Villegas is running in the newly re-drawn CA-22 Congressional District. It's a toss-up top national target for Democrats.\"",
+      "source": "https://climatehawksvote.com/endorsements/endorsements-2026/"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "context": {
+    "title": "Run for Something — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Run for Something",
+      "uri": "https://runforsomething.net/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:32:52Z",
+    "sources": [
+      "https://runforsomething.net/candidates/",
+      "https://directory.runforsomething.net/candidates/CA/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessie Lopez",
+      "statement": "\"Jessie Lopez\" — \"State Assembly, District 68, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/7c7d80adcc72529ab659a9553fc9a75a/lopez-jessie/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Adams",
+      "statement": "\"Matthew Adams\" — \"State Assembly, District 9, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/874a33c6af7e9cd605cc52f3169d173d/adams-matthew/"
+    },
+    {
+      "subject": {
+        "title": "Banning City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/banning",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Castorena",
+      "statement": "\"Chris Castorena\" — \"Banning City Council, District 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/448b3ec3bb67925b2d5b35a7a534e284/castorena-chris/"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Priya Bhat-Patel",
+      "statement": "\"Priya Bhat-Patel\" — \"Carlsbad City Council, District 3, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/0cb374b55a81ce5875d3f43135a64aee/bhat-patel-priya/"
+    },
+    {
+      "subject": {
+        "title": "Chico City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chico",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shelby Hebert",
+      "statement": "\"Shelby Hebert\" — \"Chico City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/9916b6f74a18d4a5f17f3b2d788b99e3/hebert-shelby/"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Destiny Briscoe",
+      "statement": "\"Destiny Briscoe\" — \"Pittsburg Unified School District Board of Trustees, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/981d2b5e884b933edfbf68daa7e3067d/briscoe-destiny/"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony DiMartino",
+      "statement": "\"Anthony DiMartino\" — \"Escondido City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/ad2aba27a4b784d06dd2668980a9fa38/dimartino-anthony/"
+    },
+    {
+      "subject": {
+        "title": "Fontana City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Pérez",
+      "statement": "\"Luz Pérez\" — \"Fontana City Council, District 4, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/05c25793f054076732cab0de9b5ac935/perez-luz/"
+    },
+    {
+      "subject": {
+        "title": "Fontana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joz Sida",
+      "statement": "\"Joz Sida\" — \"Fontana Mayor, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/eb607b585c656b0259875489336b5ab7/sida-joz/"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jozef Maldonado",
+      "statement": "\"Jozef Maldonado\" — \"Fullerton City Council, District 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/e8cb664592f6923dfae7deb886f85dcb/maldonado-jozef/"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Syrop",
+      "statement": "\"George Syrop\" — \"Hayward City Council, District 1, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/58205c65793ee65c600da33b50b04ad0/syrop-george/"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Taryn Palumbo",
+      "statement": "\"Taryn Palumbo\" — \"Huntington Beach City Council, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/89aa6550df4754387aaefb6762d958c5/palumbo-taryn/"
+    },
+    {
+      "subject": {
+        "title": "Huntington Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Martiz",
+      "statement": "\"Nancy Martiz\" — \"Huntington Park City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/b599d8d4e1ca19734081363c88657534/martiz-nancy/"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Krystle Johnson",
+      "statement": "\"Krystle Johnson\" — \"Lemon Grove City Council, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/d9fe047389446715633d403143e2e5b8/johnson-krystle/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "statement": "\"Marissa Roy\" — \"Los Angeles City Attorney, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/673899d74b84c0a8fb7a3229b58b7cad/roy-marissa/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Estuardo Mazariegos",
+      "statement": "\"Estuardo Mazariegos\" — \"Los Angeles City Council, District 9, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/2ffe39e244287fc6ec0f86b49ef60b50/mazariegos-estuardo/"
+    },
+    {
+      "subject": {
+        "title": "Lawndale Elementary School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Bagley",
+      "statement": "\"Jennifer Bagley\" — \"Lawndale Elementary School District Governing Board, Area 1, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/0e688c6e45511b24d4a1fa9e9ba41ca8/bagley-jennifer/"
+    },
+    {
+      "subject": {
+        "title": "Rowland Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandon Macias",
+      "statement": "\"Brandon Macias\" — \"Rowland Unified School District Board of Education, Area 3, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/8e52867745133bbe4a582c6b4109f1c2/macias-brandon/"
+    },
+    {
+      "subject": {
+        "title": "Marina City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Athena Burciaga",
+      "statement": "\"Athena Burciaga\" — \"Marina City Council, District 4, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/3ef40838c70d1e1d1602f044fe367ead/burciaga-athena/"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlotte Reed",
+      "statement": "\"Charlotte Reed\" — \"Menlo Park City Council, District 4, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/0c27e60fd0fad3552f553e9591252abc/reed-charlotte/"
+    },
+    {
+      "subject": {
+        "title": "Merced County Board of Education, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/merced-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Perez",
+      "statement": "\"Jesse Perez\" — \"Merced County Board of Education, Area 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/050c8c616add5609d698a68fa89881fc/perez-jesse/"
+    },
+    {
+      "subject": {
+        "title": "Montebello City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/montebello",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Santana",
+      "statement": "\"James Santana\" — \"Montebello City Council, District 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/078d11a85cb628ae6600cccfafbc6f30/santana-james/"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Farac",
+      "statement": "\"Rachel Farac\" — \"Novato City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/ae7291884a738398f179a3fa778a218a/farac-rachel/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "statement": "\"Charlene Wang\" — \"Oakland City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/2b0947e4bb078ff072b47dc41b9af524/wang-charlene/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hector Bustos",
+      "statement": "\"Hector Bustos\" — \"Santa Ana Unified School Board, Area 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/b5ea0238c5ebafd68dbfb3c53ab6c123/bustos-hector/"
+    },
+    {
+      "subject": {
+        "title": "Robla Elementary School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sabrina Oliver",
+      "statement": "\"Sabrina Oliver\" — \"Robla School District Board of Education, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/c20213415b3d80d59137b55753be5458/oliver-sabrina/"
+    },
+    {
+      "subject": {
+        "title": "Redlands Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Schavrien",
+      "statement": "\"Ryan Schavrien\" — \"Redlands Unified School District Trustee, Area 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/b3411e1fda792ac3ee87780599beab9f/schavrien-ryan/"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brianna Coston",
+      "statement": "\"Brianna Coston\" — \"La Mesa-Spring Valley School Board Trustee, Area 3, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/bd4da1b194a5e272694dd79bd7d245a8/coston-brianna/"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christine Ibbotson",
+      "statement": "\"Christine Ibbotson\" — \"North County Fire Protection District Board, Division 3, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/91abcc388909149a9dae9dbe54bb2d91/ibbotson-christine/"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Sandoval",
+      "statement": "\"Robert Sandoval\" — \"San Rafael City Council, District 3, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/a26df90b55c968fe35873c4eda7eac46/sandoval-robert/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isuri Ramos",
+      "statement": "\"Isuri S. Ramos\" — \"Santa Ana City Council, Ward 6, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/74111a6ae294fc9b975b1203e072ed8b/ramos-isuri-s/"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Magana",
+      "statement": "\"José Magaña\" — \"San José Unified School District Governing Board, Area 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/26cc9fa8d0fda4e8c6a978c4a0c7ae4c/magana-jose/"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aysha Dominguez Pamukcu",
+      "statement": "\"Aysha Dominguez Pamukcu\" — \"South San Francisco City Council, District 1, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/14b3b3d0d3eedb0e4f20e3cecebfd00b/pamukcu-aysha-dominguez/"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eddie Flores",
+      "statement": "\"Eddie Flores\" — \"South San Francisco City Council, District 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/25db495d3ae25e5c91edd6dbd282f9fc/flores-eddie/"
+    },
+    {
+      "subject": {
+        "title": "Stanislaus Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Casselberry",
+      "statement": "\"John Casselberry\" — \"Stanislaus Union School District Trustee, Area 5, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/3553f43772964acbdc38b56171d1f649/casselberry-john/"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leslie Garcia",
+      "statement": "\"Leslie Garcia\" — \"West Covina City Council, District 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/161489285b102ca2fd7889f22dba57a4/garcia-leslie/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chelsea Byers",
+      "statement": "\"Chelsea Byers\" — \"West Hollywood City Council, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/841ff0097af7ea78b6972049630910d3/byers-chelsea/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Post",
+      "statement": "\"Stephen Post\" — \"West Hollywood City Council, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/be3ad9c0018071066eb48cf44daa6118/post-stephen/"
+    }
+  ]
+}

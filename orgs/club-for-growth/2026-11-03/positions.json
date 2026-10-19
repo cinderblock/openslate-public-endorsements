@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "Club for Growth PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Club for Growth PAC",
+      "uri": "https://www.clubforgrowth.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:27Z",
+    "sources": [
+      "https://www.clubforgrowth.org/elections/pac-endorsed-candidates/",
+      "https://www.clubforgrowth.org/club-for-growth-pac-endorses-rep-tom-mcclintock-in-ca-05-re-election-campaign/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "\"Club for Growth PAC is proud to endorse Rep. McClintock for reelection, and we look forward to his leadership on Capitol Hill for years to come.\"",
+      "source": "https://www.clubforgrowth.org/club-for-growth-pac-endorses-rep-tom-mcclintock-in-ca-05-re-election-campaign/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "context": {
+    "title": "New Democrat Coalition Action Fund — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "New Democrat Coalition Action Fund",
+      "uri": "https://newdemactionfund.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:07:29Z",
+    "sources": [
+      "https://newdemactionfund.com/candidates"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "Listed under \"Endorsed Candidates\": \"Dr. Richard Pan CA-06\".",
+      "source": "https://newdemactionfund.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "statement": "Listed under \"Endorsed Candidates\": \"Jacqui Irwin CA-26\".",
+      "source": "https://newdemactionfund.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "Listed under \"Endorsed Candidates\": \"Marni Von Wilpert CA-48\".",
+      "source": "https://newdemactionfund.com/candidates"
+    }
+  ]
+}

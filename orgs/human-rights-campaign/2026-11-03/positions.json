@@ -1,0 +1,587 @@
+{
+  "context": {
+    "title": "Human Rights Campaign — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Human Rights Campaign PAC",
+      "uri": "https://www.hrc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:27Z",
+    "sources": [
+      "https://www.hrc.org/lets-get-free-house-elections",
+      "https://www.hrc.org/lets-get-free-state-elections",
+      "https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Jared Huffman (D-California-2)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Ami Bera (D-California-3)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Mike Thompson (D-California-4)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Richard Pan (D-California-6)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Doris Matsui (D-California-7)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"John Garamendi (D-California-8)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Josh Harder (D-California-9)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Mark DeSaulnier (D-California-10)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Scott Wiener (D-California-11)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Lateefah Simon (D-California-12)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Adam Gray (D-California-13)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Kevin Mullin (D-California-15)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Sam Liccardo (D-California-16)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Ro Khanna (D-California-17)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Zoe Lofgren (D-California-18)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Jimmy Panetta (D-California-19)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Jim Costa (D-California-21)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Randy Villegas (D-California-22)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Salud Carbajal (D-California-24)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Raul Ruiz (D-California-25)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"George Whitesides (D-California-27)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Judy Chu (D-California-28)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Luz Rivas (D-California-29)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Laura Friedman (D-California-30)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Gil Cisneros (D-California-31)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Brad Sherman (D-California-32)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "Under \"Today’s Endorsements for the House of Representatives Include:\" / \"Pro-Equality House Leadership:\": \"CA-33: Pete Aguilar\".",
+      "source": "https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Jimmy Gomez (D-California-34)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Torres",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Norma Torres (D-California-35)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Ted Lieu (D-California-36)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Sydney Kamlager (D-California-37)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Hilda Solis (D-California-38)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Mark Takano (D-California-39)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Linda Sanchez (D-California-41)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Robert Garcia (D-California-42)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Maxine Waters (D-California-43)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Barragán",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Nanette Barragan (D-California-44)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "Under \"Today’s Endorsements for the House of Representatives Include:\" / \"Pro-Equality Incumbents in Battleground Reelection Races:\": \"CA-45: Derek Tran\".",
+      "source": "https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Lou Correa (D-California-46)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Dave Min (D-California-47)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Marni von Wilpert (D-California-48)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Mike Levin (D-California-49)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Scott Peters (D-California-50)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Sara Jacobs (D-California-51)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Vargas",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Juan Vargas (D-California-52)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "Listed under \"Governor\": \"Xavier Becerra (D-California)\".",
+      "source": "https://www.hrc.org/lets-get-free-state-elections"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "Listed under \"Superintendent of Public Instruction\": \"Richard Barrera (D-California)\".",
+      "source": "https://www.hrc.org/lets-get-free-state-elections"
+    }
+  ]
+}

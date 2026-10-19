@@ -1,0 +1,345 @@
+{
+  "context": {
+    "title": "LCV Action Fund — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Conservation Voters Action Fund",
+      "uri": "https://www.lcv.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:11:55Z",
+    "sources": [
+      "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "Listed as: \"Mike McGuire / CA-01 / U.S. House / Democrat / Open Seat / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "Listed as: \"Jared Huffman / CA-02 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "Listed as: \"Mike Thompson / CA-04 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "Listed as: \"Richard Pan / CA-06 / U.S. House / Democrat / Challenger / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "statement": "Listed as: \"Doris Matsui / CA-07 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "Listed as: \"Josh Harder / CA-09 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "Listed as: \"Mark DeSaulnier / CA-10 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "Listed as: \"Lateefah Simon / CA-12 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "statement": "Listed as: \"Sam Liccardo / CA-16 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "Listed as: \"Randy Villegas / CA-22 / U.S. House / Democrat / Challenger / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "statement": "Listed as: \"Jacqui Irwin / CA-26 / U.S. House / Democrat / Open Seat / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "Listed as: \"George Whitesides / CA-27 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "Listed as: \"Judy Chu / CA-28 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "Listed as: \"Luz Rivas / CA-29 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "Listed as: \"Laura Friedman / CA-30 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "Listed as: \"Gil Cisneros / CA-31 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "Listed as: \"Pete Aguilar / CA-33 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "Listed as: \"Jimmy Gomez / CA-34 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "Listed as: \"Ted Lieu / CA-36 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "Listed as: \"Sydney Kamlager-Dove / CA-37 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "Listed as: \"Hilda Solis / CA-38 / U.S. House / Democrat / Open Seat / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "Listed as: \"Linda Sanchez / CA-41 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Barragán",
+      "statement": "Listed as: \"Nanette Barragán / CA-44 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "Listed as: \"Derek Tran / CA-45 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "statement": "Listed as: \"Dave Min / CA-47 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "Listed as: \"Marni von Wilpert / CA-48 / U.S. House / Democrat / Open Seat / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "Listed as: \"Mike Levin / CA-49 / U.S. House / Democrat / Incumbent / 2026: General / Endorsed by / LCV Action Fund\"",
+      "source": "https://www.lcv.org/endorsements/?state=california&cycle=2026&result_page=2"
+    }
+  ]
+}

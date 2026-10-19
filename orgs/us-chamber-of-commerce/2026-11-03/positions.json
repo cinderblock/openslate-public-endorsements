@@ -1,0 +1,189 @@
+{
+  "context": {
+    "title": "U.S. Chamber of Commerce — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "U.S. Chamber of Commerce",
+      "uri": "https://www.uschamber.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:08:40Z",
+    "sources": [
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-james-gallagher-for-californias-first-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-tom-mcclintock-for-californias-fifth-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-kevin-kiley-for-californias-sixth-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-adam-gray-for-californias-thirteenth-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-sam-liccardo-for-californias-sixteenth-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jimmy-panetta-for-californias-nineteenth-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-vince-fong-for-californias-twentieth-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jim-costa-for-californias-twenty-first-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-david-valadao-for-californias-twenty-second-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jay-obernolte-for-californias-twenty-third-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-lou-correa-for-californias-forty-sixth-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jim-desmond-for-californias-forty-eighth-congressional-district",
+      "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-scott-peters-for-californias-fiftieth-congressional-district"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Gallagher",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. James Gallagher for California’s First District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-james-gallagher-for-californias-first-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Tom McClintock for California's Fifth District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-tom-mcclintock-for-californias-fifth-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Kiley",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Kevin Kiley for California’s Sixth Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-kevin-kiley-for-californias-sixth-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Adam Gray for California’s Thirteenth District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-adam-gray-for-californias-thirteenth-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Sam Liccardo for California’s Sixteenth Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-sam-liccardo-for-californias-sixteenth-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Jimmy Panetta for California's Nineteenth District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jimmy-panetta-for-californias-nineteenth-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vince Fong",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Vince Fong for California's Twentieth District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-vince-fong-for-californias-twentieth-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Jim Costa for California’s Twenty-First Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jim-costa-for-californias-twenty-first-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Valadao",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. David Valadao for California’s Twenty-Second Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-david-valadao-for-californias-twenty-second-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Jay Obernolte for California's Twenty-Third District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jay-obernolte-for-californias-twenty-third-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Lou Correa for California's Forty-Sixth Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-lou-correa-for-californias-forty-sixth-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Desmond",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Candidate Jim Desmond for California's Forty-Eighth Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jim-desmond-for-californias-forty-eighth-congressional-district"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "statement": "\"Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Scott Peters for California's Fiftieth Congressional District.\"",
+      "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-scott-peters-for-californias-fiftieth-congressional-district"
+    }
+  ]
+}

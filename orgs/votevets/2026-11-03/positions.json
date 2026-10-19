@@ -1,0 +1,141 @@
+{
+  "context": {
+    "title": "VoteVets — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "VoteVets PAC",
+      "uri": "https://www.votevets.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:32:03Z",
+    "sources": [
+      "https://www.votevets.org/candidates"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "Listed under \"Veterans for US House\": \"Congressman Ted LieuCalifornia-33, U.S. House of RepresentativesU.S. Air Force Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "Listed under \"Veterans for US House\": \"Congressman Salud CarbajalCalifornia-24, U.S. House of RepresentativesU.S. Marine Corps Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "Listed under \"Veterans for US House\": \"Congressman Jimmy PanettaCalifornia-20, U.S. House of RepresentativesU.S. Navy Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "Listed under \"Veterans for US House\": \"Congressman Derek TranCalifornia-45, U.S. House of Representatives U.S. Army Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "Listed under \"Veterans for US House\": \"Congressman Gil CisnerosCalifornia-31, U.S. House of Representatives U.S. Navy Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Umberg",
+      "statement": "Listed under \"Veterans for Local Offices\": \"Thomas J UmbergCalifornia, Board of EqualizationU.S. Army Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "statement": "Listed under \"Veterans for Local Offices\": \"Scott SakakiharaCalifornia, State SenateU.S. Navy Reserve Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "Listed under \"Veterans for Local Offices\": \"Caroline MenjivarCalifornia, State SenateU.S. Marine Corps Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tiffanie Tate",
+      "statement": "Listed under \"Veterans for Local Offices\": \"Dr. Tiffanie TateCalifornia, State SenateU.S. Navy Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "Listed under \"Veterans for Local Offices\": \"Alan WongCalifornia, City SupervisorU.S. Army National Guard Veteran\".",
+      "source": "https://www.votevets.org/candidates"
+    }
+  ]
+}

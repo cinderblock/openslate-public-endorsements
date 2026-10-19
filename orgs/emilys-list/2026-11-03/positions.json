@@ -1,0 +1,71 @@
+{
+  "context": {
+    "title": "EMILYs List — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "EMILYs List",
+      "uri": "https://emilyslist.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:05:19Z",
+    "sources": [
+      "https://emilyslist.org/donate/all-candidates/",
+      "https://emilyslist.org/candidate/marni-von-wilpert/",
+      "https://emilyslist.org/state-and-local-candidates/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"EMILYs List is proud to stand with her in the critical election and take back the U.S. House.\"",
+      "source": "https://emilyslist.org/candidate/marni-von-wilpert/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "Listed under California: \"Shirley N. Weber – Secretary of State\".",
+      "source": "https://emilyslist.org/state-and-local-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "statement": "Listed under California: \"Barbara Lee – Oakland Mayor\".",
+      "source": "https://emilyslist.org/state-and-local-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Bass",
+      "statement": "Listed under California: \"Karen Bass – Los Angeles Mayor\".",
+      "source": "https://emilyslist.org/state-and-local-candidates/"
+    }
+  ]
+}
