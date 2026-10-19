@@ -66,3 +66,18 @@
 - **Verification.**
   - All state and federal picks match the SoS Certified List of Candidates for Nov 3, 2026 (8/27/2026).
   - The guide is explicitly for November ("VOTE UNION STRONG ON OR BEFORE NOVEMBER 3RD!"), so local races are taken as on the November ballot.
+
+## Refresh 2026-10-19
+
+- **Result: no new positions (176 → 176). Guide page 7 is still missing.**
+- Re-fetched https://thelafed.org/resource/lalaborvoterguide/ at 2026-10-19T21:05:03Z. New evidence file: `thelafed-lalaborvoterguide-2026-10-19.md`.
+  - The page embeds the same nine guide images as on 2026-10-15.
+  - Every image's `Last-Modified` header is from Oct 2 to Oct 8, so the existing transcriptions are current.
+  - The WP page record was last modified 2026-10-13, also before the first capture.
+- **Page 7 probes:**
+  - `...-GUIDE-7.jpg`, `-7-1.jpg` and `-7-2.jpg` still return 404.
+  - WP media IDs 4834 and 4837 still return 401.
+  - The public media list has no other guide image. The newest uploads are event photos.
+  - `/resource/la-county-federation-of-labor-endorsements/` is a 404.
+- **Gap stands.** Page 6 ends at "Three Valleys" and page 8 starts at "Water Replenishment", but the guide's ordering is only loosely alphabetical (e.g. "SAGUS" follows "Santa Monica"). So it can't be confirmed that a page is actually missing rather than misnumbered. If a page 7 exists, it would likely cover races between T and W (e.g. Torrance, Walnut, Walnut Valley USD, Upper San Gabriel Valley MWD).
+- `attribution.retrieved_at` updated to 2026-10-19T21:05:03Z. `attribution.sources` is unchanged.
