@@ -11,7 +11,7 @@
       "kind": "editorial_board"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:10:12Z",
+    "retrieved_at": "2026-10-19T21:01:14Z",
     "sources": [
       "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     ]
@@ -111,6 +111,18 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "But the need for more affordable housing is too desperate to wait — and Prop 1 is well-positioned to reap the benefits of the state’s new streamlining laws.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Voters should pass Prop 2 and hold lawmakers accountable to their promise to be more responsible stewards of taxpayer money.",
       "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     },
     {
@@ -219,6 +231,18 @@
       "stance": "endorse",
       "choice": "No",
       "statement": "But it creates a complex administrative and legal regime that will drain limited staff time and resources from nonprofit clinics while distracting from patient care.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "But the measure as written would lock California into a regulatory regime that makes it easier to build the same environmentally ruinous projects that gave us CEQA in the first place.",
       "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     },
     {
@@ -475,6 +499,18 @@
     },
     {
       "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "There’s no reason for District 2 voters to change course. We endorse him for a full term.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
         "title": "San Francisco Board of Supervisors, District 4",
         "kind": "race",
         "jurisdiction": "us/ca/sf",
@@ -483,6 +519,30 @@
       "stance": "endorse",
       "choice": "Alan Wong",
       "statement": "Wong’s opponents in November are two political novices with good intentions but without the government experience needed to effect change.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "San Francisco needs supervisors who take the city’s problems seriously and work with colleagues that might approach them differently. His X persona notwithstanding, Dorsey has shown he can do both on the board.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "While we don’t agree with all of McCoy’s policy positions, his years in government and his fluency with housing and behavioral health policy give him the broadest preparation for the job.",
       "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     },
     {

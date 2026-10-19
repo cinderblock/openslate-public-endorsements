@@ -112,3 +112,27 @@ uncontested allies. The positions are dropped per the top-two rule.
 - **State props.** The chapter page links to Sierra Club California for its
   full state-ballot slate. Only the six props listed on the chapter page
   itself are recorded here.
+
+## Refresh log
+
+### 2026-10-19: refresh attempted, not possible
+
+- The task was to re-fetch, since the main page says it "will be updated as endorsements
+  are finalized". Claude in Chrome was off-limits for this pass because the browser is
+  shared with other agents, and every non-browser route failed:
+  - `curl -sL` with a browser User-Agent, cookies and Accept headers, on both pages:
+    HTTP 200 with a 212-byte Incapsula JS-challenge stub (`/_Incapsula_Resource?...`).
+  - WebFetch on https://www.sierraclub.org/sfbay/2026-endorsements returned empty content.
+  - The `?_format=json` and `/sfbay/rss.xml` variants got the same Incapsula stub.
+  - Wayback Machine: the newest snapshots are 2026-10-09 (main page) and 2026-10-02
+    (explanations). Both are older than the 10-15 capture, so they are no use.
+- **Positions are unchanged:** still 83, with the same picks and the same sources, and
+  `retrieved_at` is still 2026-10-15T01:18:57Z.
+- **Statements were filled in.** 50 positions had no `statement`. Each one now quotes its
+  verbatim list line from the 10-15 capture (`sc-sfbay-2026-endorsements.md`), e.g.
+  "Representative D2: Jared Huffman" or "Council: Robin Lopez". This meets the round-2
+  rule that every position carries a verbatim quote. The 33 existing statements were
+  left as they were, including the `Listed as "..."` ones that record name corrections.
+- `positions.json` was re-serialized by a script (2-space JSON, UTF-8, LF), so the diff
+  may show whitespace or escaping changes beyond the 50 new `statement` lines.
+- Next refresh needs a real browser session, run by one agent at a time.

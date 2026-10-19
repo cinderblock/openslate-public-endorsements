@@ -1,5 +1,9 @@
 {
-  "context": {"title": "Sierra Club SF Bay Chapter — November 3, 2026 California general election endorsements", "jurisdiction": "us/ca", "election": "2026-11-03"},
+  "context": {
+    "title": "Sierra Club SF Bay Chapter — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
   "attribution": {
     "of": {
       "name": "Sierra Club San Francisco Bay Chapter",
@@ -14,88 +18,1004 @@
     ]
   },
   "positions": [
-    {"subject": {"title": "US House of Representatives, California District 2", "kind": "race", "jurisdiction": "us/ca/cd-2", "election": "2026-11-03"}, "stance": "endorse", "choice": "Jared Huffman", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "US House of Representatives, California District 10", "kind": "race", "jurisdiction": "us/ca/cd-10", "election": "2026-11-03"}, "stance": "endorse", "choice": "Mark DeSaulnier", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-11-03"}, "stance": "endorse", "choice": "Scott Wiener", "statement": "For CA-11, the Sierra Club endorses Scott Wiener. [...] The environmental choice in this race is crystal clear.", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "US House of Representatives, California District 12", "kind": "race", "jurisdiction": "us/ca/cd-12", "election": "2026-11-03"}, "stance": "endorse", "choice": "Lateefah Simon", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "US House of Representatives, California District 14", "kind": "race", "jurisdiction": "us/ca/cd-14", "election": "2026-11-03"}, "stance": "endorse", "choice": "Aisha Wahab", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "\"YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "\"YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "\"YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "statement": "\"NO!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "statement": "\"NO!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "statement": "\"NO!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 12", "kind": "race", "jurisdiction": "us/ca/ad-12", "election": "2026-11-03"}, "stance": "endorse", "choice": "Jackie Elward", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 16", "kind": "race", "jurisdiction": "us/ca/ad-16", "election": "2026-11-03"}, "stance": "endorse", "choice": "Rebecca Bauer-Kahan", "statement": "Listed as \"Rebecca Bauer Kahan\".", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 17", "kind": "race", "jurisdiction": "us/ca/ad-17", "election": "2026-11-03"}, "stance": "endorse", "choice": "Matt Haney", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 18", "kind": "race", "jurisdiction": "us/ca/ad-18", "election": "2026-11-03"}, "stance": "endorse", "choice": "Mia Bonta", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 19", "kind": "race", "jurisdiction": "us/ca/ad-19", "election": "2026-11-03"}, "stance": "endorse", "choice": "Catherine Stefani", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Assembly, District 24", "kind": "race", "jurisdiction": "us/ca/ad-24", "election": "2026-11-03"}, "stance": "endorse", "choice": "Alex Lee", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Rob Bonta", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California Controller", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Malia Cohen", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Ben Allen", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California Secretary of State", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Shirley Weber", "statement": "Listed as \"Shirley Webber\" [sic].", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California State Senate, District 2", "kind": "race", "jurisdiction": "us/ca/sd-2", "election": "2026-11-03"}, "stance": "endorse", "choice": "Damon Connolly", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Richard Barrera", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "California Treasurer", "kind": "race", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Eleni Kounalakis", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Bay Area — Regional Measure RTM (Regional Transit Measure)", "kind": "measure", "jurisdiction": "us/ca/bay-area", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "Listed as \"RTM: Regional Transit Measure (Connect Bay Area): YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "BART Board of Directors, District 8", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Sara Barz", "statement": "For BART Board of Directors, District 8, the Sierra Club endorses Sara Barz", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco — Proposition C (Contributions to the Housing Fund)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "On Measure C, San Francisco's Affordable Housing Trust Fund measure, the Sierra Club recommends a Yes vote", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "statement": "On Measure G, to allow private vehicles on the Great Highway in Sunset Dunes Park, the Sierra Club recommends a No vote", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "On Proposition H, the Stronger Muni for All parcel tax, the Sierra Club recommends a Yes vote", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "On Proposition I, the Affordable Housing Guarantee Act, the Sierra Club recommends a Yes vote", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 2", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Stephen Sherrill", "statement": "For District 2 Supervisor, the Sierra Club endorses Stephen Sherrill", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 4", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "abstain", "statement": "The Sierra Club makes no endorsement for District 4 Supervisor.", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 6", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Matt Dorsey", "statement": "For District 6 Supervisor, the Sierra Club endorses Matt Dorsey", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 8", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Gary McCoy", "statement": "For District 8 Supervisor, the Sierra Club endorses Gary McCoy", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 10", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "J.R. Eppler", "weight": 1, "statement": "For District 10 Supervisor, the Sierra Club endorses J.R. Eppler as our first choice and Theo Ellington as our second choice. Voters should rank both of them.", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "San Francisco Board of Supervisors, District 10", "kind": "race", "jurisdiction": "us/ca/sf", "election": "2026-11-03"}, "stance": "endorse", "choice": "Theo Ellington", "weight": 0.5, "statement": "For District 10 Supervisor, the Sierra Club endorses J.R. Eppler as our first choice and Theo Ellington as our second choice. Voters should rank both of them.", "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"},
-    {"subject": {"title": "AC Transit Board, Ward 3", "kind": "race", "jurisdiction": "us/ca/alameda", "election": "2026-11-03"}, "stance": "endorse", "choice": "Adriana Valencia", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "AC Transit Board, Ward 4", "kind": "race", "jurisdiction": "us/ca/alameda", "election": "2026-11-03"}, "stance": "endorse", "choice": "Sarah Syed", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "AC Transit Board, Ward 5", "kind": "race", "jurisdiction": "us/ca/alameda", "election": "2026-11-03"}, "stance": "endorse", "choice": "Murphy McCalley", "statement": "Listed as \"Murphy McCulley\"; the Alameda County ballot spelling is MURPHY McCALLEY.", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Contra Costa Community College District Board, Ward 3", "kind": "race", "jurisdiction": "us/ca/contra-costa", "election": "2026-11-03"}, "stance": "endorse", "choice": "Becca Barrett", "statement": "Listed as \"Rebecca Barrett\"; on the ballot as BECCA BARRETT.", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "EBMUD Board of Directors, Ward 3", "kind": "race", "jurisdiction": "us/ca/ebmud", "election": "2026-11-03"}, "stance": "endorse", "choice": "Marguerite Young", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "EBMUD Board of Directors, Ward 7", "kind": "race", "jurisdiction": "us/ca/ebmud", "election": "2026-11-03"}, "stance": "endorse", "choice": "Gary Wolff", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "East Bay Regional Park District Board, Ward 5", "kind": "race", "jurisdiction": "us/ca/ebrpd", "election": "2026-11-03"}, "stance": "endorse", "choice": "Olivia Sanwong", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "East Bay Regional Park District Board, Ward 7", "kind": "race", "jurisdiction": "us/ca/ebrpd", "election": "2026-11-03"}, "stance": "endorse", "choice": "Colin Coffey", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Oro Loma Sanitary District Board of Directors", "kind": "race", "jurisdiction": "us/ca/alameda", "election": "2026-11-03"}, "stance": "endorse", "choice": "Rita Duncan", "statement": "Listed under \"Orlo Loma Sanitary District\" [sic].", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Alameda — Measure L (SAFER Alameda Act)", "kind": "measure", "jurisdiction": "us/ca/city-of-alameda", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "Listed as \"L: the SAFER Alameda Act: YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley — Measure AA (Soda Tax Measure)", "kind": "measure", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "Listed as \"AA: Sugar Sweetened Beverage Special Tax: YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley — Measure U (Bond Measure)", "kind": "measure", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "Listed as \"U: Infrastructure Safety: YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)", "kind": "measure", "jurisdiction": "us/ca/sausalito", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "statement": "Listed as \"X: Arts, Industrial, & Maritime Preservation & Improvement Initiative (AIM): YES!\"", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Albany City Council", "kind": "race", "jurisdiction": "us/ca/albany", "election": "2026-11-03"}, "stance": "endorse", "choice": "Robin Lopez", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Albany City Council", "kind": "race", "jurisdiction": "us/ca/albany", "election": "2026-11-03"}, "stance": "endorse", "choice": "Aaron Tiedemann", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley City Council, District 1", "kind": "race", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Ross Bernet", "weight": 1, "statement": "Listed as \"Council D1 (Ranked Choice #1): Ross Bernet\".", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley City Council, District 1", "kind": "race", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Daria Wrubel", "weight": 0.5, "statement": "Listed as \"Council D1 (Ranked Choice #2): Daria Wrubel\".", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley City Council, District 4", "kind": "race", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Igor Tregub", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley City Council, District 7", "kind": "race", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Syrak Micael", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Berkeley City Council, District 8", "kind": "race", "jurisdiction": "us/ca/berkeley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Mark Humbert", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Concord City Council, District 3", "kind": "race", "jurisdiction": "us/ca/concord", "election": "2026-11-03"}, "stance": "endorse", "choice": "Robyn Kuslits", "statement": "Listed as \"Council: Robyn Kuslits\"; she is on the District 3 ballot.", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Concord City Council, District 5", "kind": "race", "jurisdiction": "us/ca/concord", "election": "2026-11-03"}, "stance": "endorse", "choice": "Laura Nakamura", "statement": "Listed as \"Council: Laura Nakamura\"; she is on the District 5 ballot.", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Corte Madera Town Council", "kind": "race", "jurisdiction": "us/ca/corte-madera", "election": "2026-11-03"}, "stance": "endorse", "choice": "Eli Beckman", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Dublin Mayor", "kind": "race", "jurisdiction": "us/ca/dublin", "election": "2026-11-03"}, "stance": "endorse", "choice": "Kiran Mohammad", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Dublin City Council, District 4", "kind": "race", "jurisdiction": "us/ca/dublin", "election": "2026-11-03"}, "stance": "endorse", "choice": "Kashef Qaadri", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "El Cerrito City Council", "kind": "race", "jurisdiction": "us/ca/el-cerrito", "election": "2026-11-03"}, "stance": "endorse", "choice": "Gabe Quinto", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "El Cerrito City Council", "kind": "race", "jurisdiction": "us/ca/el-cerrito", "election": "2026-11-03"}, "stance": "endorse", "choice": "Carolyn Wysinger", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Emeryville City Council", "kind": "race", "jurisdiction": "us/ca/emeryville", "election": "2026-11-03"}, "stance": "endorse", "choice": "David Mourra", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Hayward City Council, District 1", "kind": "race", "jurisdiction": "us/ca/hayward", "election": "2026-11-03"}, "stance": "endorse", "choice": "George Syrop", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Hayward City Council, District 6", "kind": "race", "jurisdiction": "us/ca/hayward", "election": "2026-11-03"}, "stance": "endorse", "choice": "Julie Roche", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Larkspur City Council", "kind": "race", "jurisdiction": "us/ca/larkspur", "election": "2026-11-03"}, "stance": "endorse", "choice": "Stephanie Andre", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Larkspur City Council", "kind": "race", "jurisdiction": "us/ca/larkspur", "election": "2026-11-03"}, "stance": "endorse", "choice": "Sarah Margulies", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Livermore City Council, District 2", "kind": "race", "jurisdiction": "us/ca/livermore", "election": "2026-11-03"}, "stance": "endorse", "choice": "Ben Barrientos", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Mill Valley City Council", "kind": "race", "jurisdiction": "us/ca/mill-valley", "election": "2026-11-03"}, "stance": "endorse", "choice": "Max Perrey", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Novato City Council, District 2", "kind": "race", "jurisdiction": "us/ca/novato", "election": "2026-11-03"}, "stance": "endorse", "choice": "Rachel Farac", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Oakland Mayor", "kind": "race", "jurisdiction": "us/ca/oakland", "election": "2026-11-03"}, "stance": "endorse", "choice": "Barbara Lee", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Oakland City Council, District 2", "kind": "race", "jurisdiction": "us/ca/oakland", "election": "2026-11-03"}, "stance": "endorse", "choice": "Charlene Wang", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Oakland City Council, District 4", "kind": "race", "jurisdiction": "us/ca/oakland", "election": "2026-11-03"}, "stance": "endorse", "choice": "Janani Ramachandran", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Oakland City Council, District 6", "kind": "race", "jurisdiction": "us/ca/oakland", "election": "2026-11-03"}, "stance": "endorse", "choice": "Kevin Jenkins", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Pleasanton Mayor", "kind": "race", "jurisdiction": "us/ca/pleasanton", "election": "2026-11-03"}, "stance": "endorse", "choice": "Julie Testa", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Pleasanton City Council, District 3", "kind": "race", "jurisdiction": "us/ca/pleasanton", "election": "2026-11-03"}, "stance": "endorse", "choice": "Reena Gupta", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Richmond Mayor", "kind": "race", "jurisdiction": "us/ca/richmond", "election": "2026-11-03"}, "stance": "endorse", "choice": "Claudia Jimenez", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "San Leandro Mayor", "kind": "race", "jurisdiction": "us/ca/san-leandro", "election": "2026-11-03"}, "stance": "endorse", "choice": "Juan Gonzalez", "statement": "On the ballot as JUAN GONZÁLEZ III.", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "San Leandro City Council, District 3", "kind": "race", "jurisdiction": "us/ca/san-leandro", "election": "2026-11-03"}, "stance": "endorse", "choice": "Joseph Trujillo", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "San Rafael City Council, District 2", "kind": "race", "jurisdiction": "us/ca/san-rafael", "election": "2026-11-03"}, "stance": "endorse", "choice": "Eli Hill", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "San Ramon City Council, District 4", "kind": "race", "jurisdiction": "us/ca/san-ramon", "election": "2026-11-03"}, "stance": "endorse", "choice": "Marisol Rubio", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"},
-    {"subject": {"title": "Sausalito City Council", "kind": "race", "jurisdiction": "us/ca/sausalito", "election": "2026-11-03"}, "stance": "endorse", "choice": "Adrian Brinton", "source": "https://www.sierraclub.org/sfbay/2026-endorsements"}
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "Representative D2: Jared Huffman",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "Representative D10: Mark DeSaulnier",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "For CA-11, the Sierra Club endorses Scott Wiener. [...] The environmental choice in this race is crystal clear.",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "Representative D12: Lateefah Simon",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "Representative D14: Aisha Wahab",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "statement": "Assembly D12: Jackie Elward",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "statement": "Listed as \"Rebecca Bauer Kahan\".",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "Assembly D17: Matt Haney",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "Assembly D18: Mia Bonta",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "Assembly D19: Catherine Stefani",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "Assembly D24: Alex Lee",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "Attorney General: Rob Bonta",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "Controller: Malia Cohen",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "Insurance Commissioner: Ben Allen",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "Listed as \"Shirley Webber\" [sic].",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "Senate D2: Damon Connolly",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "Superintendent of Public Instruction: Richard Barrera",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "Treasurer: Eleni Kounalakis",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Listed as \"RTM: Regional Transit Measure (Connect Bay Area): YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Barz",
+      "statement": "For BART Board of Directors, District 8, the Sierra Club endorses Sara Barz",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "On Measure C, San Francisco's Affordable Housing Trust Fund measure, the Sierra Club recommends a Yes vote",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "On Measure G, to allow private vehicles on the Great Highway in Sunset Dunes Park, the Sierra Club recommends a No vote",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "On Proposition H, the Stronger Muni for All parcel tax, the Sierra Club recommends a Yes vote",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "On Proposition I, the Affordable Housing Guarantee Act, the Sierra Club recommends a Yes vote",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "For District 2 Supervisor, the Sierra Club endorses Stephen Sherrill",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "The Sierra Club makes no endorsement for District 4 Supervisor.",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "For District 6 Supervisor, the Sierra Club endorses Matt Dorsey",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "For District 8 Supervisor, the Sierra Club endorses Gary McCoy",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Eppler",
+      "weight": 1,
+      "statement": "For District 10 Supervisor, the Sierra Club endorses J.R. Eppler as our first choice and Theo Ellington as our second choice. Voters should rank both of them.",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "weight": 0.5,
+      "statement": "For District 10 Supervisor, the Sierra Club endorses J.R. Eppler as our first choice and Theo Ellington as our second choice. Voters should rank both of them.",
+      "source": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adriana Valencia",
+      "statement": "AC Transit Ward 3: Adriana Valencia",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Syed",
+      "statement": "AC Transit Ward 4: Sarah Syed",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Murphy McCalley",
+      "statement": "Listed as \"Murphy McCulley\"; the Alameda County ballot spelling is MURPHY McCALLEY.",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Community College District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Becca Barrett",
+      "statement": "Listed as \"Rebecca Barrett\"; on the ballot as BECCA BARRETT.",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marguerite Young",
+      "statement": "EBMUD Ward 3: Marguerite Young",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Wolff",
+      "statement": "EBMUD Ward 7: Gary Wolff",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebrpd",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Olivia Sanwong",
+      "statement": "East Bay Regional Park District EBRPD Ward 5: Olivia Sanwong",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebrpd",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Colin Coffey",
+      "statement": "East Bay Regional Park District EBRPD Ward 7: Colin Coffey",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rita Duncan",
+      "statement": "Listed under \"Orlo Loma Sanitary District\" [sic].",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure L (SAFER Alameda Act)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Listed as \"L: the SAFER Alameda Act: YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure AA (Soda Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Listed as \"AA: Sugar Sweetened Beverage Special Tax: YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure U (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Listed as \"U: Infrastructure Safety: YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Listed as \"X: Arts, Industrial, & Maritime Preservation & Improvement Initiative (AIM): YES!\"",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robin Lopez",
+      "statement": "Council: Robin Lopez",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aaron Tiedemann",
+      "statement": "Council: Aaron Tiedemann",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ross Bernet",
+      "weight": 1,
+      "statement": "Listed as \"Council D1 (Ranked Choice #1): Ross Bernet\".",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daria Wrubel",
+      "weight": 0.5,
+      "statement": "Listed as \"Council D1 (Ranked Choice #2): Daria Wrubel\".",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Igor Tregub",
+      "statement": "Council D4: Igor Tregub",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Syrak Micael",
+      "statement": "Council D7: Syrak Micael",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Humbert",
+      "statement": "Council D8: Mark Humbert",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robyn Kuslits",
+      "statement": "Listed as \"Council: Robyn Kuslits\"; she is on the District 3 ballot.",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Nakamura",
+      "statement": "Listed as \"Council: Laura Nakamura\"; she is on the District 5 ballot.",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "Council: Eli Beckman",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Dublin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kiran Mohammad",
+      "statement": "Mayor: Kiran Mohammad",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kashef Qaadri",
+      "statement": "Council D4: Kashef Qaadri",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Quinto",
+      "statement": "Council: Gabe Quinto",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carolyn Wysinger",
+      "statement": "Council: Carolyn Wysinger",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Mourra",
+      "statement": "Council: David Mourra",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Syrop",
+      "statement": "Council D1: George Syrop",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julie Roche",
+      "statement": "Council D6: Julie Roche",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Andre",
+      "statement": "Council: Stephanie Andre",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Margulies",
+      "statement": "Council: Sarah Margulies",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Livermore City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/livermore",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Barrientos",
+      "statement": "Council D2: Ben Barrientos",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Mill Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mill-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Max Perrey",
+      "statement": "Council: Max Perrey",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Farac",
+      "statement": "Council D2: Rachel Farac",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "statement": "Mayor: Barbara Lee",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "statement": "Council D2: Charlene Wang",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janani Ramachandran",
+      "statement": "Council D4: Janani Ramachandran",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Jenkins",
+      "statement": "Council D6: Kevin Jenkins",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julie Testa",
+      "statement": "Mayor: Julie Testa",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reena Gupta",
+      "statement": "Council D3: Reena Gupta",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Richmond Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/richmond",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Claudia Jimenez",
+      "statement": "Mayor: Claudia Jimenez",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Leandro Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Gonzalez",
+      "statement": "On the ballot as JUAN GONZÁLEZ III.",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joseph Trujillo",
+      "statement": "Council D3: Joseph Trujillo",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Hill",
+      "statement": "Council D2: Eli Hill",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Ramon City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-ramon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marisol Rubio",
+      "statement": "Council D4: Marisol Rubio",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sausalito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adrian Brinton",
+      "statement": "Council: Adrian Brinton",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    }
   ]
 }

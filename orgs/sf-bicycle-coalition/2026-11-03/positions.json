@@ -11,10 +11,12 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:13:13Z",
+    "retrieved_at": "2026-10-19T21:09:26Z",
     "sources": [
-      "https://sfendorsements.com/",
-      "https://sfbike.org/our-work/bike-the-vote/"
+      "https://sfbike.org/our-work/bike-the-vote/",
+      "https://sfbike.org/news/vote-no-on-prop-g-save-sunset-dunes-park/",
+      "https://sfbike.org/news/vote-yes-for-transit-funding-measures-h-and-rtm/",
+      "https://sfbike.org/news/endorsing-scott-wiener-for-congress/"
     ]
   },
   "positions": [
@@ -27,7 +29,8 @@
       },
       "stance": "endorse",
       "choice": "Scott Wiener",
-      "source": "https://sfendorsements.com/"
+      "statement": "Congressional District 11: Scott Wiener",
+      "source": "https://sfbike.org/our-work/bike-the-vote/"
     },
     {
       "subject": {
@@ -38,7 +41,8 @@
       },
       "stance": "endorse",
       "choice": "No",
-      "source": "https://sfendorsements.com/"
+      "statement": "Prop G: NO",
+      "source": "https://sfbike.org/our-work/bike-the-vote/"
     },
     {
       "subject": {
@@ -49,7 +53,8 @@
       },
       "stance": "endorse",
       "choice": "Yes",
-      "source": "https://sfendorsements.com/"
+      "statement": "Prop H and Regional Transit Measure (RTM): YES",
+      "source": "https://sfbike.org/our-work/bike-the-vote/"
     },
     {
       "subject": {
@@ -60,7 +65,8 @@
       },
       "stance": "endorse",
       "choice": "Yes",
-      "source": "https://sfendorsements.com/"
+      "statement": "Prop H and Regional Transit Measure (RTM): YES",
+      "source": "https://sfbike.org/our-work/bike-the-vote/"
     }
   ]
 }

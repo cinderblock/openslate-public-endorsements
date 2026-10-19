@@ -11,12 +11,24 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:09:32Z",
+    "retrieved_at": "2026-10-19T21:03:20Z",
     "sources": [
-      "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "https://yimbyaction.org/chapters/san-francisco-yimby"
     ]
   },
   "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "We support Xavier Becerra because of the commitment he made when he filled out our questionnaire: \"I will pursue legislation to ensure state housing law applies in the coastal zone just like everywhere else.\"",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
+    },
     {
       "subject": {
         "title": "Attorney General of California",
@@ -26,7 +38,44 @@
       },
       "stance": "endorse",
       "choice": "Rob Bonta",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "YIMBY Action endorses Rob Bonta for Attorney General because he has been one of the strongest enforcers of California's housing laws.",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 1: Bond For Affordable Housing - ballot measure · California · Vote yes",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 37: Downpayment assistance for new homes · California · Vote yes",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 43: Supermajority vote for tax initatives · California · Vote no",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -37,8 +86,8 @@
       },
       "stance": "endorse",
       "choice": "Scott Wiener",
-      "statement": "SF YIMBY is proud to endorse Scott Wiener in his historic Congressional bid.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "Scott Wiener is a housing champion who has literally been the spark for a nationwide movement of legislators leading on the issue",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -49,7 +98,8 @@
       },
       "stance": "endorse",
       "choice": "Matt Haney",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "Matt Haney · Assemblymember District 17 · California Assembly District 17 · Endorsed",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -60,7 +110,8 @@
       },
       "stance": "endorse",
       "choice": "Catherine Stefani",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "Catherine Stefani · Assemblymember District 19 · California Assembly District 19 · Endorsed",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -71,8 +122,8 @@
       },
       "stance": "endorse",
       "choice": "Stephen Sherrill",
-      "statement": "SF YIMBY and its District 2 subchapter Northern Neighbors proudly endorses Stephen Sherrill for San Francisco City Supervisor, District 2.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "Stephen Sherrill · County Board District 2 · San Francisco Board of Supervisors District 2 · Endorsed",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -83,8 +134,8 @@
       },
       "stance": "endorse",
       "choice": "Alan Wong",
-      "statement": "Though we have developed concerns over NIMBY stances on key housing projects in his area, we feel he is still the best choice for the Sunset in this election.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "Alan Wong · County Board District 4 · San Francisco Board of Supervisors District 4 · Endorsed",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -96,7 +147,7 @@
       "stance": "endorse",
       "choice": "Matt Dorsey",
       "statement": "SF YIMBY endorses Matt Dorsey to continue to champion the housing legislations and reforms that the city needs.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -107,8 +158,8 @@
       },
       "stance": "endorse",
       "choice": "Gary McCoy",
-      "statement": "SF YIMBY is endorsing Gary McCoy due to his history of commitment to YIMBYism and his strong potential as a member of the Board of Supervisors.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "statement": "SF YIMBY is endorsing Gary McCoy in the top slot due to his history of commitment to YIMBYism and his strong potential as a member of the board of supervisors.",
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -120,7 +171,7 @@
       "stance": "endorse",
       "choice": "Theo Ellington",
       "statement": "SF YIMBY endorses Theo Ellington for District 10 supervisor.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -132,7 +183,7 @@
       "stance": "endorse",
       "choice": "Joaquin Torres",
       "statement": "Joaquin Torres is running unopposed for another term as Assessor-Recorder, and SF YIMBY is happy to endorse him again.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -144,7 +195,7 @@
       "stance": "endorse",
       "choice": "Sara Barz",
       "statement": "SF YIMBY is proud to endorse Sara Barz for Bart Board District 8.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -156,7 +207,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "SF YIMBY endorses Proposition A because it gives the Board the flexibility to make those updates instead of requiring yet another ballot measure.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -168,7 +219,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "SF YIMBY is proud to endorse the single most consequential affordable housing-supply fix on this November’s ballot.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -180,7 +231,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "Shorter ballots, more accountable lawmaking.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -192,7 +243,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "Housing supply doesn't happen in a vacuum — it needs functioning city infrastructure processes around it, and Prop E is a real fix.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -204,7 +255,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "SF YIMBY endorses a vote of YES to fix a long-broken system that worsens our housing shortage.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -216,7 +267,7 @@
       "stance": "endorse",
       "choice": "No",
       "statement": "SF YIMBY is proud to continue to support this park and endorses voting NO to closing the park and bringing back the highway.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -228,7 +279,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "Transit and housing supply are the same fight. Every unit of housing in this city only works if people can actually get around. SF YIMBY is proud to support this measure.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -240,7 +291,7 @@
       "stance": "endorse",
       "choice": "No",
       "statement": "Taxing housing in order to build housing is self-defeating.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     },
     {
       "subject": {
@@ -252,7 +303,7 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "A regional economy this large cannot function with a gutted BART, and a modest, sunsetting sales tax is a far better outcome than losing the system.",
-      "source": "https://sfyimby.org/endorsements/sf-2026-general-election/"
+      "source": "https://yimbyaction.org/chapters/san-francisco-yimby"
     }
   ]
 }
