@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:18:57Z",
+    "retrieved_at": "2026-10-19T22:45:00Z",
     "sources": [
       "https://www.sierraclub.org/sfbay/2026-endorsements",
       "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations"
@@ -280,6 +280,18 @@
       "stance": "endorse",
       "choice": "Damon Connolly",
       "statement": "Senate D2: Damon Connolly",
+      "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "statement": "\"Senate D10: Scott Sakakihara\"",
       "source": "https://www.sierraclub.org/sfbay/2026-endorsements"
     },
     {

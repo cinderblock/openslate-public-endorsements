@@ -136,3 +136,12 @@ uncontested allies. The positions are dropped per the top-two rule.
 - `positions.json` was re-serialized by a script (2-space JSON, UTF-8, LF), so the diff
   may show whitespace or escaping changes beyond the 50 new `statement` lines.
 - Next refresh needs a real browser session, run by one agent at a time.
+
+## Refresh 2026-10-19 (coordinator, Chrome)
+
+Re-read the main page in a real browser at 2026-10-19T22:45Z; saved as
+`sc-sfbay-2026-endorsements-2026-10-19.md`. Diff against the 10-15 capture:
+one addition, **Senate D10: Scott Sakakihara** (SOS-certified finalist vs.
+Linda R. Price). Senate D2 Damon Connolly only moved within the list. No other
+changes. The page still says it "will be updated as endorsements are finalized".
+83 → 84 positions.
