@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "Los Angeles Times Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles Times Editorial Board",
+      "uri": "https://www.latimes.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:20:59Z",
+    "sources": [
+      "https://www.latimes.com/opinion/story/2026-09-06/editorial-vote-no-on-proposition-40",
+      "https://www.latimes.com/topic/editorials"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California can ask the wealthy to contribute more without embracing a measure this flawed. Proposition 40 is a temporary tax masquerading as a fiscal solution, a permanent precedent for ballot-box budgeting and the wrong answer to the very real problems facing California. Vote no on Proposition 40.",
+      "source": "https://www.latimes.com/opinion/story/2026-09-06/editorial-vote-no-on-proposition-40"
+    }
+  ]
+}

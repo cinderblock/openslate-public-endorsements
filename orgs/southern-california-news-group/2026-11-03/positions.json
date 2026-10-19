@@ -1,0 +1,939 @@
+{
+  "context": {
+    "title": "Southern California News Group Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Southern California News Group Editorial Board",
+      "uri": "https://www.socalnewsgroup.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:29:16Z",
+    "sources": [
+      "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/",
+      "https://www.dailynews.com/2026/10/07/endorsement-vote-no-on-retaining-justices-tamzarian-and-mori/",
+      "https://www.dailynews.com/2026/10/09/confused-by-the-judicial-races-here-are-our-la-county-superior-court-endorsements/",
+      "https://www.dailynews.com/2026/10/03/endorsement-no-on-los-angeles-measure-fd-yet-another-sales-tax-increase/",
+      "https://www.ocregister.com/2026/10/04/endorsement-david-penaloza-for-assembly-district-68/",
+      "https://www.ocregister.com/2026/10/03/endorsement-carlos-rodriguez-for-yorba-linda-city-council/",
+      "https://www.ocregister.com/2026/10/09/endorsement-no-on-newport-beach-measures-h-p-q-and-r/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 2: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 3: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 4: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 5: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 37: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 38: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 39: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 41: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 42: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 45: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "statement": "\"Controller: Herb Morgan\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "statement": "\"Superintendent of Public Instruction: Sonja Shaw\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "statement": "\"Board of Equalization in San Bernardino County: Shannon Grove\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denis Bilodeau",
+      "statement": "\"Board of Equalization in Riverside County, San Bernardino County: Denis Bilodeau\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "statement": "\"Board of Equalization: Mike Gipson\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "statement": "\"23rd Congressional District: Jay Obernolte\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma J. Torres",
+      "statement": "\"35th Congressional District: Norma Torres\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Young Kim",
+      "statement": "\"40th Congressional District: Young Kim\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"42nd Congressional District: Robert Garcia\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "\"45th Congressional District: Derek Tran\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Goldsmith",
+      "statement": "\"Senate District 24: Brian Goldsmith\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Seyarto",
+      "statement": "\"32nd Senate District: Kelly Seyarto\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhonda Shader",
+      "statement": "\"Senate District 34: Rhonda Shader\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Bassett",
+      "statement": "\"Senate District 38: Laura Bassett\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Gonzalez",
+      "statement": "\"36th Assembly District: Jeff Gonzalez\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Wallis",
+      "statement": "\"47th Assembly District: Greg Wallis\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leticia Castillo",
+      "statement": "\"58th Assembly District: Leticia Castillo\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"67th Assembly District: Mark Pulido\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Penaloza",
+      "statement": "\"We endorse David Penaloza for Assembly District 68.\"",
+      "source": "https://www.ocregister.com/2026/10/04/endorsement-david-penaloza-for-assembly-district-68/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tri Ta",
+      "statement": "\"70th Assembly District: Tri Ta\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kate Sanchez",
+      "statement": "\"71st Assembly District: Kate Sanchez\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Davies",
+      "statement": "\"74th Assembly District: Laurie Davies\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"LA County Measure A: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"LA County Measure E: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Pasadena — Measure PFD (Firefighter/Paramedic Emergency Medical/Wildfire)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pasadena",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Pasadena Measure PFD: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles City Charter Amendment PL: Yes\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Los Angeles City Charter Amendments LA, PRK, PRT, EE: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Los Angeles City Charter Amendments LA, PRK, PRT, EE: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Los Angeles City Charter Amendments LA, PRK, PRT, EE: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Los Angeles City Charter Amendments LA, PRK, PRT, EE: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote no on Measure FD.\"",
+      "source": "https://www.dailynews.com/2026/10/03/endorsement-no-on-los-angeles-measure-fd-yet-another-sales-tax-increase/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Tryfman",
+      "statement": "\"Donna Tryfman for Superior Court Office No. 131\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 87",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony (A.J.) Bayne",
+      "statement": "\"Anthony “AJ” Bayne for Superior Court Office No. 87\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Slotky Reitano",
+      "statement": "\"Anna Slotky Reitano for Superior Court Office No. 65\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maria Ghobadi",
+      "statement": "\"Maria Ghobadi for Superior Court Office No. 64\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert G. Luna",
+      "statement": "\"Los Angeles County sheriff: Robert Luna\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McKinney",
+      "statement": "\"Los Angeles city attorney: John McKinney\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Timothy K. Gaspar",
+      "statement": "\"Los Angeles City Council in District 3: Tim Gaspar\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Armen Tamzarian",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote yes on Proposition 43 to restore the two-thirds vote requirement for local special taxes, and vote “No” to retaining Tamzarian and Mori.\"",
+      "source": "https://www.dailynews.com/2026/10/07/endorsement-vote-no-on-retaining-justices-tamzarian-and-mori/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Audra M. Mori",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote yes on Proposition 43 to restore the two-thirds vote requirement for local special taxes, and vote “No” to retaining Tamzarian and Mori.\"",
+      "source": "https://www.dailynews.com/2026/10/07/endorsement-vote-no-on-retaining-justices-tamzarian-and-mori/"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Shaw",
+      "statement": "\"Orange County District 4 supervisor: Tim Shaw\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katrina Foley",
+      "statement": "\"Orange County District 5 supervisor: Katrina Foley\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure H (City of Newport Beach General Plan – Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Newport Beach Measures H, P, Q, R: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure P (Lifetime Council Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Newport Beach Measures H, P, Q, R: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure Q (By-District Council Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Newport Beach Measures H, P, Q, R: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure R (Open Government Rules and Sunshine Task Force)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Newport Beach Measures H, P, Q, R: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Tustin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Austin Lumbard",
+      "statement": "\"Mayor of Tustin: Austin Lumbard\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana — Measure N (Santa Ana Streets, Public Safety, Essential City Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Santa Ana Measure N sales tax: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Benjamin Vazquez",
+      "statement": "\"Santa Ana Ward 2: Benjamin Vazquez\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Bacerra",
+      "statement": "\"Santa Ana Ward 4: Phil Bacerra\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Giovanni Chavez",
+      "statement": "\"Santa Ana Ward 6: Giovanni Chavez\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa — Measure C (The Costa Mesa Fair Business License Reform, Small Business Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Costa Mesa Measure C business license tax: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Rodriguez",
+      "statement": "\"Vote for Carlos Rodriguez in Yorba Linda.\"",
+      "source": "https://www.ocregister.com/2026/10/03/endorsement-carlos-rodriguez-for-yorba-linda-city-council/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Riverside County, Office 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Garcia",
+      "statement": "\"Riverside County Superior Court Office No. 10: Andrea Garcia\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Ontario — Measure H (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ontario",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Ontario Measure H sales tax: No\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Conder",
+      "statement": "\"Riverside City Council in Ward 4: Chuck Conder\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Marquez",
+      "statement": "\"San Bernardino City Council in Ward 1: Virginia Marquez\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"San Bernardino City Council in Ward 2: Christian Shaughnessy\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fred Shorett",
+      "statement": "\"San Bernardino City Council in Ward 4: Fred Shorett\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Fontana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Acquanetta Warren",
+      "statement": "\"Mayor of Fontana: Acquanetta Warren\"",
+      "source": "https://www.ocregister.com/2026/10/01/southern-california-news-groups-endorsements-for-nov-3-general-election/"
+    }
+  ]
+}

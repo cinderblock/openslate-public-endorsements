@@ -1,0 +1,992 @@
+{
+  "context": {
+    "title": "Ventura County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/ventura-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Ventura County Democratic Party",
+      "uri": "https://www.venturacountydemocrats.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:38:56Z",
+    "sources": [
+      "https://www.venturacountydemocrats.com/endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Xavier Becerra",
+      "statement": "\"Xavier Becerra - Governor\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Fiona Ma",
+      "statement": "\"Fiona Ma - Lieutenant Governor\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Eleni Kounalakis - Treasurer\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Richard Barrera",
+      "statement": "\"Richard Barrera -Superintendent of Public Instruction\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shirley N. Weber",
+      "statement": "\"Shirley Weber - Secretary of State *\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rob Bonta",
+      "statement": "\"Rob Bonta Attorney General*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Malia M. Cohen",
+      "statement": "\"Malia Cohen Controller*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sally J. Lieber",
+      "statement": "\"Sally Lieber - Board of Equalization*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ben Allen",
+      "statement": "\"Ben Allen for Insurance Commissioner\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jacqui Irwin",
+      "statement": "\"Jacqui Irwin - Congress *\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Salud Carbajal",
+      "statement": "\"Salud Carbajal - Congress*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brad Sherman",
+      "statement": "\"Brad Sherman - Congress*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"Deborah Klein Lopez - Assembly*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steve Bennett",
+      "statement": "\"Steve Bennett - Assembly*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jesse Gabriel",
+      "statement": "\"Jesse Gabriel - Assembly*\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura County Superintendent of Schools",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Sher",
+      "statement": "\"Karen Sher - Ventura County Superintendent of Schools\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Camarillo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/camarillo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Martita Martinez-Bravo",
+      "statement": "\"Camarillo | Martita Martinez-Bravo | Camarillo City Council | District 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Camarillo City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/camarillo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Santangelo",
+      "statement": "\"Camarillo | Susan Santangelo | Camarillo City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Camarillo Health Care District Board, Zone 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jordan Roberts",
+      "statement": "\"Camarillo | Jordan Roberts | Camarillo Health Care District | Zone 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Camarillo Health Care District Board, Zone 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liam Andres O’Neill Hernandez",
+      "statement": "\"Camarillo | Liam Andres O’Neill Hernandez | Camarillo Health Care District | Zone 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Camarillo Health Care District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Flood",
+      "statement": "\"Camarillo | Matthew Flood | Camarillo Health Care District | Zone 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura County Community College District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roger Bowerman",
+      "statement": "\"Camarillo | Roger Bowerman | Community College Board | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pleasant Valley School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Valdez",
+      "statement": "\"Camarillo | Laura Valdez | Pleasant Valley School District | Area 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura County Board of Education, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debra McIntyre-Sciarrino",
+      "statement": "\"Camarillo | Debra McIntyre-Sciarrino | County Board of Education | Area 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Conejo Recreation and Park District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Buss",
+      "statement": "\"Conejo Valley | Amy Buss | Conejo Recreation and Park District | District 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Thousand Oaks City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/thousand-oaks",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Newman",
+      "statement": "\"Conejo Valley | David Newman | Thousand Oaks City Council | District 3\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Thousand Oaks City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/thousand-oaks",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Arreola",
+      "statement": "\"Conejo Valley | Karen Arreola | Thousand Oaks City Council | District 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Thousand Oaks City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/thousand-oaks",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kyle Rohrbach",
+      "statement": "\"Conejo Valley | Kyle Rohrbach | Thousand Oaks City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fillmore-Piru Memorial District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carina Forsythe",
+      "statement": "\"Fillmore | Carina Forsythe | Fillmore-Piru Memorial District\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fillmore-Piru Memorial District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Fouarge",
+      "statement": "\"Fillmore | Derek Fouarge | Fillmore-Piru Memorial District\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moorpark Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katie Clunen",
+      "statement": "\"Moorpark | Katie Clunen | Moorpark Unified School District | Area 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ojai City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ojai",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Lang",
+      "statement": "\"Ojai | Rachel Lang | Ojai City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oxnard",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bert Perello",
+      "statement": "\"Oxnard | Bert Perello | Oxnard City Council | District 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/oxnard",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabby Basua",
+      "statement": "\"Oxnard | Gabby Basua | Oxnard City Council | District 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oxnard",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Teran",
+      "statement": "\"Oxnard | Gabe Teran | Oxnard City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard Harbor District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Hodge",
+      "statement": "\"Oxnard | Jason Hodge | Oxnard Harbor District\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard Harbor District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mary Anne Rooney",
+      "statement": "\"Oxnard | Mary Anne Rooney | Oxnard Harbor District\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard Harbor District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jess Herrera",
+      "statement": "\"Oxnard | Jess Herrera | Oxnard Harbor District\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jasmine Duron",
+      "statement": "\"Oxnard | Jasmine Duron | Oxnard School District | Area 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rafael Cahue",
+      "statement": "\"Oxnard | Rafael Cahue | Oxnard School District | Area 3\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rose Gonzales",
+      "statement": "\"Oxnard | Rose Gonzales | Oxnard School District | Area 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rio School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alesia Martin",
+      "statement": "\"Oxnard | Alesia Martin | Rio School District | Area 3\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rio School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Inez Spates",
+      "statement": "\"Oxnard | Inez Spates | Rio School District | Area 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rio School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Khaled Omar",
+      "statement": "\"Oxnard | Khaled Omar | Rio School District | Area 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Port Hueneme City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/port-hueneme",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Importante",
+      "statement": "\"Port Hueneme | James Importante | Port Hueneme City Council\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Port Hueneme City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/port-hueneme",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Hernandez",
+      "statement": "\"Port Hueneme | Laura Hernandez | Port Hueneme City Council\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Port Hueneme City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/port-hueneme",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Martha McQueen-Legohn",
+      "statement": "\"Port Hueneme | Martha McQueen-Legohn | Port Hueneme City Council\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-paula",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jenny Crosswhite",
+      "statement": "\"Santa Paula | Jenny Crosswhite | Santa Paula City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-paula",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Grass",
+      "statement": "\"Santa Paula | Nancy Grass | Santa Paula City Council | District 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Francisco Estrada",
+      "statement": "\"Santa Paula | Francisco Estrada | Santa Paula Unified School District | Area 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura County Board of Education, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristina Pine",
+      "statement": "\"Simi Valley | Kristina Pine | County Board of Education | Area 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Simi Valley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/simi-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Gray",
+      "statement": "\"Simi Valley | Josh Gray | Simi Valley City Council | District 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Simi Valley City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/simi-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Cohen",
+      "statement": "\"Simi Valley | Sam Cohen | Simi Valley City Council | District 2\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Simi Valley Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/simi-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kareem Jubran",
+      "statement": "\"Simi Valley | Kareem Jubran | Simi Valley Mayor\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Simi Valley Unified School District Board, Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Rosuck",
+      "statement": "\"Simi Valley | Ryan Rosuck | Simi Valley Unified School District | Area E\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill McReynolds",
+      "statement": "\"Ventura | Bill McReynolds | Ventura City Council | District 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeannette Sanchez-Palacios",
+      "statement": "\"Ventura | Jeannette Sanchez-Palacios | Ventura City Council | District 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karba Eckley",
+      "statement": "\"Ventura | Karba Eckley | Ventura City Council | District 6\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Campos",
+      "statement": "\"Ventura | Liz Campos | Ventura City Council | District 1\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amber Thompson",
+      "statement": "\"Ventura | Amber Thompson | Ventura Unified School District | Area 4\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Ventura Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew LaFave",
+      "statement": "\"Ventura | Andrew LaFave | Ventura Unified School District | Area 5\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40 | YES\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45 | NO\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Simi Valley — Measure A (Transient Occupancy Tax Rate)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/simi-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure A | City of Simi Valley | Occupancy Tax Rate | Neutral\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rio Elementary School District — Measure B (School Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure B | Rio Elementary School District | School Bond | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula Unified School District — Measure C (School Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure C | Santa Paula Unified School District | School Bond | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "United Water Conservation District — Measure D (Water Supply, Conservation and Water Quality Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure D | United Water Conservation | Water Supply, Conservation and Water Quality Bond Measure | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oxnard — Measure E (Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oxnard",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure E | City of Oxnard | Sales Tax Measure | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Allan Hancock Joint Community College District — Measure H (Education and Economic Development Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H | Allan Hancock Joint Community College District | School Bond | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    }
+  ]
+}

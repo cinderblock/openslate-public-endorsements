@@ -1,0 +1,1660 @@
+{
+  "context": {
+    "title": "Los Angeles County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles County Democratic Party",
+      "uri": "https://www.lacdp.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:03:54Z",
+    "sources": [
+      "https://www.lacdp.org/candidates",
+      "https://www.lacdp.org/ballotmeasures"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Xavier Becerra\" — \"Governor\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Fiona Ma\" — \"Lieutenant Governor\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Rob Bonta\" — \"Attorney General\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "statement": "\"Dr. Shirley Weber\" — \"Secretary of State\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Eleni Kounalakis\" — \"Treasurer\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "statement": "\"Malia Cohen\" — \"Controller\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Ben Allen\" — \"Insurance Commissioner\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Richard Barrera\" — \"Superintendent of Public Instruction\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "statement": "\"Mike Gipson\" — \"Board of Equalization\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tessa Lynn Hodge",
+      "statement": "\"Tessa Lynn Hodge\" — \"California's 23rd Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "statement": "\"Jacqui Irwin\" — \"California's 26th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "\"George Whitesides\" — \"California's 27th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "\"Judy Chu\" — \"California's 28th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Maria Rivas",
+      "statement": "\"Luz Rivas\" — \"California's 29th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "\"Laura Friedman\" — \"California's 30th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "\"Gil Cisneros\" — \"California's 31st Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "\"Brad Sherman\" — \"California's 32nd Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "\"Jimmy Gomez\" — \"California's 34th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma J. Torres",
+      "statement": "\"Norma Torres\" — \"California's 35th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted W. Lieu",
+      "statement": "\"Ted Lieu\" — \"California's 36th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"Sydney Kamlager-Dove\" — \"California's 37th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "\"Hilda Solis\" — \"California's 38th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sánchez",
+      "statement": "\"Linda Sánchez\" — \"California's 41st Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Robert Garcia\" — \"California's 42nd Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "statement": "\"Maxine Waters\" — \"California's 43rd Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Diaz Barragan",
+      "statement": "\"Nanette Barragán\" — \"California's 44th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "\"Derek Tran\" — \"California's 45th Congressional District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "\"Caroline Menjivar\" — \"California's 20th Senate District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Rubio",
+      "statement": "\"Susan Rubio\" — \"California's 22nd Senate District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"Lola Smallwood-Cuevas\" — \"California's 28th Senate District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob J. Archuleta",
+      "statement": "\"Bob Archuleta\" — \"California's 30th Senate District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "statement": "\"Chris Duncan\" — \"California's 36th Senate District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Putz",
+      "statement": "\"Randall Putz\" — \"California's 34th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Carrillo",
+      "statement": "\"Juan Carrillo\" — \"California's 39th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"Pilar Schiavo\" — \"California's 40th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "statement": "\"John Harabedian\" — \"California's 41st Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"Deborah Klein Lopez\" — \"California's 42nd Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"Celeste Rodriguez\" — \"California's 43rd Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicholas \"Nick\" Schultz",
+      "statement": "\"Nick Schultz\" — \"California's 44th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "statement": "\"Jesse Gabriel\" — \"California's 46th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Rubio",
+      "statement": "\"Blanca Rubio\" — \"California's 48th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"Mike Fong\" — \"California's 49th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"Rick Chavez Zbur\" — \"California's 51st Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"Jessica Caloza\" — \"California's 52nd Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Rodriguez",
+      "statement": "\"Michelle Rodriguez\" — \"California's 53rd Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"Mark González\" — \"California's 54th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac G. Bryan",
+      "statement": "\"Isaac Bryan\" — \"California's 55th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Calderon",
+      "statement": "\"Lisa Calderon\" — \"California's 56th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina Simone McKinnor",
+      "statement": "\"Tina McKinnor\" — \"California's 61st Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "José Luis Solache",
+      "statement": "\"Jose Solache\" — \"California's 62nd Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Pacheco",
+      "statement": "\"Blanca Pacheco\" — \"California's 64th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"Ayanna Davis\" — \"California's 65th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Seo",
+      "statement": "\"Paul Seo\" — \"California's 66th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"Mark Pulido\" — \"California's 67th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "statement": "\"Josh Lowenthal\" — \"California's 69th Assembly District\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert G. Luna",
+      "statement": "\"Robert Luna\" — \"Los Angeles County Sheriff\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Ruth Bass",
+      "statement": "\"Karen Bass\" — \"Los Angeles Mayor\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "statement": "\"Marissa Roy\" — \"Los Angeles City Attorney\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barri Worth Girvan",
+      "statement": "\"Barri Worth Girvan\" — \"Los Angeles City Council District 3\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Ugarte",
+      "statement": "\"Jose Ugarte\" — \"Los Angeles City Council District 09\"",
+      "source": "https://www.lacdp.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 1 | The Veterans and Affordable Housing Bond Act of 2026 | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 2 | Save for California's Future Act | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 3 | California Renew State Income Tax Increase for Education Funding Initiative | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 4 | Political Reform Act of 1974: public campaign financing: California Fair Elections Act of 2026 | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 5 | Eliminate State Officer Recall Successor Elections Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 37 | Creates loan program for middle-income buyers of qualified new homes. Initiative statute. | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 38 | Authorizes bonds for immunology research. Initiative statute. | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 39 | Prohibits Citizens From Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment. | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"STATEWIDE | Prop 40 | One-Time Wealth Tax for State-Funded Healthcare, Education, and Food Assistance Programs Initiative | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 41 | Prohibit Excluding New State Taxes from Spending Limit and Require Special Tax Audits Initiative | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 42 | Prohibit New Taxes on Retirement Holdings, Personal Assets, and Savings and Limit Retroactive Taxes Initiative | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 43 | Two-Thirds Vote Requirement for Local Special Tax Initiatives and Property Tax Initiative Prohibition Amendment | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 44 | Spending Requirements for Federally Qualified Health Centers Initiative | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"STATEWIDE | Prop 45 | Expedited Environmental Review Process for Certain Projects Initiative | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles County | A | Los Angeles County Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration For Certified Public Safety Employee Disputes | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles County | E | County of Los Angeles Ethics Commission and Community Investment Budget Allocation Charter Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Charter Oak Unified School District — Measure S (School Modernization and Repair Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Charter Oaks Unified School District | SM | School Modernization and Repair Bond Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Bell Gardens — Measure W (Municipal Water System Sale)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bell-gardens",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Bell Gardens | W | Municipal Water System Sale Measure | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure C (City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Burbank | CR | City Services Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure CC (Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Burbank | CC | Charter Amendment Measure – City Council Election Methods | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure CD (By-District Council Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Burbank | CD | By-District Council Elections Measure | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Carson — Measure CU (City Government Accountability, Charter Update, No Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/carson",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City of Carson | CU | Carson City Government Accountability, Charter Reform, No Tax Increase Measure | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Cudahy — Measure OK (Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Cudahy | OK | Keep Cudahy Sales Tax Revenues Local Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Cudahy — Measure H (Rent Stabilization)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Cudahy | HT | Cudahy Rent Stabilization Protection Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure AA (Parcel Tax for Local Schools)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Culver City | AA | Public Schools Excellence in Education Act of 2026 | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure T (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Culver City | T | Emergency Response and General Services Hotel Tax Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure YV (Voting Age Lowered to 16)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City of Culver City | YV | 16- and 17-Year-Old Local Voting Measure | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Diamond Bar — Measure Q (Local Control, City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/diamond-bar",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Diamond Bar | Q | Diamond Bar Local Control, City Services Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "El Segundo — Measure CT (Non-Charitable Nonprofit Business License Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of El Segundo | CT | Non-Charitable Nonprofit Business License Tax Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Hawaiian Gardens — Measure BL (Business License Tax Modernization)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hawaiian-gardens",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Hawaiian Gardens | BL | Business License Tax Modernization | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne — Measure O (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hawthorne",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Hawthorne | O | Hotel Tax Increase Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne School District — Measure HH (School Repair/Improvement)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Hawthorne School District | HH | Hawthorne School District School Repair/Improvement Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Hermosa Beach — Measure HB (Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hermosa-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Hermosa Beach | HB | Local Sales Tax | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Huntington Park — Measure HP (Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/huntington-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Huntington Park | HP | City Council Lifetime Term Limit | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure AT (Amend the Admissions Tax for Large Venues)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Inglewood | AT | Ordinance To Amend the Admissions Tax for Large Venues | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure BB (Eliminate Advertising on Public Right-Of-Way)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Inglewood | BB | Ordinance To Eliminate Advertising on Public Right-Of- Way | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Los Angeles | TE | Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster. | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Los Angeles | LA | City Infrastructure, Budget, Finance, and Contracting. Charter Amendment | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City of Los Angeles | PL | City Planning Department. Charter Amendment | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Los Angeles | EE | City Ethics, Elections, and Governance. Charter Amendment | NO\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Los Angeles | PRK | City Department of Recreation and Parks Budget. Charter Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Los Angeles | PRT | City Airports, Harbor, and Water and Power Departments. Charter Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Los Angeles | FD | Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax. Initiative Ordinance | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure SC (Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City of Los Angeles | SC | Campaign Finance Rules Related to Board of Education Elections. Charter Amendment. | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Lynwood — Measure L (Lynwood Public Safety/Community Protection/City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Lynwood | L | Lynwood Public Safety/Community Protection/City Services Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park — Measure HOM (Create HOME Housing Overlays)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Monterey Park | HOM | Proposition to Create HOME Housing Overlays in Monterey Park | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park — Measure AAA (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Monterey Park | AAA | Hotel and Short-Term Rental Tax Increase Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Palmdale — Measure DE (Directly Elected Mayor)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palmdale",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City of Palmdale | DE | Directly Elected Mayor Measure | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Palos Verdes Estates — Measure PVE (Law Enforcement Services and Pension Liability Payment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palos-verdes-estates",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Palos Verdes Estates | PVE | Palos Verdes Estates Law Enforcement Services and Pension Liability Payment Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Paramount — Measure P (Public Safety, Environment, Streets, and Business Improvement)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/paramount",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Paramount | P | City of Paramount Public Safety, Environment, Streets, and Business Improvement Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Pasadena — Measure PFD (Firefighter/Paramedic Emergency Medical/Wildfire)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pasadena",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Pasadena | PFD | City of Pasadena 911 Firefighter/Paramedic Emergency Medical/Wildfire Preparedness/Response Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Rancho Palos Verdes — Measure RS (Public Safety/City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rancho-palos-verdes",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Rancho Palos Verdes | RS | Rancho Palos Verdes Public Safety/City Services Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Redondo Beach — Measure ART (Commercial Development and Housing Density Land-Use)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redondo-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Redondo Beach | ART | Commercial Development and Housing Density Land-Use Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Rosemead — Measure RC (City Charter)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rosemead",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Rosemead | RC | City Charter Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "San Gabriel — Measure PS (Public Safety/Local Control)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-gabriel",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of San Gabriel | PS | San Gabriel Public Safety/Local Control | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "San Marino — Measure U (Service Preservation)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-marino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of San Marino | UP | San Marino Service Preservation Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure ES (Excellent Santa Monica Public Schools Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Santa Monica School District | ES | Excellent Santa Monica Public Schools Parcel Tax Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure GG (Amend Santa Monica Rent Control Law)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Santa Monica | GG | Measure to Amend Santa Monica Rent Control Law: Administrative | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure RR (Eviction Tenant Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Santa Monica | RR | Measure to Amend Santa Monica Rent Control Law: Eviction Tenant Protections | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure VV (Expand Just Cause Eviction Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Santa Monica | VV | Measure to Modify Requirements in the City’s Housing Policies Law Expanding Just Cause Eviction Protections | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure TT (Establish Major Events Period for the Existing Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Santa Monica | TT | Measure to Establish Major Events Period for the Existing Transient Occupancy Tax | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "South El Monte — Measure CL (Term Limits Reform)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-el-monte",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of South El Monte | CL | Term Limits Reform Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "South El Monte — Measure RM (City Council Reform)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-el-monte",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of South El Monte | RM | City Council Reform Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "South Gate — Measure SG (Fiscal Emergency Funding)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-gate",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of South Gate | SG | Fiscal Emergency Street Maintenance, Youth Programs, Parks Funding Protection Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "South Pasadena — Measure SOS (Street/Road/Pothole Repair, 9-1-1 Safety)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-pasadena",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of South Pasadena | SOS | Street/Road/Pothole Repair, 9-1-1 Safety Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Whittier — Measure EL (Election Date Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/whittier",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Whittier | EL | Municipal Election Date Charter Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Whittier — Measure EV (Mayor and City Council Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/whittier",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Whittier | EV | Mayor and City Council Term Limits Charter Amendment | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Claremont Unified School District — Measure CS (Funding for Claremont Schools)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Claremont Unified School District | CS | Claremont Unified School District Classroom Safety, Health and Repair Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "El Rancho Unified School District — Measure ED (School Modernization and Safety Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"El Rancho Unified School District | ED | School Modernization and Safety Bond | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Glendora Unified School District — Measure G (Classroom Repair Extension)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Glendora Unified School District | G | Classroom Repair Extension Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Hacienda La Puente Unified School District — Measure B (School Board Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Hacienda La Puente Unified School District | B | USD School Board Term Limits Measure | NO ENDORSEMENT\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Keppel Union School District — Measure K (Classroom Repair, Safety, Upgrade)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Keppel Union School District | K | Keppel Union School District Classroom Repair, Safety, Upgrade Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Las Virgenes Unified School District — Measure LV (School Parcel Tax Renewal)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Las Virgenes Unified School District | LV | School Parcel Tax Renewal | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Pasadena Area Community College District — Measure UP (Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Pasadena Area Community College | UP | Pasadena City College Measure Preserving Affordable Higher Education/ Career Training Without Increasing Tax Rates | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "San Marino Unified School District — Measure SMS (Quality Education)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"San Marino Unified School District | SMS | San Marino Unified School District Quality Education Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Temple City Unified School District — Measure TCS (School Safety and Classroom Upgrade Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Temple City Unified School District | TCS | School Safety and Classroom Upgrade Bond | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    },
+    {
+      "subject": {
+        "title": "Valle Lindo School District — Measure R (School Facilities Improvement Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Valle Lindo School District | R | School Facilities Improvement Bond Measure | YES\"",
+      "source": "https://www.lacdp.org/ballotmeasures"
+    }
+  ]
+}
