@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "CALPIRG — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "CALPIRG",
+      "uri": "https://pirg.org/california/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:02:08Z",
+    "sources": [
+      "https://pirg.org/california/articles/vote-no-on-prop-45/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote NO on Prop 45 to safeguard our environment and health.\" … \"Paid for by CALPIRG\"",
+      "source": "https://pirg.org/california/articles/vote-no-on-prop-45/"
+    }
+  ]
+}

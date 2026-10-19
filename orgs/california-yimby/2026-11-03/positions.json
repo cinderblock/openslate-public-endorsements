@@ -1,0 +1,943 @@
+{
+  "context": {
+    "title": "California YIMBY — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California YIMBY",
+      "uri": "https://cayimby.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:47:13Z",
+    "sources": [
+      "https://cayimby.org/endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor\" / \"Xavier Becerra\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State\" / \"Shirley Weber\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General\" / \"Rob Bonta\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Controller\" / \"Malia Cohen\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor\" / \"Fiona Ma\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State Treasurer\" / \"Eleni Kounalakis\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner\" / \"Ben Allen\" (Statewide Office Endorsements)",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"Senate District 2\" / \"Damon Connolly\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"Senate District 4\" / \"Jaron Brandon\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelique Ashby",
+      "statement": "\"Senate District 8\" / \"Angelique Ashby\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "statement": "\"Senate District 10\" / \"Scott Sakakihara\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Magsig",
+      "statement": "\"Senate District 12\" / \"Nathan Magsig\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Esmeralda Soria",
+      "statement": "\"Senate District 14\" / \"Esmeralda Soria\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "statement": "\"Senate District 16\" / \"Melissa Hurtado\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Padilla",
+      "statement": "\"Senate District 18\" / \"Steve Padilla\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"Senate District 24\" / \"John Erickson\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "statement": "\"Senate District 26\" / \"Sara Hernandez\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"Senate District 28\" / \"Lola Smallwood-Cuevas\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avelino Valencia",
+      "statement": "\"Senate District 34\" / \"Avelino Valencia\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Blakespear",
+      "statement": "\"Senate District 38\" / \"Catherine Blakespear\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "statement": "\"Senate District 40\" / \"Mara Elliott\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "statement": "\"Assembly District 1\" / \"Heather Hadwick\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"Assembly District 4\" / \"Cecilia Aguiar-Curry\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Patterson",
+      "statement": "\"Assembly District 5\" / \"Joe Patterson\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "statement": "\"Assembly District 6\" / \"Maggy Krell\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Hoover",
+      "statement": "\"Assembly District 7\" / \"Josh Hoover\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Tangipa",
+      "statement": "\"Assembly District 8\" / \"David Tangipa\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heath Flora",
+      "statement": "\"Assembly District 9\" / \"Heath Flora\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Wilson",
+      "statement": "\"Assembly District 11\" / \"Lori Wilson\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"Assembly District 12\" / \"Eric Lucan\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"Assembly District 13\" / \"Rhodesia Ransom\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "statement": "\"Assembly District 14\" / \"Buffy Wicks\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anamarie Ávila Farías",
+      "statement": "\"Assembly District 15\" / \"Anamarie Ávila Farías\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"Assembly District 17\" / \"Matt Haney\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "\"Assembly District 18\" / \"Mia Bonta\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"Assembly District 19\" / \"Catherine Stefani\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Alanis",
+      "statement": "\"Assembly District 22\" / \"Juan Alanis\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "statement": "\"Assembly District 23\" / \"Marc Berman\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "\"Assembly District 24\" / \"Alex Lee\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "statement": "\"Assembly District 25\" / \"Ash Kalra\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "\"Assembly District 26\" / \"Patrick Ahrens\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Pacheco",
+      "statement": "\"Assembly District 27\" / \"Brian Pacheco\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"Assembly District 29\" / \"Speaker Robert Rivas\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "statement": "\"Assembly District 31\" / \"Annalisa Perea\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "statement": "\"Assembly District 35\" / \"Andrae Gonzales\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Bennett",
+      "statement": "\"Assembly District 38\" / \"Steve Bennett\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Carrillo",
+      "statement": "\"Assembly District 39\" / \"Juan Carrillo\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"Assembly District 40\" / \"Pilar Schiavo\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "statement": "\"Assembly District 41\" / \"John Harabedian\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"Assembly District 44\" / \"Nick Schultz\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Ramos",
+      "statement": "\"Assembly District 45\" / \"James Ramos\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "statement": "\"Assembly District 46\" / \"Jesse Gabriel\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"Assembly District 49\" / \"Mike Fong\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Assembly District 50\" / \"Robert Garcia\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"Assembly District 52\" / \"Jessica Caloza\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Rodriguez",
+      "statement": "\"Assembly District 53\" / \"Michelle Rodriguez\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark González",
+      "statement": "\"Assembly District 54\" / \"Mark González\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"Assembly District 57\" / \"Sade Elhawary\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 59",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-59",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phillip Chen",
+      "statement": "\"Assembly District 59\" / \"Phillip Chen\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"Assembly District 60\" / \"Dr. Corey A. Jackson\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina McKinnor",
+      "statement": "\"Assembly District 61\" / \"Tina McKinnor\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"Assembly District 65\" / \"Ayanna Davis\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Deen",
+      "statement": "\"Assembly District 66\" / \"Sara Deen\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"Assembly District 67\" / \"Mark Pulido\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Peñaloza",
+      "statement": "\"Assembly District 68\" / \"David Peñaloza\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "statement": "\"Assembly District 69\" / \"Josh Lowenthal\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "statement": "\"Assembly District 72\" / \"Chris Kluwe\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "statement": "\"Assembly District 76\" / \"Dr. Darshana Patel\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "statement": "\"Assembly District 78\" / \"Chris Ward\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "\"Assembly District 79\" / \"Dr. Lashae Sharp-Collins\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Alvarez",
+      "statement": "\"Assembly District 80\" / \"David Alvarez\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on 1\" / \"Prop 1 — The 2026 Affordable Housing Bond\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on 2\" / \"Prop 2 — Budget Stabilization\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"NO RECOMMENDATION on 37\" / \"Prop 37 — Downpayment Loans\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO on 40\" / \"Prop 40 — Billionaire Wealth Tax\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO on 43\" / \"Prop 43 — The Anti-Tax Ballot Measure\"",
+      "source": "https://cayimby.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"NO RECOMMENDATION on 45\" / \"Prop 45 — Changes to Environmental Review\"",
+      "source": "https://cayimby.org/endorsements/"
+    }
+  ]
+}

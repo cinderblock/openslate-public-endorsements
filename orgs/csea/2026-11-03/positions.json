@@ -1,0 +1,1678 @@
+{
+  "context": {
+    "title": "California School Employees Association (CSEA) — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California School Employees Association",
+      "uri": "https://www.csea.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:15:31Z",
+    "sources": [
+      "https://csea.com/issues-and-advocacy/election/statewide-voter-guide",
+      "https://csea.com/news/where-csea-stands-props-3-39-and-43"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 1\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 2\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 3\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 4\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 5\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"✅ Vote YES on Proposition 37\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"❌ Vote NO - Proposition 39\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"❌ Vote NO - Proposition 41\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"❌ Vote NO - Proposition 42\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"❌ Vote NO on Proposition 43\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"❌ Vote NO - Proposition 45\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor - Xavier Becerra\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General - Rob Bonta\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer - Eleni Kounalakis\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "\"Insurance Commissioner - Jane Kim\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction - Richard Barrera\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Board of Equalization, District 1 - Nelson Esparza\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"Board of Equalization, District 2 - Sally Lieber\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "statement": "\"Board of Equalization, District 3 - Mike Gipson\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Umberg",
+      "statement": "\"Board of Equalization, District 4 - Tom Umberg\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"CD 01 - Mike McGuire (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"CD 02 - Jared Huffman (D\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"CD 04 - Mike Thompson (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"CD 06 - Dr. Richard Pan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "statement": "\"CD 07 - Mai Vang (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"CD 08 - John Garamendi (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "\"CD 09 - Josh Harder (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"CD 11 - Scott Wiener (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "\"CD 10 - Mark DeSaulnier (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "\"CD 12 - Lateefah Simon (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "\"CD 14 - Dr. Aisha Wahab (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "\"CD 15 - Kevin Mullin (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "statement": "\"CD 17 - Ro Khanna (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "\"CD 18 - Zoe Lofgren (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "\"CD 19 - Jimmy Panetta (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "statement": "\"CD 21 - Jim Costa (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "\"CD 22 - Randy Villegas (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tessa Lynn Hodge",
+      "statement": "\"CD 23 - Tessa Lynn Hodge (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "\"CD 24 - Salud Carbajal (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "\"CD 25 - Dr. Raul Ruiz (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "statement": "\"CD 26 - Jacqui Irwin (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "\"CD 28 - Judy Chu (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "\"CD 29 - Luz Rivas (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "\"CD 30 - Laura Friedman (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "\"CD 31 - Gil Cisneros (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "\"CD 32 - Brad Sherman (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "\"CD 33 - Pete Aguilar (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "\"CD 34 - Jimmy Gomez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Torres",
+      "statement": "\"CD 35 - Norma Torres (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "\"CD 36 - Ted Lieu (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"CD 37 - Sydney Kamlager-Dove (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "\"CD 38 - Hilda Solis (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "\"CD 39 - Mark Takano (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "\"CD 41 - Linda Sanchez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"CD 42 - Robert Garcia (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "statement": "\"CD 43 - Maxine Waters (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Barragán",
+      "statement": "\"CD 44 - Nanette Barragan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "statement": "\"CD 46 - Lou Correa (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "statement": "\"CD 47 - Dave Min (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"CD 48 - Marni Von Wilpert (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "\"CD 49 - Mike Levin (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Vargas",
+      "statement": "\"CD 52 - Juan Vargas (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"SD 02 - Damon Connolly (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"SD 04 - Jaron Brandon (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "statement": "\"SD 06 - Sean Frame (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "statement": "\"SD 10 - Scott Sakakihara (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Esmeralda Soria",
+      "statement": "\"SD 14 - Esmeralda Soria (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "statement": "\"SD 16 - Melissa Hurtado (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Padilla",
+      "statement": "\"SD 18 - Steve Padilla (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "\"SD 20 - Caroline Menjivar (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"SD 24 - John Erickson (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "statement": "\"SD 26 - DUAL: Sara Hernandez (D), Sarah Rascon (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Rascon",
+      "statement": "\"SD 26 - DUAL: Sara Hernandez (D), Sarah Rascon (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"SD 28 - Lola Smallwood-Cuevas (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Archuleta",
+      "statement": "\"SD 30 - Bob Archuleta (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tiffanie Tate",
+      "statement": "\"SD 32 - Dr. Tiffanie Tate (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avelino Valencia",
+      "statement": "\"SD 34 - Avelino Valencia (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "statement": "\"SD 36 - Chris Duncan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "statement": "\"SD 40 - Mara Elliott (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"AD 02 - Chris Rogers (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"AD 04 - Cecilia Aguiar-Curry (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Slavensky",
+      "statement": "\"AD 07 - Amy Slavensky (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Nguyen",
+      "statement": "\"AD 10 - Stephanie Nguyen (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Wilson",
+      "statement": "\"AD 11 - Lori Wilson (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "statement": "\"AD 12 - Jackie Elward (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"AD 13 - Rhodesia Ransom (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "statement": "\"AD 14 - Buffy Wicks (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anamarie Avila Farias",
+      "statement": "\"AD 15 - Anamarie Avila Farias (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "statement": "\"AD 16 - Rebecca Bauer-Kahan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"AD 17 - Matt Haney (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "\"AD 18 - Mia Bonta (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"AD 19 - Catherine Stefani (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "statement": "\"AD 20 - Liz Ortega (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "statement": "\"AD 21 - Diane Papan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "statement": "\"AD 23 - Marc Berman (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "\"AD 24 - Alex Lee (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "statement": "\"AD 25 - Ash Kalra (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "\"AD 26 - Patrick Ahrens (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Pacheco",
+      "statement": "\"AD 27 - Brian Pacheco (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "statement": "\"AD 28 - Gail Pellerin (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"AD 29 - Robert Rivas (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "statement": "\"AD 30 - Dawn Addis (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "statement": "\"AD 31 - Annalisa Perea (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Putz",
+      "statement": "\"AD 34 - Randall Putz (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "statement": "\"AD 35 - Andrae Gonzales (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida Obeso-Martinez",
+      "statement": "\"AD 36 - Dr. Ida Obeso-Martinez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "statement": "\"AD 37 - Gregg Hart (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Bennett",
+      "statement": "\"AD 38 - Steve Bennett (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"AD 40 - Pilar Schiavo (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"AD 42 - Deborah Klein Lopez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"AD 43 - Celeste Rodriguez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"AD 44 - Nick Schultz (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "statement": "\"AD 46 - Jesse Gabriel (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "statement": "\"AD 47 - Leila Namvar (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"AD 49 - Mike Fong (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"AD 50 - Robert Garcia (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"AD 51 - Rick Chavez-Zbur (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"AD 52 - Jessica Caloza (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"AD 54 - Mark Gonzalez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac Bryan",
+      "statement": "\"AD 55 - Isaac Bryan (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Calderon",
+      "statement": "\"AD 56 - Lisa Calderon (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"AD 57 - Sade Elhawary (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "statement": "\"AD 58 - Clarissa Cervantes (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina McKinnor",
+      "statement": "\"AD 61 - Tina McKinnor (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "José Luis Solache",
+      "statement": "\"AD 62 - Jose Solache (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"AD 65 - Dr. Ayanna Davis (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Deen",
+      "statement": "\"AD 66 - Sara Deen (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"AD 67 - Mark Pulido (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessie Lopez",
+      "statement": "\"AD 68 - Jessie Lopez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "statement": "\"AD 69 - Josh Lowenthal (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paula Swift",
+      "statement": "\"AD 70 - Paula Swift (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "statement": "\"AD 72 - Chris Kluwe (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sergio Farias",
+      "statement": "\"AD 74 - Sergio Farias (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "statement": "\"AD 76 - Darshana Patel (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tasha Boerner",
+      "statement": "\"AD 77 - Tasha Boerner (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "statement": "\"AD 78 - Chris Ward (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "\"AD 79 - LaShae Sharp-Collins (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Alvarez",
+      "statement": "\"AD 80 - David Alvarez (D)\"",
+      "source": "https://csea.com/issues-and-advocacy/election/statewide-voter-guide"
+    }
+  ]
+}

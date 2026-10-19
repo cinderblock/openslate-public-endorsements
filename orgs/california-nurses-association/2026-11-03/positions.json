@@ -1,0 +1,969 @@
+{
+  "context": {
+    "title": "California Nurses Association — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Nurses Association",
+      "uri": "https://www.nationalnursesunited.org/california-nurses-association",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:17:00Z",
+    "sources": [
+      "https://www.nationalnursesunited.org/california-endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lt. Governor – Fiona Ma\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General – Rob Bonta*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State – Dr. Shirley Weber*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"State Controller – Malia Cohen*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State Treasurer – Eleni Kounalakis\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "\"California Insurance Commissioner – Jane Kim\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"California State Board of Equalization, District 2 – Sally Lieber*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"Senate District 2 - Asm. Damon Connolly\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "statement": "\"Senate District 6 - Sean Frame\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "statement": "\"Senate District 16 - Sen. Melissa Hurtado*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Padilla",
+      "statement": "\"Senate District 18 - Sen. Steve Padilla*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "\"Senate District 20 - Sen. Caroline Menjivar*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"Senate District 24 - John Erickson\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Rascon",
+      "statement": "\"Senate District 26 - Sarah Rascon\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"Senate District 28 - Sen. Lola Smallwood Cuevas*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "statement": "\"Senate District 36 - Chris Duncan\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "statement": "\"Senate District 40 - Mara Elliott\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"Assembly District 2 - Asm. Chris Rogers*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"Assembly District 4 - Asm. Cecilia Aguiar Curry*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "statement": "\"Assembly District 6 - Asm. Maggy Krell*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Slavensky",
+      "statement": "\"Assembly District 7 - Amy Slavensky\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Wilson",
+      "statement": "\"Assembly District 11 - Asm. Lori Wilson*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "statement": "\"Assembly District 12 - Jackie Elward & Eric Lucan - Dual Endorsement\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"Assembly District 12 - Jackie Elward & Eric Lucan - Dual Endorsement\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"Assembly District 13 - Asm. Rhodesia Ransom*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"Assembly District 17 - Asm. Matt Haney*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "\"Assembly District 18 - Asm. Mia Bonta*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"Assembly District 19 - Asm. Catherine Stefani*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "statement": "\"Assembly District 20 - Asm. Liz Ortega*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "statement": "\"Assembly District 21 - Asm. Diane Papan*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "\"Assembly District 24 - Asm. Alex Lee*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "statement": "\"Assembly District 25 - Asm. Ash Kalra*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "\"Assembly District 26 - Asm. Patrick Ahrens*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "statement": "\"Assembly District 28 - Asm. Gail Pellerin*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "statement": "\"Assembly District 30 - Asm. Dawn Addis*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida Obeso-Martinez",
+      "statement": "\"Assembly District 36 - Dr. Ida Obeso Martinez, DNP, FNP-C\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "statement": "\"Assembly District 37 - Asm. Gregg Hart*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Bennett",
+      "statement": "\"Assembly District 38 - Asm. Steve Bennett*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "statement": "\"Assembly District 41 - Asm. John Harabedian*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"Assembly District 42 - Deborah Klein Lopez\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"Assembly District 43 - Asm. Celeste Rodriguez*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"Assembly District 44 - Asm. Nick Schultz*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "statement": "\"Assembly District 47 - Leila Namvar\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Assembly District 50 - Asm. Robert Garcia*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"Assembly District 51 - Asm. Rick Chavez Zbur*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"Assembly District 52 - Asm. Jessica Caloza*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"Assembly District 54 - Asm. Mark Gonzalez*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac Bryan",
+      "statement": "\"Assembly District 55 - Asm. Issac Bryan*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Calderon",
+      "statement": "\"Assembly District 56 - Asm. Lisa Calderon*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"Assembly District 57 - Asm. Sade Elhawary*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "statement": "\"Assembly District 58 - Clarissa Cervantes\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"Assembly District 60 - Asm. Corey Jackson*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Pacheco",
+      "statement": "\"Assembly District 64 - Asm. Blanca Pacheco*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"Assembly District 65 - Ayanna Davis\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Deen",
+      "statement": "\"Assembly District 66 - Sara Deen\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"Assembly District 67 - Mark Pulido\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessie Lopez",
+      "statement": "\"Assembly District 68 - Jessie Lopez\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "statement": "\"Assembly District 69 - Asm. Josh Lowenthal*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "statement": "\"Assembly District 76 - Asm. Darshana Patel*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "statement": "\"Assembly District 78 - Asm. Chris Ward*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "\"Assembly District 79 - Asm. LaShae Sharp Collins*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Alvarez",
+      "statement": "\"Assembly District 80 - Asm. David Alvarez*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1: Veterans & Affordable Housing Bond - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3: Make High-Earner Income Tax Permanent, Funds Public Education - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4: Remove the Ban on Local Public Campaign Financing - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39: Require Voter ID to Cast a Ballot in California - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40: Billionaire's Tax - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41: Audit New Tax Spending - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42: Prohibit new Personal Property Tax & Retroactive Taxes - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43: Higher Threshold for Local Special Tax Measures - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45: California Environmental Quality Act Reform - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Bass",
+      "statement": "\"Los Angeles City Mayor - Karen Bass*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "statement": "\"Oakland Mayor - Barbara Lee*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Richmond Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/richmond",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Claudia Jimenez",
+      "statement": "\"Richmond Mayor - Claudia Jimenez\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Long Beach Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Udak-Joe Ntuk",
+      "statement": "\"Long Beach City College District Board of Trustees, Area 1 - Udak-Joe Ntuk*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Long Beach Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sunny Zia",
+      "statement": "\"Long Beach City College District Board of Trustees, Area 3 - Sunny Zia*\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Oakland, Measure EE - Oakland Mayoral Powers, City Council Oversight, and Elected Officials Charter Amendment - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"San Francisco Measure D - City Charter Amendment to Increase Barriers to Qualify Citizen's Initiatives - Oppose\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Grossmont-Cuyamaca Community College District Bond Measure - Support\"",
+      "source": "https://www.nationalnursesunited.org/california-endorsements"
+    }
+  ]
+}

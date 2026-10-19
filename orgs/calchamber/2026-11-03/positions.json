@@ -1,0 +1,141 @@
+{
+  "context": {
+    "title": "California Chamber of Commerce (CalChamber) — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Chamber of Commerce",
+      "uri": "https://www.calchamber.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:17Z",
+    "sources": [
+      "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1: Authorizes Bonds for Housing Affordability Programs (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2: Increases State’s Rainy-Day Fund (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 4: Repeals Prohibition Against Public Funding of Election Campaigns (NO)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37: Creates Loan Program for Middle-Income Buyers of Qualified New Homes (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40: Imposes One-Time Tax on Certain Taxpayers (NO)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 41: Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 42: Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43: Limits Voters’ Ability to Raise Revenues for Local Government Services (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: Requires Community Health Clinics Spend 90% of Revenue on Program Services (NO)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 45: Modifies Environmental Review for Certain Projects (YES)\"",
+      "source": "https://advocacy.calchamber.com/alert/2026/09/calchamber-board-announces-positions-on-november-ballot-measures"
+    }
+  ]
+}

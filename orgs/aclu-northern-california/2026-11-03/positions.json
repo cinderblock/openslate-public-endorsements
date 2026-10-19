@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "ACLU of Northern California — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "ACLU of Northern California",
+      "uri": "https://www.aclunorcal.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:12:28Z",
+    "sources": [
+      "https://www.aclunorcal.org/vote/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 39 Fast Facts\" … \"Vote NO on Prop 39.\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    }
+  ]
+}

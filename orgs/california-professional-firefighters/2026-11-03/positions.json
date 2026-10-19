@@ -1,0 +1,2130 @@
+{
+  "context": {
+    "title": "California Professional Firefighters — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Professional Firefighters",
+      "uri": "https://www.cpf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:45:46Z",
+    "sources": [
+      "https://cpfelectionguide.org/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor | Xavier Becerra\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Fiona Ma",
+      "statement": "\"Lt. Governor | Fiona Ma\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State | Shirley Weber\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General | Rob Bonta\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Malia Cohen",
+      "statement": "\"State Controller | Malia Cohen\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State Treasurer | Eleni Kounalakis\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner | Ben Allen\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Inst. | Richard Barrera\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Board of Equalization 1 | No Recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sally Lieber",
+      "statement": "\"Board of Equalization 2 | Sally Lieber\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Gipson",
+      "statement": "\"Board of Equalization 3 | Mike Gipson\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tom Umberg",
+      "statement": "\"Board of Equalization 4 | Tom Umberg\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 1 | YES (CPF Supports)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 2 | YES (CPF Supports)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3 | YES (CPF Strongly Supports)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 4 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 5 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 37 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 38 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 39 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 40 | NO (CPF Opposes)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 41 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 42 | YES (CPF Supports)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 43 | NO (CPF Strongly Opposes)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 44 | No CPF recommendation\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 45 | NO (CPF Opposes)\" (Statewide Candidate and Ballot Measure Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike McGuire",
+      "statement": "\"CD 1 | Mike Mcguire\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jared Huffman",
+      "statement": "\"CD 2 | Jared Huffman\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ami Bera",
+      "statement": "\"CD 3 | Ami Bera\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Thompson",
+      "statement": "\"CD 4 | Mike Thompson\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"CD 5 | No Recommendation\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Richard Pan",
+      "statement": "\"CD 6 | Richard Pan\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Doris Matsui",
+      "statement": "\"CD 7 | Doris Matsui\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Garamendi",
+      "statement": "\"CD 8 | John Garamendi\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Josh Harder",
+      "statement": "\"CD 9 | Josh Harder\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark DeSaulnier",
+      "statement": "\"CD 10 | Mark Desaulnier\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Connie Chan",
+      "statement": "\"CD 11 | Connie Chan\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lateefah Simon",
+      "statement": "\"CD 12 | Lateefah Simon\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Adam Gray",
+      "statement": "\"CD 13 | Adam Gray\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"CD 14 | No Recommendation\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kevin Mullin",
+      "statement": "\"CD 15 | Kevin Mullin\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sam Liccardo",
+      "statement": "\"CD 16 | Sam Liccardo\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ro Khanna",
+      "statement": "\"CD 17 | Ro Khanna\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Zoe Lofgren",
+      "statement": "\"CD 18 | Zoe Lofgren\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jimmy Panetta",
+      "statement": "\"CD 19 | Jimmy Panetta\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Vince Fong",
+      "statement": "\"CD 20 | Vince Fong\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jim Costa",
+      "statement": "\"CD 21 | Jim Costa\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"CD 22 | No Recommendation\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Salud Carbajal",
+      "statement": "\"CD 24 | Salud Carbajal\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Raul Ruiz",
+      "statement": "\"CD 25 | Raul Ruiz\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jacqui Irwin",
+      "statement": "\"CD 26 | Jaqui Irwin\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "George Whitesides",
+      "statement": "\"CD 27 | George Whitesides\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Judy Chu",
+      "statement": "\"CD 28 | Judy Chu\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Luz Rivas",
+      "statement": "\"CD 29 | Luz Rivas\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Laura Friedman",
+      "statement": "\"CD 30 | Laura Friedman\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gil Cisneros",
+      "statement": "\"CD 31 | Gil Cisneros\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brad Sherman",
+      "statement": "\"CD 32 | Brad Sherman\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pete Aguilar",
+      "statement": "\"CD 33 | Pete Aguilar\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jimmy Gomez",
+      "statement": "\"CD 34 | Jimmy Gomez\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Norma Torres",
+      "statement": "\"CD 35 | Norma Torres\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ted Lieu",
+      "statement": "\"CD 36 | Ted Lieu\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"CD 37 | Sydney Kamlager-Dove\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Hilda Solis",
+      "statement": "\"CD 38 | Hilda Solis\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark Takano",
+      "statement": "\"CD 39 | Mark Takano\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"CD 40 | No Recommendation\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Linda Sanchez",
+      "statement": "\"CD 41 | Linda Sanchez\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robert Garcia",
+      "statement": "\"CD 42 | Robert Garcia\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maxine Waters",
+      "statement": "\"CD 43 | Maxine Waters\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nanette Barragán",
+      "statement": "\"CD 44 | Nanette Baragan\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Derek Tran",
+      "statement": "\"CD 45 | Derek Tran\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lou Correa",
+      "statement": "\"CD 46 | Lou Correa\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Dave Min",
+      "statement": "\"CD 47 | Dave Min\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"CD 48 | No Recommendation\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Levin",
+      "statement": "\"CD 49 | Mike Levin\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Scott Peters",
+      "statement": "\"CD 50 | Scott Peters\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sara Jacobs",
+      "statement": "\"CD 51 | Sara Jacobs\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Vargas",
+      "statement": "\"CD 52 | Juan Vargas\" (IAFF Federal Office Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Damon Connolly",
+      "statement": "\"SD 2 | Damon Connolly\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alexandra Duarte",
+      "statement": "\"SD 4 | Alexandra Duarte\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Roger Niello",
+      "statement": "\"SD 6 | Roger Niello\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Angelique Ashby",
+      "statement": "\"SD 8 | Angelique Ashby\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Scott Sakakihara",
+      "statement": "\"SD 10 | Scott Sakakihara\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nathan Magsig",
+      "statement": "\"SD 12 | Nathan Magsig\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Esmeralda Soria",
+      "statement": "\"SD 14 | Esmeralda Soria\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Melissa Hurtado",
+      "statement": "\"SD 16 | Melissa Hurtado\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steve Padilla",
+      "statement": "\"SD 18 | Steve Padilla\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Caroline Menjivar",
+      "statement": "\"SD 20 | Caroline Menjivar\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Susan Rubio",
+      "statement": "\"SD 22 | Susan Rubio\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Erickson",
+      "statement": "\"SD 24 | John Erickson\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"SD 26 | NO CPF ENDORSEMENT\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"SD 28 | Lola Smallwood-Cuevas\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Bob Archuleta",
+      "statement": "\"SD 30 | Bob Archuleta\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kelly Seyarto",
+      "statement": "\"SD 32 | Kelly Seyarto\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Avelino Valencia",
+      "statement": "\"SD 34 | Avelino Valencia\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tony Strickland",
+      "statement": "\"SD 36 | Tony Strickland\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Catherine Blakespear",
+      "statement": "\"SD 38 | Catherine Blakespear\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mara Elliott",
+      "statement": "\"SD 40 | Mara Elliott\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Heather Hadwick",
+      "statement": "\"AD 1 | Heather Hadwick\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chris Rogers",
+      "statement": "\"AD 2 | Chris Rogers\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-3",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Dom Belza",
+      "statement": "\"AD 3 | Dom Belza\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"AD 4 | Cecilia Aguiar-Curry\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Joe Patterson",
+      "statement": "\"AD 5 | Joe Patterson\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maggy Krell",
+      "statement": "\"AD 6 | Maggy Krell\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Josh Hoover",
+      "statement": "\"AD 7 | Josh Hoover\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-8",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Tangipa",
+      "statement": "\"AD 8 | David Tangipa\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Heath Flora",
+      "statement": "\"AD 9 | Heath Flora\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-10",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stephanie Nguyen",
+      "statement": "\"AD 10 | Stephanie Nguyen\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lori Wilson",
+      "statement": "\"AD 11 | Lori Wilson\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jackie Elward",
+      "statement": "\"AD 12 | Jackie Elward\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"AD 13 | Rhodesia Ransom\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Buffy Wicks",
+      "statement": "\"AD 14 | Buffy Wicks\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-15",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anamarie Avila Farias",
+      "statement": "\"AD 15 | Anamarie Farias\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rebecca Bauer-Kahan",
+      "statement": "\"AD 16 | Rebecca Bauer-Kahan\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Matt Haney",
+      "statement": "\"AD 17 | Matt Haney\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mia Bonta",
+      "statement": "\"AD 18 | Mia Bonta\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Catherine Stefani",
+      "statement": "\"AD 19 | Catherine Stefani\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Liz Ortega",
+      "statement": "\"AD 20 | Liz Ortega\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Diane Papan",
+      "statement": "\"AD 21 | Diane Papan\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-22",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Alanis",
+      "statement": "\"AD 22 | Juan Alanis\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Marc Berman",
+      "statement": "\"AD 23 | Marc Berman\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alex Lee",
+      "statement": "\"AD 24 | Alex Lee\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ash Kalra",
+      "statement": "\"AD 25 | Ash Kalra\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Patrick Ahrens",
+      "statement": "\"AD 26 | Patrick Ahrens\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Murphy",
+      "statement": "\"AD 27 | Mike Murphy\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gail Pellerin",
+      "statement": "\"AD 28 | Gail Pellerin\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robert Rivas",
+      "statement": "\"AD 29 | Robert Rivas\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Dawn Addis",
+      "statement": "\"AD 30 | Dawn Addis\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Annalisa Perea",
+      "statement": "\"AD 31 | Annalisa Perea\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-32",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Couch",
+      "statement": "\"AD 32 | David Couch\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-33",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alexandra Macedo",
+      "statement": "\"AD 33 | Alexandra Macedo\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Charles Hughes",
+      "statement": "\"AD 34 | Charles Hughes\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Andrae Gonzales",
+      "statement": "\"AD 35 | Andrae Gonzalez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jeff Gonzalez",
+      "statement": "\"AD 36 | Jeff Gonzalez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gregg Hart",
+      "statement": "\"AD 37 | Gregg Hart\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steve Bennett",
+      "statement": "\"AD 38 | Steve Bennett\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Carrillo",
+      "statement": "\"AD 39 | Juan Carrillo\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pilar Schiavo",
+      "statement": "\"AD 40 | Pilar Schiavo\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Harabedian",
+      "statement": "\"AD 41 | John Harabedian\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"AD 42 | Deborah Klein Lopez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"AD 43 | Celeste Rodriguez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nick Schultz",
+      "statement": "\"AD 44 | Nick Schultz\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-45",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "James Ramos",
+      "statement": "\"AD 45 | James Ramos\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jesse Gabriel",
+      "statement": "\"AD 46 | Jesse Gabriel\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Greg Wallis",
+      "statement": "\"AD 47 | Greg Wallis\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-48",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Blanca Rubio",
+      "statement": "\"AD 48 | Blanca Rubio\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Fong",
+      "statement": "\"AD 49 | Mike Fong\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robert Garcia",
+      "statement": "\"AD 50 | Robert Garcia\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"AD 51 | Rick Chavez Zbur\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jessica Caloza",
+      "statement": "\"AD 52 | Jessica Caloza\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Michelle Rodriguez",
+      "statement": "\"AD 53 | Michelle Rodriguez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark Gonzalez",
+      "statement": "\"AD 54 | Mark Gonzalez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Isaac Bryan",
+      "statement": "\"AD 55 | Isaac Bryan\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lisa Calderon",
+      "statement": "\"AD 56 | Lisa Calderon\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sade Elhawary",
+      "statement": "\"AD 57 | Sade Elhawary\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Leticia Castillo",
+      "statement": "\"AD 58 | Leticia Castillo\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 59",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-59",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Phillip Chen",
+      "statement": "\"AD 59 | Phillip Chen\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Corey Jackson",
+      "statement": "\"AD 60 | Corey Jackson\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tina McKinnor",
+      "statement": "\"AD 61 | Tina McKinnor\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "José Luis Solache",
+      "statement": "\"AD 62 | Jose Solache\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 63",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-63",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Natasha Johnson",
+      "statement": "\"AD 63 | Natasha Johnson\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Blanca Pacheco",
+      "statement": "\"AD 64 | Blanca Pacheco\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ayanna Davis",
+      "statement": "\"AD 65 | Ayanna Davis\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Paul Seo",
+      "statement": "\"AD 66 | Paul Seo\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark Pulido",
+      "statement": "\"AD 67 | Mark Pulido\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Penaloza",
+      "statement": "\"AD 68 | David Penaloza\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Josh Lowenthal",
+      "statement": "\"AD 69 | Josh Lowenthal\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tri Ta",
+      "statement": "\"AD 70 | Tri Ta\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kate Sanchez",
+      "statement": "\"AD 71 | Kate Sanchez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gracey Van Der Mark",
+      "statement": "\"AD 72 | Gracey Van Der Mark\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 73",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-73",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cottie Petrie-Norris",
+      "statement": "\"AD 73 | Cottie Petrie-Norris\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Laurie Davies",
+      "statement": "\"AD 74 | Laurie Davies\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"AD 75 | NO CPF ENDORSEMENT\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Darshana Patel",
+      "statement": "\"AD 76 | Darshana Patel\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tasha Boerner",
+      "statement": "\"AD 77 | Tasha Boerner\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chris Ward",
+      "statement": "\"AD 78 | Christopher Ward\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "\"AD 79 | LaShae Collins-Sharp\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Alvarez",
+      "statement": "\"AD 80 | David Alvarez\" (State Legislative Recommendations)",
+      "source": "https://cpfelectionguide.org/"
+    }
+  ]
+}

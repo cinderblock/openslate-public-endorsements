@@ -1,0 +1,181 @@
+{
+  "context": {
+    "title": "California Association of REALTORS® — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Association of REALTORS",
+      "uri": "https://www.car.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:55:03Z",
+    "sources": [
+      "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Proposition 1: SB 417 (Limón), The Veterans and Affordable Housing Bond Act of 2026\" … \"C.A.R. Position: NEUTRAL\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 2: ACA 20 (Gabriel), Save for California’s Future Act\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 3: Provides Permanent Funding for Schools and Healthcare by Extending Existing Tax on High Incomes. Initiative Constitutional Amendment\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Proposition 4: SB 42 (Umberg), Political Reform Act of 1974: Public Campaign Financing: California Fair Elections Act of 2026\" … \"C.A.R. Position: NEUTRAL\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 5: SCA 1 (Newman), Elections: Recall of State Officers]\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37: Creates Loan Program for Middle-Income Buyers of Qualified New Homes. Initiative Statute\" … \"C.A.R. Position: FOR [SUPPORT]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 38: Authorizes Bonds for Immunology Research. Initiative Statute\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 39: Establishes Additional Voter Identification and Citizenship Verification Requirements.\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40: Imposes One-Time Tax on Certain Individuals and Trusts. Initiative Constitutional Amendment and Statute\" … \"C.A.R. Position: AGAINST [OPPOSE]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 41: Requires Audits of Programs Funded by New State Special Taxes. Prohibits New State Taxes That Are Excluded From Existing Voter-Approved State Spending Limit. Initiative Constitutional Amendment.\" … \"C.A.R. Position: FOR [SUPPORT]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 42: Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes. Initiative Constitutional Amendment\" … \"C.A.R. Position: FOR [SUPPORT]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43: ACA 22 (Wicks), Local Taxes: Limitation\" … \"C.A.R. Position: FOR [SUPPORT]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Proposition 44: Requires Community Health Clinics Spend 90% of Revenue on Program Services. Initiative Statute\" … \"C.A.R. Position: NOT REAL ESTATE RELATED\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 45: Modifies Environmental Review for Certain Projects. Initiative Statute\" … \"C.A.R. Position: FOR [SUPPORT]\"",
+      "source": "https://www.car.org/advocacy/stategovernmentaffairs/Ballot-Measures"
+    }
+  ]
+}

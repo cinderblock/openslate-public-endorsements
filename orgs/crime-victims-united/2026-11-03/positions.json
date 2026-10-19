@@ -1,0 +1,81 @@
+{
+  "context": {
+    "title": "Crime Victims United of California — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Crime Victims United of California",
+      "uri": "https://www.crimevictimsunited.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:14:05Z",
+    "sources": [
+      "https://www.crimevictimsunited.com/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Crime Victims United announced their endorsement of California State Treasurer Fiona Ma for Lieutenant Governor.\"",
+      "source": "https://www.crimevictimsunited.com/endorsements/-"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Strickland",
+      "statement": "\"Crime Victims United is proud to endorse Senator Tony Strickland for re-election to the California State Senate representing District 36.\"",
+      "source": "https://www.crimevictimsunited.com/endorsements/Blog%20Post%20Title%20One-3zaa9-zlxng-67tfc-38lgm"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dom Belza",
+      "statement": "\"Crime Victims United is proud to endorse Dom Belza for the California State Assembly representing District 3.\"",
+      "source": "https://www.crimevictimsunited.com/endorsements/blog-post-title-three-y3peb-4lwnz-5pkhf-t79gs"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Hoover",
+      "statement": "\"Crime Victims United is proud to endorse Assemblyman Josh Hoover for re-election to the California State Assembly representing District 7.\"",
+      "source": "https://www.crimevictimsunited.com/endorsements/blog-post-title-two-t5my5-k4xmd-67jzh-2rzsp"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Hughes",
+      "statement": "\"Crime Victims United is proud to endorse Charles Hughes for the California State Assembly representing District 34.\"",
+      "source": "https://www.crimevictimsunited.com/endorsements/t3j02nfo6wbn71i8sikfi11608vcik"
+    }
+  ]
+}
