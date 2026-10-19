@@ -1,0 +1,320 @@
+{
+  "context": {
+    "title": "Westside Family Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Westside Family Democratic Club",
+      "uri": "https://westsidefamilysf.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:05:29Z",
+    "sources": [
+      "https://westsidefamilysf.com/current-endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Public Defender: No Endorsement\" ... \"Raju does not deserve our endorsement, or your vote.\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "\"District 4 Supervisor: Alan Wong\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "\"Board of Education: Phil Kim, Autumn Brown Garibay, and Tim Tung\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "\"Board of Education: Phil Kim, Autumn Brown Garibay, and Tim Tung\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "statement": "\"Board of Education: Phil Kim, Autumn Brown Garibay, and Tim Tung\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "statement": "\"Community College Board: Elijah Ball, Erwin Tam, and Monroe Lace\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "statement": "\"Community College Board: Elijah Ball, Erwin Tam, and Monroe Lace\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "statement": "\"Community College Board: Elijah Ball, Erwin Tam, and Monroe Lace\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "statement": "\"Community College Board Partial Term: Ruth Ferguson\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "\"Assessor-Recorder: Joaquin Torres\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Barz",
+      "statement": "\"BART Board, District 8\" ... \"Sara Barz, this club’s president, is running unopposed, and we couldn’t be more excited to see her in this position.\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition A: Charter Changes Affecting Various City Departments and Commissions\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"No on Proposition B: Establishing a Municipal Finance Corporation and a Public Bank\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition C: Contributions to the Housing Fund\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition D: Changes to Ballot Measure Process\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition E: City Administrator’s Authority and Changes to City Contracting\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition F: Changes to Executive Branch Management\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"No on Proposition G: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition H: Parcel Tax to Fund Public Muni Operations\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"No on Proposition I: Changes to Real Property Transfer Tax\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Proposition J: Removal of Foreclosure Exemption for Real Property Transfer Tax\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on the Regional Transit Measure\" ... \"We strongly endorse “yes” on the regional transit measure.\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"Matt Haney for California Assembly (AD-17)\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"Catherine Stefani for California Assembly (AD-19)\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"Scott Wiener for US Congress\"",
+      "source": "https://westsidefamilysf.com/current-endorsements"
+    }
+  ]
+}

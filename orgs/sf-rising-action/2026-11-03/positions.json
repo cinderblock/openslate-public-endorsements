@@ -1,0 +1,311 @@
+{
+  "context": {
+    "title": "SF Rising Action — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF Rising Action",
+      "uri": "https://www.sfrisingaction.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:06:52Z",
+    "sources": [
+      "https://www.sfrisingaction.org/election/november-3-2026-general-election/",
+      "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/",
+      "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/",
+      "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "statement": "We are thrilled to endorse Supervisor Connie Chan for Congress -again!",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "DJ Brookter",
+      "statement": "\"Vote Yes\" — \"DION-JAY (DJ) BROOKTER (NOVEMBER 2026)\", \"District 10 Supervisor\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Nguyen",
+      "statement": "We are excited to announce the dual endorsement of Michael Nguyen and Gary McCoy for District 8 Supervisor!",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "We are excited to announce the dual endorsement of Michael Nguyen and Gary McCoy for District 8 Supervisor!",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "statement": "We’re excited to endorse Reina Tello for the Board of Education!",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "We’re proud to announce our endorsement of Jane Kim for CA Insurance Commissioner- again!",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP A: CHARTER CHANGES AFFECTING VARIOUS CITY DEPARTMENTS AND COMMISSIONS\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP B: PUBLIC BANK\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP C: HOUSING FUND\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP D: CHANGES TO BALLOT MEASURE PROCESS\". \"NO ON PROP D, E, AND F!\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP E: MODERNIZING CITY CONTRACTING INITIATIVE ACT\". \"NO ON PROP D, E, AND F!\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP F: CHANGES TO EXECUTIVE BRANCH MANAGEMENT\". \"NO ON PROP D, E, AND F!\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"No Position\" — \"PROP G: ALLOWING PRIVATE VEHICLES ON THE GREAT HIGHWAY IN SUNSET DUNES PARK\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/2/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP H: STRONGER MUNI FOR ALL\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP I: “AFFORDABLE HOUSING GUARANTEE ACT”\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP J: FORECLOSURE TRANSFER TAX\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"REGIONAL TRANSIT MEASURE: CONNECT BAY AREA\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP 1: HOUSING FUND\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP 3: FUNDING FOR EDUCATION\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP 39: VOTER ID LAW\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote Yes\" — \"PROP 40: BILLIONAIRES TAX\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP 42: ANTI-BILLIONAIRES TAX\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP 43: TAXPAYER DECEPTION ACT\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Vote No\" — \"PROP 45: CEQA – ENVIRONMENT REVIEW\"",
+      "source": "https://www.sfrisingaction.org/election/november-3-2026-general-election/page/4/"
+    }
+  ]
+}

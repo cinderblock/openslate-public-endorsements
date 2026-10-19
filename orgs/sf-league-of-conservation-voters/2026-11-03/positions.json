@@ -1,0 +1,258 @@
+{
+  "context": {
+    "title": "San Francisco League of Conservation Voters — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco League of Conservation Voters",
+      "uri": "https://www.sflcv.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:06:15Z",
+    "sources": [
+      "https://www.sflcv.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"Board of Supervisors, District 2: Stephen Sherrill\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Board of Supervisors, District 4: No Endorsement\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "\"Board of Supervisors, District 6: Matt Dorsey\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "\"Board of Supervisors, District 8: Gary McCoy\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "\"Board of Supervisors, District 10: Theo Ellington\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Barz",
+      "statement": "\"BART Board, District 8: Sara Barz\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "statement": "\"City College Board: Elijah Ball\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "statement": "\"Board of Education: Alida Fisher, Phil Kim, Tim Tung\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "\"Board of Education: Alida Fisher, Phil Kim, Tim Tung\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "statement": "\"Board of Education: Alida Fisher, Phil Kim, Tim Tung\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on A: Charter Changes Affecting Various City Departments and Commissions\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on B: Municipal Finance Corporation and Public Bank\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on C: Housing Trust Fund\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on D: Changes to Ballot Measure Process\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on E: Extending City Administrator’s Duties and Changes to City Contracting\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"NO POSITION on F: Changes to Executive Branch Management\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO on G: Allowing Private Vehicles on the Great Highway in Sunset Dunes Park\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on H: Parcel Tax to Fund Public Transit Operations\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"NO POSITION on I: Affordable Housing Guarantee Act\"",
+      "source": "https://www.sflcv.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on RTM: Regional Transit Funding Measure\"",
+      "source": "https://www.sflcv.org/endorsements"
+    }
+  ]
+}

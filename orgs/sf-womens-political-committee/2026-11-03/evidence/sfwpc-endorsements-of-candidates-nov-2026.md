@@ -1,0 +1,64 @@
+# Evidence: SFWPC — Endorsements of Candidates for November 2026 Election
+
+- **Source URL**: https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/
+- **Retrieved**: 2026-10-19T21:25:06Z (curl GET with a browser User-Agent; HTML converted to text)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+ENDORSEMENTS OF CANDIDATES FOR NOVEMBER 2026 ELECTION
+
+August 21, 2026 by sfwpcgeneral
+
+We want to thank all of the candidates, campaigns, and members who participated in our process. The members have spoken! Please see the candidates SFWPC is supporting this November:
+
+Federal Office
+
+California Congressional District 11: Connie Chan
+
+Statewide + Regional Candidates
+
+Governor: Xavier Becerra
+
+California Lieutenant Governor: Fiona Ma
+
+Secretary of State: Shirley Weber
+
+State Controller: Malia Cohen
+
+State Treasurer: Eleni Kounalakis
+
+Board of Equalization: Sally Lieber
+
+Insurance Commissioner: Jane Kim
+
+California Superintendent of Public Instruction: No Endorsement
+
+State Assembly, District 17: Matt Haney
+
+State Assembly, District 19: Catherine Stefani
+
+Local Candidates
+
+San Francisco Assessor-Recorder: Joaquin Torres
+
+San Francisco Public Defender: Mano Raju
+
+Board of Supervisors, District 2: [Sole] Stephen Sherrill
+
+Board of Supervisors, District 4: [Sole] Alan Wong
+
+Board of Supervisors, District 6: [Sole] Matt Dorsey
+
+Board of Supervisors, District 8: [Sole] Gary McCoy
+
+Board of Supervisors, District 10: [Sole] Theo Ellington
+
+San Francisco Board of Education: Phil Kim, Alida Fisher, Autumn Brown Garibay
+
+City College Board of Trustees: Monroe Lace, Dr. Bunny McFadden, Jeremy Lee
+
+City College Board of Trustee (Partial Term): Ruth Ferguson
+
+BART Board, District 8: Sara Barz
+```

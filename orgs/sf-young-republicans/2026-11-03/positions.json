@@ -1,0 +1,152 @@
+{
+  "context": {
+    "title": "San Francisco Young Republicans — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Young Republicans",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:02:23Z",
+    "sources": [
+      "https://sfendorsements.com/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Governor\": \"Steve Hilton\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Lieutenant Governor\": \"Gloria Romero\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb Morgan",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Controller\": \"Herb Morgan\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Treasurer\": \"Jennifer Hawks\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gates",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Attorney General\": \"Michael Gates\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Hoelter",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"House CA-15\": \"Charles Hoelter\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Philip Louis Wing",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"State Assembly 19\": \"Philip Wing\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"State Superintendent of Public Instruction\": \"Sonja Shaw\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Prop 39\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Prop B\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, SF Young Republicans row, column \"Prop G\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "context": {
+    "title": "United Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "United Democratic Club",
+      "uri": "https://www.uniteddems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:06:26Z",
+    "sources": [
+      "https://www.uniteddems.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"U.S. Congress, California District 11: Scott Wiener\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "\"U.S. Congress, California District 15: Kevin Mullin\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor: Fiona Ma\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Controller: Malia Cohen\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General: Rob Bonta\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction: Richard Barrera\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"Board of Equalization, District 2: Sally Lieber\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"State Assembly District 17: Matt Haney\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"State Assembly District 19: Catherine Stefani\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "\"Assessor-Recorder: Joaquin Torres\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Public Defender: No Endorsement\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"Board of Supervisors, District 2: Stephen Sherrill\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "\"Board of Supervisors, District 4: Alan Wong\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "\"Board of Supervisors, District 6: Matt Dorsey\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Board of Supervisors, District 8: No Endorsement\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "\"Board of Supervisors, District 10: Theo Ellington\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "Listed under \"Board of Education (3 seats):\" as \"Autumn Brown Garibay\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "Listed under \"Board of Education (3 seats):\" as \"Phil Kim\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "statement": "Listed under \"Board of Education (3 seats):\" as \"Tim Tung\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "statement": "Listed under \"City College Board (full term, 3 seats):\" as \"Elijah Ball\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "statement": "Listed under \"City College Board (full term, 3 seats):\" as \"Monroe Lace\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "statement": "Listed under \"City College Board (full term, 3 seats):\" as \"Erwin Tam\".",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "statement": "\"City College Board (partial term): Ruth Ferguson\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Barz",
+      "statement": "\"BART Board, District 8: Sara Barz\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1 (housing for veterans and the poor): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2 (increases California rainy day fund): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3 (fund schools and health care): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4 (public campaign finance): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5 (changes statewide recalls): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37 (home loans for middle class): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38 (immunology research bonds): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39 (no voting without government ID): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40 (wealth tax): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41 (prohibits new state taxes): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42 (protects the wealthy from taxes): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43 (defunds local services): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44 (attack on health clinic providers): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45 (kills environmental review): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition A (consensus updates to City Charter): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition B (public bank): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition C (affordable housing fund): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition D (stop excessive ballot measures): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition E (efficient city contracting): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition F (nimble and responsive government): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition G (closing Sunset Dunes Park): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition H (critical Muni funding): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition I (creates slush fund): No\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition J (tax foreclosures sales): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition RTM (regional transit measure): Yes\"",
+      "source": "https://www.uniteddems.org/endorsements"
+    }
+  ]
+}

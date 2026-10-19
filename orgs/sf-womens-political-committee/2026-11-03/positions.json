@@ -1,0 +1,633 @@
+{
+  "context": {
+    "title": "San Francisco Women's Political Committee — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Women's Political Committee",
+      "uri": "https://sfwpc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:25:07Z",
+    "sources": [
+      "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/",
+      "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "statement": "\"California Congressional District 11: Connie Chan\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"California Lieutenant Governor: Fiona Ma\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"State Controller: Malia Cohen\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State Treasurer: Eleni Kounalakis\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"Board of Equalization: Sally Lieber\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "\"Insurance Commissioner: Jane Kim\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"California Superintendent of Public Instruction: No Endorsement\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"State Assembly, District 17: Matt Haney\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"State Assembly, District 19: Catherine Stefani\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "\"San Francisco Assessor-Recorder: Joaquin Torres\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mano Raju",
+      "statement": "\"San Francisco Public Defender: Mano Raju\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"Board of Supervisors, District 2: [Sole] Stephen Sherrill\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "statement": "\"Board of Supervisors, District 4: [Sole] Alan Wong\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "\"Board of Supervisors, District 6: [Sole] Matt Dorsey\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "\"Board of Supervisors, District 8: [Sole] Gary McCoy\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "\"Board of Supervisors, District 10: [Sole] Theo Ellington\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "\"San Francisco Board of Education: Phil Kim, Alida Fisher, Autumn Brown Garibay\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "statement": "\"San Francisco Board of Education: Phil Kim, Alida Fisher, Autumn Brown Garibay\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "\"San Francisco Board of Education: Phil Kim, Alida Fisher, Autumn Brown Garibay\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "statement": "\"City College Board of Trustees: Monroe Lace, Dr. Bunny McFadden, Jeremy Lee\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "statement": "\"City College Board of Trustees: Monroe Lace, Dr. Bunny McFadden, Jeremy Lee\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "statement": "\"City College Board of Trustees: Monroe Lace, Dr. Bunny McFadden, Jeremy Lee\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "statement": "\"City College Board of Trustee (Partial Term): Ruth Ferguson\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Barz",
+      "statement": "\"BART Board, District 8: Sara Barz\"",
+      "source": "https://sfwpc.org/endorsements-of-candidates-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure A – SUPPORT – Charter Changes Affecting Various City Departments and Commissions\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure B – SUPPORT – Establishing a Municipal Finance Corporation and a Public Bank\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure C – SUPPORT – Contributions to the Housing Fund\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure D – OPPOSE – Changes to Ballot Measure Process\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure E – OPPOSE – City Administrator’s Authority and Changes to City Contracting\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure F – OPPOSE – Changes to Executive Branch Management\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure G – OPPOSE – Allowing Private Vehicles on the Great Highway in Sunset Dunes Park\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H – SUPPORT – Parcel Tax to Fund Public Muni Operations\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure I – SUPPORT – Changes to Real Property Transfer Tax\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure J – SUPPORT – Removal of Foreclosure Exemption for Real Property Transfer Tax\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Regional Ballot Measure – SUPPORT – Regional Transit Measure\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 1 – SUPPORT – The Veterans and Affordable Housing Bond Act of 2026\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 2 – SUPPORT – Save for California’s Future Act\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3 – SUPPORT – Permanent High-Income Tax for Schools and Healthcare\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 4 – SUPPORT – California Fair Elections Act of 2026\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 5 – SUPPORT – Elections: recall of state officers\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 37 – SUPPORT – California Middle-Class Homeownership Act\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 38 – OPPOSE – California Immunology and Immunotherapy Bond Act of 2026\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 39 – OPPOSE – California Voter ID Initiative\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 40 – SUPPORT – California Billionaire Tax\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 41 – OPPOSE – Special Tax Audit Requirement\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 42 – OPPOSE – Retirement & Personal Savings Protection Act\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 43 – OPPOSE – Save Prop 13 – Local Taxpayer Protection Initiative\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 44 – SUPPORT – Require Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 45 – OPPOSE – Modifies Environmental Review For Certain Projects\"",
+      "source": "https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/"
+    }
+  ]
+}

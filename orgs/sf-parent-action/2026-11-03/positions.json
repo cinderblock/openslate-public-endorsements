@@ -1,0 +1,57 @@
+{
+  "context": {
+    "title": "SF Parents Action — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF Parents Action",
+      "uri": "https://sfparentaction.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:19Z",
+    "sources": [
+      "https://sfparentaction.org/endorsements-2026-nov/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"AUTUMN BROWN GARIBAY\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"PHIL KIM\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"ALIDA FISHER\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    }
+  ]
+}

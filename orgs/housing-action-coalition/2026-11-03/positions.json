@@ -1,0 +1,1285 @@
+{
+  "context": {
+    "title": "Housing Action Coalition — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Housing Action Coalition",
+      "uri": "https://housingactioncoalition.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:18:58Z",
+    "sources": [
+      "https://housingactioncoalition.org/2026-endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support Prop 1: $11.25 billion affordable housing bond.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support Prop 45: Speeds up environmental review (CEQA-related)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oppose Prop 40: Billionaire tax.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oppose Prop 43: Raises the vote threshold for citizen-initiated special tax measures from a simple majority to two-thirds.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "Listed under the heading \"Governor\": \"Xavier Becerra (D)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"Scott Wiener (D) – Congressional District 11 (Open seat — currently held by Rep. Nancy Pelosi)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"John Erickson (D) – Senate District 24 (Open seat — currently held by Sen. Ben Allen)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "statement": "\"Sara Hernandez (D) – Senate District 26 (Open seat — currently held by Sen. Maria Elena Durazo)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"Lola Smallwood-Cuevas (D) – Senate District 28 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Blakespear",
+      "statement": "\"Catherine Blakespear (D) – Senate District 38 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "Listed under the heading \"Insurance Commissioner\": \"Ben Allen (D)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"Cecilia Aguiar-Curry (D) - Assembly District 4 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Patterson",
+      "statement": "\"Joe Patterson (R) – Assembly District 5 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heath Flora",
+      "statement": "\"Heath Flora (R) – Assembly District 9 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Wilson",
+      "statement": "\"Lori Wilson (D) – Assembly District 11 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "statement": "\"Buffy Wicks (D) – Assembly District 14 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anamarie Avila Farias",
+      "statement": "\"Anamarie Avila Farias (D) – Assembly District 15 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"Matt Haney (D) – Assembly District 17 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "\"Mia Bonta (D) – Assembly District 18 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"Catherine Stefani (D) – Assembly District 19 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "statement": "\"Marc Berman (D) – Assembly District 23 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "\"Alex Lee (D) – Assembly District 24 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "statement": "\"Ash Kalra (D) – Assembly District 25 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "\"Patrick Ahrens (D) – Assembly District 26 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "statement": "\"Gail Pellerin (D) – Assembly District 28 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"Robert A. Rivas (D) – Assembly District 29 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "statement": "\"John Harabedian (D) – Assembly District 41 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"Pilar Schiavo (D) – Assembly District 40 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"Celeste Rodriguez (D) – Assembly District 43 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"Nick Schultz (D) – Assembly District 44 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "statement": "\"Jesse Gabriel (D) – Assembly District 46 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"Mike Fong (D) – Assembly District 49 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Robert Garcia (D) – Assembly District 50 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"Jessica Caloza (D) – Assembly District 52 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"Mark Gonzalez (D) – Assembly District 54 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac Bryan",
+      "statement": "\"Isaac Bryan (D) – Assembly District 55 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"Sade Elhawary (D) – Assembly District 57 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"Corey Jackson (D) – Assembly District 60 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina McKinnor",
+      "statement": "\"Tina McKinnor (D) – Assembly District 61 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "statement": "\"Chris Ward (D) – Assembly District 78 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Alvarez",
+      "statement": "\"David Alvarez (D) – Assembly District 80 (Incumbent)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"Eric Lucan (D) — State Assembly District 12 (Open seat — currently held by Damon Connolly)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "JJ Galvez",
+      "statement": "\"JJ Galvez (D) – State Assembly District 71 (Galvez is running against Republican incumbent Kate Sanchez)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support Regional Transit Measure (Measure RTM)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "\"Joaquín Torres – Assessor-Recorder\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"Stephen Sherrill – Board of Supervisors, District 2\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "\"Matt Dorsey – Board of Supervisors, District 6\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "\"Theo Ellington – Board of Supervisors, District 10\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "statement": "\"Phil Kim – Board of Education\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "statement": "\"Autumn Brown Garibay – Board of Education\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "statement": "\"Tim Tung – Board of Education\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support SF Prop C: Housing Trust Fund measure\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oppose SF Prop I: Affordable Housing Guarantee Act\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nithya Raman",
+      "statement": "\"Nithya Raman – LA Mayor\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "statement": "\"Marissa Roy – Los Angeles City Attorney\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Ugarte",
+      "statement": "\"Jose Ugarte – LA City Council, District 9\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Freddy Puza",
+      "statement": "\"Freddy Puza – Culver City City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Aujero Small",
+      "statement": "\"Thomas Aujero Small – Culver City City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eddy Polon",
+      "statement": "\"Eddy Polon – Burbank City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nikki Perez",
+      "statement": "\"Nikki Perez – Burbank City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Van Gorder",
+      "statement": "\"Mike Van Gorder – Burbank City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chelsea Byers",
+      "statement": "\"Chelsea Byers – West Hollywood City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Helen Krieger",
+      "statement": "\"Helen Krieger – West Hollywood City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Post",
+      "statement": "\"Stephen Post – West Hollywood City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pomona City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/pomona",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Victor Preciado",
+      "statement": "\"Victor Preciado – Pomona City Council, District 2\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Wong",
+      "statement": "\"Thomas Wong – Monterey Park City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support LA Measure TE: ULA Transfer Tax Exemption for Palisades Fire Properties.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support LA Measure PL: Neighborhood Appeals Commission Charter Amendment.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erin Spivey",
+      "statement": "\"Erin Spivey – Huntington Beach City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brenda Glim",
+      "statement": "\"Brenda Glim – Huntington Beach City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Moore",
+      "statement": "\"Rob Moore – Los Gatos Town Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Fruen",
+      "statement": "\"J.R. Fruen – Cupertino City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Seema Lindskog",
+      "statement": "\"Seema Lindskog – Cupertino City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Tang",
+      "statement": "\"John Tang – Cupertino City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Mehlinger",
+      "statement": "\"Richard Mehlinger – Sunnyvale City Council, District 5\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Kuszmaul",
+      "statement": "\"James Kuszmaul – Mountain View City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vicki Veenker",
+      "statement": "\"Vicki Veenker – Palo Alto City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oppose Los Altos Measure D: A citizen initiative requiring voter approval to sell, lease, surplus, or alter any of the 10 city-owned downtown parking plazas\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Nagales",
+      "statement": "\"Mark Nagales – San Mateo County Board of Supervisors, District 5\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Loraine",
+      "statement": "\"Adam Loraine – San Mateo City Council, District 5\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Seema Patel",
+      "statement": "\"Seema Patel – San Mateo City Council, District 3\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Sturken",
+      "statement": "\"Chris Sturken – Redwood City Council, District 2\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phoebe Venkat",
+      "statement": "\"Phoebe Venkat – Foster City Council, District 1\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Auros Harman",
+      "statement": "\"Auros Harman – San Bruno City Council, District 4\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aysha Pamukcu",
+      "statement": "\"Aysha Pamukcu – South San Francisco City Council, District 1\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oppose Menlo Park Measure P: Would bar the City from selling, leasing, or conveying downtown parking lots in ways that reduce parking without voter approval.\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support Half Moon Bay Measure Q: Approves an ordinance authorizing a ground lease and related agreements to build affordable housing for senior farmworkers\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "statement": "\"Barbara Lee – Oakland Mayor\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "statement": "\"Charlene Wang – Oakland City Council, District 2\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janani Ramachandran",
+      "statement": "\"Janani Ramachandran – Oakland City Council, District 4\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daria Wrubel",
+      "weight": 1,
+      "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ross Bernet",
+      "weight": 0.5,
+      "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Igor Tregub",
+      "statement": "\"Igor Tregub – Berkeley City Council, District 4\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Humbert",
+      "statement": "\"Mark Humbert – Berkeley City Council, District 8\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Vella",
+      "statement": "\"Malia Vella – Alameda Mayor\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amos White",
+      "statement": "\"Amos White – Alameda City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corry Frydlewicz",
+      "statement": "\"Corry Frydlewicz – Emeryville City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aaron Tiedemann",
+      "weight": 1,
+      "statement": "\"Aaron Tiedemann (Rank #1), Robin López (Rank #2) – Albany City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robin López",
+      "weight": 0.5,
+      "statement": "\"Aaron Tiedemann (Rank #1), Robin López (Rank #2) – Albany City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adriana Valencia",
+      "statement": "\"Adriana Valencia – AC Transit, Ward 3\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Raburn",
+      "statement": "\"Robert Raburn – BART, District 4\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Community College District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cameron Sasai",
+      "statement": "\"Cameron Sasai – Contra Costa Community College District, Ward 1\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Quinto",
+      "statement": "\"Gabe Quinto – El Cerrito City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Walnut Creek City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/walnut-creek",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brendan Moran",
+      "statement": "\"Brendan Moran – Walnut Creek City Council\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Walnut Creek — Measure U (Walnut Creek Senior Housing Transit Village Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/walnut-creek",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Support Walnut Creek Measure U (Senior Housing Transit Village Initiative)\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    }
+  ]
+}

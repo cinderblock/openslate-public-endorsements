@@ -1,0 +1,536 @@
+{
+  "context": {
+    "title": "District 11 Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "District 11 Democratic Club",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:02:23Z",
+    "sources": [
+      "https://sfendorsements.com/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Governor\": \"Xavier Becerra\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Lieutenant Governor\": \"Fiona Ma\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Secretary of State\": \"Shirley Weber\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Controller\": \"Malia Cohen\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Treasurer\": \"Eleni Kounalakis\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Attorney General\": \"Rob Bonta\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"House CA-11\": \"Connie Chan\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"House CA-15\": \"Kevin Mullin\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"State Assembly 17\": \"Matt Haney\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Insurance Commissioner\": \"Jane Kim\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Member of the Board of Equalization, District 2\": \"Sally Lieber\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"State Superintendent of Public Instruction\": \"Richard Barrera\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Assessor-Recorder\": \"Joaquin Torres\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mano Raju",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Public Defender\": \"Mano Raju\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Board of Education (three seats)\": \"Alida Fisher, Reina Tello, Virginia Cheung\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Board of Education (three seats)\": \"Alida Fisher, Reina Tello, Virginia Cheung\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Board of Education (three seats)\": \"Alida Fisher, Reina Tello, Virginia Cheung\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Community College Board (three seats, term ending January 8, 2031)\": \"Leah LaCroix, Jeremy Lee, Bunny McFadden\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Community College Board (three seats, term ending January 8, 2031)\": \"Leah LaCroix, Jeremy Lee, Bunny McFadden\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Community College Board (three seats, term ending January 8, 2031)\": \"Leah LaCroix, Jeremy Lee, Bunny McFadden\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Community College Board (remainder of term ending January 8, 2029)\": \"Ruth Ferguson\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 1\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 2\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 3\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 4\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 5\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 39\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 40\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 41\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 42\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 43\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 44\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop 45\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop A\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop B\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop C\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop D\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop E\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop F\": \"No\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop H\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop I\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Prop J\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "sfendorsements.com, District 11 Democratic Club row, column \"Regional Transit Measure\": \"Yes\"",
+      "source": "https://sfendorsements.com/"
+    }
+  ]
+}

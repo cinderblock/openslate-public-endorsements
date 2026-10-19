@@ -1,0 +1,293 @@
+{
+  "context": {
+    "title": "San Francisco Labor Council — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Labor Council",
+      "uri": "https://www.sflaborcouncil.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:11:41Z",
+    "sources": [
+      "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "statement": "\"U.S. Congressional District 11: CONNIE CHAN\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "\"U.S. Congressional District 15: KEVIN MULLIN\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"CA Assembly District 17: MATT HANEY\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"CA Assembly District 19: CATHERINE STEFANI\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "statement": "\"Assessor-Recorder: Joaquin Torres\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mano Raju",
+      "statement": "\"Public Defender: Manuhar Raju\" [sic]",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "statement": "\"SF Supervisor District 2: STEPHEN SHERRILL\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"SF Supervisor District 4: No Recommendation\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"SF Supervisor District 6: No Recommendation\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "statement": "\"SF Supervisor District 8: GARY MCCOY\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "statement": "\"Board of Education: Virginia Cheung, Ryan Hazelton, and Reina Tello\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "statement": "\"Board of Education: Virginia Cheung, Ryan Hazelton, and Reina Tello\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "statement": "\"Board of Education: Virginia Cheung, Ryan Hazelton, and Reina Tello\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "statement": "\"Community College Board: Leah LaCroix, Jeremy Lee, and Bunny McFadden\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "statement": "\"Community College Board: Leah LaCroix, Jeremy Lee, and Bunny McFadden\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "statement": "\"Community College Board: Leah LaCroix, Jeremy Lee, and Bunny McFadden\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure B - Municipal Finance Corporation and Public Bank: Support\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure D - Changes to Ballot Measure Process: Oppose\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure G - Allowing Private Vehicles on the Great Highway in Sunset Dunes Park: No Position\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop H - Stronger MUNI for All: Support\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop I - Affordable Housing Guarantee Act: No Recommendation\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop J - Removal of Foreclosure Exemption for Real Property Transfer Tax: Support\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Regional Transit Measure: Support\"",
+      "source": "https://www.sflaborcouncil.org/en/news-details/news/our-endorsements/9251"
+    }
+  ]
+}

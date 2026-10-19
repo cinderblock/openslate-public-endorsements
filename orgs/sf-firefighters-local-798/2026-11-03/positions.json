@@ -1,0 +1,44 @@
+{
+  "context": {
+    "title": "San Francisco Firefighters Local 798 — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Firefighters Local 798",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:49:20Z",
+    "sources": [
+      "https://sfpoa.org/mayor-lurie-joined-by-firefighters-and-police-officers-in-strong-opposition-to-proposition-i/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"San Francisco Firefighters Local 798, SFPOA, and Mayor Lurie urge San Franciscans to vote NO on Proposition I and YES on Proposition C this November\"",
+      "source": "https://sfpoa.org/mayor-lurie-joined-by-firefighters-and-police-officers-in-strong-opposition-to-proposition-i/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"San Francisco Firefighters Local 798, SFPOA, and Mayor Lurie urge San Franciscans to vote NO on Proposition I and YES on Proposition C this November\"",
+      "source": "https://sfpoa.org/mayor-lurie-joined-by-firefighters-and-police-officers-in-strong-opposition-to-proposition-i/"
+    }
+  ]
+}

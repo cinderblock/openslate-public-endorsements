@@ -1,0 +1,408 @@
+{
+  "context": {
+    "title": "ConnectedSF — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "ConnectedSF",
+      "uri": "https://www.connectedsf.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:05:29Z",
+    "sources": [
+      "https://www.connectedsf.com/2026-voter-guide"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "weight": 1,
+      "statement": "\"Endorsement: Stephen Sherrill #1\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicholas Berg",
+      "weight": 0.5,
+      "statement": "\"Nod to Rank Choice Voting: Endorsement: Nick Berg #2\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "weight": 1,
+      "statement": "\"Endorsement: Alan Wong #1\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Albert Chow",
+      "weight": 0.5,
+      "statement": "\"Nod to Rank Choice Voting: Endorsement: Albert Chow #2\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "statement": "\"District 6 Supervisor - Matt Dorsey\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"District 8 Supervisor - No Endorsement\". \"The current candidates in this race do not align with member values and policy positions.\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "statement": "\"District 10 Supervisor - Theo Ellington\". \"In District 10 there is a clear choice.\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition A\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: HARD NO on Proposition B\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition C\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition E\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: HECK YES!\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: HECK NO on Proposition H! Psst, pass it on!\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition I\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition J\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on RTM\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 1\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 2\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 3\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 4\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 5\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: Vote NO on Proposition 37\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: Vote NO on Proposition 38\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition 39\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 40\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition 41\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition 42\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Endorsement: YES on Proposition 43\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 44\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Endorsement: NO on Proposition 45\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"Endorsement: Reluctant YES on Prop D\". \"While we are still recommending a “Yes” vote for the greater good of streamlining our ballots, we must be transparent and share that our Members were almost evenly split.\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"Endorsement: Really hesitant YES\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    }
+  ]
+}
