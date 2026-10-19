@@ -1,0 +1,309 @@
+{
+  "context": {
+    "title": "Orange County Business Council BIZPAC — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "OCBC BIZPAC (Orange County Business Council)",
+      "uri": "https://ocbc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:39:47Z",
+    "sources": [
+      "https://ocbc.org/government-affairs/bizpac/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Young Kim",
+      "statement": "\"Young Kim\" — \"United States House of Representatives, 40th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "\"Derek Tran\" — \"United States House of Representatives, 45th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Davies",
+      "statement": "\"Laurie Davies\" — \"California State Assembly, 74th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kate Sanchez",
+      "statement": "\"Kate Sanchez\" — \"California State Assembly, 71st District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Penaloza",
+      "statement": "\"David Penaloza\" — \"California State Assembly, 68th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Strickland",
+      "statement": "\"Tony Strickland\" — \"California State Assembly, 36th District\"; \"Senator Tony Strickland has consistently focused on affordability, government spending and reducing costs for Californians.\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avelino Valencia",
+      "statement": "\"Avelino Valencia\" — \"California State Assembly, 34th District\"; \"…and is seeking to represent the 34th Senate District.\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katrina Foley",
+      "statement": "\"Katrina Foley\" — \"Orange County Board of Supervisors, 5th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chip Ahlswede",
+      "statement": "\"Chip Ahlswede\" — \"Orange Unified School District Board of Education, 5th Trustee Area\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valerie Amezcua",
+      "statement": "\"Valerie Amezcua\" — \"Mayor of Santa Ana\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Buley",
+      "statement": "\"Michael Buley\" — \"Mayor of Costa Mesa\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "San Clemente Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Victor Cabral",
+      "statement": "\"Victor Cabral\" — \"Mayor of San Clemente\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Giovanni Chavez",
+      "statement": "\"Giovanni Chavez\" — \"Santa Ana City Council, 6th Ward\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Saga Conroy",
+      "statement": "\"Saga Conroy\" — \"Mission Viejo, 2nd District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Grable",
+      "statement": "\"Tom Grable\" — \"Lake Forest City Council, 3rd District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robyn Grant",
+      "statement": "\"Robyn Grant\" — \"Newport Beach City Council, 4th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Leon",
+      "statement": "\"Carlos Leon\" — \"Anaheim City Council, 2nd District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Tustin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Austin Lumbard",
+      "statement": "\"Austin Lumbard\" — \"Mayor of Tustin\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Natalie Meeks",
+      "statement": "\"Natalie Meeks\" — \"Anaheim City Council, 6th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 4 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Morrison",
+      "statement": "\"James Morrison\" — \"Mission Viejo City Council, 4th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Taryn Palumbo",
+      "statement": "\"Taryn Palumbo\" — \"Huntington Beach City Council\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blake Perez",
+      "statement": "\"Blake Perez\" — \"Brea City Council\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Rodriguez",
+      "statement": "\"Carlos Rodriguez\" — \"Yorba Linda City Council\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Rounaghi",
+      "statement": "\"Alex Rounaghi\" — \"Laguna Beach City Council\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    }
+  ]
+}

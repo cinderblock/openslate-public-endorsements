@@ -1,0 +1,454 @@
+{
+  "context": {
+    "title": "San Diego Union-Tribune Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The San Diego Union-Tribune Editorial Board",
+      "uri": "https://www.sandiegouniontribune.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:35:02Z",
+    "sources": [
+      "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/",
+      "https://www.sandiegouniontribune.com/opinion/endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Bailey",
+      "statement": "\"San Diego City Council District 2: Richard Bailey\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Henry Foster III",
+      "statement": "\"San Diego City Council District 4: Henry Foster III\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Powell",
+      "statement": "\"San Diego City Council District 6: Mark Powell\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gerardo Ramirez",
+      "statement": "\"San Diego City Council District 8: Gerardo Ramirez\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"San Diego Unified School District Measure M ($3.5 billion bond): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure R (Oceanside Charter — Prevailing Wage & Fair Competition Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oceanside Measure R (requiring city contractors to use project labor agreements): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Oceanside Measure S (sales tax increase): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McCann",
+      "statement": "\"Chula Vista Mayor: John McCann\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marcus Bush",
+      "statement": "\"National City Mayor: Marcus Bush\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"San Diego County Measure A (government restructuring, weakening term limits): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"San Diego County Measure B (half-cent county sales tax increase): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristine Alessio",
+      "statement": "\"San Diego County Supervisor District 4: Kristine Alessio\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Jones",
+      "statement": "\"San Diego County Supervisor District 5: Rebecca Jones\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Treasurer-Tax Collector",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Larry Cohen",
+      "statement": "\"San Diego County Treasurer: Larry Cohen\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "statement": "\"Senate District 40: Mara Elliott\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 1 ($11.25 billion housing bond): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 2 (changes in state Budget Stabilization Account rules): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 3 (makes temporary income tax surcharge permanent): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 4 (overturns law that prohibits state and local governments from using taxpayer money to provide campaign funding to candidates): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 5 (changes in how recall elections work): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 37 ($25 billion housing revenue bond to help with home down payments): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 38 ($8.4 billion medical research bond): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 39 (voter ID requirement): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 40 (retroactive “one-time” 5% wealth tax on state billionaires): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"California Proposition 41 (prohibits new state taxes from being exempted from the voter-approved state spending limit): Yes\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"California Proposition 42 (prohibits new taxes on personal property): Yes\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"California Proposition 43 (restores two-thirds vote requirement to enact local “special taxes”): Yes\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"California Proposition 44 (imposes strict rules on spending by nonprofit community health clinics): No\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"California Proposition 45 (CEQA reform): Yes\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb Morgan",
+      "statement": "\"California Controller: Herb W. Morgan\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"California Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"California Lieutenant Governor: Fiona Ma\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"California Secretary of State: Shirley N. Weber\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"California Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"48th Congressional District: Marni von Wilpert\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "\"49th Congressional District: Mike Levin\"",
+      "source": "https://www.sandiegouniontribune.com/2026/10/02/the-u-t-editorial-boards-endorsements/"
+    }
+  ]
+}

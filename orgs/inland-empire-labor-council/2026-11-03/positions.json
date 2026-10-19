@@ -1,0 +1,908 @@
+{
+  "context": {
+    "title": "Inland Empire Labor Council, AFL-CIO — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-bernardino-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Inland Empire Labor Council, AFL-CIO",
+      "uri": "https://ielabor.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:19:40Z",
+    "sources": [
+      "https://ielabor.org/cope/2026generalendorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor ... Xavier Becerra (D)\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Fiona Ma — Lieutenant Governor\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Shirley Weber (D) — Secretary of State\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Rob Bonta (D) — Attorney General\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Malia Cohen (D) — Controller\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Eleni Kounalakis (D) — Treasurer\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Richard Barrera (D) — Superintendent of Public Instruction\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Nelson Esparza (D) — Board of Equalization, District 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"Sally Lieber (D) — Board of Equalization, District 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "statement": "\"Mike Gipson (D) — Board of Equalization, District 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Umberg",
+      "statement": "\"Tom Umberg (D) — Board of Equalization, District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "\"U.S. Congress ... Raul Ruiz (D) 25\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "\"U.S. Congress ... Pete Aguilar (D) 33\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Torres",
+      "statement": "\"U.S. Congress ... Norma Torres (D) 35\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "\"U.S. Congress ... Mark Takano (D) 39\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"U.S. Congress ... Marni Von Wilpert (D) 48\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tiffanie Tate",
+      "statement": "\"CA State Senate ... Dr. Tiffanie Tate (D) 32\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida Obeso-Martinez",
+      "statement": "\"CA State Assembly ... Ida Obeso Martinez (D) 36\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Ramos",
+      "statement": "\"CA State Assembly ... James Ramos (D) 45\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "statement": "\"CA State Assembly ... Leila Namvar (D) 47\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"CA State Assembly ... Robert Garcia (D) 50\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Rodriguez",
+      "statement": "\"CA State Assembly ... Michelle Rodriguez (D) 53\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "statement": "\"CA State Assembly ... Clarissa Cervantes (D) 58\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"CA State Assembly ... Corey Jackson (D) 60\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 63",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-63",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Akin",
+      "statement": "\"CA State Assembly ... Kevin Akin (PFP) 63\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "JJ Galvez",
+      "statement": "\"CA State Assembly ... JJ Galvez (D) 71\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gracie Torres",
+      "statement": "\"Riverside ... Gracie Torres — City Council Ward 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rich Vandenberg",
+      "statement": "\"Riverside ... Rich Vandenberg — City Council Ward 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Perris City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/perris",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Starr Rabb",
+      "statement": "\"Perris ... David Starr Rabb — City Council District 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Banning City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/banning",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marco Santana",
+      "statement": "\"Banning ... Marco Santana — City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Corona City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/corona",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacque Casillas",
+      "statement": "\"Corona ... Jacque Casillas — City Council District 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/moreno-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ulises Cabrera",
+      "statement": "\"Moreno Valley ... Ulises Cabrera — Mayor\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/moreno-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liza Arellano",
+      "statement": "\"Moreno Valley ... Liza Arrellano — City Council District 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/moreno-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cheylynda Barnard",
+      "statement": "\"Moreno Valley ... Cheylynda Barnard — City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sammie Luna",
+      "statement": "\"Sammie Luna — Moreno Valley School Board Trustee Area 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Justin Jackson",
+      "statement": "\"Justin Jackson — Moreno Valley School Board Trustee Area 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandy Clark",
+      "statement": "\"Brandy Clark — Moreno Valley School Board Trustee Area 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Jurupa Valley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/jurupa-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Luis Godinez",
+      "statement": "\"Jurupa Valley ... Jose Luiz Godinez — City Council District 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Jurupa Valley City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/jurupa-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Edgar Castelan",
+      "statement": "\"Jurupa Valley ... Edgar Castelan — City Council District 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Jurupa Valley City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/jurupa-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Ruiz",
+      "statement": "\"Jurupa Valley ... George Ruiz — City Council District 5\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palm Springs City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-springs",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Grace Garner",
+      "statement": "\"Palm Springs ... Grace Garner — City Council District 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palm Springs City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-springs",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeffrey Bernstein",
+      "statement": "\"Palm Springs ... Jeffrey Bernstein — City Council District 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palm Desert City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-desert",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jonathan Polly",
+      "statement": "\"Palm Desert ... Jonathan Polly — City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Indio City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/indio",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Felipe Ortiz",
+      "statement": "\"Indio ... Felipe Ortiz — City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Nuview Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Abel Chavez",
+      "statement": "\"Nuview Union School District ... Abel Chavez — Nuview Union School District Board of Education\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Murrieta Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Murphy",
+      "statement": "\"Jeremy Murphy — Murrieta Valley Unified School District Trustee Area 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Murrieta Valley Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Young",
+      "statement": "\"Nancy Young — Murrieta Valley Unified School District Trustee Area 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Eastern Municipal Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Urena",
+      "statement": "\"Nathan Urena — Eastern Municipal Water District Board of Directors Area 5\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Desert Healthcare District Board, Zone 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anyse Smith",
+      "statement": "\"Anyse Smith — Desert Healthcare District Board of Directors Zone 5\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"San Bernardino ... Christian Shaughnessy — City Council District 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Salas",
+      "statement": "\"San Bernardino ... Joseph Salas — City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fontana City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Perez",
+      "statement": "\"Fontana ... Luz Pérez — Fontana City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Chino Hills City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/chino-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Johsz",
+      "statement": "\"Chino ... Brian Johsz — Chino Hills City Council District 4\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Chino Valley Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Gerdine",
+      "statement": "\"Frank Gerdine — Chino Valley School Board District 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rancho Cucamonga City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-cucamonga",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "DeJonae Shaw",
+      "statement": "\"Rancho Cucamonga ... Dejonaé Shaw — City Council District 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Colton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/colton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Echevarria",
+      "statement": "\"Colton ... John Echevarria — Mayor\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Redlands City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/redlands",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denise Davis",
+      "statement": "\"Redlands ... Denise Davis — Redlands City Council District 1\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Redlands Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Schavrien",
+      "statement": "\"Ryan Schavrien — Redlands Unified School Board Trustee Area 2\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Victorville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/victorville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Marshall",
+      "statement": "\"Victorville ... Derek Marshall — Victorville City Council\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "Hesperia Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caitlin Jones",
+      "statement": "\"Hesperia ... Caitlin Jones — Hesperia Unified School District Area 3\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 1: The Veterans and Affordable Housing Bond Act — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 2: Increases State's Rainy Day Fund — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3: Funding for Schools by Extending Tax on High Incomes — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 4: Repeals Ban on Public Funding of Election Campaigns — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 5: Changes Recall Election Process for Statewide Officers — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 37: Creates Loan Program for Middle-Income New Home Buyers — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Prop 38: Authorizes Bonds for Immunology Medical Research — No Recommendation\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 39: Prohibits Citizens From Voting Unless They Present ID — Oppose\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 40: Billionaire Wealth Tax Initiative — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 41: Requires Audits for New State Special Taxes — Oppose\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 42: Prohibits New State Personal Property Taxes — Oppose\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 43: Limits Voters' Ability to Raise Revenues for Local Services — Oppose\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 44: Requires Community Clinics Spend 90% of Revenue on Services — Support\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 45: Limits CEQA Environmental Review and Public Input — Oppose\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    }
+  ]
+}

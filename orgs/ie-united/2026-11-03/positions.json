@@ -1,0 +1,417 @@
+{
+  "context": {
+    "title": "Inland Empire United — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/riverside-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Inland Empire United",
+      "uri": "https://ieunited.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:55:14Z",
+    "sources": [
+      "https://ieunited.org/2026-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"DR. COREY JACKSON For Assembly District 60\" ... \"Inland Empire United proudly supports his candidacy for Assembly District 60.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "statement": "\"CLARISSA CERVANTES For Assembly District 58\" ... \"Inland Empire United believes her commitment to inclusive growth and responsible governance makes her the right choice to represent the region in Sacramento.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tiffanie Tate",
+      "statement": "\"Inland Empire United proudly endorses Dr. Tiffanie Tate for California State Senate District 32.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Putz",
+      "statement": "\"Inland Empire United proudly endorses Randall Putz for California State Assembly District 34.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "statement": "\"Inland Empire United proudly endorses Leila Namvar for California State Assembly District 47.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "JJ Galvez",
+      "statement": "\"Inland Empire United proudly endorses JJ Galvez for California State Assembly District 71.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Riverside County, Office 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Garcia",
+      "statement": "\"Inland Empire United proudly endorses Andrea Garcia for Riverside County Superior Court Judge.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Coachella Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/coachella",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denise Delgado",
+      "statement": "\"Inland Empire United proudly endorses Denise Delgado for Mayor of Coachella.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/moreno-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ulises Cabrera",
+      "statement": "\"Inland Empire United proudly endorses Ulises Cabrera for Mayor of Moreno Valley.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/moreno-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liza Arellano",
+      "statement": "\"Inland Empire United proudly endorses Liza Arellano for Moreno Valley City Council District 2.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aram Ayra",
+      "statement": "\"ARAM AYRA For Riverside City Council Ward 2\" ... \"Inland Empire United proudly supports his candidacy for City Council Ward 2.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Banning City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/banning",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marco Santana",
+      "statement": "\"Inland Empire United proudly endorses Marco Santana for Banning City Council District 4.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Banning City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/banning",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Castorena",
+      "statement": "\"Inland Empire United proudly endorses Chris Castorena for Banning City Council District 5.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Jurupa Valley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/jurupa-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Armando Carmona",
+      "statement": "\"Inland Empire United proudly endorses Armando Carmona for Jurupa Valley City Council District 1.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Jurupa Valley City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/jurupa-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Edgar Castelan",
+      "statement": "\"Inland Empire United proudly endorses Edgar Castelan for Jurupa Valley City Council District 3.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Corona City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/corona",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacque Casillas",
+      "statement": "\"Inland Empire United proudly endorses Jacque Casillas for Corona City Council District 1.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Indio City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/indio",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Felipe Ortiz",
+      "statement": "\"Inland Empire United proudly endorses Felipe Ortiz for Indio City Council District 4.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sammie Luna",
+      "statement": "\"Inland Empire United proudly endorses Sammie Luna for Moreno Valley Unified School District Trustee Area 1.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Moreno Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandy Clark",
+      "statement": "\"BRANDY CLARKE For Moreno Valley Unified School District Trustee Area 4\" ... \"Inland Empire United proudly endorses Brandy Clark for Moreno Valley Unified School District Trustee Area 4.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Coachella Valley Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Loretta Perez",
+      "statement": "\"Inland Empire United proudly endorses Loretta Perez for Coachella Valley Unified School District Trustee Area 2.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Riverside Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Keri Then",
+      "statement": "\"Inland Empire United proudly endorses Keri Then for Riverside Community College District Trustee Area 5.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Desert Healthcare District Board, Zone 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anyse Smith",
+      "statement": "\"Inland Empire United proudly endorses Anyse Smith for Desert Healthcare District & Foundation, Zone 5.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fontana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joz Sida",
+      "statement": "\"Inland Empire United proudly endorses Joz Sida for Mayor of Fontana.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fontana City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Perez",
+      "statement": "\"Inland Empire United proudly endorses Luz Perez for Fontana City Council, District 4.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ron Alvarado",
+      "statement": "\"Inland Empire United proudly endorses Ron Alvarado for San Bernardino City Council, Ward 1.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"CHRISTIAN SHAUGHNESSY For San Bernardino City Council Ward 2\" ... \"Inland Empire United proudly supports his candidacy for City Council Ward 2.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Salas",
+      "statement": "\"JOE SALAS For San Bernardino City Council Ward 4\" ... \"Inland Empire United proudly supports his candidacy for City Council Ward 4.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Redlands City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/redlands",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denise Davis",
+      "statement": "\"Inland Empire United proudly endorses Denise Davis for Redlands City Council.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Victorville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/victorville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Marshall",
+      "statement": "\"DEREK MARSHALL For Victorville City Council District 4\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Abigail Medina",
+      "statement": "\"Inland Empire United proudly endorses Abigail Medina for the San Bernardino City Unified School District Board.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Danny Tillman",
+      "statement": "\"Inland Empire United proudly endorses Danny Tillman for the San Bernardino City Unified School District Board.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Redlands Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Schavrien",
+      "statement": "\"Inland Empire United proudly endorses Ryan Schavrien for Redlands Unified School District Board, Area 2.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Chino Valley Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Gerdine",
+      "statement": "\"Inland Empire United proudly endorses Frank Gerdine for the Chino Valley Unified School District Board.\"",
+      "source": "https://ieunited.org/2026-endorsements/"
+    }
+  ]
+}
