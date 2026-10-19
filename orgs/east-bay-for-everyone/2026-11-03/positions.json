@@ -1,0 +1,214 @@
+{
+  "context": {
+    "title": "East Bay for Everyone — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "East Bay for Everyone",
+      "uri": "https://eastbayforeveryone.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:17:51Z",
+    "sources": [
+      "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/",
+      "https://eastbayforeveryone.org/2026/03/05/streamlining-sprawl-is-not-pro-housing/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Regional Transit Measure – YES ... We recommend YES.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ross Bernet",
+      "statement": "We’re recommending Ross Bernet for Berkeley City Council D1 for his dedication to housing and safe streets. ... We strongly support Ross for Berkeley.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Igor A. Tregub",
+      "statement": "We support CM Igor Tregub for re-election to Berkeley City Council District 4.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Syrak Micael",
+      "statement": "We support Syrak Micael for Berkeley City Council District 7.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Humbert",
+      "statement": "Councilmember Mark Humbert readily earns our endorsement for re-election to Berkeley City Council District 8.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Mourra",
+      "statement": "We are endorsing Councilmember David Mourra and Corry Frydlewicz for Emeryville City Council.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corry Frydlewicz",
+      "statement": "We are endorsing Councilmember David Mourra and Corry Frydlewicz for Emeryville City Council.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "statement": "CM Charlene Wang is our pick for Oakland D2.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin E. Jenkins",
+      "statement": "Oakland D6 – Kevin Jenkins ... CM Kevin Jenkins gets our nod for re-election.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Vella",
+      "statement": "For Alameda Mayor, we endorse CM Malia Vella.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thushan Amarasiriwardena",
+      "statement": "Alameda Council – Thushan Amarasiriwardena",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Maes",
+      "statement": "We endorse James Maes for the next Mayor of San Leandro.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Raburn",
+      "statement": "Director Robert Raburn has earned EB4E’s endorsement for re-election.",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adriana Valencia",
+      "statement": "AC Transit Ward 3 – Adriana Valencia",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Syed",
+      "statement": "AC Transit Ward 4 – Sarah Syed",
+      "source": "https://eastbayforeveryone.org/2026/09/21/eb4e-2026-general-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Vote No on Prop 45: Streamlining Sprawl/Freeways is NOT Pro-Housing ... East Bay for Everyone opposes BACA and urges other housing advocates and stakeholders to join us.",
+      "source": "https://eastbayforeveryone.org/2026/03/05/streamlining-sprawl-is-not-pro-housing/"
+    }
+  ]
+}

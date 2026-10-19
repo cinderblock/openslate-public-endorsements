@@ -1,0 +1,93 @@
+{
+  "context": {
+    "title": "Silicon Valley Young Democrats — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Silicon Valley Young Democrats",
+      "uri": "https://www.svyd.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:20:56Z",
+    "sources": [
+      "https://www.svyd.org/2026-general-endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "Endorsement image captioned \"Jane Kim, State Insurance Commissioner\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "Endorsement image captioned \"Patrick Ahrens, Assembly District 26\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Ortiz",
+      "statement": "Endorsement image captioned \"Peter Ortiz, San José City Council District 5\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gordon Chester",
+      "statement": "Endorsement image captioned \"Gordon Chester, San José City Council District 9\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tomara Hall",
+      "statement": "Endorsement image captioned \"Tomara Hall, San José Unified School District Board of Trustees Area 2\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaria Jaug",
+      "statement": "Endorsement image captioned \"Jaria Jaug, Berryessa Union School District Board of Trustees\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "context": {
+    "title": "Santa Clara County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Clara County Democratic Party",
+      "uri": "https://sccdp.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:03:23Z",
+    "sources": [
+      "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/",
+      "https://sccdp.org/wp-content/uploads/2026/10/SCCDP-Local-Endorsements-November-3-2026.pdf"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Campbell City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Furtado",
+      "statement": "\"Campbell City Council\" > \"District 3\" > \"Dan Furtado\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Fruen",
+      "statement": "\"Cupertino City Council\" > \"At Large (3)\" > \"J R Fruen\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Seema Sharma Lindskog",
+      "statement": "\"Cupertino City Council\" > \"At Large (3)\" > \"Seema Sharma Lindskog\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Tang",
+      "statement": "\"Cupertino City Council\" > \"At Large (3)\" > \"John Tang\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Sanchez Bentz",
+      "statement": "\"Gilroy City Council\" > \"District 4\" > \"Diana Sanchez Bentz\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christina Tovar",
+      "statement": "\"Gilroy City Council\" > \"District 5\" > \"Christina Tovar\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebeca G. Armendáriz",
+      "statement": "\"Gilroy City Council\" > \"District 6\" > \"Rebeca G Armendariz\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anky van Deursen",
+      "statement": "\"Los Altos City Council\" > \"District 2\" > \"Anky van Deurson\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Moore",
+      "statement": "\"Los Gatos Town Council\" > \"At Large (3)\" > \"Rob Moore\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Raspe",
+      "statement": "\"Los Gatos Town Council\" > \"At Large (3)\" > \"Steve Raspe\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Suzuki",
+      "statement": "\"Los Gatos Town Council\" > \"At Large (3)\" > \"Jeff Suzuki\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Chuan",
+      "statement": "\"Milpitas City Council\" > \"At Large (2)\" > \"Bill Chuan\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Seema Kanani",
+      "statement": "\"Milpitas City Council\" > \"At Large (2)\" > \"Seema Kanani\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah M. Africa",
+      "statement": "\"Morgan Hill\" > \"Mayor\" > \"Deborah M Africa\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yvonne Martinez Beltran",
+      "statement": "\"Morgan Hill\" > \"City Council\" > \"District B\" > \"Yvonne Martinez Beltran\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dolores Alvarado",
+      "statement": "\"Morgan Hill\" > \"City Council\" > \"District D\" > \"Dolores Alvarado\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Silja Paymer",
+      "statement": "\"Mountain View City Council\" > \"At Large (3)\" > \"Silja Paymer\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erik Poicon",
+      "statement": "\"Mountain View City Council\" > \"At Large (3)\" > \"Erik Poicon\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "IdaRose Sylvester",
+      "statement": "\"Mountain View City Council\" > \"At Large (3)\" > \"IdaRose Sylvester\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yu \"Yudy\" Deng",
+      "statement": "\"Palo Alto City Council\" > \"At Large (3)\" > \"Yu “Yudy” Deng\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vicki Veenker",
+      "statement": "\"Palo Alto City Council\" > \"At Large (3)\" > \"Vicki Veenker\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Ortiz",
+      "statement": "\"San Jose City Council\" > \"District 5\" > \"Peter Ortiz\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bien Doan",
+      "statement": "\"San Jose City Council\" > \"District 7\" > \"Bien Doan\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gordon Chester",
+      "statement": "\"San Jose City Council\" > \"District 9\" > \"Gordon Chester\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kimberley Williams",
+      "statement": "\"Santa Clara City Council\" > \"District 2\" > \"Kimberley Williams\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Saratoga City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/saratoga",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeri Bromley",
+      "statement": "\"Saratoga City Council\" > \"At Large (3)\" > \"Jeri Bromley\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Craig Gleason",
+      "statement": "\"Mid Pen Open Space\" > \"Ward 1\" > \"Craig Gleason\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Milan Balinton",
+      "statement": "\"SCV Water District\" > \"District 6\" > \"Milan Balinton\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Dailey",
+      "statement": "\"SCV Water District\" > \"District 7\" > \"Pete Dailey\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"NO on Measure D\" > \"prohibits selling parking lots\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure E (City Charter Amendment - Modernizing Provisions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure E\" > \"modernizing provisions\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure F (Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure F\" > \"hotel tax\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure J\" > \"transactions and use tax\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures M\" > \"Gilroy USD School Bonds\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures N\" > \"Los Gatos-Saratoga UHSD School Bonds\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures O\" > \"Alum Rock SD Parcel Tax\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures P\" > \"Alum Rock SD School Bonds\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District — Measure Q (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures Q\" > \"Cambrian SD Parcel Tax\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District — Measure R (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measures R\" > \"Orchard SD Parcel Tax\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Note: YES on Regional Measure RTM already endorsed by SCCDP\" > \"Regional Transit Measure\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara County Board of Education, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raeena S. Lari",
+      "statement": "\"Santa Clara County BOE\" > \"Area 7\" > \"Raeena Lari\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "William \"Bill\" Wilson",
+      "statement": "\"FHDA CCD\" > \"Area 4\" > \"William (Bill) Wilson\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gavilan Joint Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriel Gutierrez",
+      "statement": "\"Gavilan Joint CCD\" > \"Area 3\" > \"Gabriel Gutierrez\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anne J. Kepner",
+      "statement": "\"W Vly-Mission CCD\" > \"Area 3\" > \"Anne Jones Kepner\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Oster Fish",
+      "statement": "\"W Vly-Mission CCD\" > \"Area 7\" > \"Susan Oster Fish\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mer Curry Nuñez",
+      "statement": "\"East Side UHSD\" > \"Area 1 (short term)\" > \"Mer Curry Nunez\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lorena Chavez",
+      "statement": "\"East Side UHSD\" > \"Area 4\" > \"Lorena Chavez\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosa Kim",
+      "statement": "\"Fremont UHSD\" > \"Area 3\" > \"Rosa Kim\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Naomi Nakano-Matsumoto",
+      "statement": "\"Fremont UHSD\" > \"Area 4\" > \"Naomi Nakano-Matsumoto\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thida Cornes",
+      "statement": "\"Mtn Vw-Los Altos UHSD\" > \"Area 3\" > \"Thida Cornes\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jenny Ludwig",
+      "statement": "\"Alum Rock USD\" > \"Area 5\" > \"Jenny Ludwig\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thelma B. Boac",
+      "statement": "\"Berryessa USD\" > \"At Large (3)\" > \"Thelma Boac\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shanna Brewer",
+      "statement": "\"Berryessa USD\" > \"At Large (3)\" > \"Shanna Brewer\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaria Jaug",
+      "statement": "\"Berryessa USD\" > \"At Large (3)\" > \"Jaria Jaug\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Miller",
+      "statement": "\"Campbell USD\" > \"Area 4\" > \"Chris Miller\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vartika Chandra",
+      "statement": "\"Campbell USD\" > \"Area 5 ( dual endorsement )\" > \"Vartika Chandra\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Krow-Lucal",
+      "statement": "\"Campbell USD\" > \"Area 5 ( dual endorsement )\" > \"Sam Krow-Lucal\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Johnny Ray Reyna",
+      "statement": "\"Evergreen SD\" > \"At Large (3)\" > \"Johnny Ray Reyna\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monte Wright",
+      "statement": "\"Evergreen SD\" > \"At Large (3)\" > \"Monte Wright\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rudy J. Rodriguez",
+      "statement": "\"Franklin-McKinley SD\" > \"At Large (3)\" > \"Rudy Rodriguez\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Nelson",
+      "statement": "\"Gilroy USD\" > \"Area 3\" > \"Michelle Nelson\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Stevens",
+      "statement": "\"Gilroy USD\" > \"Area 4\" > \"Jane Stevens\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bryan Harvey Johnson",
+      "statement": "\"Los Altos SD\" > \"At Large (3)\" > \"Bryan Harvey Johnson\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vaishali \"Shali\" Sirkay",
+      "statement": "\"Los Altos SD\" > \"At Large (3)\" > \"Vaishali “Shali” Sirkay\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandon Stroy",
+      "statement": "\"Los Altos SD\" > \"At Large (3)\" > \"Brandon Stroy\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Yip-Chuan",
+      "statement": "\"Milpitas USD\" > \"At Large (3)\" > \"Kelly Yip-Chuan\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Amezcua",
+      "statement": "\"Morgan Hill USD\" > \"Area 1\" > \"Jason Amezcua\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John T. Horner",
+      "statement": "\"Morgan Hill USD\" > \"Area 2\" > \"John Horner\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Northrup Gadus",
+      "statement": "\"Morgan Hill USD\" > \"Area 3\" > \"Sarah Northrup Gadus\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Claudia Ortiz",
+      "statement": "\"Morgan Hill USD\" > \"Area 4\" > \"Claudia Sandoval Ortiz\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Devon Conley",
+      "statement": "\"Mtn Vw Whisman SD\" > \"At Large (2)\" > \"Devon Conley\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Victor A. Ramirez",
+      "statement": "\"Oak Grove SD\" > \"Area 2\" > \"Victor A Ramirez\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sophie Freestone",
+      "statement": "\"Oak Grove SD\" > \"Area 3\" > \"Sophie Freestone\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lyseria Evelyn Phillips",
+      "statement": "\"Orchard SD\" > \"At Large (3)\" > \"Lyseria Evelyn Phillips\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Henigin",
+      "statement": "\"Palo Alto USD\" > \"At Large (2)\" > \"Linda Henigin\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tomara Hall",
+      "statement": "\"San Jose USD\" > \"Area 2 ( dual endorsement )\" > \"Tomara Latreece Hall\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Magana",
+      "statement": "\"San Jose USD\" > \"Area 2 ( dual endorsement )\" > \"Jose Magana\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mary J. Grunthaner",
+      "statement": "\"San Jose USD\" > \"Area 4\" > \"Mary J Grunthaner\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rommy Kushner",
+      "statement": "\"Sunnyvale SD\" > \"Area 3\" > \"Rommy Kushner\"",
+      "source": "https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/"
+    }
+  ]
+}

@@ -1,0 +1,984 @@
+{
+  "context": {
+    "title": "San Mateo County Central Labor Council — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Mateo County Central Labor Council",
+      "uri": "https://www.sanmateolaborcouncil.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:09:07Z",
+    "sources": [
+      "https://www.sanmateolaborcouncil.org/endorsements",
+      "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx",
+      "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx",
+      "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "Congressional District 15: Kevin Mullin (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "Assembly District 19: Catherine Stefani (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "statement": "Assembly District 21: Diane Papan (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "Governor: Xavier Becerra",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "Lieutenant Governor: Fiona Ma",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "Secretary of State: Shirley Weber (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "Attorney General: Rob Bonta (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "Controller: Malia Cohen (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "Treasurer: Eleni Kounalakis",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "Insurance Commissioner: Jane Kim",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "Superintendent of Public Instruction: Richard Barrera",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "Board of Equalization, District 2: Sally Lieber (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 1: The Veterans and Affordable Housing Bond Act - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 2: Increases State’s Rainy Day Fund - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 3: Funding for Schools by Extending Tax on High Incomes - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 4: Repeals Ban on Public Funding of Election Campaigns - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 5: Changes Recall Election Process for Statewide Officers - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 37: Creates Loan Program for Middle-Income New Home Buyers - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 39: Prohibits Citizens From Voting Unless They Present ID – OPPOSE",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 40: Billionaire Wealth Tax Initiative – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 41: Requires Audits for New State Special Taxes - OPPOSE",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 42: Prohibits New State Personal Property Taxes – OPPOSE",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 43: Limits Voters’ Ability to Raise Revenues for Local Services - OPPOSE",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Prop 44: Requires Community Clinics Spend 90% of Revenue on Services - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Prop 45: Limits CEQA Environmental Review and Public Input - OPPOSE",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-State-and-Federal-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rod Daus-Magbual",
+      "statement": "Daly City City Council: Rod Daus-Magbual (I), Teresa Proaño (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Teresa Proaño",
+      "statement": "Daly City City Council: Rod Daus-Magbual (I), Teresa Proaño (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruben Abrica",
+      "statement": "East Palo Alto City Council: Ruben Abrica (I), Ofelia Bello",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ofelia Bello",
+      "statement": "East Palo Alto City Council: Ruben Abrica (I), Ofelia Bello",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phoebe Shin Venkat",
+      "statement": "Foster City City Council, District 1: Phoebe Shin Venkat",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debbie Ruddock",
+      "statement": "Half Moon Bay City Council, District 4: Debbie Ruddock (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven R. Booker",
+      "statement": "Half Moon Bay City Council, District 5: Steven Booker",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Wonman Lee",
+      "statement": "Menlo Park City Council, District 1: Wonman Lee",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vamsi Velagapudi",
+      "statement": "Menlo Park City Council, District 2: Vamsi Velagapudi",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlotte Reed",
+      "statement": "Menlo Park City Council, District 4: Charlotte Reed",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Albert Yam",
+      "statement": "Millbrae City Council, District 4 (Full Term): Albert Yam",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christine Boles",
+      "statement": "Pacifica City Council, District 2: Christine Boles (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Margo Meiman",
+      "statement": "Pacifica City Council, District 5: Margo Meiman",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kingsley Ma",
+      "statement": "San Bruno City Council, District 1: Kingsley Ma",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Auros Harman",
+      "statement": "San Bruno City Council, District 4: Auros Harman",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara McDowell",
+      "statement": "San Carlos City Council: Sara McDowell (I), Adam Rak (I), Pranita Venkatesh (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Rak",
+      "statement": "San Carlos City Council: Sara McDowell (I), Adam Rak (I), Pranita Venkatesh (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pranita Venkatesh",
+      "statement": "San Carlos City Council: Sara McDowell (I), Adam Rak (I), Pranita Venkatesh (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Diaz Nash",
+      "statement": "San Mateo City Council, District 1: Lisa Diaz Nash",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert G. Newsom Jr.",
+      "statement": "San Mateo City Council, District 3: Robert Newsom Jr.",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Loraine",
+      "statement": "San Mateo City Council, District 5: Adam Loraine",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Olson",
+      "statement": "South San Francisco City Council, District 3: Melanie Olson",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Johnson",
+      "statement": "San Mateo County Board of Education, TA 2: Dana Johnson",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Holt",
+      "statement": "San Mateo County Community College District, TA 2: Jason Holt",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chialin Hsieh",
+      "statement": "South San Francisco Unified School District, TA C: Chialin Hsieh (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Lara",
+      "statement": "South San Francisco Unified School District, TA E: Frank Lara",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Harris",
+      "statement": "San Mateo Union High School District, TA 3: Diana Harris",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alison Proctor",
+      "statement": "San Mateo Union High School District, TA 5: Alison Proctor",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Koo",
+      "statement": "Sequoia Union High School District, TA A: Amy Koo (I)",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bridget Hardt",
+      "statement": "Pacifica School District (Full Term): Bridget Hardt (A I), Katy Bradley",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katy Bradley",
+      "statement": "Pacifica School District (Full Term): Bridget Hardt (A I), Katy Bradley",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tracey Simmons",
+      "statement": "Pacifica School District (Short Term): Tracey Simmons",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Boris Lipkin",
+      "statement": "San Carlos School District: Boris Lipkin (A I), Megha Chawla, Shivani Tripathi",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megha Chawla",
+      "statement": "San Carlos School District: Boris Lipkin (A I), Megha Chawla, Shivani Tripathi",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shivani Tripathi",
+      "statement": "San Carlos School District: Boris Lipkin (A I), Megha Chawla, Shivani Tripathi",
+      "source": "https://www.sanmateolaborcouncil.org/s/SMCLC-2026G-Endorsements_Slate-Card.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure L (Charter Amendment Measure – Extreme Weather Events)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure L (San Mateo County Charter Amendment) – Extreme Weather Events – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure AA (Charter Amendment Measure – Affirmation of Rights)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure AA (San Mateo County Charter Amendment) – Affirmation of Rights – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure J (San Mateo County Charter Amendment) – Extension to Call a Special Election or Appoint – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure U (San Mateo County Charter Amendment) – Reapportionment of Supervisorial Districts – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Belmont — Measure Y (Special Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure Y – Belmont – Special Tax for Community Center Construction – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Brisbane — Measure X (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure X – Brisbane – Business License Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure D – Burlingame – Transient Occupancy Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure O (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure O – East Palo Alto – Bond – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica — Measure BB (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure BB – Pacifica – Transactions and Use Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure S (Housing Permits and Developments Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure S – San Bruno – Housing Permits and Developments – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure EE (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure EE – San Bruno – Business License Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure G – San Carlos – Transactions and Use Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo — Measure H (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure H – San Mateo - Transactions and Use Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure R – Burlingame School District – Bond - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure M – Jefferson Union High School District - Parcel Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure T – Pacifica School District – Parcel Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure K – San Carlos School District – Parcel Tax – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure V – San Mateo County Community College District – Bond – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure W – San Mateo-Foster City School District – Bond – SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Regional Transit Measure – Transactions and Use Tax - SUPPORT",
+      "source": "https://www.sanmateolaborcouncil.org/s/2026G-SMC-Ballot-Measure-Endorsements.docx"
+    }
+  ]
+}

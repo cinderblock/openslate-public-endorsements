@@ -1,0 +1,261 @@
+{
+  "context": {
+    "title": "Oakland Rising Action — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Oakland Rising Action",
+      "uri": "https://oaklandrisingaction.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:19:07Z",
+    "sources": [
+      "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "statement": "Oakland Mayor: Barbara Lee. Barbara Lee is Moving Oakland Forward!",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Brouhard",
+      "statement": "School Board District 2: Jennifer Brouhard",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valarie Bachelor",
+      "statement": "School Board District 6: Valarie Bachelor",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"1 YES $11.25 Billion Bond to continue building affordable homes for Californians.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"2 YES Save for CA’s Future. Allow the state to deposit more money into the state's Rainy Day Fund.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"3 YES Renews an expiring tax on the top 2% wealthiest Californians to fund public education.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"4 YES The California Fair Elections Act: Elections should be won not bought.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"5 YES Election recall reform. Require a special election to fill the vacancy from a recall.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"37 YES $25 billion in bonds to second mortgage homebuyer program.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"38 YES Immunology Research Bond that would fund research to cure and prevent diseases.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"39 NO CA Voter Suppression Act A form of voter suppression that would make voting harder for California voters.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "California Propositions: \"40 YES Billionaires Tax A one time emergency 5% tax on CA billionaires to keep hospitals and ERs open.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"41 NO Makes it harder to pass new special taxes (reducing impact of billionaires tax).\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"42 NO Meant to stop the Billionaire Tax (Prop 40) and to make it harder to create a wealth tax in CA.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"43 NO Increase the threshold for special tax measures from a simple majority to a two-thirds supermajority.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"44 NO Clinic Funding Restrictions. Could limit translation, transportation, and outreach services.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "California Propositions: \"45 NO Fast Track Environmental Review. Overhaul of CEQUA: CA Environmental Quality Act.\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Oakland Measures: \"EE YES Make Oakland City Hall Accountable to Oaklanders!\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Oakland Measures: \"FF YES Close Oakland Business Tax Loophole, Fund Affordable Housing!\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Oakland Measures: \"RTM YES Save Bay Area Transit!\"",
+      "source": "https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/"
+    }
+  ]
+}

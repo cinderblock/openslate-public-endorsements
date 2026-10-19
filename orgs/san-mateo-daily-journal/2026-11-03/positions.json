@@ -1,0 +1,442 @@
+{
+  "context": {
+    "title": "San Mateo Daily Journal — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Mateo Daily Journal",
+      "uri": "https://www.smdailyjournal.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:11:37Z",
+    "sources": [
+      "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html",
+      "https://www.smdailyjournal.com/opinion/editorials/editorial-booker-brownstone-and-ruddock-for-half-moon-bay-city-council/article_79bbc030-75ba-4470-9893-2489506d8b3e.html"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "U.S. Congress, District 15: Kevin Mullin",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "statement": "U.S. Congress, District 16: Sam Liccardo",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "statement": "State Assembly, District 23: Marc Berman",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "statement": "State Assembly, District 21: Diane Papan",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Nagales",
+      "statement": "San Mateo County Board of Supervisors, District 5: Mark Nagales",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Guingona",
+      "statement": "San Mateo County Community College District trustee, Area 2: Mike Guingona",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Johnson",
+      "statement": "San Mateo County Board of Education, Area 2: Dana Johnson",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Harris",
+      "statement": "San Mateo Union High School District, Area 3: Diana Harris",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alison Proctor",
+      "statement": "San Mateo Union High School District, Area 5: Alison Proctor",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chialin Hsieh",
+      "statement": "South San Francisco Unified School District, Area C: Chialin Hsieh",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mina A. Richardson",
+      "statement": "South San Francisco Unified School District, Area E: Mina Richardson",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alon Shiran",
+      "statement": "Sequoia Union High School District, Area A: Alon Shiran",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Boris Lipkin",
+      "statement": "San Carlos School District (Three seats): Boris Lipkin, Megha Chawla, Shivani Tripathi",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megha Chawla",
+      "statement": "San Carlos School District (Three seats): Boris Lipkin, Megha Chawla, Shivani Tripathi",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shivani Tripathi",
+      "statement": "San Carlos School District (Three seats): Boris Lipkin, Megha Chawla, Shivani Tripathi",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buenaflor (Flor) Nicolas",
+      "statement": "South San Francisco City Council, District 3: Flor Nicolas",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phoebe Shin Venkat",
+      "statement": "Foster City Council, District 1: Phoebe Venkat",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Diaz Nash",
+      "statement": "San Mateo City Council, District 1: Lisa Diaz Nash",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert G. Newsom Jr.",
+      "statement": "San Mateo City Council, District 3: Robert Newsom Jr.",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Yates Sahae",
+      "statement": "San Mateo City Council, District 5: Dana Yates Sahae",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Burlingame City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Howard Wettan",
+      "statement": "Burlingame City Council, District 3: Howard Wettan",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ann Schneider",
+      "statement": "Millbrae City Council, District 3: Ann Schneider",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Albert Yam",
+      "statement": "Millbrae City Council, District 4: Albert Yam",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kingsley Ma",
+      "statement": "San Bruno City Council, District 1: Kingsley Ma",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marty P. Medina",
+      "statement": "San Bruno City Council, District 4: Marty Medina",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure D, increasing the hotel tax in Burlingame from 12% to 15%: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Measure E, rent control in Redwood City: NO",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure I (Coastal Land Use Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure I, Half Moon Bay adjustment of Measure D growth cap: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure EE (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure EE, changing business license tax in San Bruno: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure R, $100 million bond for Burlingame schools: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure Q: 555 Kelly Ave. senior farmworker housing in Half Moon Bay: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure K: $489 annual parcel tax for San Carlos schools: YES",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/daily-journal-endorsements-for-the-san-mateo-county-november-election/article_9e726e39-e27e-4b9b-ba42-5addaf7dab5b.html"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven R. Booker",
+      "statement": "However, Booker, Brownstone and Ruddock have the most pragmatic approach to the position and deserve your support.",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/editorial-booker-brownstone-and-ruddock-for-half-moon-bay-city-council/article_79bbc030-75ba-4470-9893-2489506d8b3e.html"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Brownstone",
+      "statement": "However, Booker, Brownstone and Ruddock have the most pragmatic approach to the position and deserve your support.",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/editorial-booker-brownstone-and-ruddock-for-half-moon-bay-city-council/article_79bbc030-75ba-4470-9893-2489506d8b3e.html"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debbie Ruddock",
+      "statement": "However, Booker, Brownstone and Ruddock have the most pragmatic approach to the position and deserve your support.",
+      "source": "https://www.smdailyjournal.com/opinion/editorials/editorial-booker-brownstone-and-ruddock-for-half-moon-bay-city-council/article_79bbc030-75ba-4470-9893-2489506d8b3e.html"
+    }
+  ]
+}

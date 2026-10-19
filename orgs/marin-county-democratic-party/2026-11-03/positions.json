@@ -1,0 +1,469 @@
+{
+  "context": {
+    "title": "Marin County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/marin-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Marin County Democratic Party",
+      "uri": "https://marindemocrats.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:10:51Z",
+    "sources": [
+      "https://marindemocrats.org/2026-november-election-endorsements/",
+      "https://marindemocrats.org/measure-n-miller-creek-school-district/",
+      "https://marindemocrats.org/measure-p/",
+      "https://marindemocrats.org/measure-w-san-rafael-services/",
+      "https://marindemocrats.org/measure-cc-critical-care-for-marin/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"Re-Elect Jared Huffman, Congressional District 2\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"Damon Connolly, State Senate District 2\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "\"Corte Madera Town Council - Eli Beckman and Ava Fruin\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ava Fruin",
+      "statement": "\"Corte Madera Town Council - Eli Beckman and Ava Fruin\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Denise Adams",
+      "statement": "\"Fairfax Town Council - Susan Adams\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Andre",
+      "statement": "\"Larkspur City Council - Stephanie Andre and Aaron Burnett\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aaron Burnett",
+      "statement": "\"Larkspur City Council - Stephanie Andre and Aaron Burnett\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Farac",
+      "statement": "\"Novato City Council District 2 - Rachel Farac\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Christian",
+      "statement": "\"Novato City Council District 4 - Dan Christian\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Burdo",
+      "statement": "\"San Anselmo Town Council - Steve Burdo and Will Dittmar\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Will Dittmar",
+      "statement": "\"San Anselmo Town Council - Steve Burdo and Will Dittmar\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Sandoval",
+      "statement": "\"San Rafael City Council District 3 - Robert Sandoval\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nastassya Saad",
+      "statement": "\"Sausalito City Council - Natassya Saad and Adrian Brinton\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adrian Brinton",
+      "statement": "\"Sausalito City Council - Natassya Saad and Adrian Brinton\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tiburon Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/tiburon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Hornbrook",
+      "statement": "\"Tiburon City Council - Chuck Hornbrook and Jack Ryan\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tiburon Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/tiburon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jack Ryan",
+      "statement": "\"Tiburon City Council - Chuck Hornbrook and Jack Ryan\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marin County Board of Education, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marilyn Nemzer",
+      "statement": "\"Marin County Office of Education - Area 5 - Marilyn Nemzer\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marin County Board of Education, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Curtis F. Robinson",
+      "statement": "\"Marin County Office of Education - Area 6 - Curtis Robinson\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Miller Creek School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Roberts Hutchinson",
+      "statement": "\"Miller Creek School Board - Megan Hutchinson and Brad Honsberger\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Miller Creek School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Honsberger",
+      "statement": "\"Miller Creek School Board - Megan Hutchinson and Brad Honsberger\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Reed Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Ghaffary",
+      "statement": "\"Reed Union School District - Mike Ghaffary, Lina Godfrey, Shelby Tsai\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Reed Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lina Godfrey",
+      "statement": "\"Reed Union School District - Mike Ghaffary, Lina Godfrey, Shelby Tsai\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Reed Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shelby Pasarell Tsai",
+      "statement": "\"Reed Union School District - Mike Ghaffary, Lina Godfrey, Shelby Tsai\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito Marin City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leshawn Holcomb",
+      "statement": "\"Sausalito Marin City School Board - LeShawn Holcomb and Alena Maunder\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito Marin City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alena Maunder",
+      "statement": "\"Sausalito Marin City School Board - LeShawn Holcomb and Alena Maunder\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joy Scully Koo",
+      "statement": "\"Tamalpais Union High School District - Joy Koo, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian A. Sutherland",
+      "statement": "\"Tamalpais Union High School District - Joy Koo, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valerie Wynn",
+      "statement": "\"Tamalpais Union High School District - Joy Koo, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bruce Ackerman",
+      "statement": "\"Fairfax Town Clerk - Bruce Ackerman\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marin City Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "La Tanya J. Wiggins",
+      "statement": "\"Marin City Community Service District - Full Term - La Tanya Wiggins\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marin City Community Services District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Elizabeth Canson",
+      "statement": "\"Marin City Community Service District - Short Term - Sarah Canson\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "North Marin Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie L. Williams",
+      "statement": "\"North Marin Water District - Division 5 - Laurie Williams\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Southern Marin Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cristine Soto Deberry",
+      "statement": "\"Southern Marin Fire District - Cristine Soto DeBerry\"",
+      "source": "https://marindemocrats.org/2026-november-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Miller Creek School District — Measure N (Miller Creek Elementary School District Classroom Repair/Upgrade Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote YES on Measure N to repair and upgrade aging Miller Creek schools and support quality education for students.\"",
+      "source": "https://marindemocrats.org/measure-n-miller-creek-school-district/"
+    },
+    {
+      "subject": {
+        "title": "Marin County — Measure P (County of Marin Childcare Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Marin County Democratic Party proudly endorses Measure P to address our local child care emergency.\"",
+      "source": "https://marindemocrats.org/measure-p/"
+    },
+    {
+      "subject": {
+        "title": "San Rafael — Measure W (San Rafael Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Measure W - San Rafael Services\" / \"Vote YES on W because San Rafael is a community worth protecting\"",
+      "source": "https://marindemocrats.org/measure-w-san-rafael-services/"
+    },
+    {
+      "subject": {
+        "title": "Marin Healthcare District — Measure CC (Marin Healthcare District Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Vote YES on Measure CC, to protect local access to life-saving emergency care and hospital services close to home\"",
+      "source": "https://marindemocrats.org/measure-cc-critical-care-for-marin/"
+    }
+  ]
+}

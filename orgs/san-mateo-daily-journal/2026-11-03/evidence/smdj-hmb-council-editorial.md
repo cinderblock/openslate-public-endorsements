@@ -1,0 +1,18 @@
+# Evidence: San Mateo Daily Journal — "Editorial: Booker, Brownstone and Ruddock for Half Moon Bay City Council"
+
+- **Source URL**: https://www.smdailyjournal.com/opinion/editorials/editorial-booker-brownstone-and-ruddock-for-half-moon-bay-city-council/article_79bbc030-75ba-4470-9893-2489506d8b3e.html
+- **Retrieved**: 2026-10-19T21:11:37Z (curl GET; HTML converted to text with pandoc)
+- **Date on page**: Oct 2, 2026
+- **Note**: the first two paragraphs are plain HTML; the rest is ROT47-obfuscated premium content, decoded here with plain ROT47 and HTML tags removed.
+
+## Article text (verbatim)
+
+```text
+Editorial: Booker, Brownstone and Ruddock for Half Moon Bay City Council
+Oct 2, 2026
+The city of Half Moon Bay teeters between a no-growth attitude and a limited growth one still hamstrung by a voter-passed initiative — Measure D. Turns out, that hinders its ability to deal with the state and its housing requirements.
+No one should want Half Moon Bay to change too much. It’s a nice, mellow coastal city that happens to be in the middle of a major metropolitan job center that draws people from all around the world. So how that balances for those who live there is top of mind. The state requires planning for some growth so new people and young people can find a place, but also to ensure there is a proper jobs to housing balance. Half Moon Bay isn’t a true job creator, but it should find ways to make sure it stays affordable for its workers so people don’t have long commutes and traffic stays reasonable when possible.
+There may be some allowances provided by the state that don’t seem fair, but that is no reason to take the fight to the state — especially when doing so could very well be to the detriment of the city. If the city’s housing element, the document that plans for required housing, is not approved by the state, it is vulnerable to the builder’s remedy. That could mean new housing could go in by right and without oversight. It could also mean costly lawsuits and other actions.
+Put simply, fighting the state over housing requirements is not sound city policy. Steven Booker, Robert Brownstone and Deborah Ruddock seem to understand this situation the best of the candidates. Susie Morasci, running against Booker, is bright, personable and would likely come to that understanding, but is light on key details of what it takes to run the city, however, that could arrive through experience. David Gorn, running against Brownstone, is well-versed in the city and understands its operations. However, his emphasis on merely fighting the state is dangerous. Ron Kie, running against Ruddock, also understands the city and is well versed in its issues. Yet Ruddock has her pulse on the city and can navigate its politics well to find a solution that could serve the most people.
+All six candidates running have their heart in the right place, and would be ready to serve. However, Booker, Brownstone and Ruddock have the most pragmatic approach to the position and deserve your support.
+```

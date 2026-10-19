@@ -1,0 +1,232 @@
+# Evidence: Santa Clara County Democratic Party — 2026 Endorsements
+
+- **Source URL**: https://sccdp.org/index.php/voter-resources/endorsements/2026-endorsements/
+- **Retrieved**: 2026-10-19T21:03:19Z (curl GET; HTML converted to plain text with pandoc)
+
+## Page text (verbatim; site nav, event sidebar and footer stripped; blank lines removed)
+
+The page also carries a "June 2, 2026 Primary Election" section below the November section; it is kept at the end for context but is out of scope.
+
+```text
+Return to Endorsements
+2026 Endorsements
+The Santa Clara County Democratic Party recommends voting for the following candidates and measures!
+November 3, 2026 General Election
+The Santa Clara County Democratic Party has made the following endorsements
+Cities
+- Campbell City Council
+  - District 3
+    - Dan Furtado
+- Cupertino City Council
+  - At Large (3)
+    - J R Fruen
+    - Seema Sharma Lindskog
+    - John Tang
+- Gilroy City Council
+  - District 4
+    - Diana Sanchez Bentz
+  - District 5
+    - Christina Tovar
+  - District 6
+    - Rebeca G Armendariz
+- Los Altos City Council
+  - District 2
+    - Anky van Deurson
+- Los Gatos Town Council
+  - At Large (3)
+    - Rob Moore
+    - Steve Raspe
+    - Jeff Suzuki
+- Milpitas City Council
+  - At Large (2)
+    - Bill Chuan
+    - Seema Kanani
+- Morgan Hill
+  - Mayor
+    - Deborah M Africa
+  - City Council
+    - District B
+      - Yvonne Martinez Beltran
+    - District D
+      - Dolores Alvarado
+- Mountain View City Council
+  - At Large (3)
+    - Silja Paymer
+    - Erik Poicon
+    - IdaRose Sylvester
+- Palo Alto City Council
+  - At Large (3)
+    - Yu “Yudy” Deng
+    - Vicki Veenker
+- San Jose City Council
+  - District 5
+    - Peter Ortiz
+  - District 7
+    - Bien Doan
+  - District 9
+    - Gordon Chester
+- Santa Clara City Council
+  - District 2
+    - Kimberley Williams
+- Saratoga City Council
+  - At Large (3)
+    - Jeri Bromley
+Special Districts
+- Mid Pen Open Space
+  - Ward 1
+    - Craig Gleason
+- SCV Water District
+  - District 6
+    - Milan Balinton
+  - District 7
+    - Pete Dailey
+Local Measures
+- NO on Measure D
+  - prohibits selling parking lots
+- YES on Measure E
+  - modernizing provisions
+- YES on Measure F
+  - hotel tax
+- YES on Measure J
+  - transactions and use tax
+- YES on Measures M
+  - Gilroy USD School Bonds
+- YES on Measures N
+  - Los Gatos-Saratoga UHSD School Bonds
+- YES on Measures O
+  - Alum Rock SD Parcel Tax
+- YES on Measures P
+  - Alum Rock SD School Bonds
+- YES on Measures Q
+  - Cambrian SD Parcel Tax
+- YES on Measures R
+  - Orchard SD Parcel Tax
+- Note: YES on Regional Measure RTM already endorsed by SCCDP
+  - Regional Transit Measure
+School Districts
+- Santa Clara County BOE
+  - Area 7
+    - Raeena Lari
+- FHDA CCD
+  - Area 4
+    - William (Bill) Wilson
+- Gavilan Joint CCD
+  - Area 3
+    - Gabriel Gutierrez
+- W Vly-Mission CCD
+  - Area 3
+    - Anne Jones Kepner
+  - Area 7
+    - Susan Oster Fish
+- East Side UHSD
+  - Area 1 (short term)
+    - Mer Curry Nunez
+  - Area 4
+    - Lorena Chavez
+- Fremont UHSD
+  - Area 3
+    - Rosa Kim
+  - Area 4
+    - Naomi Nakano-Matsumoto
+- Mtn Vw-Los Altos UHSD
+  - Area 3
+    - Thida Cornes
+- Alum Rock USD
+  - Area 5
+    - Jenny Ludwig
+- Berryessa USD
+  - At Large (3)
+    - Thelma Boac
+    - Shanna Brewer
+    - Jaria Jaug
+- Campbell USD
+  - Area 4
+    - Chris Miller
+  - Area 5 ( dual endorsement )
+    - Vartika Chandra
+    - Sam Krow-Lucal
+- Evergreen SD
+  - At Large (3)
+    - Johnny Ray Reyna
+    - Monte Wright
+- Franklin-McKinley SD
+  - At Large (3)
+    - Rudy Rodriguez
+- Gilroy USD
+  - Area 3
+    - Michelle Nelson
+  - Area 4
+    - Jane Stevens
+- Los Altos SD
+  - At Large (3)
+    - Bryan Harvey Johnson
+    - Vaishali “Shali” Sirkay
+    - Brandon Stroy
+- Milpitas USD
+  - At Large (3)
+    - Kelly Yip-Chuan
+- Morgan Hill USD
+  - Area 1
+    - Jason Amezcua
+  - Area 2
+    - John Horner
+  - Area 3
+    - Sarah Northrup Gadus
+  - Area 4
+    - Claudia Sandoval Ortiz
+- Mtn Vw Whisman SD
+  - At Large (2)
+    - Devon Conley
+- Oak Grove SD
+  - Area 2
+    - Victor A Ramirez
+  - Area 3
+    - Sophie Freestone
+- Orchard SD
+  - At Large (3)
+    - Lyseria Evelyn Phillips
+- Palo Alto USD
+  - At Large (2)
+    - Linda Henigin
+- San Jose USD
+  - Area 2 ( dual endorsement )
+    - Tomara Latreece Hall
+    - Jose Magana
+  - Area 4
+    - Mary J Grunthaner
+- Sunnyvale SD
+  - Area 3
+    - Rommy Kushner
+June 2, 2026 Primary Election
+The Santa Clara County Democratic Party has made the following endorsements
+County
+- Santa Clara County Board of Supervisors
+  - District 1, fast track
+    - Sylvia Arenas
+  - District 4, unopposed
+    - Susan Ellenberg
+- Santa Clara County District Attorney
+  - no endorsement
+City
+- San Jose City Council
+  - District 1, unopposed
+    - Rosemary Kamei
+  - District 3, unopposed
+    - Anthony Tordillos
+  - District 5, sole endorsement
+    - Peter Ortiz
+  - District 7, dual endorsement (Vote for only 1)
+    - Rafael Garcia
+    - HG Nguyen
+  - District 9, sole endorsement
+    - Gordon Chester
+Ballot Measures
+- YES on Measure A
+  - San Jose Hotel Tax Measure
+- YES on Measure B
+  - Palo Alto Unified School District Parcel Tax Measure
+- YES on Measure C
+  - Franklin-McKinley School District Bond Measure
+- YES on Measure D
+  - Santa Clara Valley Open Space Authority Parcel Tax Measure
+```

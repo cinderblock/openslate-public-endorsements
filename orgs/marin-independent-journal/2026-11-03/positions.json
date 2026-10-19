@@ -1,0 +1,417 @@
+{
+  "context": {
+    "title": "Marin Independent Journal editorial board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/marin-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Marin Independent Journal",
+      "uri": "https://www.marinij.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:26:16Z",
+    "sources": [
+      "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"House of Representatives: Jared Huffman\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"State Senate: Damon Connolly\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"State Assembly: Eric Lucan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Novato Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Abbey Picus",
+      "statement": "\"Novato school board: Area 4, Abbey Picus\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daryoush Davidi",
+      "statement": "\"San Rafael council: District 3, Daryoush Davidi\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Farac",
+      "statement": "\"Novato council: District 2, Rachel Farac; District 4, Daniel Christian\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Christian",
+      "statement": "\"Novato council: District 2, Rachel Farac; District 4, Daniel Christian\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Andre",
+      "statement": "\"Larkspur council: Stephanie Andre, Jeanne Friedel, Sarah Margulies\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeanne Friedel",
+      "statement": "\"Larkspur council: Stephanie Andre, Jeanne Friedel, Sarah Margulies\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Margulies",
+      "statement": "\"Larkspur council: Stephanie Andre, Jeanne Friedel, Sarah Margulies\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Burdo",
+      "statement": "\"San Anselmo council: Steve Burdo, Will Dittmar\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Will Dittmar",
+      "statement": "\"San Anselmo council: Steve Burdo, Will Dittmar\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tiburon Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/tiburon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kathleen Defever",
+      "statement": "\"Tiburon council: Kathleen Defever, Chuck Hornbrook, Jack Ryan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tiburon Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/tiburon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Hornbrook",
+      "statement": "\"Tiburon council: Kathleen Defever, Chuck Hornbrook, Jack Ryan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tiburon Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/tiburon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jack Ryan",
+      "statement": "\"Tiburon council: Kathleen Defever, Chuck Hornbrook, Jack Ryan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joan Cox",
+      "statement": "\"Sausalito council: Joan Cox, Jill Hoffman\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jill James Hoffman",
+      "statement": "\"Sausalito council: Joan Cox, Jill Hoffman\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Ross Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/ross",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Herbst",
+      "statement": "\"Ross council: Bob Herbst, Julie McMillan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Ross Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/ross",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julie A McMillan",
+      "statement": "\"Ross council: Bob Herbst, Julie McMillan\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Marin Healthcare District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clayton Hess",
+      "statement": "\"Healthcare board: Division 1, Clayton Hess; Division 3, Brian Su\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Marin Healthcare District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Su",
+      "statement": "\"Healthcare board: Division 1, Clayton Hess; Division 3, Brian Su\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Larry Bragman",
+      "statement": "\"Fairfax council: Larry Bragman, Matt Da Cunha\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Da Cunha",
+      "statement": "\"Fairfax council: Larry Bragman, Matt Da Cunha\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leslie J. Harlander",
+      "statement": "\"Tam Union school board: Leslie Harlander, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian A. Sutherland",
+      "statement": "\"Tam Union school board: Leslie Harlander, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Tamalpais Union High School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valerie Wynn",
+      "statement": "\"Tam Union school board: Leslie Harlander, Brian Sutherland, Valerie Wynn\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "\"Corte Madera council: Eli Beckman, Ava Fruin, Pat Ravasio\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ava Fruin",
+      "statement": "\"Corte Madera council: Eli Beckman, Ava Fruin, Pat Ravasio\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pat Ravasio",
+      "statement": "\"Corte Madera council: Eli Beckman, Ava Fruin, Pat Ravasio\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Marin County — Measure P (County of Marin Childcare Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"P – Childcare tax: Yes\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"X – Sausalito zoning: Yes\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "San Rafael — Measure W (San Rafael Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"W – San Rafael property transfer tax: No\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Marin Healthcare District — Measure CC (Marin Healthcare District Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"CC – Hospital tax: Yes\"",
+      "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    }
+  ]
+}
