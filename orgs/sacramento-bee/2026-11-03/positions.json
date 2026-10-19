@@ -1,0 +1,297 @@
+{
+  "context": {
+    "title": "The Sacramento Bee Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sacramento-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Sacramento Bee Editorial Board",
+      "uri": "https://www.sacbee.com/opinion/election-endorsements/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:52:41Z",
+    "sources": [
+      "https://www.sacbee.com/opinion/election-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Democrat Xavier Becerra does not receive our endorsement by default, but because he shows the potential to lead this state well into an uncertain future, and offers a steadier, more substantive style of leadership that California has long — and desperately — needed.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316832589.html"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "statement": "\"The collective editorial boards of The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune endorse Morgan because he is the most qualified person for the office.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317171649.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"That’s why California voters approved Prop. 50 and it’s why Bera is the only candidate in this race who can be counted on to deliver.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317172915.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "statement": "\"We endorse Hadwick for another term representing California’s 1st Assembly District.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317045348.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "statement": "\"The Sacramento Bee Editorial Board endorses Krell in her re-election campaign to continue representing the Assembly’s 6th District.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317182902.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"McClatchy’s California editorial board, representing The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune, recommends a “Yes” vote on Prop. 3.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317445836.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The editorial boards of The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune recommend a “Yes” vote on Prop. 4.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317448027.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"McClatchy Media’s California editorial board strongly urges a “yes” vote on Proposition 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316911387.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"McClatchy’s California editorial board, representing The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune, recommends a “Yes” vote on Prop. 37.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317470188.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Though it was not unanimous, a majority of our editorial board endorses Prop. 40 ... Vote yes on Proposition 40.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317269166.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop. 42 is a poison pill designed to derail the real debate over a one-time wealth tax on billionaires. Voters should reject the decoy and vote no.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317166989.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"This is why the combined editorial boards of The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune oppose Prop. 43. We strongly urge a “no” vote.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956235.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"McClatchy’s California editorial board, representing The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune, recommends a “No” vote on Prop. 44.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317472706.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"McClatchy’s California editorial board, representing The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune, recommends a “Yes” vote on Prop. 45.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317475362.html"
+    },
+    {
+      "subject": {
+        "title": "Sacramento County Board of Supervisors, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Flo Cofer",
+      "statement": "\"We affirm our support for Cofer. She is best suited to shake up a stagnant board that needs to fundamentally change how it does its business.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317079847.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Kozlowski",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Aquino",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Rohrbough",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure I (Charter Amendment: City Council to Appoint and Direct the City Attorney)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Therefore, The Bee Editorial Board recommends “yes” votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure J (Charter Amendment: Decision-Making Authority for Boards and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Therefore, The Bee Editorial Board recommends “yes” votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure K (Campaign Contribution Limit Increase from $150 to $500)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Therefore, The Bee Editorial Board recommends “yes” votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Sacramento City Unified School District — Measure M (Special Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"This is why The Bee Editorial Board recommends a “No” vote on Measure M.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317497694.html"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeresia Ewell",
+      "statement": "\"This is why The Sacramento Bee Editorial Board endorses Jeresia Ewell to be RJUHSD’s trustee for Area 2.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317514817.html"
+    }
+  ]
+}

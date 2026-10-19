@@ -1,0 +1,573 @@
+{
+  "context": {
+    "title": "Sonoma County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sonoma County Democratic Party",
+      "uri": "https://sonomademocrats.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:02:11Z",
+    "sources": [
+      "https://sonomademocrats.org/2026-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"U.S. Congress, District 1 – Mike McGuire\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"U.S. Congress, District 2 – Jared Huffman\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"U.S. Congress, District 4 – Mike Thompson\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"State Senate, District 2 – Damon Connolly\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"State Assembly, District 2 – Chris Rogers\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia M. Aguiar-Curry",
+      "statement": "\"State Assembly, District 4 – Cecilia Aguiar-Curry\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joanna Paun",
+      "statement": "\"Sonoma County Board of Supervisors, District 2 – Joanna Paun\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Bagby",
+      "statement": "\"Sonoma County Board of Supervisors, District 4 – Melanie Bagby\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cloverdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cloverdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kimberly Kern",
+      "statement": "\"Cloverdale City Council – Kimberly Kern\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Cotati City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cotati",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kimberlyn Moffet",
+      "statement": "\"Cotati City Council – Kimberlyn Moffet\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Pratt",
+      "statement": "\"Healdsburg City Council, District 2 – Scott Pratt\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Herrod",
+      "statement": "\"Healdsburg City Council, District 4 – Chris Herrod\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin McDonnell",
+      "statement": "\"Petaluma Mayor, Kevin McDonnell\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janice Cader Thompson",
+      "statement": "\"Petaluma City Council, District 1 – Janice Cader Thompson\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brent Newell",
+      "statement": "\"Petaluma City Council, District 2 – Brent Newell\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Vazquez",
+      "statement": "\"Petaluma City Council, District 3 – Eric Vazquez\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Schools Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Holmes",
+      "statement": "\"Petaluma City Schools, Trustee Area 3 – Laura Holmes\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Schools Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Seitchik Sebastian",
+      "statement": "\"Petaluma City Schools, Trustee Area 5 – Sarah Seitchik Sebastian\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Waugh School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Denise Bugbee",
+      "statement": "\"Waugh School District – Denise Bugbee, Christine Pieper, Dylan Lloyd\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Waugh School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christine Pieper",
+      "statement": "\"Waugh School District – Denise Bugbee, Christine Pieper, Dylan Lloyd\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Waugh School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dylan Lloyd",
+      "statement": "\"Waugh School District – Denise Bugbee, Christine Pieper, Dylan Lloyd\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Khoury Tams",
+      "statement": "\"Rohnert Park City Council, District 2 – Linda Khoury Tams,\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Hollingsworth Adams",
+      "statement": "\"Rohnert Park City Council, District 5 – Susan Hollingsworth Adams\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Stapp",
+      "statement": "\"Santa Rosa City Council, District 2 – Mark Stapp\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Jones-Carter",
+      "statement": "\"Santa Rosa City Council, District 4 – Melanie Jones-Carter\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Okrepkie",
+      "statement": "\"Santa Rosa City Council, District 6 – Jeff Okrepkie\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Schools Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shaun Du Fosse",
+      "statement": "\"Santa Rosa City Schools, Trustee Area 2 – Shaun Du Fosee\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dorothy Battenfeld",
+      "statement": "\"Sonoma County Junior College District, Area 5 – Dorothy Battenfeld\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sebastopol City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sebastopol",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sandra Maurer",
+      "statement": "\"Sebastopol City Council – Sandra Maurer\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julian Mackie",
+      "statement": "\"Sonoma City Council, District 1 – Julian Mackie\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma Valley Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan McIntosh",
+      "statement": "\"Sonoma Valley Unified School District, Area 1 – Susan McIntosh\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Town Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Evan Kubota",
+      "statement": "\"Windsor Town Council, District 1 – Evan Kubota\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Brown",
+      "statement": "\"Windsor Unified School District – Michael Brown and Trish Donoho\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Trish Donoho",
+      "statement": "\"Windsor Unified School District – Michael Brown and Trish Donoho\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Coast Life Support District — Measure D (Coast Life Support District Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure D — Coast Life Support District Parcel Tax\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Waugh School District — Measure E (Waugh School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure E — Waugh School District Bond\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "West Sonoma County Union High School District — Measure G (West Sonoma County Union High School District Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure G — West Sonoma County Union High School District Parcel Tax\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District — Measure AB (Sonoma County Junior College District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure AB — Sonoma County Junior College District Bond\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Unified School District — Measure J (Windsor Unified School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure J — Windsor Unified School District Bond\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Harmony Union School District — Measure M (Harmony Union School District Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure M — Harmony Union School District Parcel Tax\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Old Adobe Union School District — Measure O (Old Adobe Union School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure O — Old Adobe Union School District Bond\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Schell-Vista Fire Protection District — Measure N (Schell-Vista Fire Protection District Appropriations Limit)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure N — Schell-Vista Fire Protection District Appropriations Limit Extension\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County — Measure H (Sonoma County Parks Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure H — Sonoma County Regional Parks\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Windsor — Measure I (Town of Windsor Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure I — Town of Windsor Transactions & Use Tax\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park — Measure K (City of Rohnert Park Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure K — City of Rohnert Park Transactions & Use Tax\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa — Measure L (City of Santa Rosa Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure L — City of Santa Rosa Community Safety/Financial Stability Measure\"",
+      "source": "https://sonomademocrats.org/2026-endorsements/"
+    }
+  ]
+}

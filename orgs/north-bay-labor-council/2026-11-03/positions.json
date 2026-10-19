@@ -1,0 +1,837 @@
+{
+  "context": {
+    "title": "North Bay Labor Council, AFL-CIO — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "North Bay Labor Council, AFL-CIO",
+      "uri": "https://www.nbclc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:25:34Z",
+    "sources": [
+      "https://www.nbclc.org/2026endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"U.S. House of Representatives District 4 - Mike Thompson (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"U.S. House of Representatives District 2 - Jared Huffman (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"U.S. House of Representatives District 1 - Mike McGuire\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"California State Senate District 2 - Damon Connolly\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"California State Assembly District 2 - Chris Rogers (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia M. Aguiar-Curry",
+      "statement": "\"California State Assembly District 4 - Cecilia Aguiar-Curry (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "statement": "\"California State Assembly District 12 - Jackie Elward*\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joanna Paun",
+      "statement": "\"Board of Supervisors, District 2 - Joanna Paun*\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Bagby",
+      "statement": "\"Board of Supervisors, District 4 - Melanie Bagby*\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Khoury Tams",
+      "statement": "\"Rohnert Park City Council, District 2 - Linda Khoury Tams\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Hollingsworth Adams",
+      "statement": "\"Rohnert Park City Council District 5 - Susan Adams (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janice Cader Thompson",
+      "statement": "\"Petaluma Council District 1 - Janice Cader Thompson (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brent Newell",
+      "statement": "\"Petaluma City Council District 2 - Brent Newell\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Vazquez",
+      "statement": "\"Petaluma City Council District 3 - Eric Vazquez\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Petaluma Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin McDonnell",
+      "statement": "\"Petaluma Mayor - Kevin McDonnell (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Stapp",
+      "statement": "\"Santa Rosa City Council District 2 - Mark Stapp (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Jones Carter",
+      "statement": "\"Santa Rosa City Council District 4 - Melanie Jones Carter*\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mathew Lopez",
+      "statement": "\"Healdsburg City Council District 2 - Mathew Lopez\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Herrod",
+      "statement": "\"Healdsburg City Council District 4 - Chris Herrod (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julian Mackie",
+      "statement": "\"Sonoma City Council, District 1 - Julian Mackie\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Windsor Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanya Potter",
+      "statement": "\"Windsor Mayor - Tanya Potter\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Windsor Town Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gina Fortino Dickson",
+      "statement": "\"Windsor City Council District 1 - Gina Fortino Dickson\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cloverdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cloverdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Will Carter",
+      "statement": "\"Cloverdale City Council - Will Carter\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sebastopol City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/sebastopol",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Woodruff",
+      "statement": "\"Sebastopol City Council - James Woodruff\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Education, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caitlin Quinn",
+      "statement": "\"Sonoma County Board of Education, Trustee Area #2 Caitlin Quinn\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggie Fishman",
+      "statement": "\"SRJC - Maggie Fishman (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ezrah Chabaan",
+      "statement": "\"SRJC - Ezrah Chabaan, SRJC (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dorothy Battenfeld",
+      "statement": "\"SRJC - Dorothy Battenfeld (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Schools Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Seitchik Sebastian",
+      "statement": "\"Petaluma City Schools, Area 5 - Sarah Seitchik Sebastian\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseland School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony Mendoza",
+      "statement": "\"Roseland School District - Anthony Mendoza\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Schools Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shaun Du Fosse",
+      "statement": "\"Santa Rosa City Schools, Area 2 - Shaun Du Fosse (Appointed Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park — Measure K (City of Rohnert Park Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Rohnert Park Measure K - Financial Viability, Community Health/Safety YES\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa — Measure L (City of Santa Rosa Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Santa Rosa Measure L - Sales Tax - YES\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County — Measure H (Sonoma County Parks Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H - Son. Co. Parks Sales Tax Reauthorization YES\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District — Measure AB (Sonoma County Junior College District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure AB - SRJC District Bond YES\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Windsor — Measure I (Town of Windsor Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"(Windsor) Measure I - Sales Tax YES\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Sandoval",
+      "statement": "\"San Rafael, District 3 - Robert Sandoval\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Denise Adams",
+      "statement": "\"Fairfax Town Council - Susan Adams\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fairfax Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Larry Bragman",
+      "statement": "\"Fairfax Town Council - Larry Bragman\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Burdo",
+      "statement": "\"San Anselmo Town Council - Steve Burdo (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Will Dittmar",
+      "statement": "\"San Anselmo Town Council - William Dittmar\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachel Farac",
+      "statement": "\"Novato City Council, District 2 - Rachel Farac (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aaron Burnett",
+      "statement": "\"Larkspur City Council - Aaron Burnett\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeanne Friedel",
+      "statement": "\"Larkspur City Council - Jeanne Friedel\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "\"Corte Madera City Council - Eli Beckman (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ava Fruin",
+      "statement": "\"Corte Madera City Council - Ava Fruin\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah E. Gallegos",
+      "statement": "\"Corte Madera Town Council - Deborah Gallegos\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Novato Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Abbey Picus",
+      "statement": "\"Novato Unified School District, Area 4 - Abbey Picus (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Marin Healthcare District — Measure CC (Marin Healthcare District Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Measure CC - Critical Care for Marin County\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Marin County — Measure P (County of Marin Childcare Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on Measure P - Childcare Initiative/\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Rafael — Measure W (San Rafael Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Yes on San Rafael Measure W - Real Property Transfer Measure\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Miller Creek School District — Measure N (Miller Creek Elementary School District Classroom Repair/Upgrade Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Miller Creek School District, Measure N\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fairfax — Measure R (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fairfax",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - Fairfax, Measure R\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Larkspur — Measure S (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - Larkspur, Measure S\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Ross — Measure U (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ross",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - Ross, Measure U\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo — Measure V (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - San Anselmo, Measure V\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "County Service Area 27 (Ross Valley Paramedic Authority) — Measure Y (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - CSA 27, Marin County, Measure Y\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Kentfield Fire Protection District — Measure BB (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - Kentfield Fire Protection District, Measure BB\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sleepy Hollow Fire Protection District — Measure DD (Paramedic Services Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Paramedic Services Taxes\" / \"YES - Sleepy Hollow Fire Protection District, Measure DD\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Mendocino County Board of Supervisors, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/mendocino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffey Bourassa",
+      "statement": "\"Board of Supervisors, District 3 - Buffey Bourassa\" (MENDOCINO COUNTY)",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Ukiah City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/ukiah",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Sher",
+      "statement": "\"Ukiah City Council - Susan Sher (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fort Bragg City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fort-bragg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mary Rose Kaczorowski",
+      "statement": "\"Fort Bragg City Council - Mary Rose Kaczorowski\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fort Bragg City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fort-bragg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mary Ann Schmidt",
+      "statement": "\"Fort Bragg City Council - Mary Ann Schmidt\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fort Bragg City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fort-bragg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tess Albin-Smith",
+      "statement": "\"Fort Bragg City Council - Tess Albin-Smith (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Willits City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/willits",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robin Leeler",
+      "statement": "\"Willits City Council - Robin Leeler\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Ukiah Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/mendocino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriel Baca Meza",
+      "statement": "\"Ukiah Unified School District - Gabriel Baca Meza\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Willits Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/mendocino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paula Nunez",
+      "statement": "\"Willits Unified School District - Paula Nunez (Incumbent)\"",
+      "source": "https://www.nbclc.org/2026endorsements"
+    },
+    {
+      "subject": {
+        "title": "Clearlake City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/clearlake",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Ramos",
+      "statement": "\"Clearlake City Council - Carlos Ramos\" (LAKE COUNTY)",
+      "source": "https://www.nbclc.org/2026endorsements"
+    }
+  ]
+}

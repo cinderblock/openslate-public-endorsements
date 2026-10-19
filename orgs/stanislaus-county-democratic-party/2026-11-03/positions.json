@@ -1,0 +1,345 @@
+{
+  "context": {
+    "title": "Stanislaus County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/stanislaus-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Stanislaus County Democratic Party",
+      "uri": "https://standems.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:02:02Z",
+    "sources": [
+      "https://standems.org/endorsed-candidates"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "statement": "\"US Congress, District 5: Michael Masuda\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "\"US Congress, District 9: Josh Harder\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "\"US Congress, District 13: Adam Gray\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"CA State Senate, District 4: Jaron Brandon\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Adams",
+      "statement": "\"CA State Assembly, District 9: Matthew Adams\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Ceres City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ceres",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dorie Perez",
+      "statement": "\"City of Ceres District 1: Doris “Dorie” Perez\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Ceres City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ceres",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosalinda L. Vierra",
+      "statement": "\"City of Ceres District 2: Rosalinda Vierra\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Ceres — Measure P (Ceres 911 Emergency Response, Community Safety, Essential Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/ceres",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure P: YES\" (under \"Local — Ceres\")",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/modesto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Telles",
+      "statement": "\"City of Modesto District 2: Juan Telles\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nefi Lopez",
+      "statement": "\"Modesto City Schools Area 1: Nefi Lopez\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debra L. Brady",
+      "statement": "\"Modesto City Schools Area 5: Debra Brady\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adolfo Lopez",
+      "statement": "\"Modesto City Schools Area 7: Adolfo Lopez\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools — Measure K (High School Career Training/Classroom Repair Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Modesto City Schools Measure K: YES\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Patterson Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/patterson",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriela Hernandez",
+      "statement": "\"City of Patterson Mayor: Gaby Hernandez\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Patterson City Council, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/patterson",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "ChiChi Jack",
+      "statement": "\"City of Patterson, District B: Chinyere “Chi Chi” Nnodim Jack\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Riverbank City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luis Uribe",
+      "statement": "\"City of Riverbank District 1: Luis Uribe\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Riverbank City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sammi Martinez",
+      "statement": "\"City of Riverbank District 3: Sammi Martinez\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Turlock Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Amy Bublak",
+      "statement": "\"City of Turlock Mayor: Do Not Support Amy Bublak or Kelley Coelho\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Turlock Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Kelley M. Coelho",
+      "statement": "\"City of Turlock Mayor: Do Not Support Amy Bublak or Kelley Coelho\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Turlock City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Jeremy Rocha",
+      "statement": "\"City of Turlock District 1: Do Not Support Jeremy Rocha\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Turlock City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Ryan Taylor",
+      "statement": "\"City of Turlock District 3: Do Not Support Ryan Taylor\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Turlock Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Jayden Betbabanta",
+      "statement": "\"Turlock Unified School District Area 4: Do Not Support Jayden Betbabanta\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Waterford City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/waterford",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Desiree Turnbough",
+      "statement": "\"City of Waterford: Desiree Turnbough\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Waterford — Measure O (City Council Elected by Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/waterford",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure O: YES\" (under \"Local — Waterford\")",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Stanislaus Union School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Gunderson",
+      "statement": "\"Stanislaus Union School District Area 1: John Gunderson\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Segoviano",
+      "statement": "\"Yosemite Community College District Area 4: Ryan Segoviano\"",
+      "source": "https://standems.org/endorsed-candidates"
+    },
+    {
+      "subject": {
+        "title": "Modesto Irrigation District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Moradian",
+      "statement": "\"Modesto Irrigation District Division 2: Mike Moradian\"",
+      "source": "https://standems.org/endorsed-candidates"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "context": {
+    "title": "Republican Party of Fresno County — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/fresno-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Republican Party of Fresno County",
+      "uri": "https://www.fresnogop.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:14:45Z",
+    "sources": [
+      "https://www.fresnogop.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "statement": "\"ENDORSED\" / \"Steve Hilton\" / \"California Governor\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "statement": "\"ENDORSED\" / \"Gloria Romero\" / \"California Lieutenant Governor\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "statement": "\"ENDORSED\" / \"Don Wagner\" / \"California Secretary of State\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "statement": "\"ENDORSED\" / \"Michael Gates\" / \"California Attorney General\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "statement": "\"ENDORSED\" / \"Herb Morgan\" / \"California State Controller\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "statement": "\"ENDORSED\" / \"Jennifer Hawks\" / \"California State Treasurer\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "\"ENDORSED\" / \"Tom McClintock\" / \"Congressional District 5\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Lincoln",
+      "statement": "\"ENDORSED\" / \"Kevin Lincoln\" / \"Congressional District 13\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shane Lewis",
+      "statement": "\"ENDORSED\" / \"Shane Lewis\" / \"Congressional District 18\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vince Fong",
+      "statement": "\"ENDORSED\" / \"Vince Fong\" / \"Congressional District 20\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kyle Kirkland",
+      "statement": "\"ENDORSED\" / \"Kyle Kirkland\" / \"Congressional District 21\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David G. Valadao",
+      "statement": "\"ENDORSED\" / \"David Valadao\" / \"Congressional District 22\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Magsig",
+      "statement": "\"ENDORSED\" / \"Nathan Magsig\" / \"State Senate District 12\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darin S. DuPont",
+      "statement": "\"ENDORSED\" / \"Darin DuPont\" / \"State Senate District 14\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Guillermo Asuncion Gonzalez",
+      "statement": "\"ENDORSED\" / \"Guillermo Gonzalez\" / \"State Senate District 16\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Jariustokaeutulelei Tangipa",
+      "statement": "\"ENDORSED\" / \"David Tangipa\" / \"Assembly District 08\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Murphy",
+      "statement": "\"ENDORSED\" / \"Mike Murphy\" / \"Assembly District 27\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Polsgrove",
+      "statement": "\"ENDORSED\" / \"Jim Polsgrove\" / \"Assembly District 31\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra (Ali) Macedo",
+      "statement": "\"ENDORSED\" / \"Alexandra Macedo\" / \"Assembly District 33\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 2: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 3: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 4: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 5: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 37: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 38: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 39: Yes\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43: Yes\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fresno County — Measure A (Fresno County Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure A: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Orange Cove — Measure O (City of Orange Cove Special Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-cove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure O: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Coalinga — Measure J (City of Coalinga Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coalinga",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure J: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sierra Kings Health Care District — Measure H (Sierra Kings Health Care District Hospital Lease Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H: Yes\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Firebaugh — Measure F (City of Firebaugh Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/firebaugh",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure F: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fowler — Measure T (City of Fowler Transactions & Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fowler",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure T: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sanger — Measure B (City of Sanger Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sanger",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure B: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fresno — Measure D (City of Fresno Transactions & Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fresno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure D: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fresno County — Measure S (Fresno County Transportation Improvement Act Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure S: No\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Fresno County Superior Court Judge, Office No. 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ashley S. Paulson",
+      "statement": "\"RECOMMENDATIONS:\" / \"Fresno County Superior Court:\" / \"Seat 6. Ashley S. Paulson\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "context": {
+    "title": "Sacramento County Republican Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sacramento-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sacramento County Republican Party",
+      "uri": "https://www.saccountygop.com/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:38Z",
+    "sources": [
+      "https://www.saccountygop.com/endorsed-candidates/",
+      "https://www.saccountygop.com/ballot-measures/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "statement": "\"Steve Hilton\" / \"Governor\" (under \"2026 Endorsed Candidates\")",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "statement": "\"Gloria Romero\" / \"Lt. Governor\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "statement": "\"Michael Gates\" / \"Attorney General\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "statement": "\"Don Wagner\" / \"Secretary of State\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "statement": "\"Herb Morgan\" / \"State Controller\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "statement": "\"Jennifer Hawks\" / \"State Treasurer\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "statement": "\"Sonja Shaw\" / \"Superintendent of Public Instruction\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "statement": "\"Shannon Grove\" / \"Board of Equalization – District 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robb Tucker",
+      "statement": "\"Robb Tucker\" / \"Congressional District 3\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rudy Recile",
+      "statement": "\"Rudy Recile\" / \"Congressional District 8\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roger Niello",
+      "statement": "\"Roger Niello\" / \"State Senate District 6\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan A Mason",
+      "statement": "\"Susan Mason\" / \"State Senate District 8\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Hoover",
+      "statement": "\"Josh Hoover\" / \"State Assembly District 7\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Citrus Heights City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/citrus-heights",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "MariJane Lopez-Taff",
+      "statement": "\"MariJane Lopez-Taff\" / \"Citrus Heights\" / \"District 2\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Citrus Heights City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/citrus-heights",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jayna Karpinski Costa",
+      "statement": "\"DUAL ENDORSEMENT FOR CITRUS HEIGHTS\" / \"DISTRICT 4\" / \"(VOTE FOR ONE)\" / \"Jayna Karpinski Costa\" / \"-OR-\" / \"Susan Powers\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Citrus Heights City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/citrus-heights",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Powers",
+      "statement": "\"DUAL ENDORSEMENT FOR CITRUS HEIGHTS\" / \"DISTRICT 4\" / \"(VOTE FOR ONE)\" / \"Jayna Karpinski Costa\" / \"-OR-\" / \"Susan Powers\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/elk-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Margaret \"Peggy\" Parks",
+      "statement": "\"Margaret \"Peggy\" Parks\" / \"Elk Grove\" / \"District 4\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Kozlowski",
+      "statement": "\"Mike Kozlowski\" / \"Folsom\" / \"District 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Rohrbough",
+      "statement": "\"Anna Rohrbough\" / \"Folsom\" / \"District 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Galt City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/galt",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Silva",
+      "statement": "\"Tom Silva\" / \"Galt\" / \"District 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Rancho Cordova City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-cordova",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Budge",
+      "statement": "\"Linda Budge\" / \"Rancho Cordova\" / \"District 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gregg",
+      "statement": "\"Mark Gregg\" / \"Los Rios Board Member\" / \"Trustee Area 2\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pearl Koven",
+      "statement": "\"Pearl Koven\" / \"Los Rios Board Member\" / \"Trustee Area 6\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Natasha Thao",
+      "statement": "\"Natasha Thao\" / \"Center Joint Unified\" / \"School Board Area 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Anderson",
+      "statement": "\"Nancy Anderson\" / \"Center Joint Unified\" / \"School Board Area 4\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kirk Thomson",
+      "statement": "\"Kirk Thomson\" / \"Elk Grove School Board\" / \"Trustee Area 2\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Craig Townsend",
+      "statement": "\"Craig Townsend\" / \"Elk Grove School Board\" / \"Trustee Area 4\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elena Trukhan",
+      "statement": "\"Elena Trukhan\" / \"Elk Grove School Board\" / \"Trustee Area 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Folsom Cordova Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christopher (Chris) Fredrich",
+      "statement": "\"Christopher (Chris) Fredrich\" / \"Folsom Cordova Unified\" / \"School District Trustee Area 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Folsom Cordova Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jen Laret",
+      "statement": "\"Jen Laret\" / \"Folsom Cordova Unified\" / \"School District Trustee Area 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Robla Elementary School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Craig DeLuz",
+      "statement": "\"Craig DeLuz\" / \"Robla Elementary\" / \"School District\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Morrison (Morri) Elliott",
+      "statement": "\"Morrison (Morri) Elliott\" / \"San Juan School Board\" / \"Trustee Area 3\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanya Kravchuk",
+      "statement": "\"Tanya Kravchuk\" / \"San Juan School Board\" / \"Trustee Area 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Manuel (Manny) Perez",
+      "statement": "\"Manuel (Manny) Perez\" / \"San Juan School Board\" / \"Trustee Area 7\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Carmichael Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dru Enser",
+      "statement": "\"Dru Enser\" / \"Carmichael Water District 3\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Naomi Goudeaux",
+      "statement": "\"Naomi Goudeaux\" / \"Sacramento Suburban\" / \"Water District 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Saunders",
+      "statement": "\"Andrew Saunders\" / \"Sacramento Suburban\" / \"Water District 3\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert (Bob) Matteoli",
+      "statement": "\"Robert (Bob) Matteoli\" / \"Sacramento Suburban\" / \"Water District 4\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ken Payne",
+      "statement": "\"Ken Payne\" / \"Sacramento Suburban\" / \"Water District 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Machado",
+      "statement": "\"George Machado\" / \"San Juan Water District\" / \"Division 1\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Costa",
+      "statement": "\"Ted Costa\" / \"San Juan Water District\" / \"Division 3\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Manny Zamorano",
+      "statement": "\"Manny Zamorano\" / \"San Juan Water District\" / \"Division 5\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Wilton Fire District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Radulovich",
+      "statement": "\"Wilton Fire Protection – 2 at large seats VOTE FOR 2 ONLY\" / \"Tim Radulovich\" / \"Michael Katon\" / \"Carlos Rogers\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Wilton Fire District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Katon",
+      "statement": "\"Wilton Fire Protection – 2 at large seats VOTE FOR 2 ONLY\" / \"Tim Radulovich\" / \"Michael Katon\" / \"Carlos Rogers\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Wilton Fire District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Rogers",
+      "statement": "\"Wilton Fire Protection – 2 at large seats VOTE FOR 2 ONLY\" / \"Tim Radulovich\" / \"Michael Katon\" / \"Carlos Rogers\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Cordova Recreation and Park District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Mott",
+      "statement": "\"Eric Mott\" / \"Cordova District 1 – Director\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "Southgate Recreation and Park District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ralph Merletti",
+      "statement": "\"Ralph Merletti\" / \"Southgate District 1 – Director\"",
+      "source": "https://www.saccountygop.com/endorsed-candidates/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 1\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 2\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 3\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 4\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 5\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 37\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 38\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 39\" — \"Sac County Republican Party\" column: \"YES\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 40\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 41\" — \"Sac County Republican Party\" column: \"YES\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 42\" — \"Sac County Republican Party\" column: \"YES\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 43\" — \"Sac County Republican Party\" column: \"YES\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 44\" — \"Sac County Republican Party\" column: \"NO\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 45\" — \"Sac County Republican Party\" column: \"YES\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District — Measure D (Natomas Schools Repair, Safety, Education Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure D: No Position (Natomas)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District — Measure E (School Facilities Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure E: No Position (Antelope, Elverta, and Roseville)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Galt Joint Union High School District — Measure G (Repair/Safety and Vocational Training Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure G: No Position (Galt)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District — Measure H (School Facilities Improvement District No. 1 Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure H: No (Los Rios)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure I (Charter Amendment: City Council to Appoint and Direct the City Attorney)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure I: YES (City of Folsom)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure J (Charter Amendment: Decision-Making Authority for Boards and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure J: YES (City of Folsom)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure K (Campaign Contribution Limit Increase from $150 to $500)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure K: YES (City of Folsom)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Galt — Measure L (Appointive City Treasurer and City Clerk)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/galt",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure L: YES (City of Galt)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento City Unified School District — Measure M (Special Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Measure M: No (City of Sacramento)\"",
+      "source": "https://www.saccountygop.com/ballot-measures/"
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "context": {
+    "title": "Sacramento County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sacramento-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sacramento County Democratic Party",
+      "uri": "https://www.sacdems.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:02:41Z",
+    "sources": [
+      "https://www.sacdems.org/endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"U.S. House of Representatives, District 3 – Ami Bera (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"U.S. House of Representatives, District 4 – Mike Thompson (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"U.S. House of Representatives, District 6 – Richard Pan\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "statement": "\"U.S. House of Representatives, District 7 – Doris Matsui (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"U.S. House of Representatives, District 8 – John Garamendi (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor – Xavier Becerra\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor – Fiona Ma\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "statement": "\"Secretary of State – Shirley N. Weber (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General – Rob Bonta (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer – Eleni Kounalakis\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "statement": "\"Controller – Malia M. Cohen (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner – Ben Allen\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction – Richard Barrera\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Board of Equalization, District 1 – Nelson Esparza\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "statement": "\"State Senate, District 6 – Sean Frame\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelique Ashby",
+      "statement": "\"State Senate, District 8 – Angelique Ashby (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "statement": "\"State Assembly, District 6 – Maggy Krell (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy L. Slavensky",
+      "statement": "\"State Assembly, District 7 – Amy L. Slavensky\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Adams",
+      "statement": "\"State Assembly, District 9 – Matthew Adams\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Nguyen",
+      "statement": "\"State Assembly, District 10 – Stephanie Nguyen (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori D Wilson",
+      "statement": "\"State Assembly, District 11 – Lori D Wilson (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento County Board of Supervisors, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Flo Cofer",
+      "statement": "\"Sacramento County Board of Supervisors, District 1 – Flo Cofer\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/elk-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sergio D. Robles",
+      "statement": "\"Elk Grove City Council, District 4 – Sergio D. Robles (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chad Vander Veen",
+      "statement": "\"Folsom City Council, District 1 – Chad Vander Veen\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jagadish “Jag” Nagendra",
+      "statement": "\"Folsom City Council, District 3 – Jagadish “Jag” Nagendra\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Justin Hurst",
+      "statement": "\"Folsom City Council, District 5 – Justin Hurst\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rancho Cordova City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-cordova",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tegan Mauldin",
+      "statement": "\"Rancho Cordova City Council, District 5 – Tegan Mauldin\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Dry Creek Joint Elementary School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tonya Harris",
+      "statement": "\"Dry Creek Joint Elementary School District, Area 3 – Tonya Harris\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Vargas",
+      "statement": "\"Elk Grove Unified School District, Area 2 – Michael Vargas (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Delia Baulwin",
+      "statement": "\"Elk Grove Unified School District, Area 4 – Delia Baulwin (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Varinder Singh",
+      "statement": "\"Elk Grove Unified School District, Area 5 – Varinder Singh\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom Cordova Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan K. Cunningham",
+      "statement": "\"Folsom Cordova Unified School District, Area 3 – Susan K. Cunningham\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Devon Graves",
+      "statement": "\"Los Rios Community College District, Area 1 – Devon Graves\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Los Rios Community College District, Area 2 – NEUTRAL*\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Los Rios Community College District, Area 6 – NEUTRAL*\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Natomas Unified School District, Area 1 – NEUTRAL*\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leng Lai",
+      "statement": "\"Natomas Unified School District, Area 4 – Leng Lai\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Robla Elementary School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jorge E. Mendoza Gonzalez",
+      "statement": "\"Robla Elementary School District (3 seats at-large) – Jorge E. Mendoza Gonzalez, Sabrina Oliver\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Robla Elementary School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sabrina Oliver",
+      "statement": "\"Robla Elementary School District (3 seats at-large) – Jorge E. Mendoza Gonzalez, Sabrina Oliver\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Joaquin Delta Community College District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles R. Jennings",
+      "statement": "\"San Joaquin Delta Community College District, Area 4 – Charles R. Jennings (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roxanne Stellmacher",
+      "statement": "\"San Juan Unified School District, Area 3 – Roxanne Stellmacher\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Murad “Moe” Sarama",
+      "statement": "\"San Juan Unified School District, Area 7 – Murad “Moe” Sarama\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert J. Gonzalez",
+      "statement": "\"Sierra Joint Community College District, Area 1 – Robert J. Gonzalez\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "American River Flood Control District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emily Smet",
+      "statement": "\"American River Flood Control District, Division 2 – Emily Smet\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "El Dorado Irrigation District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Godsey Anzini",
+      "statement": "\"El Dorado Irrigation District, Division 4 – Lori Godsey Anzini (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fulton-El Camino Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Seaman",
+      "statement": "\"Fulton-El Camino Recreation and Park District (2 seats at-large) – Michael Seaman (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Municipal Utility District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg B. Fishman",
+      "statement": "\"Sacramento Municipal Utility District (SMUD), Ward 3 – Gregg B. Fishman (i)\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Consiglio",
+      "statement": "\"Sacramento Suburban Water District, Division 1 – Andrew Consiglio\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40 – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45 – Vote NO\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District — Measure D (Natomas Schools Repair, Safety, Education Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure D (Natomas Unified School District) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District — Measure E (School Facilities Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure E (Center Joint Unified School District) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Galt Joint Union High School District — Measure G (Repair/Safety and Vocational Training Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure G (Galt Joint Union High School District) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District — Measure H (School Facilities Improvement District No. 1 Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H (Los Rios Community College District SFID#1) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure I (Charter Amendment: City Council to Appoint and Direct the City Attorney)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure I (City of Folsom) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure J (Charter Amendment: Decision-Making Authority for Boards and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure J (City of Folsom) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure K (Campaign Contribution Limit Increase from $150 to $500)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure K (City of Folsom) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Galt — Measure L (Appointive City Treasurer and City Clerk)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/galt",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Measure L (City of Galt) – NEUTRAL\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sacramento City Unified School District — Measure M (Special Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure M (Sacramento City Unified School District) – Vote YES\"",
+      "source": "https://www.sacdems.org/endorsements/"
+    }
+  ]
+}

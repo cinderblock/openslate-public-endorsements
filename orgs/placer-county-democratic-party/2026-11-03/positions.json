@@ -1,0 +1,621 @@
+{
+  "context": {
+    "title": "Placer County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Placer County Democratic Party",
+      "uri": "https://placerdems.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:01:48Z",
+    "sources": [
+      "https://placerdems.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor: Fiona Ma\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General: Rob Bonta\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "statement": "\"Controller: Malia Cohen\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction: Richard Barrera\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Board of Equalization\" / \"District 1: Nelson Esparza\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"US Congressional District 3: Dr. Ami Bera\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"US Congressional District 4: Mike Thompson\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"US Congressional District 6: Dr. Richard Pan\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"California State Senate\" / \"District 4: Jaron Brandon\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "statement": "\"California State Senate\" / \"District 6: Sean Frame\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dianna Margaret James",
+      "statement": "\"California Assembly\" / \"District 1: Diana James\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Neva Parker",
+      "statement": "\"California Assembly\" / \"District 5: Neva Parker\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45: Oppose\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "South Placer Fire District — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"South Placer Fire District Measure B: Support\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Placer County Board of Education, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nora Parella",
+      "statement": "\"Placer County Board of Education Trustee Area 1: Nora Parella\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert J. Gonzalez",
+      "statement": "\"Sierra Joint Community College District Trustee Area 1: Robert J. Gonzalez\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dennis Grossman",
+      "statement": "\"Sierra Joint Community College District Trustee Area 5: Dennis Grossman\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseville City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/roseville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anne Carpenter",
+      "statement": "\"Roseville City Council District 2: Anne Carpenter\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/roseville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Bartee",
+      "statement": "\"Rick Bartee\" / \"Roseville City Council District 4\" (candidate card under \"2026 General Election Endorsements\")",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Auburn City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/auburn",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelley Davis",
+      "statement": "\"Auburn City Council At-Large: Kelley Davis\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rocklin City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rocklin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Walter Moore",
+      "statement": "\"Rocklin City Council At-Large: Walter Moore\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Auburn Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liza Stefani",
+      "statement": "\"Auburn Union School District At-Large: Liza Stefani\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Dry Creek Joint Elementary School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ramos",
+      "statement": "\"Dry Creek Joint Elementary School District Trustee Area 1: Patrick Ramos\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Eureka Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dorothy Hinkley",
+      "statement": "\"Eureka Union School District At-Large: Dorothy Hinkley\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Sutherland",
+      "statement": "\"Rocklin Unified School District Trustee Area 2: Michelle Sutherland\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacob Boyce",
+      "statement": "\"Rocklin Unified School District Trustee Area 5: Jacob Boyce\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseville City School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Bye",
+      "statement": "\"Roseville City School District Trustee Area 4: Sara Bye\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeresia Ewell",
+      "statement": "\"Roseville Joint Union High School District Trustee Area 2: Jeresia Ewell\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Roberts",
+      "statement": "\"Jeff Roberts\" / \"Roseville Joint Union High School District Trustee Area 4\" (candidate card)",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ankhesenamun Marioni",
+      "statement": "\"Western Placer Unified School District Trustee Area 1: Ankhesenamun Marioni\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Cox",
+      "statement": "\"Western Placer Unified School District Trustee Area 2: Laura Cox\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Roskiewicz",
+      "statement": "\"Western Placer Unified School District Trustee Area 4: Megan Roskiewicz\"",
+      "source": "https://placerdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Placer Union High School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tricia Caspers",
+      "statement": "\"Tricia Caspers\" / \"Placer Union High School District\" / \"Trustee Area 3 (Foresthill/Auburn)\" (candidate card)",
+      "source": "https://placerdems.org/endorsements"
+    }
+  ]
+}
