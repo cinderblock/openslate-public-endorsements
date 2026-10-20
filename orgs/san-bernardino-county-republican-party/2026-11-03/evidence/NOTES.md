@@ -83,3 +83,5 @@ mechanism lands, this county party is a co-signer of those 21 CAGOP picks.
   Bernardino County conventions (e.g. "Hesperia City Council, District 2",
   "Apple Valley Town Council, District 3", "Lake Arrowhead Community
   Services District Board, Division 2"). All other titles were reused.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 21 from California Republican Party. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

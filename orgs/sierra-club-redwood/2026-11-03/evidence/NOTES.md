@@ -33,3 +33,5 @@ are listed here for a future `adopts` reference instead of being copied.
   Rio Vista City Council; Suisun City City Council (follows "Foster City City
   Council"); Vacaville Mayor; Vacaville City Council, District 6; Vallejo City
   Council, District 2/5; Napa County — Measure B (...).
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 13 from Sierra Club California. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

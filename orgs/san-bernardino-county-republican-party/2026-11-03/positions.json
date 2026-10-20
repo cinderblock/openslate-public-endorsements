@@ -1182,5 +1182,142 @@
       "statement": "Phelan Pinon Hills Community Services District: \"At-Large Andrew “An\"",
       "source": "https://img1.wsimg.com/blobby/go/00e1d586-84bf-47d7-8009-c4d0a6ebcb89/downloads/77573883-533c-4f5c-8832-690624e5aa91/SBGOP_2026_Complete_Updated_Voter_Guide.pdf?ver=1791570575256"
     }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Republican Party",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-republican-party/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Lieutenant Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Secretary of State",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://sbgop.com/2026-general"
+    }
   ]
 }

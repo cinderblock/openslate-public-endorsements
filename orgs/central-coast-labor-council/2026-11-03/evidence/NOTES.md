@@ -100,3 +100,5 @@ were uncontested and appointed in lieu of election:
   (City Of Santa Maria General Services)", which uses the county list's
   letter "C2026" and title.
 - `context.jurisdiction` is `us/ca` because the council covers three counties.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 31 from California Federation of Labor Unions, AFL-CIO. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

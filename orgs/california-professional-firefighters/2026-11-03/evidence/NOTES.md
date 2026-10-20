@@ -110,3 +110,5 @@ Source: https://cpfelectionguide.org/
 - CD 50: Scott Peters
 - CD 51: Sara Jacobs
 - CD 52: Juan Vargas
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 51 from International Association of Fire Fighters (IAFF). Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

@@ -30,3 +30,5 @@ Source: the PDF above. Listed here for a future `adopts` reference.
 - New title: Perris City Council, District 2 (`us/ca/perris`).
 - Ballot names not re-checked against the Riverside registrar (voteinfo.net blocks
   scripts); every name matches the spelling other IE bundles already use.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 12 from Sierra Club California. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
