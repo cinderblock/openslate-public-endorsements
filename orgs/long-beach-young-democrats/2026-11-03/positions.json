@@ -1,0 +1,82 @@
+{
+  "context": {
+    "title": "Long Beach Young Democrats — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Long Beach Young Democrats (LBYD)",
+      "uri": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T03:57:23Z",
+    "sources": [
+      "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268",
+      "https://www.instagram.com/p/DXQUW-BlDP9/?img_index=2"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"U.S. House California District 42\" … \"Robert Garcia\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"California State Assembly District 67\" … \"Mark Pulido\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"California Commissioner of Insurance\" … \"Ben Allen\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Ross",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"David Ross\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhonda A. Haymon",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"Rhonda Haymon\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    }
+  ]
+}

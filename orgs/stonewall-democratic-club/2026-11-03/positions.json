@@ -1,0 +1,1413 @@
+{
+  "context": {
+    "title": "Stonewall Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Stonewall Democratic Club",
+      "uri": "https://www.stonewalldems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:46:08Z",
+    "sources": [
+      "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor — Xavier Becerra\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor — Fiona Ma\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General — Rob Bonta*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State — Shirley N. Weber*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"State Controller — Malia M. Cohen*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State Treasurer — Eleni Kounalakis\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction — Richard Barrera\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Luna",
+      "statement": "\"Los Angeles County Sheriff — Robert Luna*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maria Ghobadi",
+      "statement": "\"Los Angeles County Superior Court, Office No. 64 — Maria Ghobadi\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Slotky Reitano",
+      "statement": "\"Los Angeles County Superior Court, Office No. 65 — Anna Slotky Reitano\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 87",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David DeJute",
+      "statement": "\"Los Angeles County Superior Court, Office No. 87 — David DeJute+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Tryfman",
+      "statement": "\"Los Angeles County Superior Court, Office No. 131 — Donna Tryfman\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"U.S. Representative, California’s 6th Congressional District — Dr. Richard Pan\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "\"U.S. Representative, California’s 22nd Congressional District — Randy Villegas^\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "\"U.S. Representative, California’s 27th Congressional District — George Whitesides*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "\"U.S. Representative, California’s 28th Congressional District — Judy Chu*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "\"U.S. Representative, California’s 29th Congressional District — Luz Rivas*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "\"U.S. Representative, California’s 30th Congressional District — Laura Friedman*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "\"U.S. Representative, California’s 31st Congressional District — Gilbert R. Cisneros Jr.*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "\"U.S. Representative, California’s 32nd Congressional District — Brad Sherman*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "\"U.S. Representative, California’s 34th Congressional District — Jimmy Gomez*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "\"U.S. Representative, California’s 36th Congressional District — Ted Lieu*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"U.S. Representative, California’s 37th Congressional District — Sydney Kamlager-Dove*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "\"U.S. Representative, California’s 38th Congressional District — Hilda Solis\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "\"U.S. Representative, California’s 39th Congressional District — Mark Takano*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "\"U.S. Representative, California’s 41st Congressional District — Linda Sánchez*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"U.S. Representative, California’s 42nd Congressional District — Robert Garcia*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "statement": "\"U.S. Representative, California’s 43rd Congressional District — Maxine Waters*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Barragán",
+      "statement": "\"U.S. Representative, California’s 44th Congressional District — Nanette Barragán*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"U.S. Representative, California’s 48th Congressional District — Marni von Wilpert^\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"State Assembly, District 40 — Pilar Schiavo*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"State Assembly, District 42 — Deborah Klein Lopez\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"State Assembly, District 43 — Celeste Rodriguez*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"State Assembly, District 44 — Nick Schultz*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"State Assembly, District 49 — Mike Fong*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"State Assembly, District 51 — Rick Chavez Zbur*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"State Assembly, District 52 — Jessica Caloza*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"State Assembly, District 54 — Mark González*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac Bryan",
+      "statement": "\"State Assembly, District 55 — Isaac G. Bryan*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"State Assembly, District 57 — Sade Elhawary*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"State Assembly, District 60 — Corey A. Jackson*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina McKinnor",
+      "statement": "\"State Assembly, District 61 — Tina McKinnor*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "José Luis Solache",
+      "statement": "\"State Assembly, District 62 — José Luis Solache*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"State Assembly, District 65 — Ayanna Davis\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"State Assembly, District 67 — Mark Pulido\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "statement": "\"State Assembly, District 72 — Chris Kluwe^\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "\"State Senate, District 20 — Caroline Menjivar*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"State Senate, District 24 — John Erickson+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"State Senate, District 28 — Lola Smallwood-Cuevas*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "statement": "\"State Senate, District 36 — Chris Duncan^\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Bass",
+      "statement": "\"Los Angeles Mayor — Karen Bass*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "statement": "\"Los Angeles City Attorney — Marissa Roy\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barri Worth Girvan",
+      "statement": "\"Los Angeles City Council, District 3 — Barri Worth Girvan\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Estuardo Mazariegos",
+      "statement": "\"Los Angeles City Council, District 9 — Estuardo Mazariegos\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Alhambra City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Michelson",
+      "statement": "\"Alhambra City Council, District 5 — Melissa Michelson\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Van Gorder",
+      "statement": "\"Burbank City Council (At-Large) — Mike Van Gorder\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Guerrero",
+      "statement": "\"Culver City Unified School District Board (At-Large) — Brian Guerrero\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "El Monte Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-monte",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Ancona",
+      "statement": "\"El Monte Mayor — Jessica Ancona\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "El Segundo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Pickhaver",
+      "statement": "\"El Segundo City Council (At-Large) — John Pickhaver\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Hacienda La Puente Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Johnny Yoder",
+      "statement": "\"Hacienda La Puente Unified School District Board, Trustee Area 2 — Johnathon “Johnny” Yoder\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Lawndale Elementary School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Bagley",
+      "statement": "\"Lawndale Elementary School District Board, Trustee Area 1 — Jennifer R. Bagley\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Montebello City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/montebello",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rafael Santoya",
+      "statement": "\"Montebello City Council, District 1 — Rafael Santoya\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Mountain View School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cindy Wu",
+      "statement": "\"Mountain View School District Board of Education (At-Large) — Cindy Wu\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Pasadena Area Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Francis Pollara",
+      "statement": "\"Pasadena Area Community College District Board of Trustees, Trustee Area 1 — Francis Pollara\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Pasadena Unified School District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Felita Kealing",
+      "statement": "\"Pasadena Unified School District Board of Education, District 1 — Felita Kealing\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brett Haddoak",
+      "statement": "\"Santa Clarita City Council, District 2 — Brett Haddoak\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valerie Bradford",
+      "statement": "\"Santa Clarita City Council, District 4 — Valerie Bradford\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelvin Driscoll",
+      "statement": "\"Santa Clarita City Council, District 5 — Kelvin Driscoll\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reza Rassool",
+      "statement": "\"Santa Clarita Community College District (College of the Canyons) Board of Trustees, Trustee Area 1 — Reza Rassool\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Noah Ropp",
+      "statement": "\"Santa Clarita Valley Water Agency Board of Directors, Division 1 — Noah M. Ropp\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lynne Plambeck",
+      "statement": "\"Santa Clarita Valley Water Agency Board of Directors, Division 3 — Lynne Plambeck\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julee Brooks",
+      "statement": "\"William S. Hart Union High School District Board, Trustee Area 2 — Julee Brooks\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stacy Fortner",
+      "statement": "\"William S. Hart Union High School District Board, Trustee Area 5 — Stacy Fortner\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brett Morrow",
+      "statement": "\"Santa Monica City Council (At-Large) — Brett Morrow\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Danny Ivanov",
+      "statement": "\"Santa Monica City Council (At-Large) — Daniel Ivanov\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kera Blades-Snell",
+      "statement": "\"Santa Monica Community College District Board of Trustees (At-Large) — Kera Blades-Snell\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Peters",
+      "statement": "\"Santa Monica Community College District Board of Trustees (At-Large) — Tom Peters\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sion Roy",
+      "statement": "\"Santa Monica Community College District Board of Trustees (At-Large) — Sion Roy\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luis Barrera Castañon",
+      "statement": "\"Santa Monica Community College District Board of Trustees (At-Large) — Luis Barrera Castañón\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alicia Mignano",
+      "statement": "\"Santa Monica–Malibu Unified School District Board of Education (At-Large) — Alicia Mignano\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stacy Rouse",
+      "statement": "\"Santa Monica–Malibu Unified School District Board of Education (At-Large) — Stacy Rouse\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robbie Staenberg",
+      "statement": "\"Santa Monica–Malibu Unified School District Board of Education (At-Large) — Robbie Staenberg\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Lieberman",
+      "statement": "\"Santa Monica–Malibu Unified School District Board of Education (At-Large) — Laurie Lieberman\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leslie Garcia",
+      "statement": "\"West Covina City Council, District 2 — Leslie H. Garcia\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Helen Krieger",
+      "statement": "\"West Hollywood City Council (At-Large) — Helen Krieger\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Post",
+      "statement": "\"West Hollywood City Council (At-Large) — Stephen J. Post\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chelsea Byers",
+      "statement": "\"West Hollywood City Council — Chelsea Lee Byers*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nikki Perez",
+      "statement": "\"Burbank City Council — Nikki Perez*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tamala Takahashi",
+      "statement": "\"Burbank City Council — Tamala Takahashi*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Freddy Puza",
+      "statement": "\"Culver City Council — Freddy Puza*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Fontana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/fontana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joz Sida",
+      "statement": "\"Fontana Mayor — Jocelyn “Joz” Sida\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Wong",
+      "statement": "\"Monterey Park City Council, District 1 — Thomas Wong*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aram Ayra",
+      "statement": "\"Riverside City Council, Ward 2 — Aram “Ayra” Ayrapetyan\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"San Bernardino City Council, Ward 2 — Christian Thomas Shaughnessy+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Salas",
+      "statement": "\"San Bernardino City Council, Ward 4 — Joseph Salas\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Torosis",
+      "statement": "\"Santa Monica City Council — Caroline Torosis*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Veres",
+      "statement": "\"Los Angeles Community College District Board of Trustees, Seat No. 2 — Steven F. Veres*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darryn Harris",
+      "statement": "\"Los Angeles Community College District Board of Trustees, Seat No. 4 — Darryn Harris*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriel Buelna",
+      "statement": "\"Los Angeles Community College District Board of Trustees, Seat No. 6 — Gabriel Buelna*\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Triston Ezidore",
+      "statement": "\"Culver City USD Board Member — Triston Ezidore*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Loredo",
+      "statement": "\"Culver City USD Board Member — Stephanie Loredo*+\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1 — Yes ($11.25 billion bond for affordable and veterans housing)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3 — Yes (Makes the Proposition 30/55 high-income tax permanent for schools and health care)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4 — Yes (Repeals the ban on public campaign financing)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5 — Yes (Removes the replacement-candidate question from statewide recall elections)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39 — No (Requires voter identification for in-person and mail voting)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40 - Yes (One-time 5% tax on billionaires for health care)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41 — No (Establishes audit and Gann Limit rules that would nullify Proposition 40)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42 — No (Constitutional ban on new wealth and personal-property taxes; would nullify Proposition 40)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43 — No (Requires a two-thirds vote for citizen-initiated local special taxes)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44 — No (Requires federally qualified health centers to spend 90% of revenue on “program services”)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles County Measure A — Yes (Binding arbitration for Sheriff’s Department and Fire Department unions)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles County Measure E — Yes (Locks in the Ethics Commission and restores Measure J funding)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Los Angeles City Measure PRK — Yes (Doubles the minimum Recreation and Parks budget over ten years)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure RR (Eviction Tenant Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Santa Monica Measure RR — Yes (Prohibits eviction for rent arrears of less than one month’s fair-market rent)\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure VV (Expand Just Cause Eviction Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Santa Monica Measure VV — Yes (Extends just-cause protections to renters of single-family\"",
+      "source": "https://www.stonewalldems.org/2026_stonewall_endorsed_candidates"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "context": {
+    "title": "Santa Barbara County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-barbara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Barbara County Democratic Party",
+      "uri": "https://www.sbdems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:48:53Z",
+    "sources": [
+      "https://www.sbdems.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "Listed as \"Salud Carbajal\", \"US Representative, District 24\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "statement": "Listed as \"Gregg Hart\", \"Member of the State Assembly, District 37\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricardo Valencia",
+      "statement": "Listed as \"Ricardo Valencia\", \"Santa Barbara County Board of Supervisors (District 5)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Buellton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Silva",
+      "statement": "Listed as \"David Silva\", \"Buellton Mayor\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Buellton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Billy Silvola",
+      "statement": "Listed as \"William Silvola\", \"Buellton City Council (District 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Buellton City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carla Mead",
+      "statement": "Listed as \"Carla Mead\", \"Buellton City Council (District 4)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Carpinteria City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carpinteria",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monica Solorzano",
+      "statement": "Listed as \"Monica Solorzano\", \"Carpinteria City Council (District 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Carpinteria City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/carpinteria",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julia Mayer",
+      "statement": "Listed as \"Julia Mayer\", \"Carpinteria City Council (District 3)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara County Board of Education, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Frost",
+      "statement": "Listed as \"Judith A. Frost\", \"Santa Barbara County Board of Education (Area 5)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Reyes-Martín",
+      "statement": "Listed as \"Luz Reyes-Martin\", \"Goleta City Council (District 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Kyriaco",
+      "statement": "Listed as \"James Kyriaco\", \"Goleta City Council (District 2)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Goleta Water District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kathleen Werner",
+      "statement": "Listed as \"Kathleen Werner\", \"Goleta Water District (District 2)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Guadalupe Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/guadalupe",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christina Hernandez",
+      "statement": "Listed as \"Christina Hernandez\", \"Guadalupe Mayor\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Isla Vista Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alec GeoSimonian",
+      "statement": "Listed as \"Alec GeoSimonian\", \"Isla Vista Recreation and Park District\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Isla Vista Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Demi Cain",
+      "statement": "Listed as \"Demi Cain\", \"Isla Vista Recreation and Park District\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lompoc Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Ball",
+      "statement": "Listed as \"Jeremy Ball\", \"Lompoc Mayor\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lompoc City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sharlameigne Segovia",
+      "statement": "Listed as \"Sharlameigne Segovia\", \"Lompoc City Council (District 2)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lompoc City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Anne Read",
+      "statement": "Listed as \"Sarah Anne Read\", \"Lompoc City Council (District 3)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Montecito Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Marie Miller",
+      "statement": "Listed as \"Amy Miller\", \"Montecito Union School District (N/A)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristen W. Sneddon",
+      "statement": "Listed as \"Kristen Sneddon\", \"Santa Barbara Mayor\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Devon Wardlow",
+      "statement": "Listed as \"Devon Wardlow\", \"Santa Barbara City Council (District 4)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ian Baucke",
+      "statement": "Listed as \"Ian Baucke\", \"Santa Barbara City Council (District 5)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Escobedo",
+      "statement": "Listed as \"Gabe Escobedo\", \"Santa Barbara City Council (District 6)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dominique Luján",
+      "statement": "Listed as \"Dominique Lujan\", \"Santa Barbara City College (Area 5)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Community College District Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Varon",
+      "statement": "Listed as \"Andrea Varon\", \"Santa Barbara City College (Area 7)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqueline \"Inda\" Karlsen",
+      "statement": "Listed as \"Jacqui Inda\", \"Santa Barbara Unified School District (Area 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rose Munoz",
+      "statement": "Listed as \"Rose Munoz\", \"Santa Barbara Unified School District (Area 4)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Maria City Council, District 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-maria",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celest Mendoza",
+      "statement": "Listed as \"Celest Mendoza\", \"Santa Maria City Council (District 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Maria City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-maria",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Soto",
+      "statement": "Listed as \"Gloria Soto\", \"Santa Maria City Council (District 3)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Maria Public Airport District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Danny K. Mogg",
+      "statement": "Listed as \"Danny Mogg\", \"Santa Maria Public Airport District (District 4)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Maria-Bonita School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Maria Cabral",
+      "statement": "Listed as \"Luz Maria Cabral\", \"Santa Maria-Bonita School District (Area 1)\".",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Maria — Measure C2026 (City Of Santa Maria General Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-maria",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure C ✓ Vote Yes\" — \"City of Santa Maria: increases the local sales tax rate from 8.75% to 9.25% to fund community facilities, parks, the library, and street repairs.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Allan Hancock Joint Community College District — Measure H (Education and Economic Development Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H ✓ Vote Yes\" — \"Allan Hancock Joint Community College District: authorizes up to $290 million in bonds to repair, upgrade, and modernize college facilities across the district.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ynez Valley Union High School District — Measure D2026 (Santa Ynez Valley Union High School Quality Education/Career Training Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure D ✓ Vote Yes\" — \"Santa Ynez Valley Union High School District: authorizes an $80 million bond for campus facilities improvements.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Isla Vista Community Services District — Measure E2026 (Increased Isla Vista Municipal Infrastructure and Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure E ✓ Vote Yes\" — \"Isla Vista Community Services District: adds a utility tax to fund weekend safety response, resident parking, and better street lighting.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 1 ✓ Vote Yes\" — \"Authorizes $11.25 billion in state bonds for affordable housing and veterans' home loans.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 2 ✓ Vote Yes\" — \"Raises the cap on the state's rainy day fund and changes budget reserve rules.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3 ✓ Vote Yes\" — \"Makes permanent the existing tax rates on millionaires, funding K-12 schools and community colleges.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 4 ✓ Vote Yes\" — \"Allows public financing of political campaigns for candidates who agree to spending limits.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 5 ✓ Vote Yes\" — \"Eliminates the simultaneous successor election in a recall, leaving the office vacant until filled by law.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 37 ✓ Vote Yes\" — \"Authorizes up to $25 billion in bonds to create low-cost, state-backed mortgages for middle-income home buyers.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 38 ✓ Vote Yes\" — \"Authorizes $8.4 billion in state bonds for immunology and immunotherapy research.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 39 ✕ Vote No\" — \"Imposes new voter ID and citizenship-verification requirements that make it harder for eligible Californians to register and vote.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 40 ✓ Vote Yes\" — \"Imposes a one-time 5% tax on individuals and trusts with covered assets over $1 billion, funding health care and food assistance.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 41 ✕ Vote No\" — \"Creates new audit mandates and locks in permanent restrictions on future state special taxes, tying lawmakers' hands on emergency revenue.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 42 ✕ Vote No\" — \"Blocks the state from ever taxing personal property or wealth, including stocks and investment accounts, shielding the richest Californians' assets.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 43 ✕ Vote No\" — \"Makes it harder for local communities to fund schools, transit, and services by requiring a two-thirds vote for local special taxes, even those proposed directly by voters.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 44 ✕ Vote No\" — \"Imposes rigid spending mandates and penalties on community health clinics serving low-income patients, threatening their ability to operate.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 45 ✕ Vote No\" — \"Guts environmental review and limits the public's ability to legally challenge harmful development projects, weakening CEQA protections.\"",
+      "source": "https://www.sbdems.org/endorsements"
+    }
+  ]
+}
