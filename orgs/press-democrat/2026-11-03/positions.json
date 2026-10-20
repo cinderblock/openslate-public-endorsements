@@ -1,0 +1,530 @@
+{
+  "context": {
+    "title": "The Press Democrat — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sonoma-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Press Democrat",
+      "uri": "https://www.pressdemocrat.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:52:34Z",
+    "sources": [
+      "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/",
+      "https://www.pressdemocrat.com/2026/09/22/endorsement-herrod-lopez-are-best-choices-for-healdsburgs-future/",
+      "https://www.pressdemocrat.com/2026/10/13/endorsement-fortino-dickson-potter-for-windsor-town-council/",
+      "https://www.pressdemocrat.com/2026/10/13/endorsement-yes-on-measure-j-windsors-students-deserve-safe-classrooms/",
+      "https://www.pressdemocrat.com/2026/10/14/endorsement-props-1-and-38-would-only-bring-more-debt-for-california/",
+      "https://www.pressdemocrat.com/opinion/editorials/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"The Press Democrat endorses Mike Thompson for California’s 4th Congressional District.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"House of Representatives, 1st District — Mike McGuire\" … \"He’s ready to represent the North Coast in Congress.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1 would fund housing programs. Proposition 38 would fund immunology research. We recommend a no vote on each.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/14/endorsement-props-1-and-38-would-only-bring-more-debt-for-california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3: High-income tax — Yes\" … \"The Press Democrat recommends a yes vote.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"The Press Democrat recommends voting no on Prop. 4.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1 would fund housing programs. Proposition 38 would fund immunology research. We recommend a no vote on each.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/14/endorsement-props-1-and-38-would-only-bring-more-debt-for-california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Press Democrat recommends a yes vote on Prop. 40.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"The Press Democrat recommends a no vote on Prop. 41.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"The Press Democrat recommends a no vote on Prop. 42.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"We recommend Californians vote no on Prop. 43.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"The Press Democrat recommends a no vote on Prop. 44.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"The Press Democrat endorses Fiona Ma.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"State treasurer — Eleni Kounalakis\" … \"That is Kounalakis.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"The Press Democrat endorses Ben Allen.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Of the two candidates on the Nov. 3 ballot, Richard Barrera is best suited to these ends.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"State Senate, 2nd District — Damon Connolly\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"Assembly, 12th District — Eric Lucan\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County — Measure H (Sonoma County Parks Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure H: Renewal of Sonoma County Regional Park sales tax — Yes\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Junior College District — Measure AB (Sonoma County Junior College District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"We recommend a yes vote on Measure AB.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Windsor — Measure I (Town of Windsor Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Press Democrat recommends a yes vote on Measure I.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park — Measure K (City of Rohnert Park Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Measure K: Rohnert Park sales tax — Yes\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa — Measure L (City of Santa Rosa Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Press Democrat recommends a yes vote on Measure L.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Unified School District — Measure J (Windsor Unified School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Press Democrat recommends a yes vote on Measure J.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/13/endorsement-yes-on-measure-j-windsors-students-deserve-safe-classrooms/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sylvia Lemus",
+      "statement": "\"Supervisor, 2nd District — Sylvia Lemus\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Schwedhelm",
+      "statement": "\"Supervisor, 4th District — Tom Schwedhelm\" … \"He is the right pick to succeed James Gore.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Santa Rosa City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-rosa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Jones-Carter",
+      "statement": "\"The Press Democrat recommends a yes vote for Melanie Jones-Carter\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mathew Lopez",
+      "statement": "\"The Press Democrat recommends Mathew López.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Healdsburg City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/healdsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Herrod",
+      "statement": "\"Endorsement: Herrod, López are best choices for Healdsburg’s future\" … \"Chris Herrod, who currently serves on the city council, is the only candidate running to represent District 4.\"",
+      "source": "https://www.pressdemocrat.com/2026/09/22/endorsement-herrod-lopez-are-best-choices-for-healdsburgs-future/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janice Cader Thompson",
+      "statement": "\"The Press Democrat endorses incumbent Janice Cader Thompson for District 1\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brent Newell",
+      "statement": "\"newcomer Brent Newell for District 2\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Nau",
+      "statement": "\"incumbent Karen Nau for District 3\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Petaluma Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/petaluma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin McDonnell",
+      "statement": "\"incumbent Kevin McDonnell for mayor\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Khoury Tams",
+      "statement": "\"The Press Democrat recommends Linda Khoury Tams.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Hollingsworth Adams",
+      "statement": "\"In District 5, The Press Democrat recommends incumbent Susan Hollingsworth Adams.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Cloverdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cloverdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrés Marquez",
+      "statement": "\"We recommend a vote for Marquez, Parker and Carter.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Cloverdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cloverdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Parker",
+      "statement": "\"We recommend a vote for Marquez, Parker and Carter.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Cloverdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cloverdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Will Carter",
+      "statement": "\"We recommend a vote for Marquez, Parker and Carter.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Sonoma City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julian Mackie",
+      "statement": "\"The Press Democrat is endorsing him for Sonoma City Council District 1.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Town Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gina Fortino Dickson",
+      "statement": "\"The Press Democrat endorses Gina Fortino Dickson for Windsor Town Council District 1.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/13/endorsement-fortino-dickson-potter-for-windsor-town-council/"
+    },
+    {
+      "subject": {
+        "title": "Windsor Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/windsor",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanya Potter",
+      "statement": "\"The Press Democrat endorses Tanya Potter for Windsor’s mayor.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/13/endorsement-fortino-dickson-potter-for-windsor-town-council/"
+    },
+    {
+      "subject": {
+        "title": "Napa County — Measure B (Wildfire Preparedness, Watershed Protection and Open Space Preservation Act of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/napa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"The Press Democrat recommends a yes vote for Napa County’s Measure B.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    },
+    {
+      "subject": {
+        "title": "American Canyon — Measure P (City Services Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/american-canyon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"the Press Democrat recommends a No vote on Measure P.\"",
+      "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
+    }
+  ]
+}

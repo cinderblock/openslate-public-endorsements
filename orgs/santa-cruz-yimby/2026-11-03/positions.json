@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "Santa Cruz YIMBY — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Cruz YIMBY",
+      "uri": "https://yimbyaction.org/chapters/santa-cruz-yimby",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:50:24Z",
+    "sources": [
+      "https://yimbyaction.org/chapters/santa-cruz-yimby",
+      "https://yimbyaction.org/endorsements/november-2026-california-general"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Wilk",
+      "statement": "\"Who we're endorsing\" / \"Peter WilkCity of Capitola City Council MemberCitywide\" / \"Endorsed\"",
+      "source": "https://yimbyaction.org/chapters/santa-cruz-yimby"
+    }
+  ]
+}

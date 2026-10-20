@@ -1,0 +1,262 @@
+{
+  "context": {
+    "title": "El Dorado County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/el-dorado-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "El Dorado County Democratic Party",
+      "uri": "https://edcdems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:45:09Z",
+    "sources": [
+      "https://edcdems.org/elections/",
+      "https://edcdems.org/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"2026 Endorsed Candidates\" / \"Congressional District 3 (CD3)\" / \"Ami Bera\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "statement": "\"2026 Endorsed Candidates\" / \"Congressional District 5 (CD5)\" / \"Michael Masuda\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "statement": "\"2026 Endorsed Candidates\" / \"Congressional District 7 (CD7)\" / \"Doris Matsui\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"2026 Endorsed Candidates\" / \"California State Senate District 4\" / \"Jaron Brandon\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dianna James",
+      "statement": "\"2026 Endorsed Candidates\" / \"California Assembly District 1\" / \"Dianna James\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Neva Parker",
+      "statement": "\"2026 Endorsed Candidates\" / \"California Assembly District 5\" / \"Neva Parker\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Dorado Irrigation District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Anzini",
+      "statement": "\"2026 Endorsed Candidates\" / \"El Dorado Irrigation District Division 4 (EID)\" / \"Lori Anzini\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Dorado County Board of Education, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Hensill",
+      "statement": "\"2026 Endorsed Candidates\" / \"El Dorado Board of Education Trustee Area 1\" / \"John Hensill\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Mother Lode Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steph Carlson",
+      "statement": "\"2026 Endorsed Candidates\" / \"Mother Lode SD Board of Education (MLUSD)\" / \"Steph Carlson\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Lake Tahoe City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-lake-tahoe",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erika Gonzalez",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Lake Tahoe (SLT) City Council\" / \"Erika Gonzalez\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Lake Tahoe City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-lake-tahoe",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gantt Miller",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Lake Tahoe (SLT) City Council\" / \"Gantt Miller\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Lake Tahoe City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-lake-tahoe",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Friedrich",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Lake Tahoe (SLT) City Council\" / \"John Friedrich\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Lake Tahoe City Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-lake-tahoe",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Davis",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Lake Tahoe (SLT) City Clerk\" / \"Michelle Davis\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Lake Tahoe Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lauri Kemper",
+      "statement": "\"2026 Endorsed Candidates\" / \"LTUSD Board of Trustees Area 5\" / \"Lauri Kemper\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Tahoe Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Exline",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Tahoe Public Utility District\" / \"Nick Exline\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Tahoe Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Haven",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Tahoe Public Utility District\" / \"Nick Haven\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South Tahoe Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shane Romsos",
+      "statement": "\"2026 Endorsed Candidates\" / \"South Tahoe Public Utility District\" / \"Shane Romsos\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Dorado County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gina Posey",
+      "statement": "\"2026 Supported Candidates\" / \"El Dorado County Board of Supervisors (EDC BOS) District 4\" / \"Gina Posey\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Dorado County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-dorado-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Adam Clark",
+      "statement": "\"2026 Supported Candidates\" / \"El Dorado County Office of Education (EDCOE) Trustee Area 2\" / \"Adam Clark\"",
+      "source": "https://edcdems.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"EDC Democrats Endorse Prop 3\" / \"Yes on Prop 3\"",
+      "source": "https://edcdems.org/"
+    }
+  ]
+}

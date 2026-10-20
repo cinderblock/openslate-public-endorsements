@@ -1,0 +1,515 @@
+{
+  "context": {
+    "title": "Santa Cruz County Republican Central Committee — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Cruz County Republican Central Committee",
+      "uri": "https://santacruzrepublicans.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:48:42Z",
+    "sources": [
+      "https://santacruzrepublicans.com/candidates/",
+      "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/",
+      "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/",
+      "https://santacruzrepublicans.com/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Steve Hilton\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Sonja Shaw\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb Morgan",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Herb Morgan\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Don Wagner",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Don Wagner\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Gloria Romero\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Jennifer Hawks\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gates",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Michael Gates\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Kessler",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Shannon Kessler\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carol Pefley",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Carol Pefley\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Coe Verbica",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Peter Verbica\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shane Lewis",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Shane Lewis\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dennis P. Sanchez",
+      "statement": "\"Santa Cruz County Republican Central Committee Endorsed Candidates\" / \"For more information, visit: Dennis Sanchez\"",
+      "source": "https://santacruzrepublicans.com/candidates/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 2  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 3  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 4  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 5  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 37  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Proposition 38  –  NEUTRAL\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 39  –  Vote YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 41  –  Vote YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 42  –  Vote YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43  –  Vote YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44  –  Vote NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 45  –  Vote YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2-2/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Troy \"TJ\" Welch Jr",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Capitol City Council\" / \"Troy TJ Welsh\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Joe Clarke",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Capitol City Council\" / \"Joe Clarke\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tory Del Favero",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Capitol City Council\" / \"Tory Del Favero\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Casey Clark",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Watsonville City Council\" / \"Casey Clark – District 5\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ed Acosta",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Watsonville City Council\" / \"Ed Acosta – District 7\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Misty Navarro",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Pajaro Valley USD\" / \"Misty Navaro – Trustee Area 7\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robin Sukow",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Pajaro Valley USD\" / \"Robin Sukow – Trustee Area 1\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Daniel Dodge, Jr",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Pajaro Valley USD\" / \"Daniel Dodge Jr. – Trustee Area 4\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alicia G Jiménez",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Pajaro Valley USD\" / \"Alicia Jimenez – Trustee Area 5\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Soquel Union Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Andrea Locke",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Soquel Elementary District\" / \"Andrea Locke – Trustee Area 4\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Greg Wimp",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Scotts Valley City Council\" / \"Greg Wimp\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "San Lorenzo Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ashleigh Hopkins",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"San Lorenzo Valley USD\" / \"Ashleigh Hopkins – Trustee Area 4\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure D (Onshore Support Facilities for Offshore Oil, Gas and Deep-Sea Mining)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Measure D\" / \"NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure E (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Measure E\" / \"NO\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley — Measure G (Transient Occupancy Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"Recommended Local Candidates and Measures\" / \"Measure G\" / \"YES\"",
+      "source": "https://santacruzrepublicans.com/santa-cruz-gop-voter-guide-2/"
+    }
+  ]
+}

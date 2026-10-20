@@ -1,0 +1,357 @@
+{
+  "context": {
+    "title": "Butte County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/butte-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Butte County Democratic Party",
+      "uri": "https://www.buttecountydems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:45:10Z",
+    "sources": [
+      "https://www.buttecountydems.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"CD1 House: Mike McGuire\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor: Fiona Ma\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General: Rob Bonta\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Controller: Malia Cohen\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction: Richard Barrera\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Board of Equalization District 1: Nelson Esparza\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38: YES\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39: NO (Voter ID Strong NO)\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40: YES (Billionaire Tax)\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41: NO\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42: NO\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43: NO\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: NO\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45: NO\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Chico City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chico",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shelby Hebert",
+      "statement": "\"CHICO CITY COUNCIL:\" / \"District 2: Shelby Hebert\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Chico City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/chico",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Thomas Petty",
+      "statement": "\"CHICO CITY COUNCIL:\" / \"District 6: Megan Thomas Petty\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Chico Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/butte-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caitlin Dalby",
+      "statement": "\"Chico Unified School District Board of Education\" / \"Area : 5 Caitlin Dalby\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Chico Area Recreation and Park District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/butte-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Betina Wildhaber",
+      "statement": "\"Chico Area Recreation District CARD Board\" / \"Trustee Area 5: Betina Wildhaber\"",
+      "source": "https://www.buttecountydems.org/endorsements"
+    }
+  ]
+}

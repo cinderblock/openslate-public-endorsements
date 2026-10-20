@@ -1,0 +1,743 @@
+{
+  "context": {
+    "title": "Contra Costa Labor Council, AFL-CIO — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/contra-costa-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Contra Costa Labor Council, AFL-CIO",
+      "uri": "https://www.cclabor.net/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T04:21:04Z",
+    "sources": [
+      "https://www.cclabor.net/2026",
+      "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv",
+      "https://calaborfed.org/labor-2026-primary-election-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Antioch City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/antioch",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tamisha Torres-Walker",
+      "statement": "\"Antioch City Council, D1: Tamisha Torres-Walker\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Antioch City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/antioch",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monica E. Wilson",
+      "statement": "\"Antioch City Council, D4: Monica Wilson\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carolyn Wysinger",
+      "statement": "\"El Cerrito City Council: Carolyn Wysinger\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Quinto",
+      "statement": "\"El Cerrito City Council: Gabe Quinto\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dena Acosta Beere",
+      "statement": "\"Concord City Council, D3: Dena Acosta Beere\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Nakamura",
+      "statement": "\"Concord City Council, D5: Laura Nakamura\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Hercules City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hercules",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dion Bailey",
+      "statement": "\"Hercules City Council: Dion Bailey\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Martinez Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/martinez",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brianne E. Zorn",
+      "statement": "\"Martinez Mayor: Brianne Zorn\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Martinez City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/martinez",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Howard",
+      "statement": "\"Martinez City Council, D1: Jay Howard\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Martinez City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/martinez",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debbie McKillop",
+      "statement": "\"Martinez City Council, D4: Debbie McKillop\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Oakley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Shaw",
+      "statement": "\"Oakley City Council, D4: Shannon Shaw\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Orinda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/orinda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Latika Malkani",
+      "statement": "\"Orinda City Council: Latika Malkani\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pinole City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/pinole",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriel Sandoval",
+      "statement": "\"Pinole City Council: Gabriel Sandoval\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pinole City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/pinole",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Truc \"Christy\" Lam-Julian",
+      "statement": "\"Pinole City Council:Christy Lam-Julian\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/pittsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dionne Adams",
+      "statement": "\"Pittsburg City Council:Dionne Adams\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/pittsburg",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Arlene Kobata (Siu Ling)",
+      "statement": "\"Pittsburg City Council: Arlene Kobata\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Richmond Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/richmond",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Claudia Jimenez",
+      "statement": "\"Richmond Mayor: Claudia Jimenez\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "San Pablo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-pablo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caden Cotton-Blake",
+      "statement": "\"San Pablo City Council: Caden Cotton-Blake\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "San Pablo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-pablo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Villalobos",
+      "statement": "\"San Pablo City Council: Anna Villalobos\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "San Ramon City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-ramon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marisol Rubio",
+      "statement": "\"San Ramon City Council, D4: Marisol Rubio\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Walnut Creek City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/walnut-creek",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brendan Moran",
+      "statement": "\"Walnut Creek City Council: Brendan Moran\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Walnut Creek City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/walnut-creek",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cherise Marie Khaund",
+      "statement": "\"Walnut Creek City Council: Cherise Khaund\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Community College District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cameron Sasai",
+      "statement": "\"Contra Costa Community College Board, Ward 1: Cameron Sasai\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Community College District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Becca Barrett",
+      "statement": "\"Contra Costa Community College Board, Ward 3: Rebecca Barrett\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa County Board of Education, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Butler",
+      "statement": "\"Contra Costa County Board of Education, Ward 2: Sarah Butler\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa County Board of Education, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clyde Henry Lewis, Jr",
+      "statement": "\"Contra Costa County Board of Education, Ward 5: Dr. Clyde Lewis\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Antioch Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandon Dawkins",
+      "statement": "\"Antioch USD, Ward 5: Brandon Dawkins\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Brentwood Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott S. Dudek",
+      "statement": "\"Brentwood Union ESD: Scott Dudek\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "John Swett Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Terri Burk",
+      "statement": "\"John Swett USD: Terri Burk\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "John Swett Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Samantha Watson-Alvarado",
+      "statement": "\"John Swett USD: Samantha Watson-Alvarado\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Liberty Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hillary Fairbairn Pedrotti",
+      "statement": "\"Liberty Union HSD: Hillary Pedrotti\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Martinez Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brenda Leal",
+      "statement": "\"Martinez USD, Ward 3: Brenda Leal\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Martinez Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tania E. Brugger",
+      "statement": "\"Martinez USD, Ward 5: Tania Brugger\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Mt. Diablo Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Baulch-Enloe",
+      "statement": "\"Mt. Diablo USD, District 2: Jane Baulch Enloe\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Mt. Diablo Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Thomas Lawrence",
+      "statement": "\"Mt. Diablo USD, District 4: Brian Lawrence\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Destiny Briscoe",
+      "statement": "\"Pittsburg USD: Destiny Briscoe\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heliodoro \"Helio\" Moreno",
+      "statement": "\"Pittsburg USD: Heliodoro Moreno\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Pittsburg Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Y Sowels",
+      "statement": "\"Pittsburg USD: Susan Sowels\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "West Contra Costa Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Demetrio Gonzalez Hoy",
+      "statement": "\"West Contra Costa USD, Ward 4: Demetrio Gonzales-Hoy\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "West Contra Costa Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caitlin Garibaldi",
+      "statement": "\"West Contra Costa USD, Ward 5: Caitlin Garibaldi\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Harpreet S. Sandhu",
+      "statement": "\"AC Transit District, Ward 1: Harpreet Sandhu\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Ambrose Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mae Torlakson",
+      "statement": "\"Ambrose Parks District: Mae Torlakson\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Foley",
+      "statement": "\"Bay Area Rapid Transit Board, Ward 2: Mark Foley\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel T. Fitzpatrick",
+      "statement": "\"Contra Costa Water District, Ward 2: Dual Endorsement (Pick 1)\" / \"Dan Fitzpatrick OR Allison Picard\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Contra Costa Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Allison Picard",
+      "statement": "\"Contra Costa Water District, Ward 2: Dual Endorsement (Pick 1)\" / \"Dan Fitzpatrick OR Allison Picard\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebrpd",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Colin Coffey",
+      "statement": "\"East Bay Regional Park, District 7: Colin Coffey\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz María Gómez",
+      "statement": "\"East Bay MUD District, Ward 2: Luz Gomez\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marguerite Young",
+      "statement": "\"East Bay MUD District, Ward 3: Marguerite Young\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andy Katz",
+      "statement": "\"East Bay MUD District, Ward 4: Andy Katz\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Wolff",
+      "statement": "\"East Bay MUD District, Ward 7: Gary Wolff\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Moraga-Orinda Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Donnelly",
+      "statement": "\"Moraga-Orinda Fire District, Ward 3: John Donnelly\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Moraga-Orinda Fire Protection District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Stevens",
+      "statement": "\"Moraga-Orinda Fire District, Ward 4: Linda Stevens\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "West County Wastewater District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cheryl Sudduth",
+      "statement": "\"West County Waste Water, District 5: Cheryl Sudduth\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure RTM: the Regional Transit Measure\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Concord — Measure O (Business License Tax Update)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure O: Concord Business Tax Simplification\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Richmond — Measure Q (Fire Facilities and Emergency Response Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/richmond",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure Q: Richmond Fire Bond to Fix Fire Stations\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "San Pablo — Measure S (City of San Pablo Rent Control)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-pablo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure S: San Pablo Rent Control to Keep San Pablo Housed\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "West Contra Costa Unified School District — Measure V (Parcel Tax Renewal)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure V: West Contra Costa USD Parcel Tax Renewal\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Acalanes Union High School District — Measure W (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure W: Acalanes HSD Parcel Tax to Retain Educators\"",
+      "source": "https://www.cclabor.net/2026"
+    },
+    {
+      "subject": {
+        "title": "Liberty Union High School District — Measure X (School Facilities Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/contra-costa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure X: Liberty Union HSD Bond to Fix Schools\"",
+      "source": "https://www.cclabor.net/2026"
+    }
+  ]
+}

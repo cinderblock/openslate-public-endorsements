@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "Kern, Inyo and Mono Counties Central Labor Council — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/kern-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Kern, Inyo and Mono Counties Central Labor Council",
+      "uri": "https://www.facebook.com/Kern-Inyo-and-Mono-Counties-Central-Labor-Council-264507513370/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T04:20:05Z",
+    "sources": [
+      "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv",
+      "https://calaborfed.org/labor-2026-primary-election-endorsements/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Frederick Hughes",
+      "statement": "\"Kern-Inyo-Mono,,Charles Hughes ,Assembly District 34\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    }
+  ]
+}

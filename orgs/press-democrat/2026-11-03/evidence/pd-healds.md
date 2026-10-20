@@ -1,0 +1,42 @@
+# Evidence: Herrod, López are best choices for Healdsburg’s future
+
+- **Source URL**: https://www.pressdemocrat.com/2026/09/22/endorsement-herrod-lopez-are-best-choices-for-healdsburgs-future/
+- **Retrieved**: 2026-10-19T22:52:25Z (Windows curl.exe GET; HTML converted to text with pandoc)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+ Endorsement: Herrod, López are best choices for Healdsburg’s future 
+Share this:
+- Share on Facebook (Opens in new window) Facebook
+- Share on X (Opens in new window) X
+- Print (Opens in new window) Print
+- Email a link to a friend (Opens in new window) Email
+- 
+[From left, Healdsburg City Council Member Chris Herrod and Healdsburg High School math teacher Mathew Lopez. (submitted photos)]
+By Editorial Board
+PUBLISHED: September 22, 2026 at 4:33 PM PDT | UPDATED: September 30, 2026 at 1:25 PM PDT
+Getting your Trinity Audio player ready...
+While the city of Healdsburg has faced relative economic prosperity over the last decade, weathering difficult financial periods and natural disasters alike, pending shifts to Sonoma County’s wine industry could soon be a driving force of change in Sonoma County’s fifth-largest city.
+Winegrape production and prices have declined by 10%, forcing growers to remove more than 58,000 vineyard acres. Already grappling with a population that’s drinking less alcohol, Healdsburg’s wine-based tourism businesses will soon feel the ripple effect of this drastic downsizing.
+City coffers will feel the pinch, too.
+This reality should be at the forefront of voters’ minds charged with electing council members in Healdsburg’s first district-based elections this year. Voters will elect two candidates this November, each from distinct districts; district 2 and district 4.
+District 2 abuts the southeast portion of district 1, running along Piper Street, looping around Tee Drive and Greens Drive, continuing along South Fitch Mountain Road, and finishing along the western and southern edges of the city.
+District 4 is just north of district 3, bound by Powell Avenue on the south, the city’s border on the east and north, district 1 on the west and part of district 5 on the north. The boundaries between District 5 and District 4 are Sunnyvale Drive/University Avenue/Terrace Boulevard/Lupine Road/Fuschia Street/Lily Street/March Avenue/Healdsburg Avenue/Powell Avenue.
+Chris Herrod, who currently serves on the city council, is the only candidate running to represent District 4.
+Three candidates — Healdsburg High School teacher Mathew López, real estate agent Alex Wood and advertising producer Scott Pratt — are each vying to represent district 2.
+Pratt has lived in Healdsburg since 2010, moving to the city from southern California. If elected, Pratt has many items to tackle on his to-do list, from developing “appropriate affordable low- and middle-income housing alternatives,” and digging “deeper into the use of Flock camera data,” to expanding water security, climate protection and climate change preparedness. While he’s endorsed by Sonoma County Conservation Action and the Sonoma County Democratic Club, he is not endorsed by any other sitting city council members, saying he believes accepting such endorsements is a conflict of interest.
+Wood, the son of former city council member and state assemblymember Jim Wood, grew up in Healdsburg. He says that “running for city council is part of my work to pay it forward and prepare” the city for the next 30 years. His main priorities are affordable housing development and small business support and economic growth, noting that he wants to “help build a resilient community where our families, seniors and small businesses have the resources they need to thrive.” Wood, who currently sits on the Healdsburg Planning Commission, is endorsed by the rest of the board, as well as City Council Member Ron Edwards and Vice Mayor Evelyn Mitchell.
+López, a bilingual speaker, is running on a campaign of sustainable housing, smart city planning, economic development and improved transit. While he might be a green politician — he has some civic experience serving as vice chair on the city’s SMART Station Area Committees — his fresh ideas and youthful attitude are exactly what the Healdsburg City Council needs.
+For too long, the council has been dominated by upper-class homeowners who sometimes have a difficult time thinking outside of their property-ownership box. López has been open about the struggles of being middle class: making just too much to qualify for financial assistance, but not enough to dream about homeownership. The rally cry is reminiscent of the powerful, middle-class messages brought forth by 2024 candidate Heather Hannan-Kramer (a candidate who would have brought much-needed change to the council, too).
+“The everyday work of a city isn’t partisan. Clean streets, safe neighborhoods and reliable utilities matter to all of us. My commitment is to advocate for the whole community on practical solutions, shared benefits and a focus on what serves residents’ needs,” López says.
+López is endorsed by the North Bay Labor Council, Council Member Ariel Kelley, Mayor Chris Herrod, former council member Osvaldo Jimenez and more.
+The Press Democrat also recommends a yes vote for Mathew López for Healdsburg district 2 city council member.
+You can email letters to the editor to letters@pressdemocrat.com. Don’t miss The Press Democrat’s new weekly opinion newsletter, Second Thoughts. Sign up here.
+Share this:
+- Share on Facebook (Opens in new window) Facebook
+- Share on X (Opens in new window) X
+- Print (Opens in new window) Print
+- Email a link to a friend (Opens in new window) Email
+- 
+```

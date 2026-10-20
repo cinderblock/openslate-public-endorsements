@@ -1,0 +1,406 @@
+{
+  "context": {
+    "title": "Monterey Bay Central Labor Council, AFL-CIO — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Monterey Bay Central Labor Council, AFL-CIO",
+      "uri": "https://mbclc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T04:14:31Z",
+    "sources": [
+      "https://mbclc.org/endorsements",
+      "https://docs.google.com/document/d/1_Ggt23axqEaz7c7iJTzyaSJxOjowXAGv/edit?usp=sharing&ouid=101363172576889265232&rtpof=true&sd=true"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "\"US Congress- District 18\" / \"Sole Endorsement\" / \"Zoe Lofgren\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "\"US Congress- District 19\" / \"Sole Endorsement\" / \"Jimmy Panetta\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "statement": "\"California Assembly District 28\" / \"Sole Endorsement\" / \"Gail Pellerin\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"California Assembly District 29\" / \"Sole Endorsement\" / \"Robert Rivas\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "statement": "\"California Assembly District 30\" / \"Sole Endorsement\" / \"Dawn Addis\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Monterey Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tyller Williamson",
+      "statement": "\"City of Monterey Mayor\" / \"Sole Endorsement\" / \"Tyler Williamson\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Monterey City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kim Barber",
+      "statement": "\"City of Monterey\" / \"City Council\" / \"Sole Endorsement\" / \"Dr. Kim Barber\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Seaside Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Miller",
+      "statement": "\"City of Seaside Mayor\" / \"Sole Endorsement\" / \"Alex Miller\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Marina Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Moeller",
+      "statement": "\"City of Marina Mayor\" / \"Sole Endorsement\" / \"Mike Moeller\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Seaside City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lacey Raak",
+      "statement": "\"Seaside City Council\" / \"(At Large)\" / \"Sole Endorsement\" / \"Lacey Raak\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Seaside City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rita Burks",
+      "statement": "\"Seaside City Council\" / \"(At Large)\" / \"Sole Endorsement\" / \"Rita Burks\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Marina City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Athena Rita Burciaga",
+      "statement": "\"Marina City Council, District 4\" / \"Sole Endorsement\" / \"Athena Burciaga\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Casey Clark",
+      "statement": "\"Watsonville City Council, District 5\" / \"Sole Endorsement\" / \"Casey Clark\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ed Acosta",
+      "statement": "\"Watsonville City Council, District 7\" / \"Sole Endorsement\" / \"Ed Acosta\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Salinas City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Barrera",
+      "statement": "\"City of Salinas\" / \"District 2\" / \"Sole Endorsement\" / \"Tony Barrera\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Chen Mills",
+      "statement": "\"City Santa Cruz Mayor\" / \"Sole Endorsement\" / \"Ami Chen Mills\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Benjamin Finke",
+      "statement": "\"Cabrillo College Trustee Area 6\" / \"Sole Endorsement\" / \"Ben Fiinke\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Meilin Obinata",
+      "statement": "\"Pajaro Valley USD Trustee Area 1\" / \"Sole Endorsement\" / \"Meilin Obinata\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eriberto Estrada",
+      "statement": "\"Pajaro Valley USD Trustee Area 4\" / \"Sole Endorsement\" / \"Eriberto Estrada\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mads Stockwell Realmuto",
+      "statement": "\"Pajaro Valley USD Trustee Area 7\" / \"Sole Endorsement\" / \"Mads Realmuto\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alisal Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ulises Gonzalez Reyes",
+      "statement": "\"Alisal Elementary SD Area 2\" / \"Sole Endorsement\" / \"Ulises Gonzalez\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alisal Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Oscar Ramos",
+      "statement": "\"Alisal Elementary SD Area 3\" / \"Sole Endorsement\" / \"Oscar Ramos\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alisal Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesús R. Velásquez",
+      "statement": "\"Alisal Elementary SD Area 5\" / \"Sole Endorsement\" / \"Jesus Velazquez\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "King City Joint Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Gaboni",
+      "statement": "\"King City Joint Unified School Board\" / \"Sole Endorsement\" / \"David Gaboni\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Salinas Union High School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Merissa Dacpano",
+      "statement": "\"Salinas Union High SD Area 7\" / \"Sole Endorsement\" / \"Merissa Decpano\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alicia G Jiménez",
+      "statement": "\"Pajaro Valley USD Area 5\" / \"Sole Endorsement\" / \"Alicia Jimenez\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Salinas — Measure G (Renewal of Measure G Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Salinas\" / \"Measure G\" / \"Support\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Salinas — Measure H (Ordinance No. 2687, Repealing Rental Registration, Rent Stabilization, Tenant Protection and Tenant Anti-Harassment Ordinances)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Salinas\" / \"Measure H\" / \"Oppose - VOTE NO!\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "King City — Measure P (King City Public Safety, Local Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/king-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of King\" / \"Measure P\" / \"Support\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Greenfield — Measure O (Continuing the City of Greenfield Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/greenfield",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"City of Greenfield\" / \"Measure O\" / \"Support\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure E (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"County of Santa Cruz\" / \"Measure E\" / \"Support\"",
+      "source": "https://mbclc.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Monterey County — Measure E (Transient Occupancy Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"County of Monterey\" / \"Measure E\" / \"Support\"",
+      "source": "https://mbclc.org/endorsements"
+    }
+  ]
+}

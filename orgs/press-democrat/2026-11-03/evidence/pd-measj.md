@@ -1,0 +1,48 @@
+# Evidence: Yes on Measure J
+
+- **Source URL**: https://www.pressdemocrat.com/2026/10/13/endorsement-yes-on-measure-j-windsors-students-deserve-safe-classrooms/
+- **Retrieved**: 2026-10-19T22:52:29Z (Windows curl.exe GET; HTML converted to text with pandoc)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+ Endorsement: Yes on Measure J. Windsor’s students deserve safe classrooms 
+Share this:
+- Share on Facebook (Opens in new window) Facebook
+- Share on X (Opens in new window) X
+- Print (Opens in new window) Print
+- Email a link to a friend (Opens in new window) Email
+- 
+[The HVAC unit and roof of the gymnasium at Brooks Elementary School are in need of repair and replacement in Windsor on Friday, June 26, 2026. (Christopher Chung/The Press Democrat)]
+By Editorial Board
+PUBLISHED: October 13, 2026 at 12:44 AM PDT
+Getting your Trinity Audio player ready...
+Seventy four leaks and counting. Decades-old HVAC systems. Dozens of portables long past their prime.
+Welcome to the state of public education in Windsor, 2026.
+Nearly 5,000 students attending Windsor’s five schools — two elementary, one middle and one high school — experience these conditions every day.
+While the district boasts some of the highest graduation rates in the county, research shows poor building conditions do take a toll. Students attending buildings in poor condition perform 6% lower on standardized test scores compared to students attending buildings in fair condition, according to studies compiled by the U.S. Department of Education. That gap stretches to 11% to 17% lower when comparing poor building conditions to excellent, modernized ones.
+Although Windsor High School is one of the newest high schools in the county — built just after Technology and Maria Carrillo High Schools in 1995 — some of its main components are tired. The HVAC is past its prime and asphalt work needs to be done.
+The district’s middle and elementary schools are faring worse, where leaks are common occurrences — the result of battered, spent roofs.
+“You can’t out-maintenance something like that,” said Heather Bailey, Windsor Unified School District’s communication manager. “If the roof is 30 years old, it’s 30 years old.”
+The lower grade schools also have more than 20 portables that are more than 20 years old — an issue that needs to be remediated, school district Superintendent Jeremy Decker said.
+While portables used to be cheap — roughly $60,000 — they now cost around $400,000 and $1.2 million to build out into a classroom.
+With a growing replacement list that includes multimillion-dollar items, including HVAC systems, near-failing roofs and portables, the school district is turning to voters once again for help.
+Windsor voters are being asked to approve a new $96 million bond to cover these upgrades and repairs. The bond would be repaid through property taxes, with an average annual charge of $46 per $100,000 of assessed property value over the life of the bond, extending through 2060.
+That would equate to more than $360 a year for a home in the range of Windsor’s current median sale price of about $800,000.
+Decker says the new bond would not bring an increase to Windsor property taxes, but rather extend it, thanks in part to the district’s 10-year, $65 million bond dropping off property tax bills a few months ago.
+Students deserve school buildings that contribute to their educational experience — not distract from it. The Press Democrat recommends a yes vote on Measure J.
+Funds from the measure would be used to repair or replace deteriorating roofs, plumbing, gas lines, sewer lines and electrical systems. Money would also be used to upgrade older schools so they meet current health codes, building safety codes and improve access for students with disabilities.
+Moreover, the money could be used to upgrade classrooms, labs and technology to support high quality instruction in math, science, engineering, reading, writing and arts programs.
+Some opponents fear the money would be used to fund the construction of future staff and teacher housing at the former Windsor Creek Elementary site. But district leaders say that facility needs and planned housing construction are two unrelated projects. They also note that those who live near the Windsor Creek property are unhappy with the proposed project and are using their vote against the school bond as a way to “punish” the district leadership.
+Some residents have explicitly stated on social media and in local meetings they will not vote for the bond because of their dissatisfaction with the district regarding Windsor Creek.
+Decker says these actions only punish the students.
+“At the end of the day, this is about education,” Decker said.
+The Press Democrat agrees. We recommend a yes vote on Measure J.
+You can email letters to the editor to letters@pressdemocrat.com. Don’t miss The Press Democrat’s new weekly opinion newsletter, Second Thoughts. Sign up here.
+Share this:
+- Share on Facebook (Opens in new window) Facebook
+- Share on X (Opens in new window) X
+- Print (Opens in new window) Print
+- Email a link to a friend (Opens in new window) Email
+- 
+```

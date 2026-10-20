@@ -1,0 +1,597 @@
+{
+  "context": {
+    "title": "Monterey County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/monterey-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Monterey County Democratic Party",
+      "uri": "https://montereycountydems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:45:13Z",
+    "sources": [
+      "https://montereycountydems.org/endorsements/",
+      "https://montereycountydems.org/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "\"Congress, 18th District: Zoe Lofgren\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "\"Congress, 19th District: Jimmy Panetta\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"Assembly District 29: Robert Rivas\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "statement": "\"Assembly District 30: Dawn Addis\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Carmel-by-the-Sea Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carmel-by-the-sea",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hans Buder",
+      "statement": "\"Carmel-by-the-Sea\" / \"Mayor: Hans Buder\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Carmel-by-the-Sea — Measure M (Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/carmel-by-the-sea",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Carmel-by-the-Sea\" / \"YES Measure M & N:: Fund street maintenance, beach erosion, wildfire preparedness, and tree maintenance\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Carmel-by-the-Sea — Measure N (Transactions and Use Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/carmel-by-the-sea",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Carmel-by-the-Sea\" / \"YES Measure M & N:: Fund street maintenance, beach erosion, wildfire preparedness, and tree maintenance\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Gonzales City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/gonzales",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maria Orozco",
+      "statement": "\"Gonzales City Council, District 1: Maria Orozco\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Greenfield City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/greenfield",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David H. Godoy",
+      "statement": "\"Greenfield City Council, District 3: David Godoy\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "South Monterey County Joint Union High School District — Measure J (Reorganization of School Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure J:Reorganize school districts, form Greenfield Unified and King City  Unified\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Greenfield — Measure O (Continuing the City of Greenfield Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/greenfield",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure O: Improve public safety, youth recreation, and code enforcement.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "King City — Measure P (King City Public Safety, Local Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/king-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"King City\" / \"YES Measure P: Reauthorize sales tax for 911 response\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Moeller",
+      "statement": "\"Marina\" / \"Mayor: Mike Moeller\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian McCarthy",
+      "statement": "\"Marina\" / \"City Council D1: Brian McCarthy\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Athena Rita Burciaga",
+      "statement": "\"Marina\" / \"City Council D4: Athena Burciaga\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina — Measure Q (Marina 911 Emergency, Public Safety, and Community Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/marina",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"Marina\" / \"Neutral Measure Q Utility Tax\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kim Barber",
+      "statement": "\"Monterey\" / \"City Council D1: Dr. Kim Barber\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alec M Manas",
+      "statement": "\"Monterey\" / \"City Council D2: Alec Manas\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey — Measure S (Continuation of Street Infrastructure Rehabilitation Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Monterey\" / \"YES on Measure S: Safe streets, sidewalks, ADA access\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pacific Grove Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacific-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Smith",
+      "statement": "\"Pacific Grove\" / \"Mayor: Nick Smith\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pacific Grove City Council (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacific-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori McDonnell",
+      "statement": "\"Pacific Grove\" / \"City Council, at large: Lori McDonell\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pacific Grove City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacific-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cynthia Garfield",
+      "statement": "\"Pacific Grove\" / \"City Council District 1: Cynthia Garfield\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pacific Grove — Measure R (Preserving General Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pacific-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Pacific Grove\" / \"YES on Measure R: safe streets, crime prevention\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel Muñoz",
+      "statement": "\"Salinas\" / \"Mayor: Daniel Munoz\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Barrera",
+      "statement": "\"Salinas\" / \"City Council District 2: Tony Barrera\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cary Swensen",
+      "statement": "\"Salinas\" / \"City Council D3: Cary Swensen\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Sandoval",
+      "statement": "\"Salinas\" / \"City Council D5: Andrew Sandoval\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas — Measure H (Ordinance No. 2687, Repealing Rental Registration, Rent Stabilization, Tenant Protection and Tenant Anti-Harassment Ordinances)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Salinas\" / \"NO Measure H: Stop repeal of renters protections\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas — Measure G (Renewal of Measure G Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/salinas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Salinas\" / \"YES Measure G: Improve streets, parks, public safety, and youth/senior programs.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Seaside Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ian N. Oglesby",
+      "statement": "\"Seaside\" / \"Mayor: Ian Oglesby\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Seaside City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lacey Raak",
+      "statement": "\"Seaside\" / \"City Council: Lacey Raak\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Seaside City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/seaside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rita Burks",
+      "statement": "\"Seaside\" / \"City Council: Rita Burks\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Soledad-Mission Recreation District — Measure U (Soledad Rec Affordable Recreation Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Soledad\" / \"YES Measure U - Soledad Mission Recreational Park District: Keeps recreation affordable for all ages.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Alisal Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ulises Gonzalez Reyes",
+      "statement": "\"Alisal Union School District, Area 2: Ulises Gonzalez Reyes\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brenda Contreras",
+      "statement": "\"Salinas Union High School District, Area 3: Brenda Contreras\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Salinas Union High School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Merissa Dacpano",
+      "statement": "\"Salinas Union High School District, Area 7: Merissa Dacpano\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Hartnell Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Felicia Perez Kausin",
+      "statement": "\"Hartnell Community College District, Area 5: Felicia Perez Kausin\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Hartnell Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosalie C. Sanchez",
+      "statement": "\"Hartnell Community College District,  Area 6: Rosalie Sanchez\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey Peninsula Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosalyn Green",
+      "statement": "\"Monterey Peninsula Community College District, A1: Rosalyn Green\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey County Board of Education, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Whilden",
+      "statement": "\"Monterey County Office of Education (MCOE),  Area 1: Megan Whilden\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina Coast Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jan Shriner",
+      "statement": "\"Marina Coast Water District:  Jan Shriner and Gail Morton\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Marina Coast Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Morton",
+      "statement": "\"Marina Coast Water District:  Jan Shriner and Gail Morton\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Carmel Unified School District — Measure I (Carmel Unified School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES Measure I (Carmel Unified): $250M general obligation bond for critical facility upgrades including roofs, HVAC, plumbing, safety, and disability access.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "North Monterey County Unified School District — Measure L (North Monterey County Unified School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES Measure L (North Monterey County Unified): $40M bond for health/safety compliance, asbestos/lead pipe removal, and STEM/trades upgrades.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Pacific Grove Unified School District — Measure K (Pacific Grove Unified School District Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES Measure K (Pacific Grove Unified): Parcel tax for reading/math intervention, special education, after-school care, and mental health counseling.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Paso Robles Joint Unified School District — Measure G-26 (Paso Robles Joint Unified School District Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES Measure G-26 (Paso Robles Joint Unified): Bond for facility needs (affects a small portion of southern Monterey County).\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Monterey County — Measure E (Transient Occupancy Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES Measure E (County): Fund infrastructure, emergency services, libraries, parks, and homelessness reduction.\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "North County Recreation and Park District — Measure V (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"YES on Measure V: Investing in Youth, Seniors, Parks and a Safer North County  (North County Recreation and Park District)\"",
+      "source": "https://montereycountydems.org/endorsements/"
+    }
+  ]
+}

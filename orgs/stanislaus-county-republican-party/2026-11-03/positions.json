@@ -1,0 +1,537 @@
+{
+  "context": {
+    "title": "Republican Party of Stanislaus County — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/stanislaus-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Republican Party of Stanislaus County",
+      "uri": "https://stangop.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:47:27Z",
+    "sources": [
+      "https://stangop.org/endorsements/",
+      "https://stangop.org/voter-guide/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "statement": "\"Steve Hilton\" / \"Governor\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "statement": "\"Gloria Romero\" / \"Lieutenant Governor\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Don Wagner",
+      "statement": "\"Don Wagner\" / \"Secretary of State\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Insurance Commissioner\" / \"No Endorsement for this Office\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "statement": "\"Jennifer Hawks\" / \"State Treasurer\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "statement": "\"Shannon Grove\" / \"Board of Equalization — District 1\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb Morgan",
+      "statement": "\"Herb Morgan\" / \"State Controller\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gates",
+      "statement": "\"Michael Gates\" / \"Attorney General\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "statement": "\"Sonja Shaw\" / \"Superintendent of Public Instruction\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "\"Tom McClintock\" / \"Congressional District 5\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Lincoln",
+      "statement": "\"Kevin Lincoln\" / \"Congressional District 13\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra Duarte",
+      "statement": "\"Alexandra Duarte\" / \"State Senate District 4\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Alanis",
+      "statement": "\"Juan Alanis\" / \"Assembly District 22\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cindy Marks",
+      "statement": "\"Cindy Marks\" / \"MCS — Area 1\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Schools Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Tomlinson",
+      "statement": "\"Michelle Tomlinson\" / \"MCS — Area 5\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Stanislaus Union School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joel Campos",
+      "statement": "\"Joel Campos\" / \"Stanislaus Unified School Board — Area 1\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Modesto City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/modesto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremiah Williams",
+      "statement": "\"Jeremiah Williams\" / \"Modesto City Council — District 5\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Modesto Irrigation District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Van Oostende",
+      "statement": "\"John Van Oostende\" / \"Modesto Irrigation District — Division 2\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Turlock Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Bublak",
+      "statement": "\"Turlock\" / \"Amy Bublak\" / \"Mayor\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Turlock City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/turlock",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Taylor",
+      "statement": "\"Ryan Taylor\" / \"City Council — District 3\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Newman Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/newman",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Casey Graham",
+      "statement": "\"Newman\" / \"Casey Graham\" / \"Mayor\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Hughson Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/hughson",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Geoff Powers",
+      "statement": "\"Hughson\" / \"Geoffrey Powers\" / \"Mayor\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christopher Chavez",
+      "statement": "\"Oakdale City Council — At-Large\" / \"Chris Chavez\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakdale City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakdale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fred Smith",
+      "statement": "\"Oakdale City Council — At-Large\" / \"Fred Smith\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Waterford City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/waterford",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy T. Hedden",
+      "statement": "\"Waterford\" / \"Jeremy Hedden\" / \"City Council\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Don Davis",
+      "statement": "\"Don Davis\" / \"Trustee — Area 1\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Rico",
+      "statement": "\"David Rico\" / \"Trustee — Area 2\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jenny Nicolau",
+      "statement": "\"Jenny Nicolau\" / \"Trustee — Area 4\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 1\" | \"NO\" | \"Borrow $11.25 Billion for Costly Housing Projects\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 2\" | \"NO\" | \"Guts State Budget Spending Limit and Cancels Tax Rebates\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 3\" | \"NO\" | \"Income Tax Increase\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 4\" | \"NO\" | \"Gives Your Tax Dollars to Politicians’ Campaigns\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 5\" | \"NO\" | \"Weakens Citizens’ Right to Recall Politicians from Office\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 37\" | \"NO\" | \"Borrow $25 Billion for Costly Housing Projects\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38\" | \"YES\" | \"Public-Private Partnership Bonds for Immunology Research\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 39\" | \"YES\" | \"Voter ID to Improve Trust in Elections\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 40\" | \"NO\" | \"“Billionaire” Tax that Is Really an “Everybody” Tax\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 41\" | \"YES\" | \"Audit Special Taxes\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 42\" | \"YES\" | \"Stop the Savings Tax\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 43\" | \"YES\" | \"Local Taxpayer Protection Initiative (Saves Prop 13)\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44\" | \"NO\" | \"Imposes Costly Mandates on Community Health Clinics\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 45\" | \"YES\" | \"Reduce Housing Costs by Cutting Red Tape\"",
+      "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Riverbank — Measure M (Citizen Initiative Measure to Require Voter Approval of Urban Development on Agricultural or Open Space Lands Located West of Riverbank City Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/riverbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"City of Riverbank — Measure M\" / \"VOTE NO\" / \"Riverbank Growth Limit Measure\"",
+      "source": "https://stangop.org/endorsements/"
+    }
+  ]
+}

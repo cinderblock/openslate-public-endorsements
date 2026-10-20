@@ -1,0 +1,239 @@
+{
+  "context": {
+    "title": "Sacramento Central Labor Council — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sacramento-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sacramento Central Labor Council",
+      "uri": "https://saclabor.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T04:20:05Z",
+    "sources": [
+      "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv",
+      "https://calaborfed.org/labor-2026-primary-election-endorsements/",
+      "https://saclabor.org/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Makis",
+      "statement": "\"Sacramento,Placer,Steve Makis,Rocklin Unified School District 4\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "American River Flood Control District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emily Smet",
+      "statement": "\"Sacramento,Sacramento,Emily Smet,American River Flood Control District 2\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rachell Renee Owen-Reinwald",
+      "statement": "\"Sacramento,Sacramento,Rachelle Reinwald,Elk Grove Unified School District 5\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Varinder Singh",
+      "statement": "\"Sacramento,Sacramento,Varinder Singh,Elk Grove Unified School District 5\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chad Vander Veen",
+      "statement": "\"Sacramento,Sacramento,Chad Vanderveen,Folsom City Council District 1\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jagadish “Jag” Nagendra",
+      "statement": "\"Sacramento,Sacramento,Jag Nagendra,Folsom City Council District 3\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Justin Hurst",
+      "statement": "\"Sacramento,Sacramento,Justin Hurst,Folsom City Council District 5\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Fulton-El Camino Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabriella Khan",
+      "statement": "\"Sacramento,Sacramento,Gabriella Khan,Fulton El Camino Rec Park District\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Devon Graves",
+      "statement": "\"Sacramento,Sacramento,Devon Graveas,Los Rios Board of Trustee District 1\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Oranit Limmaneeprasert",
+      "statement": "\"Sacramento,Sacramento,Oranit Limmaneeprasert,Los Rios Board of Trustee District 2\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Los Rios Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Venise Ortiz",
+      "statement": "\"Sacramento,Sacramento,Deborah Ortiz,Los Rios Board of Trustee District 6\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Green",
+      "statement": "\"Sacramento,Sacramento,Dr Jeremy Green,Natomas Unified School District 1\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leng Lai",
+      "statement": "\"Sacramento,Sacramento,Leng Lai,Natomas Unified School District 4\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Sacramento Suburban Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Paul Consiglio",
+      "statement": "\"Sacramento,Sacramento,Andrew Consiglio,Sacramento Suburban Water District 2\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roxanne Stellmacher",
+      "statement": "\"Sacramento,Sacramento,Roxanne Stellmacher,San Juan Unified School District 3\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "San Juan Unified School District Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Murad “Moe” Sarama",
+      "statement": "\"Sacramento,Sacramento,Moe Sarama,San Juan Unified School District 7\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Davis City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/davis",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judith Ennis",
+      "statement": "\"Sacramento,Yolo,Judith Ennis,Davis City Council District 1\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    },
+    {
+      "subject": {
+        "title": "Yolo County Board of Supervisors, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/yolo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mayra Vega",
+      "statement": "\"Sacramento,Yolo,Mayra Vega,Yolo Board of Supervisors 3\"",
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    }
+  ]
+}

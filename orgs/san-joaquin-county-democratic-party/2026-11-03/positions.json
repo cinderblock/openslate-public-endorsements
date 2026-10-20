@@ -1,0 +1,573 @@
+{
+  "context": {
+    "title": "San Joaquin County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-joaquin-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Joaquin County Democratic Party",
+      "uri": "https://www.sjcdems.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:45:06Z",
+    "sources": [
+      "https://www.sjcdems.org/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Lieutenant Governor: Fiona Ma\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Attorney General: Rob Bonta\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Controller: Malia Cohen\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "statement": "\"Superintendent of Public Instruction: Richard Barrera\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Board of Equalization, District 1: Nelson Esparza\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "statement": "\"U.S. House of Representatives, CA-05: Michael Masuda\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "statement": "\"U.S. House of Representatives, CA-07: Doris Matsui\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"U.S. House of Representatives, CA-08: John Garamendi\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "\"U.S. House of Representatives, CA-09: Josh Harder\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "\"U.S. House of Representatives, CA-13: Adam Gray\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Adams",
+      "statement": "\"California Assembly, District 9: Matthew Adams\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"California Assembly, District 13: Rhodesia Ransom\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 1: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 2: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 3: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 4: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 5: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 37: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 38: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 39: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Proposition 40: YES\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 41: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 42: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 43: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 44: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Proposition 45: NO\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stockton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tamica Small",
+      "statement": "\"Stockton City Council, District 1: Tamica Small\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Martin",
+      "statement": "\"Stockton Unified School District, Area 2: Patrick Martin\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald Donaire",
+      "statement": "\"Stockton Unified School District, Area 5: Donald Donaire\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton Unified School District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sofia Colón",
+      "statement": "\"Stockton Unified School District, Area 6: Sofia Colón\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kennetha Stevens",
+      "statement": "\"Stockton Unified School District, Area 7: Kennetha Stevens\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Arriola",
+      "statement": "\"Tracy Mayor: Dan Arriola\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robin Cole",
+      "statement": "\"Tracy City Council, District 1: Robin Cole\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ametrius V. Sidney",
+      "statement": "\"Tracy City Council, District 3: Ametrius Sidney\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Jefferson Elementary School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Larkin Fleckner",
+      "statement": "\"Jefferson School District, Area 4: Larkin Fleckner\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manteca Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/manteca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Singh",
+      "statement": "\"Manteca Mayor: Gary Singh\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manteca City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/manteca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Morowit",
+      "statement": "\"Manteca City Council, District 4: Mike Morowit\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lodi City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/lodi",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawson Hayre",
+      "statement": "\"Lodi City Council, District 1: Dawson Hayre\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lodi City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lodi",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christopher S. Anderson",
+      "statement": "\"Lodi City Council, District 3: Christopher Anderson\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lodi Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Stroh",
+      "statement": "\"Lodi Unified School District, Area 5: Jeff Stroh\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Joaquin Delta Community College District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles R. Jennings",
+      "statement": "\"Delta College Board of Trustees, Area 4: Dr. Charles Jennings\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Mountain House City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-house",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ronna Green",
+      "statement": "\"Mountain House City Council: Ronna Green\"",
+      "source": "https://www.sjcdems.org/endorsements"
+    }
+  ]
+}
