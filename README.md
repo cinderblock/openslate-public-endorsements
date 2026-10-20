@@ -191,6 +191,31 @@ When an organization publishes their own firsthand slate, the slate here
 should be marked superseded (or removed) — a firsthand slate signed by the
 entity's own key always beats a secondhand attribution.
 
+## Republished picks: adopt, don't copy
+
+Organizations often republish another organization's list: a county party
+reposting the state party's statewide picks, a state affiliate reposting its
+national union's House picks, a joint statement. Don't copy those positions
+into a second bundle. Adopt them by reference instead ([SPEC §3.10](https://github.com/cinderblock/openslate/blob/master/SPEC.md)):
+the bundle gets an `adopts` entry pointing at the other bundle's published
+`signed.slate`, listing exactly the subjects the source page republished.
+
+```sh
+bun scripts/adopt.ts <adopting-slug> <adopted-slug> 2026-11-03 \
+  --source <the republishing page> \
+  --pick "Governor of California=Xavier Becerra" \
+  --pick "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)=Yes" \
+  --apply
+```
+
+Each `--pick` is a subject title and the choice the republishing page printed
+(`--picks file.txt` takes one per line). The script refuses picks that don't
+match the adopted bundle, so a bundle can't adopt more, or different, picks
+than its source shows. Without `--apply` it prints the adoption.
+
+If the other organization has no bundle yet, list the picks in the adopting
+bundle's `evidence/NOTES.md` under `## Republished from <org>` until it does.
+
 ## Local development
 
 You don't need to sign locally to contribute — CI handles signing. But to
