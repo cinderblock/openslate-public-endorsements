@@ -49,3 +49,64 @@ All are on the general ballot in the listed district.
   "Jose Solache" → José Luis Solache, "Christopher Ward" → Chris Ward.
 - Local endorsements are per IAFF local, behind a "Please enter your IAFF
   local number" gate. Not used.
+
+## Republished from IAFF (not copied; in `iaff`)
+
+The guide's "IAFF Federal Office Recommendations" section is the International
+Association of Fire Fighters' US House list, republished by CPF. Per the catalog's
+no-duplicates rule these 51 positions moved out of this bundle on 2026-10-19 and
+now live in `orgs/iaff/` (attributed to IAFF, sourced from this same page). Once
+adopt-by-reference ships (SPEC §3.10), this bundle should `adopts` the IAFF slate.
+Source: https://cpfelectionguide.org/
+
+- CD 1: Mike McGuire
+- CD 2: Jared Huffman
+- CD 3: Ami Bera
+- CD 4: Mike Thompson
+- CD 5: no recommendation
+- CD 6: Richard Pan
+- CD 7: Doris Matsui
+- CD 8: John Garamendi
+- CD 9: Josh Harder
+- CD 10: Mark DeSaulnier
+- CD 11: Connie Chan
+- CD 12: Lateefah Simon
+- CD 13: Adam Gray
+- CD 14: no recommendation
+- CD 15: Kevin Mullin
+- CD 16: Sam Liccardo
+- CD 17: Ro Khanna
+- CD 18: Zoe Lofgren
+- CD 19: Jimmy Panetta
+- CD 20: Vince Fong
+- CD 21: Jim Costa
+- CD 22: no recommendation
+- CD 24: Salud Carbajal
+- CD 25: Raul Ruiz
+- CD 26: Jacqui Irwin
+- CD 27: George Whitesides
+- CD 28: Judy Chu
+- CD 29: Luz Rivas
+- CD 30: Laura Friedman
+- CD 31: Gil Cisneros
+- CD 32: Brad Sherman
+- CD 33: Pete Aguilar
+- CD 34: Jimmy Gomez
+- CD 35: Norma Torres
+- CD 36: Ted Lieu
+- CD 37: Sydney Kamlager-Dove
+- CD 38: Hilda Solis
+- CD 39: Mark Takano
+- CD 40: no recommendation
+- CD 41: Linda Sanchez
+- CD 42: Robert Garcia
+- CD 43: Maxine Waters
+- CD 44: Nanette Barragán
+- CD 45: Derek Tran
+- CD 46: Lou Correa
+- CD 47: Dave Min
+- CD 48: no recommendation
+- CD 49: Mike Levin
+- CD 50: Scott Peters
+- CD 51: Sara Jacobs
+- CD 52: Juan Vargas
