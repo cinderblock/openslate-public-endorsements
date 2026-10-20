@@ -36,3 +36,5 @@ SD 4 Jaron Brandon, SD 12 Nathan Magsig, SD 16 Melissa Hurtado.
   a co-signer note on ca-labor-federation.
 - `attribution.of.uri` is the council's Facebook page (from the CLF
   directory); it was not fetched.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 4 from California Federation of Labor Unions, AFL-CIO. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

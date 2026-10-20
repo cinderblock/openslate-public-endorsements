@@ -235,5 +235,88 @@
       "statement": "\"Sacramento,Yolo,Mayra Vega,Yolo Board of Supervisors 3\"",
       "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
     }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Federation of Labor Unions, AFL-CIO",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-labor-federation/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "US House of Representatives, California District 3",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-3",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 4",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-4",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 5",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-5",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 6",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-6",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 4",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-4",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 6",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-6",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 8",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-8",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 4",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-4",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 6",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-6",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 7",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-7",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 9",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-9",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 11",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-11",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    }
   ]
 }

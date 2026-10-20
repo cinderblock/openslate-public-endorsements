@@ -56,3 +56,6 @@ URL: https://www.cruzdemocrats.org/endorsements
   Community College District Board, Trustee Area 6`, and `Pajaro Valley Unified
   School District Board, Trustee Area 1/7`. The same titles are shared with
   monterey-bay-central-labor-council and santa-cruz-county-republican-party.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 149 from California Democratic Party. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
+- Santa Cruz: the page reposts CADEM's whole document, so the adoption covers CADEM's statewide, BOE, Assembly, US House and prop positions as published in `ca-democratic-party` (149). No State Senate (the repost's listed sections don't include it).

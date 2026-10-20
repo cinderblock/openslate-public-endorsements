@@ -30,5 +30,40 @@
       "statement": "\"Kern-Inyo-Mono,,Charles Hughes ,Assembly District 34\"",
       "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
     }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Federation of Labor Unions, AFL-CIO",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-labor-federation/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "US House of Representatives, California District 22",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-22",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 4",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-4",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 12",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-12",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Senate, District 16",
+          "kind": "race",
+          "jurisdiction": "us/ca/sd-16",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://calaborfed.org/wp-content/uploads/2026/10/2026G-CLC-web-endorsements-2.csv"
+    }
   ]
 }

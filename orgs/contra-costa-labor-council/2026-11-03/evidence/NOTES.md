@@ -71,3 +71,6 @@ URLs: https://www.cclabor.net/2026 and the CSV above.
   following the existing AC Transit family); `BART Board of Directors,
   District 2` (us/ca/bart-2); `EBMUD Board of Directors, Ward 2/4`
   (us/ca/ebmud).
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 18 from California Federation of Labor Unions, AFL-CIO. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
+- Contra Costa: Prop 38 ('No Position') is not adopted because `ca-labor-federation` records no Prop 38 position; the statewide-candidate images were never transcribed, so they are not adopted either.

@@ -526,5 +526,22 @@
       "statement": "\"the Press Democrat recommends a No vote on Measure P.\"",
       "source": "https://www.pressdemocrat.com/2026/10/12/endorsements-press-democrat-recommendations-for-nov-3-election/"
     }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Bay Area News Group editorial board (The Mercury News & East Bay Times)",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/bay-area-news-group/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.pressdemocrat.com/2026/10/16/endorsement-reject-proposition-39-voter-id-fraud-ballot-measure/"
+    }
   ]
 }

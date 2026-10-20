@@ -59,3 +59,5 @@ AD 11 Wilson.
   with placer-county-republican-party.
 - The slug is new (no existing sacramento-*-labor bundle). `context.jurisdiction`
   is us/ca/sacramento-county.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 12 from California Federation of Labor Unions, AFL-CIO. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.

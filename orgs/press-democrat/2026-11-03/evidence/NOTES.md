@@ -67,3 +67,5 @@
   above). Props 1/38 and the roundup are bylined "Editorial Board" (the PD's
   own), and the PD's Prop 43 pick (No) differs from BANG's (Yes), so the
   rest is treated as the PD's own.
+
+**Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 1 from Bay Area News Group editorial board (The Mercury News & East Bay Times). Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
