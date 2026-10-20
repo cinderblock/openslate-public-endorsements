@@ -1,0 +1,297 @@
+{
+  "context": {
+    "title": "Sierra Club Redwood Chapter — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sierra Club Redwood Chapter",
+      "uri": "https://www.sierraclub.org/redwood",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T23:05:00Z",
+    "sources": [
+      "https://www.sierraclub.org/redwood/endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"Congressional District 01 Mike McGuire\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"Congressional District 02 Jared Huffman\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"Congressional District 04 Mike Thompson\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"Congressional District 08 John Garamendi\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"Senate District 2 Damon Connolly\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"Assembly District 2 Chris Rogers\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "statement": "\"Assembly District 12 Jackie Elward\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Solano County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/solano-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Silva",
+      "statement": "\"Solano County Board of Supervisors District 4 Dr. Michael Silva\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Benicia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/benicia",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kari Birdseye",
+      "statement": "\"Solano County Benicia City Council Kari Birdseye\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Benicia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/benicia",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Terry Scott",
+      "statement": "\"Solano County Benicia City Council Terry Scott\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rio Vista City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rio-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Dolk",
+      "statement": "\"Solano County Rio Vista City Council Rick Dolk\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Suisun City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/suisun-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Princess Washington",
+      "statement": "\"Solano County Suisun City Council Princess Washington\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Suisun City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/suisun-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katrina Garcia",
+      "statement": "\"Solano County Suisun City Council Katrina Garcia\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vacaville Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vacaville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Chapman",
+      "statement": "\"Solano County Vacaville Mayor Sarah Chapman\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vacaville City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/vacaville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeanette Wylie",
+      "statement": "\"Solano County Vacaville City Council District 6 Jeanette Wylie\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diosdado Matulac",
+      "statement": "\"Solano County Vallejo City Council District 2 Diosdado “J.R.” Matulac\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Palmares",
+      "statement": "\"Solano County Vallejo City Council District 4 Charles Palmares\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebekah Truemper",
+      "statement": "\"Solano County Vallejo City Council District 5 Rebekah Truemper\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joanna Paun",
+      "statement": "\"Sonoma County Board of Supervisors District 2 Joanna Paun\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Bagby",
+      "statement": "\"Sonoma County Board of Supervisors District 4 Melanie Bagby\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Hollingsworth Adams",
+      "statement": "\"Sonoma County Rohnert Park City Council District 5 Susan Hollingsworth Adams\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Napa County — Measure B (Wildfire Preparedness, Watershed Protection and Open Space Preservation Act of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/napa-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Napa County Measure B: Wildfire Preparedness, Watershed Protection and Open Space Preservation Act of 2026 SUPPORT\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County — Measure H (Sonoma County Parks Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Sonoma County Measure H: Parks Improvement, Water Quality, and Fire Safety Measure Transactions and Use Tax Ordinance - Extension SUPPORT\"",
+      "source": "https://www.sierraclub.org/redwood/endorsements"
+    }
+  ]
+}
