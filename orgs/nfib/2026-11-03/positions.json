@@ -1,0 +1,94 @@
+{
+  "context": {
+    "title": "NFIB (National Federation of Independent Business) — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "NFIB (National Federation of Independent Business)",
+      "uri": "https://www.nfib.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:52:00Z",
+    "sources": [
+      "https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/",
+      "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"PROPOSITION 3: OPPOSE—Permanently extends state income tax hikes (originally opposed by NFIB in 2012)\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"PROPOSITION 40: OPPOSE—Billionaire’s tax, imposing a 5% tax on total assets\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"PROPOSITION 41: SUPPORT—Requires audit of any new special taxes\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"PROPOSITION 42: SUPPORT—Prohibits new state personal property taxes and certain retroactive state taxes\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"PROPOSITION 43: SUPPORT—Requires 2/3 voter approval for any new special taxes\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"PROPOSITION 45: SUPPORT—Changes state environmental law to cut red tape, expedite building process.\"",
+      "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    }
+  ]
+}

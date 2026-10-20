@@ -1,0 +1,323 @@
+{
+  "context": {
+    "title": "AIPAC PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "AIPAC PAC",
+      "uri": "https://aipacpac.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:49:54Z",
+    "sources": [
+      "https://candidates.aipacpac.org/page/featured",
+      "https://candidates.aipacpac.org/api/v2/donation-page/featured",
+      "https://www.aipac.org/politics"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Pete Aguilar\", \"U.S. House\", \"D-CA-33\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ken Calvert",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Ken Calvert\", \"U.S. House\", \"R-CA-40\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Gilbert Cisneros\", \"U.S. House\", \"D-CA-31\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Lou Correa\", \"U.S. House\", \"D-CA-46\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Jim Costa\", \"U.S. House\", \"D-CA-21\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vince Fong",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Vince Fong\", \"U.S. House\", \"R-CA-20\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Laura Friedman\", \"U.S. House\", \"D-CA-30\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Jimmy Gomez\", \"U.S. House\", \"D-CA-34\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Adam Gray\", \"U.S. House\", \"D-CA-13\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Josh Harder\", \"U.S. House\", \"D-CA-09\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Kiley",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Kevin Kiley\", \"U.S. House\", \"I-CA-06\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Young Kim",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Young Kim\", \"U.S. House\", \"R-CA-40\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Mike Levin\", \"U.S. House\", \"D-CA-49\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Ted Lieu\", \"U.S. House\", \"D-CA-36\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Tom McClintock\", \"U.S. House\", \"R-CA-05\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Jay Obernolte\", \"U.S. House\", \"R-CA-23\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Jimmy Panetta\", \"U.S. House\", \"D-CA-19\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Scott Peters\", \"U.S. House\", \"D-CA-50\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Luz Rivas\", \"U.S. House\", \"D-CA-29\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Raul Ruiz\", \"U.S. House\", \"D-CA-25\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Brad Sherman\", \"U.S. House\", \"D-CA-32\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Torres",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Norma Torres\", \"U.S. House\", \"D-CA-35\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Valadao",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"David Valadao\", \"U.S. House\", \"R-CA-22\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Vargas",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"Juan Vargas\", \"U.S. House\", \"D-CA-52\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "Listed on the AIPAC Political Portal (\"Thank You for Supporting Pro-Israel Incumbent Members of Congress\"): \"George Whitesides\", \"U.S. House\", \"D-CA-27\"",
+      "source": "https://candidates.aipacpac.org/page/featured"
+    }
+  ]
+}

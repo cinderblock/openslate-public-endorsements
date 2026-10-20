@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "California Building Industry Association — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Building Industry Association",
+      "uri": "https://cbia.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-20T04:01:14Z",
+    "sources": [
+      "https://cbia.org/",
+      "https://cbia.org/wp-content/uploads/2026/09/Endorsement-Graphic-1.png"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Home page graphic (transcribed): \"CALIFORNIA BUILDING INDUSTRY ASSOCIATION IS PROUD TO ENDORSE YES on PROP 45 Building a More Affordable California\"",
+      "source": "https://cbia.org/"
+    }
+  ]
+}

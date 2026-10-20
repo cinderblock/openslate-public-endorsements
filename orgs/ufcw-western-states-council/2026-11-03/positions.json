@@ -1,0 +1,1890 @@
+{
+  "context": {
+    "title": "UFCW Western States Council — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "UFCW Western States Council",
+      "uri": "https://www.ufcwwest.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T03:55:42Z",
+    "sources": [
+      "https://www.ufcwwest.org/ufcwvotes/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "statement": "\"Xavier Becerra – California Governor\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "statement": "\"Fiona Ma – Lieutenant Governor\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Weber",
+      "statement": "\"Shirley Weber – Secretary of State\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "statement": "\"Rob Bonta – Attorney General\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia Cohen",
+      "statement": "\"Malia Cohen – Controller\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "statement": "\"Eleni Kounalakis – Treasurer\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "statement": "\"Ben Allen and Jane Kim – Insurance Commissioner (dual)\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "statement": "\"Ben Allen and Jane Kim – Insurance Commissioner (dual)\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No Recommendation – Superintendent of Public Instruction\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "statement": "\"Nelson Esparza – Board of Equalization District 1\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally Lieber",
+      "statement": "\"Sally Lieber – Board of Equalization District 2\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "statement": "\"Mike Gipson – Board of Equalization District 3\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Umberg",
+      "statement": "\"Tom Umberg – Board of Equalization District 4\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "statement": "\"Mike McGuire – Congressional District 1\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "statement": "\"Jared Huffman – Congressional District 2\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "statement": "\"Ami Bera – Congressional District 3\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "statement": "\"Mike Thompson – Congressional District 4\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "statement": "\"Michael Masuda – Congressional District 5\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "statement": "\"Richard Pan – Congressional District 6\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "statement": "\"John Garamendi – Congressional District 8\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "statement": "\"Josh Harder – Congressional District 9\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "statement": "\"Mark DeSaulnier – Congressional District 10\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "statement": "\"Scott Wiener – Congressional District 11\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "statement": "\"Lateefah Simon – Congressional District 12\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "statement": "\"Adam Gray – Congressional District 13\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "statement": "\"Aisha Wahab – Congressional District 14\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "statement": "\"Kevin Mullin – Congressional District 15\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "statement": "\"Ro Khanna – Congressional District 17\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "statement": "\"Zoe Lofgren – Congressional District 18\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "statement": "\"Jimmy Panetta – Congressional District 19\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "statement": "\"Jim Costa – Congressional District 21\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "statement": "\"Randy Villegas – Congressional District 22\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "statement": "\"Salud Carbajal – Congressional District 24\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "statement": "\"Raul Ruiz – Congressional District 25\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "statement": "\"Jacqui Irwin – Congressional District 26\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "statement": "\"George Whitesides – Congressional District 27\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "statement": "\"Judy Chu – Congressional District 28\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Rivas",
+      "statement": "\"Luz Rivas – Congressional District 29\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "statement": "\"Laura Friedman – Congressional District 30\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "statement": "\"Gil Cisneros – Congressional District 31\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "statement": "\"Brad Sherman – Congressional District 32\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "statement": "\"Pete Aguilar – Congressional District 33\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "statement": "\"Jimmy Gomez – Congressional District 34\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Torres",
+      "statement": "\"Norma Torres – Congressional District 35\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Lieu",
+      "statement": "\"Ted Lieu – Congressional District 26\" (the page says District 26, but Ted Lieu is the CD 36 candidate; CD 26 is listed separately for Jacqui Irwin)",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "statement": "\"Sydney Kamlager – Congressional District 37\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "statement": "\"Hilda Solis – Congressional District 38\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "statement": "\"Mark Takano – Congressional District 39\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sanchez",
+      "statement": "\"Linda Sanchez – Congressional District 41\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Robert Garcia – Congressional District 42\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "statement": "\"Maxine Waters – Congressional District 43\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Barragán",
+      "statement": "\"Nanette Barragan – Congressional District 44\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "statement": "\"Derek Tran – Congressional District 45\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "statement": "\"Lou Correa – Congressional District 46\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "statement": "\"Dave Min – Congressional District 47\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "statement": "\"Marni von Wilpert – Congressional District 48\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "statement": "\"Mike Levin – Congressional District 49\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "statement": "\"Scott Peters – Congressional District 50\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "statement": "\"Sara Jacobs – Congressional District 51\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Vargas",
+      "statement": "\"Juan Vargas – Congressional District 52\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "statement": "\"Damon Connolly – Senate District 2\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "statement": "\"Jaron Brandon – Senate District 4\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelique Ashby",
+      "statement": "\"Angelique Ashby – Senate District 8\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "statement": "\"Scott Sakakihara – Senate District 10\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Esmeralda Soria",
+      "statement": "\"Esmeralda Soria – Senate District 14\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "statement": "\"Melissa Hurtado – Senate District 16\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Padilla",
+      "statement": "\"Steve Padilla – Senate District 18\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "statement": "\"Caroline Menjivar – Senate District 20\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Rubio",
+      "statement": "\"Susan Rubio – Senate District 22\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Erickson",
+      "statement": "\"John Erickson – Senate District 24\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "statement": "\"Lola Smallwood-Cuevas – Senate District 28\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Archuleta",
+      "statement": "\"Bob Archuleta – Senate District 30\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avelino Valencia",
+      "statement": "\"Avelino Valencia – Senate District 34\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "statement": "\"Chris Duncan – Senate District 36\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Blakespear",
+      "statement": "\"Catherine Blakespear – Senate District 38\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "statement": "\"Mara Elliott – Senate District 40\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "statement": "\"Chris Rodgers – Assembly District 2\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia Aguiar-Curry",
+      "statement": "\"Cecilia Aguiar-Curry – Assembly District 4\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "statement": "\"Maggy Krell – Assembly District 6\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Nguyen",
+      "statement": "\"Stephanie Nguyen – Assembly District 10\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Wilson",
+      "statement": "\"Lori Wilson – Assembly District 11\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "statement": "\"Eric Lucan – Assembly District 12\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "statement": "\"Rhodesia Ransom – Assembly District 13\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "statement": "\"Buffy Wicks – Assembly District 14\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "statement": "\"Rebecca Bauer-Kahan – Assembly District 16\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "statement": "\"Matt Haney – Assembly District 17\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "statement": "\"Mia Bonta – Assembly District 18\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "statement": "\"Catherine Stefani – Assembly District 19\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "statement": "\"Liz Ortega – Assembly District 20\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "statement": "\"Diane Papan – Assembly District 21\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "statement": "\"Mark Berman – Assembly District 23\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "statement": "\"Alex Lee – Assembly District 24\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "statement": "\"Ash Kalra – Assembly District 25\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "statement": "\"Patrick Ahrens – Assembly District 26\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Pacheco",
+      "statement": "\"Brian Pacheco – Assembly District 27\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "statement": "\"Gail Pellerin – Assembly District 28\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "statement": "\"Robert Rivas – Assembly District 29\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "statement": "\"Dawn Addis – Assembly District 30\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "statement": "\"Annalisa Perea – Assembly District 31\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Putz",
+      "statement": "\"Randall Putz – Assembly District 34\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "statement": "\"Andrae Gonzales – Assembly District 35\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida Obeso-Martinez",
+      "statement": "\"Ida Obeso-Martinez – Assembly District 36\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "statement": "\"Gregg Hart – Assembly District 37\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Bennett",
+      "statement": "\"Steve Bennett – Assembly District 38\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Carrillo",
+      "statement": "\"Juan Carrillo – Assembly District 39\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "statement": "\"Pilar Schiavo – Assembly District 40\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "statement": "\"John Harabedian – Assembly District 41\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "statement": "\"Deborah Klein Lopez – Assembly District 42\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "statement": "\"Celeste Rodriguez – Assembly District 43\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nick Schultz",
+      "statement": "\"Nick Schultz – Assembly District 44\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Ramos",
+      "statement": "\"James Ramos – Assembly District 45\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "statement": "\"Jesse Gabriel – Assembly District 46\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "statement": "\"Leila Namvar – Assembly District 47\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Rubio",
+      "statement": "\"Blanca Rubio – Assembly District 48\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "statement": "\"Mike Fong – Assembly District 49\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "statement": "\"Robert Garcia – Assembly District 50\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "statement": "\"Rick Zbur – Assembly District 51\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "statement": "\"Jessica Caloza – Assembly District 52\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Rodriguez",
+      "statement": "\"Michelle Rodriguez – Assembly District 53\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "statement": "\"Mark Gonzalez – Assembly District 54\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac Bryan",
+      "statement": "\"Isaac Bryan – Assembly District 55\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Calderon",
+      "statement": "\"Lisa Calderon – Assembly District 56\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "statement": "\"Sade Elhawary – Assembly District 57\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "statement": "\"Clarissa Cervantes – Assembly District 58\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey Jackson",
+      "statement": "\"Corey Jackson – Assembly District 60\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina McKinnor",
+      "statement": "\"Tina McKinnor – Assembly District 61\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "José Luis Solache",
+      "statement": "\"Jose Solache – Assembly District 62\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Pacheco",
+      "statement": "\"Blanca Pacheco – Assembly District 64\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "statement": "\"Ayanna Davis – Assembly District 65\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Seo",
+      "statement": "\"Paul Seo – Assembly District 66\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "statement": "\"Mark Pulido – Assembly District 67\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessie Lopez",
+      "statement": "\"Jessie Lopez – Assembly District 68\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "statement": "\"Josh Lowenthal – Assembly District 69\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paula Swift",
+      "statement": "\"Dr. Paula Swift – Assembly District 70\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "statement": "\"Chris Kluwe – Assembly District 72\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 73",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-73",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cottie Petrie-Norris",
+      "statement": "\"Cottie Petrie-Norris – Assembly District 73\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sergio Farias",
+      "statement": "\"Sergio Farias – Assembly District 74\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "statement": "\"Darshana Patel – Assembly District 76\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tasha Boerner",
+      "statement": "\"Tasha Boerner – Assembly District 77\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "statement": "\"Chris Ward – Assembly District 78\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "statement": "\"LaShae Sharp-Collins – Assembly District 79\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Alvarez",
+      "statement": "\"David Alvarez – Assembly District 80\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 1: The Veterans and Affordable Housing Bond Act: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 2: Increases State’s Rainy Day Fund: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 3: Funding for Schools by Extending Tax on High Incomes: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 4: Repeals Ban on Public Funding of Election Campaigns: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 5: Changes Recall Election Process for Statewide Officers: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Prop 37: Creates Loan Program for Middle-Income New Home Buyers: SUPPORT\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 38: Authorizes Bonds for Immunology Medical Research: NO RECOMMENDATION\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 39: Prohibits Citizens from Voting Unless They Present ID: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Prop 40: Billionaire Wealth Tax Initiative: NO RECOMMENDATION\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 41: Requires Audits for New State Special Taxes: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 42: Prohibits New State Personal Property Taxes: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 43: Limits Voters’ Ability to Raise Revenues for Local Services: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 44: Requires Community Clinics Spend 90% of Revenue on Services: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"Prop 45: Limits CEQA Environmental Review and Public Input: OPPOSE\"",
+      "source": "https://www.ufcwwest.org/ufcwvotes/"
+    }
+  ]
+}
