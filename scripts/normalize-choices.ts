@@ -51,11 +51,15 @@ const samePerson = (a: string, b: string) => {
 };
 type Pos = { file: string; org: string; title: string; choice: string };
 const all: Pos[] = [];
+// Election authorities' bundles (ballot sources) carry the official spelling, so they win.
+const authorities = new Set<string>();
 for await (const f of new Glob(`orgs/*/${election}/positions.json`).scan(root)) {
   const j = JSON.parse(await Bun.file(`${root}/${f}`).text());
+  const org = f.split(/[\\/]/)[1] as string;
+  if (j.attribution?.of?.kind === "election-authority") authorities.add(org);
   for (const p of j.positions)
     if (p.choice && !/^(yes|no)$/i.test(p.choice))
-      all.push({ file: f, org: f.split(/[\\/]/)[1], title: p.subject.title, choice: p.choice });
+      all.push({ file: f, org, title: p.subject.title, choice: p.choice });
 }
 const byTitle = Map.groupBy(all, (p) => p.title);
 const changes: { file: string; title: string; from: string; to: string }[] = [];
@@ -68,13 +72,20 @@ for (const [title, ps] of byTitle) {
   }
   for (const c of clusters.filter((c) => c.length > 1)) {
     const count = (n: string) => new Set(ps.filter((p) => p.choice === n).map((p) => p.org)).size;
+    const official = (n: string) =>
+      ps.some((p) => p.choice === n && authorities.has(p.org)) ? 1 : 0;
     const hasDiacritic = (n: string) => (n !== n.normalize("NFD").replace(/\p{M}/gu, "") ? 1 : 0);
     const canon = [...c].sort(
-      (a, b) => count(b) - count(a) || hasDiacritic(b) - hasDiacritic(a) || a.length - b.length,
+      (a, b) =>
+        official(b) - official(a) ||
+        count(b) - count(a) ||
+        hasDiacritic(b) - hasDiacritic(a) ||
+        a.length - b.length,
     )[0];
     console.log(`${title}\n   → ${canon}   (${c.map((n) => `${n}×${count(n)}`).join(", ")})`);
+    // Never rewrite an authority's own list: it's the record the others are matched to.
     for (const p of ps)
-      if (p.choice !== canon && c.includes(p.choice))
+      if (p.choice !== canon && c.includes(p.choice) && !authorities.has(p.org))
         changes.push({ file: p.file, title, from: p.choice, to: canon });
   }
 }

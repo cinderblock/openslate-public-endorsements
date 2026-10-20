@@ -1,0 +1,10 @@
+name: California Secretary of State
+slug: ca-secretary-of-state
+uri: https://www.sos.ca.gov/
+kind: election-authority
+about: |
+  California's chief elections officer. This bundle is a ballot source, not an
+  endorsement: every certified candidate and qualified statewide measure as a
+  neutral position, so a voter's ballot shows the whole field. Built by
+  scripts/ca-sos-ballot.ts from the certified list of candidates and the
+  qualified-measures page saved under evidence/.

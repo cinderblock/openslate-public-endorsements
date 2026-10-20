@@ -1,0 +1,11 @@
+name: San Francisco Department of Elections
+slug: sf-department-of-elections
+uri: https://www.sf.gov/departments--department-elections
+kind: election-authority
+about: |
+  San Francisco's election office. This bundle is a ballot source, not an
+  endorsement: every qualified local candidate and measure as a neutral
+  position, so a voter's ballot shows the whole field. Built by
+  scripts/sf-elections-ballot.ts from the candidates and qualified-measures
+  pages saved under evidence/. Federal and state offices come from the
+  Secretary of State's bundle.

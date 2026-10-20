@@ -103,6 +103,31 @@ The key difference: `research-bot/` is researcher-agnostic (anyone signs with
 their own identity). **This** repo standardizes on a single project key so
 slates can be discovered and verified under one consistent issuer.
 
+## Ballot sources: the field, not an opinion
+
+Endorsements only name who someone backed, so a ballot built from them shows
+one or two names per race and hides the rest of the field. An **election
+authority's** bundle fixes that: the Secretary of State's certified list of
+candidates and a county election office's list of qualified local candidates
+and measures, as `neutral` positions (one per candidate, `Yes`/`No` per
+measure) with `attribution.of.kind: "election-authority"`. The OpenSlate web
+app treats such a bundle as *ballot data*: it supplies each race's whole field
+in ballot order (the `statement` carries party and ballot designation) and is
+never a source to follow or count.
+
+| Bundle | Covers | Built by |
+| --- | --- | --- |
+| `orgs/ca-secretary-of-state/<election>/` | statewide offices, Congress, State Senate, Assembly, Board of Equalization, judicial retention, statewide propositions | `bun scripts/ca-sos-ballot.ts <election> --apply` from the certified list PDF's text and the qualified-measures page saved under `evidence/` |
+| `orgs/sf-department-of-elections/<election>/` | San Francisco local offices and measures, BART | `bun scripts/sf-elections-ballot.ts <election> --apply` from the candidates and qualified-measures pages transcribed under `evidence/` |
+
+Subject titles and jurisdictions must match the endorsement bundles exactly
+or the field won't line up with the endorsements; the scripts use the catalog's
+conventions (`Governor of California`, `US House of Representatives, California
+District 11` at `us/ca/cd-11`, `San Francisco — Proposition A (…)` at
+`us/ca/sf`, …). Candidate spellings follow the official list:
+`scripts/normalize-choices.ts` treats an election authority's spelling as
+canonical and rewrites the endorsement bundles to it.
+
 ## Contributing a new endorsement
 
 1. Pick or create an org slug (kebab-case): `orgs/<slug>/`.
