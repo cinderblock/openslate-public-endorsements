@@ -17,6 +17,8 @@ mkdirSync(DIST, { recursive: true });
 cpSync(join(ROOT, "orgs"), join(DIST, "orgs"), { recursive: true });
 cpSync(join(ROOT, "keys"), join(DIST, "keys"), { recursive: true });
 cpSync(join(ROOT, "well-known"), join(DIST, "well-known"), { recursive: true });
+// Voter guides (official ballot material, one repo per state and election) the app can load.
+cpSync(join(ROOT, "guides.json"), join(DIST, "guides.json"));
 
 interface IndexEntry {
   slug: string;

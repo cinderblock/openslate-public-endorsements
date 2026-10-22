@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "guides": [
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca",
+      "title": "California Official Voter Information Guide: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    }
+  ]
+}

@@ -77,6 +77,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
 | `keys/project-public.json` | The project's public signing key. |
 | `well-known/openslate.json` | Spec-conformant key listing (see OpenSlate SPEC §domain attestation). |
+| `guides.json` | Voter guides the app can load beside these slates (see below). |
 
 A consumer (such as the OpenSlate web app) only needs the URL of a single
 `signed.slate` to import and offline-verify it.
@@ -88,6 +89,18 @@ OpenSlate's web app ships with a **Catalog** tab that fetches this site's
 catalog URL is `https://cinderblock.github.io/openslate-public-endorsements/index.json`;
 end-users (or self-hosters) can override it via the in-app URL field, or at
 build time via `VITE_PUBLIC_ENDORSEMENTS_CATALOG`.
+
+### Voter guides
+
+`guides.json` lists *voter guides*: an election authority's official material
+about what's on the ballot (candidate statements and photos, a measure's
+summary, analysis, arguments and full text). Guides are reference material,
+not endorsements, so they live in their own repos, one per state and
+election (e.g. [openslate-ballot-ca-2026-11-03](https://github.com/cinderblock/openslate-ballot-ca-2026-11-03)),
+each signed with its own key. Each entry gives the guide's election,
+jurisdiction, signed manifest URL and expected key; the web app reads this
+file from beside the catalog's `index.json` and shows a guide's material on
+the matching race pages. To add a guide, add an entry here.
 
 ## Relationship to OpenSlate `research-bot/`
 
