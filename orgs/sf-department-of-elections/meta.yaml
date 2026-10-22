@@ -2,6 +2,8 @@ name: San Francisco Department of Elections
 slug: sf-department-of-elections
 uri: https://www.sf.gov/departments--department-elections
 kind: election-authority
+logo: logo.ico
+logo_source: https://www.sf.gov/icon.ico
 about: |
   San Francisco's election office. This bundle is a ballot source, not an
   endorsement: every qualified local candidate and measure as a neutral

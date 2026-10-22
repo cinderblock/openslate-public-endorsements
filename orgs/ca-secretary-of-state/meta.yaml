@@ -2,6 +2,8 @@ name: California Secretary of State
 slug: ca-secretary-of-state
 uri: https://www.sos.ca.gov/
 kind: election-authority
+logo: logo.png
+logo_source: https://www.sos.ca.gov/packages/casos/themes/casos_theme/icons/apple-touch-icon-144x144.png
 about: |
   California's chief elections officer. This bundle is a ballot source, not an
   endorsement: every certified candidate and qualified statewide measure as a
