@@ -1,9 +1,11 @@
 #!/usr/bin/env bun
 // Assemble dist/ for GitHub Pages from the source tree plus the artifacts
-// produced by `openslate sign --batch` (signed.slate + ./index.json).
+// produced by `openslate sign --batch` (signed.slate + ./index.json). Each
+// catalog entry also gets the org's logo and lean (scripts/catalog-extras.ts).
 
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
+import { catalogExtras } from "./catalog-extras";
 
 const ROOT = process.cwd();
 const DIST = join(ROOT, "dist");
@@ -33,6 +35,10 @@ interface IndexEntry {
   };
   positions: number;
   issued_at: string;
+  /** Site path of the org's logo. */
+  logo?: string;
+  /** Subjects where the org took the Democratic / Republican side. */
+  lean?: { left: number; right: number };
 }
 
 interface Catalog {
@@ -44,9 +50,6 @@ interface Catalog {
 let catalog: Catalog = { version: 1, generated_at: new Date().toISOString(), entries: [] };
 if (existsSync(BATCH_INDEX)) {
   catalog = JSON.parse(await Bun.file(BATCH_INDEX).text()) as Catalog;
-  cpSync(BATCH_INDEX, join(DIST, "index.json"));
-} else {
-  await Bun.write(join(DIST, "index.json"), `${JSON.stringify(catalog, null, 2)}\n`);
 }
 
 // Bundle: same metadata as index.json plus the signed slate token inline,
@@ -57,12 +60,26 @@ const bundleEntries: BundleEntry[] = [];
 for (const entry of catalog.entries) {
   const slatePath = join(ROOT, entry.path);
   if (!existsSync(slatePath)) {
-    console.error(`bundle: skip ${entry.slug}/${entry.election} — signed slate missing at ${entry.path}`);
+    console.error(
+      `bundle: skip ${entry.slug}/${entry.election} — signed slate missing at ${entry.path}`,
+    );
     continue;
   }
   const token = (await Bun.file(slatePath).text()).trim();
   bundleEntries.push({ ...entry, token });
 }
+
+// Logos and lean, added to both the catalog and the bundle.
+const extras = catalogExtras(ROOT, bundleEntries);
+const withExtras = <T extends IndexEntry>(entry: T): T => ({
+  ...entry,
+  ...extras.get(`${entry.slug}/${entry.election}`),
+});
+catalog = { ...catalog, entries: catalog.entries.map(withExtras) };
+bundleEntries.splice(0, bundleEntries.length, ...bundleEntries.map(withExtras));
+await Bun.write(join(DIST, "index.json"), `${JSON.stringify(catalog, null, 2)}\n`);
+const withLogo = catalog.entries.filter((e) => e.logo).length;
+const withLean = catalog.entries.filter((e) => e.lean).length;
 const bundle = {
   version: catalog.version,
   generated_at: catalog.generated_at,
@@ -87,6 +104,7 @@ const rows = catalog.entries
     const slateUrl = `orgs/${e.slug}/${e.election}/signed.slate`;
     const posUrl = `orgs/${e.slug}/${e.election}/positions.json`;
     const orgName = e.attribution?.of.name ?? e.slug;
+    const logo = e.logo ? `<img class="logo" src="${escape(e.logo)}" alt="" loading="lazy">` : "";
     const orgLink = e.attribution?.of.uri
       ? `<a href="${escape(e.attribution.of.uri)}">${escape(orgName)}</a>`
       : escape(orgName);
@@ -94,6 +112,7 @@ const rows = catalog.entries
       ? `<code>${escape(e.attribution.mode)}</code> · retrieved <span class="iso-date" data-iso="${escape(e.attribution.retrieved_at)}">${escape(e.attribution.retrieved_at.slice(0, 10))}</span>`
       : "&mdash;";
     return `      <tr>
+        <td>${logo}</td>
         <td>${orgLink}</td>
         <td>${escape(e.election)}</td>
         <td>${e.positions}</td>
@@ -106,7 +125,7 @@ const rows = catalog.entries
 const tableBody =
   catalog.entries.length > 0
     ? rows
-    : `      <tr><td colspan="5" class="meta">No slates published yet.</td></tr>`;
+    : `      <tr><td colspan="6" class="meta">No slates published yet.</td></tr>`;
 
 const html = `<!doctype html>
 <html lang="en">
@@ -124,6 +143,7 @@ const html = `<!doctype html>
     code { background: #f3f3f3; padding: 0 .25rem; border-radius: 3px; font-size: .9em; }
     .meta { color: #666; font-size: .9rem; }
     .meta a { color: #555; }
+    .logo { width: 24px; height: 24px; object-fit: contain; display: block; }
     .note { background: #fffae6; border: 1px solid #e8d97a; padding: .75rem 1rem; border-radius: 4px; margin: 1rem 0; }
   </style>
 </head>
@@ -150,6 +170,7 @@ const html = `<!doctype html>
   <table>
     <thead>
       <tr>
+        <th aria-label="Logo"></th>
         <th>Organization</th>
         <th>Election / period</th>
         <th>Positions</th>
@@ -187,5 +208,5 @@ ${tableBody}
 await Bun.write(join(DIST, "index.html"), html);
 
 console.log(
-  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline`,
+  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline, ${withLogo} with a logo, ${withLean} with a lean`,
 );

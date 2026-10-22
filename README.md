@@ -74,6 +74,19 @@ already have one; `--only <slug> [--url <homepage>]`, `--force`), and
 contact sheet to `review/logos.html` (gitignored). Orgs without a logo get a
 monogram in the app.
 
+`scripts/build-site.ts` adds two fields to each `index.json` / `bundle.json`
+entry (`scripts/catalog-extras.ts`):
+
+- `logo`: the logo's site path, from `meta.yaml`.
+- `lean`: `{ left, right }`, the subjects where the org took the Democratic
+  (`left`) or Republican (`right`) side, counted by OpenSlate core's `leanOf`.
+  The sides come from where the parties split: subjects a
+  `<place>-democratic-party` / `<place>-republican-party` pair of slates
+  disagree on, and Democrat-vs-Republican races in the ballot data
+  (`kind: election-authority`). Positions adopted by reference count. It's
+  arithmetic on the org's picks, not a judgement about the org; the app hides
+  it below five sided subjects.
+
 ## Published URLs
 
 After GitHub Pages is enabled for this repo, the published site exposes:
@@ -81,7 +94,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | URL | What it is |
 | --- | --- |
 | `index.html` | Human-readable list of every slate with copy-import links. |
-| `index.json` | Machine-readable catalog of all slates. |
+| `index.json` | Machine-readable catalog of all slates, with each org's `logo` and `lean`. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
