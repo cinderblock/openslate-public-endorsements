@@ -49,7 +49,8 @@ Women Voters) are usually a poor fit for this repo.
 .
 ├── orgs/
 │   └── <slug>/
-│       ├── meta.yaml                  # display name, uri, kind
+│       ├── meta.yaml                  # display name, uri, kind, logo, logo_source
+│       ├── logo.<ext>                 # the org's site icon (png/svg/webp/ico/jpg/gif)
 │       └── <election-or-year>/
 │           └── positions.json         # source of truth — what we sign
 ├── keys/
@@ -64,6 +65,15 @@ Women Voters) are usually a poor fit for this repo.
 Signed `.slate` artifacts are **not** committed — they are produced fresh by
 CI and exposed via the published site.
 
+Org logos are committed copies of each org's own site icon, so the published
+site serves them and a visitor's browser never contacts the org. In
+`meta.yaml`, `logo:` names the file and `logo_source:` records the URL it was
+downloaded from. `bun scripts/fetch-logos.ts` fetches them (skipping orgs that
+already have one; `--only <slug> [--url <homepage>]`, `--force`), and
+`--reject <slug> --reason "..."` drops a bad pick. It also writes a review
+contact sheet to `review/logos.html` (gitignored). Orgs without a logo get a
+monogram in the app.
+
 ## Published URLs
 
 After GitHub Pages is enabled for this repo, the published site exposes:
@@ -75,6 +85,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
+| `orgs/<slug>/logo.<ext>` | The org's logo, when `meta.yaml` has a `logo:` key. |
 | `keys/project-public.json` | The project's public signing key. |
 | `well-known/openslate.json` | Spec-conformant key listing (see OpenSlate SPEC §domain attestation). |
 | `guides.json` | Voter guides the app can load beside these slates (see below). |

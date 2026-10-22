@@ -4,6 +4,9 @@
 # Build output
 dist/
 
+# Local review artifacts (e.g. the logo contact sheet)
+review/
+
 # Node / Bun
 node_modules/
 bun.lockb
