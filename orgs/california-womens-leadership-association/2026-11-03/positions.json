@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "California Women’s Leadership Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Women’s Leadership Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:00Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Cynthia Kaui (Executive Director) signed the rebuttal to the argument against Proposition 39 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+    }
+  ]
+}

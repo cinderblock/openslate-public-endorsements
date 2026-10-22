@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "California School Boards Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California School Boards Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:00Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Dr. Debra Schade (President) signed the argument against Proposition 40 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm"
+    }
+  ]
+}

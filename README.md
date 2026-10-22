@@ -102,6 +102,13 @@ jurisdiction, signed manifest URL and expected key; the web app reads this
 file from beside the catalog's `index.json` and shows a guide's material on
 the matching race pages. To add a guide, add an entry here.
 
+A guide's ballot arguments are signed by named people, often an
+organization's president or director. `scripts/ca-ballot-arguments.ts` turns
+those signatures into the organizations' positions (Yes or No on the
+proposition), counting only signers who speak for their organization;
+organizations not otherwise in this catalog get bundles attributed as
+`inferred`.
+
 ## Relationship to OpenSlate `research-bot/`
 
 OpenSlate ships a [`research-bot/`](https://github.com/cinderblock/openslate/tree/master/research-bot)

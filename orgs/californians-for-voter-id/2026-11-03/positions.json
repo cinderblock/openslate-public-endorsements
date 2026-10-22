@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Californians for Voter ID: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Californians for Voter ID",
+      "kind": "campaign"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:00Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Margit Whitlock (Democratic Coalition Chair) and Tafa Jefferson (Republican Coalition Chair) and Joe Green (Independent Coalition Chair) signed the argument in favor of Proposition 39 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+    }
+  ]
+}

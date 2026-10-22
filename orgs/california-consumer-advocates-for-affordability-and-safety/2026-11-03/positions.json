@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "California Consumer Advocates for Affordability and Safety: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Consumer Advocates for Affordability and Safety",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:01Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Greg Van Dyke (Chairman) signed the rebuttal to the argument against Proposition 43 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm"
+    }
+  ]
+}

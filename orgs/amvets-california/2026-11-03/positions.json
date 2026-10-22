@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "AMVETS, Department of California: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "AMVETS, Department of California",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:01Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Shelley Huff (Commander) signed the argument in favor of Proposition 42 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm"
+    }
+  ]
+}

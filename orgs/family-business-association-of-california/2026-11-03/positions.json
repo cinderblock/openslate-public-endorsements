@@ -1,0 +1,58 @@
+{
+  "context": {
+    "title": "Family Business Association of California: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Family Business Association of California",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:01Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm",
+      "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Robert Rivinius (President) signed the argument against Proposition 3 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Robert Rivinius (President) signed the argument in favor of Proposition 43 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Robert Rivinius (President) signed the rebuttal to the argument against Proposition 45 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm"
+    }
+  ]
+}

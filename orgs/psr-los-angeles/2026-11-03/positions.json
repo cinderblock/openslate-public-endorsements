@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Physicians for Social Responsibility, Los Angeles: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Physicians for Social Responsibility, Los Angeles",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:01Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Martha Arguello (Executive Director) signed the rebuttal to the argument in favor of Proposition 45 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm"
+    }
+  ]
+}
