@@ -547,7 +547,12 @@ ${missing.join("\n")}
 
 const orgs = readOrgs();
 const report = await loadReport();
+const updated = new Set<string>();
+// Merge with what's on disk so concurrent `--only` runs don't drop each other's results.
 const saveReport = async () => {
+  const latest = await loadReport();
+  for (const slug of updated) latest[slug] = report[slug] as Result;
+  Object.assign(report, latest);
   mkdirSync("review", { recursive: true });
   await Bun.write(REPORT, `${JSON.stringify(report, null, 2)}\n`);
 };
@@ -561,6 +566,7 @@ if (reject) {
   removeLogos(org.dir);
   await writeMeta(org);
   report[org.slug] = { slug: org.slug, status: "rejected", reason, at: new Date().toISOString() };
+  updated.add(org.slug);
   await saveReport();
   await writeSheet(orgs, report);
   console.log(`rejected ${org.slug}: ${reason}`);
@@ -592,6 +598,7 @@ if (!args.includes("--review")) {
         );
         results.push(r);
         report[org.slug] = r;
+        updated.add(org.slug);
         console.error(
           `${r.status === "ok" ? "ok  " : "FAIL"} ${org.slug}${r.reason ? ` — ${r.reason}` : ""}`,
         );
