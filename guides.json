@@ -188,6 +188,45 @@
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/oc/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/alameda-county",
+      "covers": [
+        "us/ca/alameda-county",
+        "us/ca/ad-14",
+        "us/ca/ad-16",
+        "us/ca/ad-18",
+        "us/ca/ad-20",
+        "us/ca/ad-24",
+        "us/ca/alameda",
+        "us/ca/albany",
+        "us/ca/bart-4",
+        "us/ca/bay-area",
+        "us/ca/berkeley",
+        "us/ca/cd-10",
+        "us/ca/cd-12",
+        "us/ca/cd-14",
+        "us/ca/cd-17",
+        "us/ca/city-of-alameda",
+        "us/ca/dublin",
+        "us/ca/ebmud",
+        "us/ca/emeryville",
+        "us/ca/fremont",
+        "us/ca/hayward",
+        "us/ca/livermore",
+        "us/ca/newark",
+        "us/ca/oakland",
+        "us/ca/piedmont",
+        "us/ca/pleasanton",
+        "us/ca/san-leandro",
+        "us/ca/sd-10",
+        "us/ca/union-city"
+      ],
+      "title": "Alameda County Voter Information Guide: candidate statements and local measures, November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/alameda/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
   ]
 }
