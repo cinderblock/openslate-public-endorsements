@@ -74,3 +74,11 @@
   - Multi-city districts use `us/ca/los-angeles-county`.
   - LACCD and the LA City measures use `us/ca/los-angeles`, following the June LAUSD convention.
 - **State and federal candidates** were all checked against the SoS Certified List of Candidates (8/27/2026). Local races come from a November-only guide, so they are on the November ballot by construction, apart from the Burbank caveat above.
+
+## Not on the Nov 3 ballot: removed 2026-10-23
+
+The catalog's ballot check found these positions on seats no ballot carries: each was uncontested and is filled by appointment in lieu of election. They were removed, since a position here has to map to a ballot entry.
+
+- Centinela Valley Union High School District Board, Trustee Area 5: Estefany Castañeda. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
+- Garvey School District Board, Trustee Area 1: Andy Yam. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
+- Pasadena Area Community College District Board, Trustee Area 7: Alton Wang. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.

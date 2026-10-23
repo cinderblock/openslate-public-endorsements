@@ -61,3 +61,10 @@ Ntuk and Zia appear in other bundles for the same Nov races.
   Obeso Martinez" → Obeso-Martinez, "LaShae Sharp Collins" →
   Sharp-Collins. Typo "Issac Bryan" → Isaac Bryan. The original line is in
   each statement.
+
+## Not on the Nov 3 ballot: removed 2026-10-23
+
+The catalog's ballot check found these positions on seats no ballot carries: each was uncontested and is filled by appointment in lieu of election. They were removed, since a position here has to map to a ballot entry.
+
+- Long Beach Community College District Board, Area 1: Udak-Joe Ntuk. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
+- Long Beach Community College District Board, Area 3: Sunny Zia. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.

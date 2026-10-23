@@ -74,3 +74,11 @@ URLs: https://www.cclabor.net/2026 and the CSV above.
 
 **Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 18 from California Federation of Labor Unions, AFL-CIO. Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
 - Contra Costa: Prop 38 ('No Position') is not adopted because `ca-labor-federation` records no Prop 38 position; the statewide-candidate images were never transcribed, so they are not adopted either.
+
+## Not on the Nov 3 ballot: removed 2026-10-23
+
+The catalog's ballot check found these positions on seats no ballot carries: each was uncontested and is filled by appointment in lieu of election. They were removed, since a position here has to map to a ballot entry.
+
+- AC Transit Board, Ward 1: Harpreet S. Sandhu. Not on the ballot: Alameda County's candidate list (election 260, https://alamedacountyca.gov/rov_app/candidatelist/) shows "AC Transit District Director, Ward 1, Short Term - Not On Ballot", one filer (Harpreet Sandhu, incumbent; filing agency Contra Costa County).
+- EBMUD Board of Directors, Ward 2: Luz María Gómez. Not on the ballot: EBMUD's board "appointed the incumbents, Luz Gómez and Andy Katz, to represent Wards 2 and 4, respectively, through 2030" as they were "uncontested at the close of the California election candidacy period" (https://www.ebmud.com/about-us/news/press-releases/ebmud-board-directors-appoint-uncontested-incumbents-wards-2-and-4, Aug 18, 2026).
+- EBMUD Board of Directors, Ward 4: Andy Katz. Not on the ballot: EBMUD's board "appointed the incumbents, Luz Gómez and Andy Katz, to represent Wards 2 and 4, respectively, through 2030" as they were "uncontested at the close of the California election candidacy period" (https://www.ebmud.com/about-us/news/press-releases/ebmud-board-directors-appoint-uncontested-incumbents-wards-2-and-4, Aug 18, 2026).
