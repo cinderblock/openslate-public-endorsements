@@ -121,8 +121,9 @@ about what's on the ballot (candidate statements and photos, a measure's
 summary, analysis, arguments and full text). Guides are reference material,
 not endorsements, so they live in their own repos, one per state and
 election (e.g. [openslate-ballot-ca-2026-11-03](https://github.com/cinderblock/openslate-ballot-ca-2026-11-03)),
-each signed with its own key; a county's guide (its pamphlet) sits in the same
-repo as its own manifest. Each entry gives the guide's election, jurisdiction,
+each signed with its own key; a county's guide (San Francisco's pamphlet, Los
+Angeles County's statements and measures) sits in the same repo as its own
+manifest. Each entry gives the guide's election, jurisdiction,
 signed manifest URL and expected key, and `covers`: the jurisdictions it has
 items for. A county guide covers its congressional and legislative districts
 (`us/ca/cd-11`, `us/ca/ad-17`), which its own jurisdiction doesn't contain, so
