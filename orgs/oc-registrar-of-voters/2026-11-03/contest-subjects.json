@@ -1,0 +1,924 @@
+{
+  "contests": {
+    "3034": {
+      "title": "North Orange County Community College District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3036": {
+      "title": "North Orange County Community College District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3039": {
+      "title": "North Orange County Community College District Board, Trustee Area 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3042": {
+      "title": "Coast Community College District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3044": {
+      "title": "Coast Community College District Board, Trustee Area 3 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3046": {
+      "title": "Coast Community College District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3051": {
+      "title": "Rancho Santiago Community College District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3053": {
+      "title": "Rancho Santiago Community College District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3061": {
+      "title": "South Orange County Community College District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3104": {
+      "title": "Brea Olinda Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3114": {
+      "title": "Capistrano Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3116": {
+      "title": "Capistrano Unified School District Board, Trustee Area 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3117": {
+      "title": "Capistrano Unified School District Board, Trustee Area 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3124": {
+      "title": "Garden Grove Unified School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3126": {
+      "title": "Garden Grove Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3132": {
+      "title": "Irvine Unified School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3134": {
+      "title": "Irvine Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3141": {
+      "title": "Laguna Beach Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3162": {
+      "title": "Newport-Mesa Unified School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3167": {
+      "title": "Newport-Mesa Unified School District Board, Trustee Area 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3171": {
+      "title": "Orange Unified School District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3174": {
+      "title": "Orange Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3175": {
+      "title": "Orange Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3177": {
+      "title": "Orange Unified School District Board, Trustee Area 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3187": {
+      "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3188": {
+      "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3189": {
+      "title": "Rowland Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3195": {
+      "title": "Saddleback Valley Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3205": {
+      "title": "Santa Ana Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3206": {
+      "title": "Santa Ana Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3213": {
+      "title": "Tustin Unified School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3215": {
+      "title": "Tustin Unified School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3223": {
+      "title": "Anaheim Union High School District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3224": {
+      "title": "Anaheim Union High School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3233": {
+      "title": "Fullerton Joint Union High School District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3237": {
+      "title": "Fullerton Joint Union High School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3254": {
+      "title": "Anaheim Elementary School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3256": {
+      "title": "Anaheim Elementary School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3284": {
+      "title": "Cypress School District Board, Trustee Area B",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3285": {
+      "title": "Cypress School District Board, Trustee Area C",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3291": {
+      "title": "Fountain Valley School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3305": {
+      "title": "Fullerton School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3314": {
+      "title": "Huntington Beach City School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3324": {
+      "title": "La Habra City School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3335": {
+      "title": "Lowell Joint School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3347": {
+      "title": "Magnolia School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "3355": {
+      "title": "Ocean View School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "4004": {
+      "title": "Orange County Board of Supervisors, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "4005": {
+      "title": "Orange County Board of Supervisors, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "4902": {
+      "title": "Aliso Viejo City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/aliso-viejo",
+      "election": "2026-11-03"
+    },
+    "4903": {
+      "title": "Aliso Viejo City Council, District 3 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/aliso-viejo",
+      "election": "2026-11-03"
+    },
+    "5001": {
+      "title": "Anaheim Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/anaheim",
+      "election": "2026-11-03"
+    },
+    "5005": {
+      "title": "Anaheim City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/anaheim",
+      "election": "2026-11-03"
+    },
+    "5006": {
+      "title": "Anaheim City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/anaheim",
+      "election": "2026-11-03"
+    },
+    "5009": {
+      "title": "Anaheim City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/anaheim",
+      "election": "2026-11-03"
+    },
+    "5012": {
+      "title": "Brea City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/brea",
+      "election": "2026-11-03"
+    },
+    "5024": {
+      "title": "Buena Park City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/buena-park",
+      "election": "2026-11-03"
+    },
+    "5027": {
+      "title": "Buena Park City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/buena-park",
+      "election": "2026-11-03"
+    },
+    "5031": {
+      "title": "Costa Mesa Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/costa-mesa",
+      "election": "2026-11-03"
+    },
+    "5036": {
+      "title": "Costa Mesa City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/costa-mesa",
+      "election": "2026-11-03"
+    },
+    "5037": {
+      "title": "Costa Mesa City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/costa-mesa",
+      "election": "2026-11-03"
+    },
+    "5038": {
+      "title": "Costa Mesa City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/costa-mesa",
+      "election": "2026-11-03"
+    },
+    "5041": {
+      "title": "Cypress City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/cypress",
+      "election": "2026-11-03"
+    },
+    "5042": {
+      "title": "Cypress City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/cypress",
+      "election": "2026-11-03"
+    },
+    "5045": {
+      "title": "Cypress City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/cypress",
+      "election": "2026-11-03"
+    },
+    "5062": {
+      "title": "Fountain Valley City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/fountain-valley",
+      "election": "2026-11-03"
+    },
+    "5073": {
+      "title": "Fullerton City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/fullerton",
+      "election": "2026-11-03"
+    },
+    "5075": {
+      "title": "Fullerton City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/fullerton",
+      "election": "2026-11-03"
+    },
+    "5081": {
+      "title": "Garden Grove Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/garden-grove",
+      "election": "2026-11-03"
+    },
+    "5084": {
+      "title": "Garden Grove City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/garden-grove",
+      "election": "2026-11-03"
+    },
+    "5086": {
+      "title": "Garden Grove City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/garden-grove",
+      "election": "2026-11-03"
+    },
+    "5087": {
+      "title": "Garden Grove City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/garden-grove",
+      "election": "2026-11-03"
+    },
+    "5092": {
+      "title": "Huntington Beach City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/huntington-beach",
+      "election": "2026-11-03"
+    },
+    "5095": {
+      "title": "Huntington Beach City Attorney",
+      "kind": "race",
+      "jurisdiction": "us/ca/huntington-beach",
+      "election": "2026-11-03"
+    },
+    "5101": {
+      "title": "Irvine Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/irvine",
+      "election": "2026-11-03"
+    },
+    "5102": {
+      "title": "Irvine City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/irvine",
+      "election": "2026-11-03"
+    },
+    "5106": {
+      "title": "Irvine City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/irvine",
+      "election": "2026-11-03"
+    },
+    "5107": {
+      "title": "Irvine City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/irvine",
+      "election": "2026-11-03"
+    },
+    "5112": {
+      "title": "Laguna Beach City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/laguna-beach",
+      "election": "2026-11-03"
+    },
+    "5117": {
+      "title": "Laguna Hills City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/laguna-hills",
+      "election": "2026-11-03"
+    },
+    "5120": {
+      "title": "Laguna Hills City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/laguna-hills",
+      "election": "2026-11-03"
+    },
+    "5126": {
+      "title": "Laguna Woods City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/laguna-woods",
+      "election": "2026-11-03"
+    },
+    "5132": {
+      "title": "La Habra City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/la-habra",
+      "election": "2026-11-03"
+    },
+    "5136": {
+      "title": "Lake Forest City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/lake-forest",
+      "election": "2026-11-03"
+    },
+    "5137": {
+      "title": "Lake Forest City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/lake-forest",
+      "election": "2026-11-03"
+    },
+    "5138": {
+      "title": "Lake Forest City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/lake-forest",
+      "election": "2026-11-03"
+    },
+    "5142": {
+      "title": "La Palma City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/la-palma",
+      "election": "2026-11-03"
+    },
+    "5144": {
+      "title": "La Palma City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/la-palma",
+      "election": "2026-11-03"
+    },
+    "5154": {
+      "title": "Los Alamitos City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-alamitos",
+      "election": "2026-11-03"
+    },
+    "5155": {
+      "title": "Los Alamitos City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-alamitos",
+      "election": "2026-11-03"
+    },
+    "5161": {
+      "title": "Mission Viejo City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/mission-viejo",
+      "election": "2026-11-03"
+    },
+    "5162": {
+      "title": "Mission Viejo City Council, District 2 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/mission-viejo",
+      "election": "2026-11-03"
+    },
+    "5163": {
+      "title": "Mission Viejo City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/mission-viejo",
+      "election": "2026-11-03"
+    },
+    "5164": {
+      "title": "Mission Viejo City Council, District 4 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/mission-viejo",
+      "election": "2026-11-03"
+    },
+    "5165": {
+      "title": "Mission Viejo City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/mission-viejo",
+      "election": "2026-11-03"
+    },
+    "5171": {
+      "title": "Newport Beach City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/newport-beach",
+      "election": "2026-11-03"
+    },
+    "5173": {
+      "title": "Newport Beach City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/newport-beach",
+      "election": "2026-11-03"
+    },
+    "5174": {
+      "title": "Newport Beach City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/newport-beach",
+      "election": "2026-11-03"
+    },
+    "5176": {
+      "title": "Newport Beach City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/newport-beach",
+      "election": "2026-11-03"
+    },
+    "5181": {
+      "title": "Orange Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "5182": {
+      "title": "Orange City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "5185": {
+      "title": "Orange City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "5187": {
+      "title": "Orange City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "5191": {
+      "title": "Placentia City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/placentia",
+      "election": "2026-11-03"
+    },
+    "5193": {
+      "title": "Placentia City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/placentia",
+      "election": "2026-11-03"
+    },
+    "5195": {
+      "title": "Placentia City Clerk",
+      "kind": "race",
+      "jurisdiction": "us/ca/placentia",
+      "election": "2026-11-03"
+    },
+    "5200": {
+      "title": "San Clemente Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-clemente",
+      "election": "2026-11-03"
+    },
+    "5201": {
+      "title": "San Clemente City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-clemente",
+      "election": "2026-11-03"
+    },
+    "5202": {
+      "title": "San Clemente City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-clemente",
+      "election": "2026-11-03"
+    },
+    "5214": {
+      "title": "San Juan Capistrano City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-juan-capistrano",
+      "election": "2026-11-03"
+    },
+    "5221": {
+      "title": "Santa Ana Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-ana",
+      "election": "2026-11-03"
+    },
+    "5223": {
+      "title": "Santa Ana City Council, Ward 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-ana",
+      "election": "2026-11-03"
+    },
+    "5225": {
+      "title": "Santa Ana City Council, Ward 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-ana",
+      "election": "2026-11-03"
+    },
+    "5227": {
+      "title": "Santa Ana City Council, Ward 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-ana",
+      "election": "2026-11-03"
+    },
+    "5231": {
+      "title": "Seal Beach City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/seal-beach",
+      "election": "2026-11-03"
+    },
+    "5241": {
+      "title": "Stanton City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/stanton",
+      "election": "2026-11-03"
+    },
+    "5243": {
+      "title": "Stanton City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/stanton",
+      "election": "2026-11-03"
+    },
+    "5250": {
+      "title": "Tustin Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/tustin",
+      "election": "2026-11-03"
+    },
+    "5253": {
+      "title": "Tustin City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/tustin",
+      "election": "2026-11-03"
+    },
+    "5271": {
+      "title": "Westminster Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/westminster",
+      "election": "2026-11-03"
+    },
+    "5272": {
+      "title": "Westminster City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/westminster",
+      "election": "2026-11-03"
+    },
+    "5279": {
+      "title": "Westminster City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/westminster",
+      "election": "2026-11-03"
+    },
+    "5282": {
+      "title": "Yorba Linda City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/yorba-linda",
+      "election": "2026-11-03"
+    },
+    "5294": {
+      "title": "Rancho Santa Margarita City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/rancho-santa-margarita",
+      "election": "2026-11-03"
+    },
+    "5295": {
+      "title": "Rancho Santa Margarita City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/rancho-santa-margarita",
+      "election": "2026-11-03"
+    },
+    "5297": {
+      "title": "Rancho Santa Margarita City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/rancho-santa-margarita",
+      "election": "2026-11-03"
+    },
+    "6021": {
+      "title": "Rossmoor Community Services District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6064": {
+      "title": "Serrano Water District Board, Division 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6081": {
+      "title": "Silverado-Modjeska Recreation and Park District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6131": {
+      "title": "Midway City Sanitary District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6161": {
+      "title": "El Toro Water District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6168": {
+      "title": "Irvine Ranch Water District Board, Division 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6177": {
+      "title": "Moulton Niguel Water District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6178": {
+      "title": "Moulton Niguel Water District Board (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6225": {
+      "title": "Mesa Water District Board, Division 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6261": {
+      "title": "Trabuco Canyon Water District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6292": {
+      "title": "Municipal Water District of Orange County Board, Division 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "6332": {
+      "title": "Buena Park Library District Board, Division 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    }
+  },
+  "measures": {
+    "A": {
+      "title": "Laguna Beach Unified School District — Measure A (Safe, Modern Laguna Beach Unified School District School Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "B": {
+      "title": "Westminster School District — Measure B (Classroom Repair, School Safety/Security, Quality Education Improvement Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/orange-county",
+      "election": "2026-11-03"
+    },
+    "C": {
+      "title": "Costa Mesa — Measure C (The Costa Mesa Fair Business License Reform, Small Business Protection Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/costa-mesa",
+      "election": "2026-11-03"
+    },
+    "D": {
+      "title": "Irvine — Measure D (Measure Directing the Use of Ranked Choice Voting for City Council Member and Mayoral Elections after January 1, 2028)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/irvine",
+      "election": "2026-11-03"
+    },
+    "E": {
+      "title": "Laguna Beach — Measure E (An Ordinance of the People of the City of Laguna Beach, California, Adding Section 2.04.080 to the Laguna Beach Municipal Code to Establish Term Limits for City Council Members)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/laguna-beach",
+      "election": "2026-11-03"
+    },
+    "F": {
+      "title": "Lake Forest — Measure F (Lake Forest Election Reform and Voter Choice Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/lake-forest",
+      "election": "2026-11-03"
+    },
+    "G": {
+      "title": "Los Alamitos — Measure G (Los Alamitos Hotel Tax (TOT Measure))",
+      "kind": "measure",
+      "jurisdiction": "us/ca/los-alamitos",
+      "election": "2026-11-03"
+    },
+    "H": {
+      "title": "Newport Beach — Measure H (City of Newport Beach General Plan – Amendment)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/newport-beach",
+      "election": "2026-11-03"
+    },
+    "I": {
+      "title": "Orange — Measure I (City of Orange Public Safety/Essential Services Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "J": {
+      "title": "Orange — Measure J (City of Orange Hotel Guest Tax Modification Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "K": {
+      "title": "Orange — Measure K (Proposed Charter for the City of Orange)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/orange",
+      "election": "2026-11-03"
+    },
+    "L": {
+      "title": "Placentia — Measure L (Placentia Hotel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/placentia",
+      "election": "2026-11-03"
+    },
+    "M": {
+      "title": "San Clemente — Measure M (San Clemente Natural Hazards Sales Tax Citizens Initiative)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-clemente",
+      "election": "2026-11-03"
+    },
+    "N": {
+      "title": "Santa Ana — Measure N (Santa Ana Streets, Public Safety, Essential City Services Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-ana",
+      "election": "2026-11-03"
+    },
+    "O": {
+      "title": "Westminster — Measure O (Westminster City Services Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/westminster",
+      "election": "2026-11-03"
+    }
+  }
+}

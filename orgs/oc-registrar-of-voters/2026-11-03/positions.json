@@ -1,0 +1,4763 @@
+{
+  "context": {
+    "title": "Orange County Registrar of Voters — 2026-11-03 ballot: local candidates and measures",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Orange County Registrar of Voters",
+      "uri": "https://ocvote.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T16:33:42Z",
+    "sources": [
+      "https://ocvote.gov/elections/contests-qualified-for-the-ballot-for-the-2026-general-election",
+      "https://ocvote.gov/candidates/candidate-filing-log-with-statements",
+      "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Anaheim Elementary School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Juan Gabriel Alvarez",
+      "statement": "Governing Board Member Anaheim Elementary School District, Trustee Area 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Elementary School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Cole",
+      "statement": "Special Education Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alva Alvarez",
+      "statement": "Appointed Governing Board Member, Anaheim Elementary School District, Trustee Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Lopez",
+      "statement": "Special Education Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jessica Guerrero",
+      "statement": "Governing Board Member, Anaheim Union High School District, Trustee Area 1",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Linda Martinez Quijano",
+      "statement": "Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Germaine Neumann",
+      "statement": "Mother/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alfonso Rodriguez",
+      "statement": "Teacher/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Annemarie Randle-Trejo",
+      "statement": "Governing Board Member Anaheim Union High School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Roberto Garcia",
+      "statement": "Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea Olinda Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Natalie Johnson",
+      "statement": "Appointed Governing Board Member, Brea Olinda Unified School District, Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea Olinda Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Wendy Criner",
+      "statement": "Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park Library District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brenda Estrada",
+      "statement": "Trustee, Buena Park Library District, Division 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park Library District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Carver",
+      "statement": "Firefighter/Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Melissa Caldwell",
+      "statement": "Parent/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marco Carralero",
+      "statement": "Parent/Orange County Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mandy Bourne",
+      "statement": "Parent/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeanna Emmons",
+      "statement": "Parent/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ron Ruef",
+      "statement": "Youth Sports Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Capistrano Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Linda Shepard",
+      "statement": "Educator/Orange County Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Aliso Viejo City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/aliso-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Max Duncan",
+      "statement": "Mayor of The City of Aliso Viejo",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Aliso Viejo City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/aliso-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Von der Porten",
+      "statement": "Father/Aerospace Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Aliso Viejo City Council, District 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/aliso-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Garrett Dwyer",
+      "statement": "Appointed Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Aliso Viejo City Council, District 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/aliso-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marie Tsaasan",
+      "statement": "Teacher/Mother",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ashleigh Aitken",
+      "statement": "Mayor of Anaheim",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alfredo Rodriguez",
+      "statement": "General Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Imran Sharief",
+      "statement": "Doctor/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carlos Leon",
+      "statement": "Anaheim City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Natalie Rubalcava",
+      "statement": "Anaheim City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elia Rentaría García",
+      "statement": "Nonprofit Development Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Natalie Meeks",
+      "statement": "Anaheim City Council Member, District 6",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Blair Stewart",
+      "statement": "Retired Firefighter/Councilman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven C. Vargas",
+      "statement": "Councilman/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cecilia Hupp",
+      "statement": "Councilmember/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Blake Perez",
+      "statement": "Public Affairs Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Brea City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brea",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Herrera",
+      "statement": "Consumer Relations Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/buena-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carlos Franco",
+      "statement": "Buena Park Councilmember/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/buena-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yong Choi",
+      "statement": "Construction Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/buena-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brandon Schooner",
+      "statement": "City of Buena Park Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Buena Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/buena-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sharena Walker",
+      "statement": "Director of Marketing",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Brown",
+      "statement": "Communications Director/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Smith",
+      "statement": "Technology Consultant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Buley",
+      "statement": "Councilmember/Attorney/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Loren Gameros",
+      "statement": "Instructor/Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel Morgan",
+      "statement": "Business Owner/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cara Stewart",
+      "statement": "Businessowner/Startup Adviser",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Angely Andrade Vallarta",
+      "statement": "Nonprofit Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Fisher Derderian",
+      "statement": "Business Owner/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Burke",
+      "statement": "Cypress City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anne Mallari",
+      "statement": "Non-Profit CEO",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bonnie Peat",
+      "statement": "Council Member",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Helen Le",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rachel Strong Carnahan",
+      "statement": "Appointed Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cypress",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Randy Harper",
+      "statement": "Emergency Manager/Firefighter",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kim Constantine",
+      "statement": "Businesswoman/Council Member",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Cunneen",
+      "statement": "Fountain Valley Mayor/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Harrison F Dibblee",
+      "statement": "Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Hay",
+      "statement": "Orange County Commissioner/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Leonard",
+      "statement": "Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patricia Odette Neal",
+      "statement": "Registered Nurse",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Nguyen",
+      "statement": "Engineer/Environmentalist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katy Wright",
+      "statement": "Speaker/Artist/Writer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/fountain-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth Andrade",
+      "statement": "Community Services Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shana Charles",
+      "statement": "City of Fullerton Councilmember/Professor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel H. Kim",
+      "statement": "Fullerton Commissioner/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Fischbein",
+      "statement": "Quality Assurance Inspector",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jozef Maldonado",
+      "statement": "Chemist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Oscar Valadez",
+      "statement": "Fullerton Commissioner/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stephanie Klopfenstein",
+      "statement": "Garden Grove Mayor/Mom",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thu-Ha Nguyen",
+      "statement": "Cancer Scientist/Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Roger Flanders",
+      "statement": "Court Investigator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Long Tran Nguyen",
+      "statement": "Urgent Care Doctor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William Zylla",
+      "statement": "Retired Emergency Technician",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cindy Ngoc Tran",
+      "statement": "Garden Grove Councilwoman/Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amanda Nguyen",
+      "statement": "Senior Paralegal",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas Quoc Thai Nguyen",
+      "statement": "Media Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Dovinh",
+      "statement": "Garden Grove Council Member",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amanda Mohr",
+      "statement": "Student/Astrophysicist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Hieu Nguyen",
+      "statement": "Social Worker/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patrick Phat Bui",
+      "statement": "Businessowner/Nonprofit Chairman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pat Burns",
+      "statement": "Retired Policeman/Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Gruel",
+      "statement": "Appointed City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Casey McKeon",
+      "statement": "Mayor Of Huntington Beach/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Taryn Palumbo",
+      "statement": "Nonprofit Executive/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rosalind \"Roz\" Price",
+      "statement": "Operations Manager/Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Erin Spivey",
+      "statement": "Retired Librarian",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Thienes",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amory Hanson",
+      "statement": "Historic Resources Boardman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ben Davis",
+      "statement": "Civil Rights Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brenda Glim",
+      "statement": "Business Woman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Burley",
+      "statement": "Trustee, Huntington Beach City School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Vigliotta",
+      "statement": "Huntington Beach City Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Larry Agran",
+      "statement": "Mayor of Irvine",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maksim V Egorov",
+      "statement": "Software Engineer/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Melinda Liu",
+      "statement": "City of Irvine Councilmember/Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Park",
+      "statement": "City of Irvine Commissioner/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sukhee Kang",
+      "statement": "Small Businessman/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Betty Martinez Franco",
+      "statement": "Councilmember/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Julie Glossbrenner",
+      "statement": "Housing Specialist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anthony Kuo",
+      "statement": "City of Irvine Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Byron Salvatierra",
+      "statement": "Cybersecurity Manager/Father",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Alves",
+      "statement": "Small Businessowner/Dad",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Scotty Hong",
+      "statement": "City of Irvine Sustainability Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kathleen Treseder",
+      "statement": "Councilmember, City of Irvine/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-habra",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James \"Jim\" Gomez",
+      "statement": "Businessman/Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-habra",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Medrano",
+      "statement": "Mayor City of La Habra",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-habra",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Susan Pritchard",
+      "statement": "Retired Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-habra",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Miles Matias",
+      "statement": "IT Analyst/Instructor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Palma City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-palma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Kim",
+      "statement": "Public Safety Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Palma City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-palma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nitesh Patel",
+      "statement": "Council Member, City of La Palma",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Palma City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-palma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jonathan Dinwiddie",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Palma City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-palma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Paningsoro",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nick Aronoff",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Edward Bayuk",
+      "statement": "Retired Business Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joy Berry",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ashley Cintas",
+      "statement": "Local Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sue Kempf",
+      "statement": "Laguna Beach City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karen Martin",
+      "statement": "Urban Planning Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Orgill",
+      "statement": "City Council Member, Laguna Beach",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Parisi",
+      "statement": "City Treasurer/CPA",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alex Rounaghi",
+      "statement": "Laguna Beach City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Harry Huggins",
+      "statement": "Laguna Hills Non-Profit President",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Thies",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tiffany Boccieri",
+      "statement": "Attorney/Mother",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Caputo",
+      "statement": "Traffic Commissioner/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Valerie Anne Geller",
+      "statement": "Educator/Music Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Hills City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Scott Miller",
+      "statement": "Laguna Hills Traffic Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Woods City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-woods",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Annie McCary",
+      "statement": "Mayor City of Laguna Woods",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Woods City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-woods",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carol Moore",
+      "statement": "Council Member City of Laguna Woods",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Woods City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-woods",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sue Quam",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Benjamin Yu",
+      "statement": "Councilmember, City of Lake Forest/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "\"George\" Giurguis Azer",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brandon Council",
+      "statement": "Mechanical Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Becky Keene",
+      "statement": "Systems Analyst",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brittany Thompson",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tom Grable",
+      "statement": "Planning Commissioner/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anil D. Patel",
+      "statement": "Project Manager/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shari Rhodes",
+      "statement": "Lake Forest Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Stevens",
+      "statement": "Mother/Communications Consultant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shelley Hasselbrink",
+      "statement": "City of Los Alamitos, Councilwoman/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Hastie",
+      "statement": "Maintenance Operations Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Emily Hibard",
+      "statement": "Councilmember/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John M. Delavigne",
+      "statement": "Consultant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert \"Bob\" Ruesch",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristen Wilcox",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Saga Conroy",
+      "statement": "Community Outreach Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peter Molinari",
+      "statement": "Small Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cynthia Vasquez",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bryan Zahn",
+      "statement": "Retired City of Mission Viejo Supervisor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 4 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Lacko",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 4 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Morrison",
+      "statement": "Human Resources Professional",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mission Viejo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/mission-viejo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Thornton",
+      "statement": "Defense Acquisition Contractor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Stapleton",
+      "statement": "Newport Beach Councilmember/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tina Babajanians",
+      "statement": "Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Erik Weigand",
+      "statement": "Newport Beach City Councilmember, District 3",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Walter Stahr",
+      "statement": "Author",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tim Stoaks",
+      "statement": "Retired Construction Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robyn Grant",
+      "statement": "Newport Beach Council Member",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lauren Kleiman",
+      "statement": "Mayor/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Paul Gerken",
+      "statement": "Retired Surgeon",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Slater",
+      "statement": "Orange Mayor/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Arianna Barrios",
+      "statement": "City Councilmember, City of Orange",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ernie Glasgow",
+      "statement": "Contractor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Albert \"AJ\" Ricci",
+      "statement": "City of Orange Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brandy Romero",
+      "statement": "Orange Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jonathan St Clair",
+      "statement": "General Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Denis Bilodeau",
+      "statement": "Orange City Councilmember, District 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brendon Moeller",
+      "statement": "Small Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Santosh Sabnis",
+      "statement": "Business Owner/Father",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Julie Suchard",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matt Waugh",
+      "statement": "Business Executive/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chad Wanke",
+      "statement": "Mayor/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Burandt",
+      "statement": "Public Service Professional",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia City Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert S. \"Bob\" McKinnell",
+      "statement": "Placentia City Clerk",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Victor Cabral",
+      "statement": "Councilmember/Attorney/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shane Hirschman",
+      "statement": "Art Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kathy Ward",
+      "statement": "Certified Shorthand Reporter",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Camp",
+      "statement": "Architect/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Donna Vidrine",
+      "statement": "Nurse/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Aaron Washington",
+      "statement": "Deputy Program Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Enmeier",
+      "statement": "Teacher/Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Clemente City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Knoblock",
+      "statement": "Mayor Pro Tem",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Juan Capistrano City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-juan-capistrano",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Erin Beyer",
+      "statement": "Business Operations Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "San Juan Capistrano City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-juan-capistrano",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Moore",
+      "statement": "City of San Juan Capistrano Planning Commission Chairperson",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Valerie Amezcua",
+      "statement": "Mayor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Shimell",
+      "statement": "Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dwayne Shipp",
+      "statement": "Caregiver/City Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Benjamin Vazquez",
+      "statement": "Teacher/Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Selica Diaz",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Phil Bacerra",
+      "statement": "Santa Ana City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sandra De Anda",
+      "statement": "Immigrant Rights Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Giovanni Chavez",
+      "statement": "Housing Commissioner/Lawyer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana City Council, Ward 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Isuri Ramos",
+      "statement": "Nonprofit Executive Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Seal Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/seal-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Scott Davis",
+      "statement": "Real Estate Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Seal Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/seal-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Perla Mendoza",
+      "statement": "CEO/Nonprofit Boardmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Seal Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/seal-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matt Smith",
+      "statement": "Sports Broadcaster",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Seal Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/seal-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matthew Terry",
+      "statement": "Architect",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Stanton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Donald Torres",
+      "statement": "Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Stanton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas Frazier",
+      "statement": "Planning Commissioner City of Stanton",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Stanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Debora Donathan",
+      "statement": "Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Stanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dewayne A. Normand",
+      "statement": "City of Stanton Planning Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Stanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanton",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marlon-Ray Velasco",
+      "statement": "City of Stanton Commissioner/Supervisor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Austin Lumbard",
+      "statement": "Tustin Mayor/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Letitia Clark",
+      "statement": "Community College Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ray Schnell",
+      "statement": "Councilmember/Business Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/tustin",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas James \"TJ\" Reed",
+      "statement": "Assistant Professor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kimberly Ho",
+      "statement": "Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nguyen Phuong Hung",
+      "statement": "Retired",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carlos Manzo",
+      "statement": "Westminster City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chi Charlie Nguyen",
+      "statement": "Mayor/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charles S. Shipp",
+      "statement": "Account Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Phan West",
+      "statement": "Councilwoman/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Fenton",
+      "statement": "Educator/Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Johnson",
+      "statement": "Governing Board Member, Westminster School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Namquan Nguyen",
+      "statement": "Westminster City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Daniels",
+      "statement": "Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Khai Dao",
+      "statement": "Business Owner/Administrator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Westminster City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Loan Nguyen",
+      "statement": "Financial Consultant/Mother",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Janice Lim",
+      "statement": "City Councilmember/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carlos Rodriguez",
+      "statement": "Mayor/Business Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert R. Pease II",
+      "statement": "Professional Chemical Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sean Phayakapong",
+      "statement": "Engineer/Yorba Linda Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Yorba Linda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/yorba-linda",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Raymond Potter",
+      "statement": "Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Austin Edsell",
+      "statement": "Educator/Finance Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Kalmick",
+      "statement": "City of Seal Beach City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ashton Kauwe",
+      "statement": "Office Administrator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kim Carr",
+      "statement": "Appointed Trustee, Coast Community College District Governing Board",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Conrad Mazeika",
+      "statement": "Nonprofit Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Cameron",
+      "statement": "Businessman/Recording Artist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth Dorn Parker",
+      "statement": "Governing Board Member Coast Community College District, Trustee Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Coast Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Xerxez Calilung",
+      "statement": "Dentist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jon Peat",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jack Torossian",
+      "statement": "Father",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Meghna Parikh",
+      "statement": "Appointed Cypress School District Board Member, Trustee Area C",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Blount",
+      "statement": "Community College Trustee",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Cypress School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vernon Miller",
+      "statement": "Realtor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "El Toro Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kathryn Freshley",
+      "statement": "Director, El Toro Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "El Toro Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Gaskins",
+      "statement": "Director, El Toro Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "El Toro Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alfredo Cardenas",
+      "statement": "Retired Operations Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dennis Cole",
+      "statement": "Governing Board Member, Fountain Valley School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eugene M. Murray",
+      "statement": "Physicist/Information Technologist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rick Nichols",
+      "statement": "School Principal/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fountain Valley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carl Blankenhorn",
+      "statement": "Math Teacher/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton Joint Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Regina Cuadra",
+      "statement": "Parent/Teacher",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton Joint Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matthew Matias",
+      "statement": "Financial Planning Consultant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton Joint Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marilyn Buchi",
+      "statement": "Governing Board Member, Fullerton Joint Union High School District, Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton Joint Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Dudich",
+      "statement": "Operations Manager/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jordan Abushawish",
+      "statement": "Parent/Healthcare Advocate",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Fullerton School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Choi-Won",
+      "statement": "Parent/Foundation Boardmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lan Quoc Nguyen",
+      "statement": "Governing Board Member, Garden Grove Unified School District, Trustee Area 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charlene Cuellar",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tracy La",
+      "statement": "Nonprofit Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Giang Nguyen",
+      "statement": "Small Businessowner/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Quan Vuong",
+      "statement": "Attorney/Educational Coach",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diana Marks",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Costelloe",
+      "statement": "Technical Education Advisor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Ranch Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peer A. Swan",
+      "statement": "Director, Irvine Ranch Water District, Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Ranch Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeffrey Harlan",
+      "statement": "Attorney/Planning Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katie McEwen",
+      "statement": "Governing Board Member, Irvine Unified School District, Trustee Area 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ron Scolesdang",
+      "statement": "Businessowner/Youth Coach",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Kim",
+      "statement": "Governing Board Member, Irvine Unified School District, Trustee Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Irvine Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jane Wood",
+      "statement": "Teacher/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bertha Manzanares",
+      "statement": "Social Services Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "La Habra City School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Adam Rogers",
+      "statement": "Governing Board Member, La Habra City School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joan Malczewski",
+      "statement": "Professor/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dee Namba Perry",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shaheen Sheik-Sadhal",
+      "statement": "Attorney/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kimberly Smith",
+      "statement": "Tech CEO/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth Bates",
+      "statement": "Fiduciary/Businesswoman/Mother",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lowell Joint School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karen Shaw",
+      "statement": "Lowell Joint School District, Trustee",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Lowell Joint School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yoony Takeuchi",
+      "statement": "Esthetician/Notary Public",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Magnolia School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Annie Warne",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Magnolia School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gary Shields",
+      "statement": "Retired Deputy Sheriff",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mesa Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shawn Dewane",
+      "statement": "Director, Mesa Water District, Division 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Mesa Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mikelle Fish",
+      "statement": "Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Nguyen",
+      "statement": "Director, Midway City Sanitary District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Nguyen",
+      "statement": "Director, Midway City Sanitary District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anh \"Andy\" Nguyen",
+      "statement": "Businessowner/Planning Commissioner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sergio Contreras",
+      "statement": "Director, Midway City Sanitary District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Donald J. Lank",
+      "statement": "Retired EEO Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Midway City Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Liu",
+      "statement": "Independent Recruiter",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William \"Bill\" Moorhead",
+      "statement": "Director, Moulton Niguel Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Parker",
+      "statement": "Appointed Moulton Niguel Water District Director",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Leena Ray",
+      "statement": "Family Caregiver",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Cruikshank",
+      "statement": "Hydrogeologist",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Engle",
+      "statement": "Utility Project Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patricia \"Trish\" Kelley",
+      "statement": "City Councilmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kurt Lind",
+      "statement": "Water Business Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patricia C. 'Pat' Bates",
+      "statement": "Water Policy Advisor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joel Bishop",
+      "statement": "Business Owner/Consultant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Moulton Niguel Water District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Petty",
+      "statement": "Retired Cybersecurity Professional",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Municipal Water District of Orange County Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Larry D. Dick",
+      "statement": "Director Division 2, Municipal Water District of Orange County",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Municipal Water District of Orange County Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bobby Lapointe",
+      "statement": "Retail Investor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Municipal Water District of Orange County Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Markus",
+      "statement": "Water Resource Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Municipal Water District of Orange County Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Armando \"Mando\" Perez-Serrato",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport-Mesa Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle Murphy",
+      "statement": "Newport-Mesa Unified School District Trustee, Area 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport-Mesa Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Craig Holiday",
+      "statement": "Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport-Mesa Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andy Godinez",
+      "statement": "Parent/Code Officer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Newport-Mesa Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Grace Dañino Hickok",
+      "statement": "Spanish Teacher/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Barbara Dunsheath",
+      "statement": "Trustee, North Orange County Community College District, Area 1",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rama Maline",
+      "statement": "State Prosecutor/Professor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Larry Andre",
+      "statement": "Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Gonzales",
+      "statement": "Staff Specialist/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chloe Serrano",
+      "statement": "Education Policy Advisor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeffrey P. Brown",
+      "statement": "NOCCCD Boardmember/Engineer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paulette Chaffee",
+      "statement": "Educator/Nonprofit Boardmember",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jesus Silva",
+      "statement": "Teacher/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "North Orange County Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Zonya Townsend",
+      "statement": "Educator/Parent/Nurse",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Ocean View School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Clifford",
+      "statement": "Planning Commissioner/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Ocean View School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Rank",
+      "statement": "Appointed Governing Board Member, Ocean View School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrea Yamasaki",
+      "statement": "Governing Board Member, Orange Unified School District, Trustee Area 1",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ivan Kokos",
+      "statement": "Parent/Orange County Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sara J Pelly",
+      "statement": "Governing Board Member, Orange Unified School District, Trustee Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Armando \"Mando\" Perez-Serrato",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Crystal Miles",
+      "statement": "Councilmember/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristin \"Kris\" Erickson",
+      "statement": "Governing Board Member, Orange Unified School District, Trustee Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chip Ahlswede",
+      "statement": "Parent/Businessman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stephen Glass",
+      "statement": "Governing Board Member, Orange Unified School District, Trustee Area 7",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jack Chang",
+      "statement": "Business Executive/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Todd Frazier",
+      "statement": "Governing Board Member, Placentia-Yorba Linda Unified School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Lowe",
+      "statement": "Educator/Businessowner/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Barbara Buckley",
+      "statement": "Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carrie Buck",
+      "statement": "Governing Board Member, Placentia-Yorba Linda Unified School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Placentia-Yorba Linda Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Justin Aguirre",
+      "statement": "Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Josh Bastian",
+      "statement": "Planning Commissioner, City of Rancho Santa Margarita",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nicholas Reese",
+      "statement": "Financial Operations Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anne Figueroa",
+      "statement": "Councilmember, City of Rancho Santa Margarita",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rod Ganjifard",
+      "statement": "Technology Executive",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Natalie Guse",
+      "statement": "Businesswoman/Mother/Entrepreneur",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Margarita City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/rancho-santa-margarita",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brad McGirr",
+      "statement": "Councilmember, City of Rancho Santa Margarita",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santiago Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Hanna",
+      "statement": "Governing Board Member, Rancho Santiago Community College District, Trustee Area 2",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santiago Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Rocco",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santiago Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daisy Tong",
+      "statement": "Rancho Santiago Community College District Governing Board Member, Trustee Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santiago Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Beatriz Mendoza",
+      "statement": "Parent/Businesswoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rossmoor Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jo Shade",
+      "statement": "Incumbent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rossmoor Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Konya Vivanti",
+      "statement": "Environmental Programs Manager",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rossmoor Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jody L. Roubanis",
+      "statement": "Professor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rowland Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kevin T. Hayakawa",
+      "statement": "Governing Board Member, Rowland Unified School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Rowland Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Falynn Love Thompson",
+      "statement": "Parent/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Saddleback Valley Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Edgar Montes",
+      "statement": "Parent/Educator/Counselor",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Saddleback Valley Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kris Spowart",
+      "statement": "Community Volunteer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Hector Bustos",
+      "statement": "Governing Board Member, Santa Ana Unified School District, Trustee Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alejandra Rodriguez",
+      "statement": "Mother",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katelyn Brazer Aceves",
+      "statement": "Governing Board Member, Santa Ana Unified School District, Trustee Area 4",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sylvia Iglesias",
+      "statement": "Parent/Teacher/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Serrano Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frederick Fascenelli",
+      "statement": "Attorney",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Serrano Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patrick O'Hara",
+      "statement": "College Vice President",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Silverado-Modjeska Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Levy",
+      "statement": "Retired Sheriff Lieutenant",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Silverado-Modjeska Recreation and Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kirsten Rieser",
+      "statement": "Real Estate Agent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "South Orange County Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Black",
+      "statement": "Military Officer/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "South Orange County Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karima Feldhus",
+      "statement": "College Administrator/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "South Orange County Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gila Jones",
+      "statement": "Board Member, Capistrano Unified School District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "South Orange County Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Narges Rakin",
+      "statement": "College Dean/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tim Shaw",
+      "statement": "Orange County Board of Education Trustee",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Connor Traut",
+      "statement": "Mayor/Business Owner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katrina Foley",
+      "statement": "Orange County Supervisor/Businessowner",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diane Dixon",
+      "statement": "California State Assemblywoman",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Glenn Acosta",
+      "statement": "Director, Trabuco Canyon Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Edward Mandich",
+      "statement": "Director, Trabuco Canyon Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Safranski",
+      "statement": "Director, Trabuco Canyon Water District",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brad Weiskittel",
+      "statement": "Professional Engineer/Educator",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chad Brown",
+      "statement": "Landuse Planner/Developer",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Casarietti",
+      "statement": "CFO",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Trabuco Canyon Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jill Coss",
+      "statement": "Financial Service Professional",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jonathan Abelove",
+      "statement": "Governing Board Member, Tustin Unified School District, Trustee Area 5",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ziggy McBride",
+      "statement": "Educator/Librarian/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lynn Davis",
+      "statement": "Governing Board Member, Tustin Unified School District Trustee Area 3",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Tustin Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Felton",
+      "statement": "Educator/Professor/Parent",
+      "source": "https://ocvote.gov/candidates/candidate-filing-log-with-statements"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District — Measure A (Safe, Modern Laguna Beach Unified School District School Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District — Measure A (Safe, Modern Laguna Beach Unified School District School Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Westminster School District — Measure B (Classroom Repair, School Safety/Security, Quality Education Improvement Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Westminster School District — Measure B (Classroom Repair, School Safety/Security, Quality Education Improvement Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa — Measure C (The Costa Mesa Fair Business License Reform, Small Business Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Costa Mesa — Measure C (The Costa Mesa Fair Business License Reform, Small Business Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/costa-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Irvine — Measure D (Measure Directing the Use of Ranked Choice Voting for City Council Member and Mayoral Elections after January 1, 2028)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Irvine — Measure D (Measure Directing the Use of Ranked Choice Voting for City Council Member and Mayoral Elections after January 1, 2028)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach — Measure E (An Ordinance of the People of the City of Laguna Beach, California, Adding Section 2.04.080 to the Laguna Beach Municipal Code to Establish Term Limits for City Council Members)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach — Measure E (An Ordinance of the People of the City of Laguna Beach, California, Adding Section 2.04.080 to the Laguna Beach Municipal Code to Establish Term Limits for City Council Members)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest — Measure F (Lake Forest Election Reform and Voter Choice Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Lake Forest — Measure F (Lake Forest Election Reform and Voter Choice Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lake-forest",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos — Measure G (Los Alamitos Hotel Tax (TOT Measure))",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Los Alamitos — Measure G (Los Alamitos Hotel Tax (TOT Measure))",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-alamitos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure H (City of Newport Beach General Plan – Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure H (City of Newport Beach General Plan – Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure I (City of Orange Public Safety/Essential Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure I (City of Orange Public Safety/Essential Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure J (City of Orange Hotel Guest Tax Modification Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure J (City of Orange Hotel Guest Tax Modification Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure K (Proposed Charter for the City of Orange)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Orange — Measure K (Proposed Charter for the City of Orange)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Placentia — Measure L (Placentia Hotel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Placentia — Measure L (Placentia Hotel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "San Clemente — Measure M (San Clemente Natural Hazards Sales Tax Citizens Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "San Clemente — Measure M (San Clemente Natural Hazards Sales Tax Citizens Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-clemente",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana — Measure N (Santa Ana Streets, Public Safety, Essential City Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana — Measure N (Santa Ana Streets, Public Safety, Essential City Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Westminster — Measure O (Westminster City Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    },
+    {
+      "subject": {
+        "title": "Westminster — Measure O (Westminster City Services Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/westminster",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
+    }
+  ]
+}
