@@ -1,0 +1,99 @@
+{
+  "context": {
+    "title": "City of Newport Beach — Special Municipal Election, November 3, 2026: Measures P, Q and R",
+    "jurisdiction": "us/ca/newport-beach",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "City of Newport Beach City Clerk",
+      "uri": "https://www.newportbeachca.gov/government/elections",
+      "kind": "election-authority"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-23T17:30:00Z",
+    "sources": [
+      "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Newport Beach — Measure P (Lifetime Council Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-p-lifetime-council-term-limits/yes",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure P (Lifetime Council Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-p-lifetime-council-term-limits/no",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure Q (By-District Council Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-q-by-district-council-elections/yes",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure Q (By-District Council Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-q-by-district-council-elections/no",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure R (Open Government Rules and Sunshine Task Force)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-r-open-government-rules-and-sunshine-task-force/yes",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    },
+    {
+      "subject": {
+        "title": "Newport Beach — Measure R (Open Government Rules and Sunshine Task Force)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newport-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "newport-beach-city-clerk:2026-11-03/newport-beach-measure-r-open-government-rules-and-sunshine-task-force/no",
+      "statement": "Special Municipal Election (the city’s own ballot)",
+      "source": "https://www.newportbeachca.gov/government/elections/general-municipal-election-november-3-2026"
+    }
+  ]
+}
