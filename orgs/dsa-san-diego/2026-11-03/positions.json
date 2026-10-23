@@ -27,6 +27,7 @@
       },
       "stance": "lean_for",
       "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
       "statement": "Insurance Commissioner: Jane Kim",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -39,6 +40,7 @@
       },
       "stance": "oppose",
       "choice": "Sonja Shaw",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
       "statement": "State Superintendent of Public Instruction: NOT Sonja Shaw (see CA DSA Guide)",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -51,6 +53,7 @@
       },
       "stance": "lean_for",
       "choice": "Sara Jacobs",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-51/sara-jacobs",
       "statement": "We recommend a vote for Sara Jacobs.",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -63,6 +66,7 @@
       },
       "stance": "lean_for",
       "choice": "LaShae Sharp-Collins",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-79/lashae-sharp-collins",
       "statement": "The choice here is clear: we recommend a vote for LaShae Sharp-Collins.",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -435,6 +439,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
       "statement": "Prop 1: Yes",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -447,6 +452,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
       "statement": "Prop 2: Yes",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -459,6 +465,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
       "statement": "Prop 4: Yes",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -471,6 +478,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
       "statement": "Prop 5: Yes",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -483,6 +491,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
       "statement": "Prop 38: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -495,6 +504,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
       "statement": "Prop 39: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -507,6 +517,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
       "statement": "Prop 41: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -519,6 +530,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
       "statement": "Prop 42: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -531,6 +543,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
       "statement": "Prop 43: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -543,6 +556,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/yes",
       "statement": "Prop 44: Yes",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -555,6 +569,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
       "statement": "Prop 45: No",
       "source": "https://www.dsasandiego.org/november-2026-voter-guide"
     },
@@ -567,6 +582,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
       "statement": "Vote YES on Prop 3!",
       "source": "https://www.dsasandiego.org/endorsements"
     },
@@ -579,6 +595,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
       "statement": "Vote YES on Prop 40!",
       "source": "https://www.dsasandiego.org/endorsements"
     }

@@ -26,6 +26,7 @@
       },
       "stance": "endorse",
       "choice": "Nithya Raman",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/nithya-raman",
       "statement": "\"LA City Mayor — NITHYA RAMAN\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -38,6 +39,7 @@
       },
       "stance": "endorse",
       "choice": "Marissa Roy",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/marissa-roy",
       "statement": "\"LA City Attorney — Marissa Roy\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -50,6 +52,7 @@
       },
       "stance": "endorse",
       "choice": "Robert Luna",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-sheriff/robert-luna",
       "statement": "\"LA County Sheriff — Robert Luna\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -63,7 +66,8 @@
       "stance": "endorse",
       "statement": "\"Measure A – YES. Support binding arbitration for Firefighters Union contract negotiations.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-a-charter-amendment-reiterating-good-faith-negotiation-obligations-and-establishing-impartial-binding-arbitration-for-certified-public-safety-employee-disputes/yes"
     },
     {
       "subject": {
@@ -75,7 +79,8 @@
       "stance": "endorse",
       "statement": "\"Measure E – NO. Oppose the creation of unelected bureaucracies in local government.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-e-ethics-commission-and-community-investment-budget-allocation-charter-amendment/no"
     },
     {
       "subject": {
@@ -87,7 +92,8 @@
       "stance": "endorse",
       "statement": "\"Measure EE – NO. Oppose the creation of unelected bureaucracies in local government.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-ee-city-ethics-elections-and-governance/no"
     },
     {
       "subject": {
@@ -99,7 +105,8 @@
       "stance": "endorse",
       "statement": "\"Measure FD – YES | SÍ. Raise money for the LA Fire Department.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-fd-funding-for-the-los-angeles-fire-department-through-a-one-half-percent-sales-tax/yes"
     },
     {
       "subject": {
@@ -111,7 +118,8 @@
       "stance": "endorse",
       "statement": "\"Measure LA – YES | SÍ. Improve budget City budget process.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/yes"
     },
     {
       "subject": {
@@ -134,7 +142,8 @@
       "stance": "endorse",
       "statement": "\"Measure PRK – YES | SÍ. Increase budget for parks.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes"
     },
     {
       "subject": {
@@ -157,7 +166,8 @@
       "stance": "endorse",
       "statement": "\"Measure SC – NO. Oppose the creation of unelected bureaucracies in local government.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-sc-los-angeles-unified-school-district-campaign-finance-rules-related-to-board-of-education-elections/no"
     },
     {
       "subject": {
@@ -169,7 +179,8 @@
       "stance": "endorse",
       "statement": "\"Measure TE – YES | SÍ. Tax relief for homes damaged by wildfires.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-te-property-transfer-tax-exemption-for-victims-of-january-2025-fire-disaster/yes"
     },
     {
       "subject": {
@@ -180,6 +191,7 @@
       },
       "stance": "endorse",
       "choice": "Steven F. Veres",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/steven-f-veres",
       "statement": "\"Los Angeles Community College District Board of Trustees | Distrito de colegios comunitarios de Los Ángeles miembros de la junta de síndicos\" / \"Seat 2 – Steve Veres\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -192,6 +204,7 @@
       },
       "stance": "endorse",
       "choice": "Darryn Harris",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-4/darryn-harris",
       "statement": "\"Los Angeles Community College District Board of Trustees | Distrito de colegios comunitarios de Los Ángeles miembros de la junta de síndicos\" / \"Seat 4 – Darryn Harris\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -204,6 +217,7 @@
       },
       "stance": "endorse",
       "choice": "Randall Winston",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-6/randall-winston",
       "statement": "\"Los Angeles Community College District Board of Trustees | Distrito de colegios comunitarios de Los Ángeles miembros de la junta de síndicos\" / \"Seat 6 – Randall Winston\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -216,6 +230,7 @@
       },
       "stance": "endorse",
       "choice": "Ricardo Ortega",
+      "choice_id": "la-county-registrar:2026-11-03/antelope-valley-community-college-district-board-trustee-area-2/ricardo-ortega",
       "statement": "\"Antelope Valley College\" / \"District 2 – Ricardo Ortega-Martinez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -228,6 +243,7 @@
       },
       "stance": "endorse",
       "choice": "Dan Rocha",
+      "choice_id": "la-county-registrar:2026-11-03/artesia-city-council/dan-rocha",
       "statement": "\"Artesia City Council | Concejo municipal\" / \"Dan Rocha\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -240,6 +256,7 @@
       },
       "stance": "endorse",
       "choice": "Nikki Perez",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nikki-perez",
       "statement": "\"Burbank City Council | Concejo municipal\" / \"Vote for all THREE\" / \"Nikki Perez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -252,6 +269,7 @@
       },
       "stance": "endorse",
       "choice": "Mike Van Gorder",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/mike-van-gorder",
       "statement": "\"Burbank City Council | Concejo municipal\" / \"Vote for all THREE\" / \"Mike Van Gorder\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -264,6 +282,7 @@
       },
       "stance": "endorse",
       "choice": "Nolan Southerland",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nolan-southerland",
       "statement": "\"Burbank City Council | Concejo municipal\" / \"Vote for all THREE\" / \"Nolan Sutherland\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -288,6 +307,7 @@
       },
       "stance": "endorse",
       "choice": "Cynthia Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-gonzalez",
       "statement": "\"Cudahy City Council | Concejo municipal\" / \"Vote for BOTH\" / \"Cynthia Gonzalez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -300,6 +320,7 @@
       },
       "stance": "endorse",
       "choice": "Cynthia Romo",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-romo",
       "statement": "\"Cudahy City Council | Concejo municipal\" / \"Vote for BOTH\" / \"Cynthia Romo\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -312,6 +333,7 @@
       },
       "stance": "endorse",
       "choice": "Jeannine Wisnosky Stehlin",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/jeannine-wisnosky-stehlin",
       "statement": "\"Culver City City Council | Concejo municipal\" / \"Jeannine Wisnoky-Stehlin\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -324,6 +346,7 @@
       },
       "stance": "endorse",
       "choice": "Jessica Ancona",
+      "choice_id": "la-county-registrar:2026-11-03/el-monte-mayor/jessica-ancona",
       "statement": "\"El Monte City Council | Concejo municipal\" / \"Mayor —Jessica Ancona\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -335,7 +358,8 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Alex Monteiro",
+      "choice": "Alexandre Monteiro",
+      "choice_id": "la-county-registrar:2026-11-03/hawthorne-city-council/alexandre-monteiro",
       "statement": "\"Hawthorne City Council | Concejo municipal\" / \"Alex Monteiro\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -348,6 +372,7 @@
       },
       "stance": "endorse",
       "choice": "Gloria D. Gray",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-mayor/gloria-d-gray",
       "statement": "\"Inglewood City Council | Concejo municipal\" / \"Mayor – Gloria Gray\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -360,6 +385,7 @@
       },
       "stance": "endorse",
       "choice": "Leonard Redway",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-city-council-district-1/leonard-redway",
       "statement": "\"Inglewood City Council | Concejo municipal\" / \"District 1 – Leonard Redway\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -372,6 +398,7 @@
       },
       "stance": "endorse",
       "choice": "Subrina Miller",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-city-council-district-2/subrina-miller",
       "statement": "\"Inglewood City Council | Concejo municipal\" / \"District 2 – Subrina Miller\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -385,7 +412,8 @@
       "stance": "endorse",
       "statement": "\"Measure AT – vote NO to prevent tiered rates on the city’s admission tax on large venues\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-measure-at-amend-the-admissions-tax-for-large-venues/no"
     },
     {
       "subject": {
@@ -397,7 +425,8 @@
       "stance": "endorse",
       "statement": "\"Measure BB – vote YES to protect public spaces from billboard blight\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-measure-bb-eliminate-advertising-on-public-right-of-way/yes"
     },
     {
       "subject": {
@@ -408,6 +437,7 @@
       },
       "stance": "endorse",
       "choice": "Yaritza Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-3/yaritza-gonzalez",
       "statement": "\"Inglewood Unified School District | Distrito escolar\" / \"Yaritza A. Gonzalez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -420,6 +450,7 @@
       },
       "stance": "endorse",
       "choice": "Juan Muñoz-Guevara",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/juan-munoz-guevara",
       "statement": "\"Lynwood City Council | Concejo municipal\" / \"Vote for ALL THREE\" / \"Juan Muñoz-Guevara\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -432,6 +463,7 @@
       },
       "stance": "endorse",
       "choice": "Mishaun Watkins",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/mishaun-watkins",
       "statement": "\"Lynwood City Council | Concejo municipal\" / \"Vote for ALL THREE\" / \"Mishaun Watkins\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -444,6 +476,7 @@
       },
       "stance": "endorse",
       "choice": "Emiliano Arellano",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/emiliano-arellano",
       "statement": "\"Lynwood City Council | Concejo municipal\" / \"Vote for ALL THREE\" / \"Emiliano Arellano\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -456,6 +489,7 @@
       },
       "stance": "endorse",
       "choice": "Martina Rodriguez",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-unified-school-district-board/martina-rodriguez",
       "statement": "\"Lynwood School Board | Junta escolar\" / \"Martina Rodriguez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -467,7 +501,8 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Eddie de la Riva",
+      "choice": "Eduardo De La Riva",
+      "choice_id": "la-county-registrar:2026-11-03/maywood-city-council/eduardo-de-la-riva",
       "statement": "\"Maywood City Council | Concejo municipal\" / \"Eddie de la Riva\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -480,6 +515,7 @@
       },
       "stance": "endorse",
       "choice": "Mayra Aguiluz",
+      "choice_id": "la-county-registrar:2026-11-03/maywood-city-council/mayra-aguiluz",
       "statement": "\"Maywood City Council | Concejo municipal\" / \"Mayra Aguiluz\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -492,6 +528,7 @@
       },
       "stance": "endorse",
       "choice": "Anthony Armendarez",
+      "choice_id": "la-county-registrar:2026-11-03/norwalk-la-mirada-unified-school-district-board-trustee-area-4/anthony-armendarez",
       "statement": "\"Norwalk- La Mirada USD\" / \"Trustee Area 4 – Anthony Armendarez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -504,6 +541,7 @@
       },
       "stance": "endorse",
       "choice": "Caroline Torosis",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/caroline-torosis",
       "statement": "\"Santa Monica City Council | Concejo municipal\" / \"Vote for THREE of the following:\" / \"Caroline Torosis\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -515,7 +553,8 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Danny Ivanov",
+      "choice": "Daniel Ivanov",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/daniel-ivanov",
       "statement": "\"Santa Monica City Council | Concejo municipal\" / \"Vote for THREE of the following:\" / \"Danny Ivanov\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -528,6 +567,7 @@
       },
       "stance": "endorse",
       "choice": "Brett Morrow",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/brett-morrow",
       "statement": "\"Santa Monica City Council | Concejo municipal\" / \"Vote for THREE of the following:\" / \"Brett Morrow or Doug Tressler\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -540,6 +580,7 @@
       },
       "stance": "endorse",
       "choice": "Doug Trussler",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/doug-trussler",
       "statement": "\"Santa Monica City Council | Concejo municipal\" / \"Vote for THREE of the following:\" / \"Brett Morrow or Doug Tressler\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -553,7 +594,8 @@
       "stance": "endorse",
       "statement": "\"Measure ES – vote YES to provide a permanent, reliable source of local funding for our public schools.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-es-excellent-santa-monica-public-schools-parcel-tax/yes"
     },
     {
       "subject": {
@@ -565,7 +607,8 @@
       "stance": "endorse",
       "statement": "\"Measure GG – vote YES to establish just-cause eviction laws to protect renters.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-gg-amend-santa-monica-rent-control-law/yes"
     },
     {
       "subject": {
@@ -577,7 +620,8 @@
       "stance": "endorse",
       "statement": "\"Measure RR – vote YES to prohibit evictions for non-payment of rent when a tenant owes less than one month of rent.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-rr-eviction-tenant-protections/yes"
     },
     {
       "subject": {
@@ -589,7 +633,8 @@
       "stance": "endorse",
       "statement": "\"Measure VV – vote YES to extend existing eviction protections to tenants renting single-unit dwellings and condominiums.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-vv-expand-just-cause-eviction-protections/yes"
     },
     {
       "subject": {
@@ -601,7 +646,8 @@
       "stance": "endorse",
       "statement": "\"Measure TT – vote YES to taxes corporate month-to-month rentals.\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-tt-establish-major-events-period-for-the-existing-transient-occupancy-tax/yes"
     },
     {
       "subject": {
@@ -612,6 +658,7 @@
       },
       "stance": "endorse",
       "choice": "Kera Blades-Snell",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/kera-blades-snell",
       "statement": "\"Santa Monica College Board | Junta colegia\" / \"Kera Blades-Snell\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -624,6 +671,7 @@
       },
       "stance": "endorse",
       "choice": "Tom Peters",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/tom-peters",
       "statement": "\"Santa Monica College Board | Junta colegia\" / \"Tom Peters\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -636,6 +684,7 @@
       },
       "stance": "endorse",
       "choice": "Alicia Mignano",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-malibu-unified-school-district-board/alicia-mignano",
       "statement": "\"Santa Monica School Board | Junta escolar\" / \"Vote for ALL THREE\" / \"Alicia Mignano\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -648,6 +697,7 @@
       },
       "stance": "endorse",
       "choice": "Laurie Lieberman",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-malibu-unified-school-district-board/laurie-lieberman",
       "statement": "\"Santa Monica School Board | Junta escolar\" / \"Vote for ALL THREE\" / \"Laurie Lieberman\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -660,6 +710,7 @@
       },
       "stance": "endorse",
       "choice": "Robbie Staenberg",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-malibu-unified-school-district-board/robbie-staenberg",
       "statement": "\"Santa Monica School Board | Junta escolar\" / \"Vote for ALL THREE\" / \"Robbie Staenberg\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -672,6 +723,7 @@
       },
       "stance": "endorse",
       "choice": "Heather Thomason",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/heather-thomason",
       "statement": "\"Santa Monica Rent Control Board | Junta de control de alquileres\" / \"Vote for ALL THREE\" / \"Heather Thomason\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -684,6 +736,7 @@
       },
       "stance": "endorse",
       "choice": "Kurt Gonska",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/kurt-gonska",
       "statement": "\"Santa Monica Rent Control Board | Junta de control de alquileres\" / \"Vote for ALL THREE\" / \"Kurt Gonksa\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -696,6 +749,7 @@
       },
       "stance": "endorse",
       "choice": "Sue Himmelrich",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/sue-himmelrich",
       "statement": "\"Santa Monica Rent Control Board | Junta de control de alquileres\" / \"Vote for ALL THREE\" / \"Sue Himmerlich\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -708,6 +762,7 @@
       },
       "stance": "endorse",
       "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
       "statement": "\"West Hollywood City Council | Concejo municipal\" / \"Vote for THREE of the following\" / \"Chelsea Byers\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -720,6 +775,7 @@
       },
       "stance": "endorse",
       "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
       "statement": "\"West Hollywood City Council | Concejo municipal\" / \"Vote for THREE of the following\" / \"Helen Krieger\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -732,6 +788,7 @@
       },
       "stance": "endorse",
       "choice": "Jonathan Cottrell",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/jonathan-cottrell",
       "statement": "\"West Hollywood City Council | Concejo municipal\" / \"Vote for THREE of the following\" / \"Jonathan Cottrell or Stephen Post\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -744,6 +801,7 @@
       },
       "stance": "endorse",
       "choice": "Stephen Post",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/stephen-post",
       "statement": "\"West Hollywood City Council | Concejo municipal\" / \"Vote for THREE of the following\" / \"Jonathan Cottrell or Stephen Post\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -756,6 +814,7 @@
       },
       "stance": "endorse",
       "choice": "Tonia Reyes Uranga",
+      "choice_id": "la-county-registrar:2026-11-03/water-replenishment-district-of-southern-california-board-division-3/tonia-reyes-uranga",
       "statement": "\"Water Replenishment District | Distrito de Reposición de Agua\" / \"District 3 — Tonia Reyes Uranga\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -768,6 +827,7 @@
       },
       "stance": "endorse",
       "choice": "Raul Ruiz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-25/raul-ruiz",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"25th District – Raul Ruiz\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -780,6 +840,7 @@
       },
       "stance": "endorse",
       "choice": "George Whitesides",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-27/george-whitesides",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"27th District – George Whitesides\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -792,6 +853,7 @@
       },
       "stance": "endorse",
       "choice": "Judy Chu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-28/judy-chu",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"28th District – Judy Chu\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -804,6 +866,7 @@
       },
       "stance": "endorse",
       "choice": "Luz Maria Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/luz-maria-rivas",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"29th District – Luz Rivas\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -816,6 +879,7 @@
       },
       "stance": "endorse",
       "choice": "Laura Friedman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-30/laura-friedman",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"30th District – Laura Friedman\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -828,6 +892,7 @@
       },
       "stance": "endorse",
       "choice": "Gil Cisneros",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-31/gil-cisneros",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"31st District – Gil Cisneros\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -840,6 +905,7 @@
       },
       "stance": "endorse",
       "choice": "Brad Sherman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-32/brad-sherman",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"32nd District – Brad Sherman\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -852,6 +918,7 @@
       },
       "stance": "endorse",
       "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"33rd District – Pete Aguilar\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -864,6 +931,7 @@
       },
       "stance": "endorse",
       "choice": "Jimmy Gomez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/jimmy-gomez",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"34th District – Jimmy Gomez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -876,6 +944,7 @@
       },
       "stance": "endorse",
       "choice": "Norma J. Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-35/norma-j-torres",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"35th District – Norma Torres\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -888,6 +957,7 @@
       },
       "stance": "endorse",
       "choice": "Ted W. Lieu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-36/ted-w-lieu",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"36th District – Ted Lieu\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -900,6 +970,7 @@
       },
       "stance": "endorse",
       "choice": "Sydney Kamlager-Dove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/sydney-kamlager-dove",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"37th District – Sydney Kamlager-Dove\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -912,6 +983,7 @@
       },
       "stance": "endorse",
       "choice": "Hilda Solis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-38/hilda-solis",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"38th District – Hilda Solis\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -924,6 +996,7 @@
       },
       "stance": "endorse",
       "choice": "Mark Takano",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-39/mark-takano",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"39th District – Mark Takano\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -936,6 +1009,7 @@
       },
       "stance": "endorse",
       "choice": "Linda Sánchez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-41/linda-sanchez",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"41st District – Linda Sanchez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -948,6 +1022,7 @@
       },
       "stance": "endorse",
       "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-42/robert-garcia",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"42nd District – Robert Garcia\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -960,6 +1035,7 @@
       },
       "stance": "endorse",
       "choice": "Maxine Waters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-43/maxine-waters",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"43rd District – Maxine Waters\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -972,6 +1048,7 @@
       },
       "stance": "endorse",
       "choice": "Nanette Diaz Barragan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-44/nanette-diaz-barragan",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"44th District – Nanette Barragan\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -984,6 +1061,7 @@
       },
       "stance": "endorse",
       "choice": "Derek Tran",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"45th District – Derek Tran\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -996,6 +1074,7 @@
       },
       "stance": "endorse",
       "choice": "Lou Correa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-46/lou-correa",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"46th District – Lou Correa\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1008,6 +1087,7 @@
       },
       "stance": "endorse",
       "choice": "Dave Min",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-47/dave-min",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"47th District – Dave Min\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1020,6 +1100,7 @@
       },
       "stance": "endorse",
       "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"48th District – Marni von Wilpert\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1032,6 +1113,7 @@
       },
       "stance": "endorse",
       "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
       "statement": "\"U.S. HOUSE OF REPRESENTATIVES | Congreso de los Estados Unidos\" / \"49th District – Mike Levin\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1044,6 +1126,7 @@
       },
       "stance": "endorse",
       "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Governor | Gobernador – Xavier Becerra\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1056,6 +1139,7 @@
       },
       "stance": "endorse",
       "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Lieutenant Governor | Vicegobernador – Fiona Ma\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1068,6 +1152,7 @@
       },
       "stance": "endorse",
       "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Secretary of State | Secretario de Estado – Shirley Weber\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1080,6 +1165,7 @@
       },
       "stance": "endorse",
       "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Attorney General | Procurador General – Rob Bonta\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1092,6 +1178,7 @@
       },
       "stance": "endorse",
       "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Controller | Contralor – Malia Cohen\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1104,6 +1191,7 @@
       },
       "stance": "endorse",
       "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Treasurer | Tesorero – Eleni Kounalakis\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1116,6 +1204,7 @@
       },
       "stance": "endorse",
       "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"State Insurance Commissioner | Comisionado de Seguros – Ben Allen\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1128,6 +1217,7 @@
       },
       "stance": "endorse",
       "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Superintendent of Public Instruction | Superintendente de Instrucción Pública – Richard Barrera\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1140,6 +1230,7 @@
       },
       "stance": "endorse",
       "choice": "Nelson Esparza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/nelson-esparza",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Board of Equalization District 1 | Junta de Igualación Distrito 1 – Nelson Esparza\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1152,6 +1243,7 @@
       },
       "stance": "endorse",
       "choice": "Mike Gipson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-3/mike-gipson",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Board of Equalization District 3 | Junta de Igualación Distrito 3 – Mike Gipson\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1164,6 +1256,7 @@
       },
       "stance": "endorse",
       "choice": "Tom Umberg",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-4/tom-umberg",
       "statement": "\"CA STATEWIDE OFFICES | Estado de California\" / \"Board of Equalization District 4 | Junta de Igualación Distrito 4 – Tom Umberg\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1176,6 +1269,7 @@
       },
       "stance": "endorse",
       "choice": "Ida S. Obeso-Martinez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-36/ida-s-obeso-martinez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"36th District – Ida Obeso-Martinez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1188,6 +1282,7 @@
       },
       "stance": "endorse",
       "choice": "Juan Carrillo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-39/juan-carrillo",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"39th District – Juan Carrillo\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1200,6 +1295,7 @@
       },
       "stance": "endorse",
       "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"40th District – Pilar Schiavo\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1212,6 +1308,7 @@
       },
       "stance": "endorse",
       "choice": "John Harabedian",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-41/john-harabedian",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"41st District – John Harabedian\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1224,6 +1321,7 @@
       },
       "stance": "endorse",
       "choice": "Deborah Klein Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"42nd District – Deborah Klein Lopez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1236,6 +1334,7 @@
       },
       "stance": "endorse",
       "choice": "Celeste Rodriguez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-43/celeste-rodriguez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"43rd District – Celeste Rodriguez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1248,6 +1347,7 @@
       },
       "stance": "endorse",
       "choice": "Nicholas \"Nick\" Schultz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-44/nicholas-nick-schultz",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"44th District – Nick Schultz\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1260,6 +1360,7 @@
       },
       "stance": "endorse",
       "choice": "James C. Ramos",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-45/james-c-ramos",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"45th District — James Ramos\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1272,6 +1373,7 @@
       },
       "stance": "endorse",
       "choice": "Jesse Gabriel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-46/jesse-gabriel",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"46th District – Jesse Gabriel\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1284,6 +1386,7 @@
       },
       "stance": "endorse",
       "choice": "Leila Namvar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-47/leila-namvar",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"47th District — Leila Namvar\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1296,6 +1399,7 @@
       },
       "stance": "endorse",
       "choice": "Mike Fong",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-49/mike-fong",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"49th District – Mike Fong\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1308,6 +1412,7 @@
       },
       "stance": "endorse",
       "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-50/robert-garcia",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"50th District – Robert Garcia\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1320,6 +1425,7 @@
       },
       "stance": "endorse",
       "choice": "Rick Chavez Zbur",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/rick-chavez-zbur",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"51st District – Rick Chavez Zbur\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1332,6 +1438,7 @@
       },
       "stance": "endorse",
       "choice": "Jessica Caloza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-52/jessica-caloza",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"52nd District – Jessica Caloza\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1344,6 +1451,7 @@
       },
       "stance": "endorse",
       "choice": "Michelle Rodriguez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-53/michelle-rodriguez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"53rd District – Michelle Rodriguez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1356,6 +1464,7 @@
       },
       "stance": "endorse",
       "choice": "Mark Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-54/mark-gonzalez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"54th District – Mark Gonzalez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1368,6 +1477,7 @@
       },
       "stance": "endorse",
       "choice": "Isaac G. Bryan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/isaac-g-bryan",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"55th District – Isaac Bryan\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1380,6 +1490,7 @@
       },
       "stance": "endorse",
       "choice": "Lisa Calderon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-56/lisa-calderon",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"56th District – Lisa Calderon\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1392,6 +1503,7 @@
       },
       "stance": "endorse",
       "choice": "Sade Elhawary",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/sade-elhawary",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"57th District – Sade Elhawary\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1404,6 +1516,7 @@
       },
       "stance": "endorse",
       "choice": "Clarissa Cervantes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-58/clarissa-cervantes",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"58th District – Clarissa Cervantes\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1416,6 +1529,7 @@
       },
       "stance": "endorse",
       "choice": "Corey A Jackson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-60/corey-a-jackson",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"60th District – Corey Jackson\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1428,6 +1542,7 @@
       },
       "stance": "endorse",
       "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"61st District – Tina McKinnor\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1440,6 +1555,7 @@
       },
       "stance": "endorse",
       "choice": "José Luis Solache",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-62/jose-luis-solache",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"62nd District – Jose Solache\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1452,6 +1568,7 @@
       },
       "stance": "endorse",
       "choice": "Kevin Akin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-63/kevin-akin",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"63rd District – Kevin Akin\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1464,6 +1581,7 @@
       },
       "stance": "endorse",
       "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"65th District — Ayanna Davis\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1476,6 +1594,7 @@
       },
       "stance": "endorse",
       "choice": "Josh Lowenthal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-69/josh-lowenthal",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"69th District – Josh Lowenthal\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1488,6 +1607,7 @@
       },
       "stance": "endorse",
       "choice": "Paula Swift",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-70/paula-swift",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"70th District — Paula Swift\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1500,6 +1620,7 @@
       },
       "stance": "endorse",
       "choice": "JJ Galvez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-71/jj-galvez",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"71st District — JJ Galvez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1512,6 +1633,7 @@
       },
       "stance": "endorse",
       "choice": "Chris Kluwe",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/chris-kluwe",
       "statement": "\"CA STATE ASSEMBLY | Asamblea del Estado de California\" / \"72nd District – Chris Kluwe\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1524,6 +1646,7 @@
       },
       "stance": "endorse",
       "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
       "statement": "\"CA STATE SENATE | Senado del Estado de California\" / \"District 24 — John Erickson\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1536,6 +1659,7 @@
       },
       "stance": "endorse",
       "choice": "Lola Smallwood-Cuevas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-28/lola-smallwood-cuevas",
       "statement": "\"CA STATE SENATE | Senado del Estado de California\" / \"District 28 — Lola Smallwood-Cuevas\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1548,6 +1672,7 @@
       },
       "stance": "endorse",
       "choice": "Tiffanie Tate",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-32/tiffanie-tate",
       "statement": "\"CA STATE SENATE | Senado del Estado de California\" / \"District 32 — Dr. Tiffanie Tate\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1560,6 +1685,7 @@
       },
       "stance": "endorse",
       "choice": "Avelino Valencia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-34/avelino-valencia",
       "statement": "\"CA STATE SENATE | Senado del Estado de California\" / \"District 34 — Avelino Valencia\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1572,6 +1698,7 @@
       },
       "stance": "endorse",
       "choice": "Chris Duncan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-36/chris-duncan",
       "statement": "\"CA STATE SENATE | Senado del Estado de California\" / \"District 36 — Chris Duncan\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1584,6 +1711,7 @@
       },
       "stance": "endorse",
       "choice": "Connor Traut",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/orange-county-board-of-supervisors-district-4/connor-traut",
       "statement": "\"Board of Supervisors | Junta de Supervisores\" / \"District 4 – Connor Traut\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1596,6 +1724,7 @@
       },
       "stance": "endorse",
       "choice": "Katrina Foley",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/orange-county-board-of-supervisors-district-5/katrina-foley",
       "statement": "\"Board of Supervisors | Junta de Supervisores\" / \"District 5 – Katrina Foley\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1608,6 +1737,7 @@
       },
       "stance": "endorse",
       "choice": "Elia Rentaría García",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/anaheim-city-council-district-3/elia-rentaria-garcia",
       "statement": "\"Anaheim City Council | Concejo municipal\" / \"District 3 – Elia Rentaría García\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1620,6 +1750,7 @@
       },
       "stance": "endorse",
       "choice": "Yong Choi",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/buena-park-city-council-district-2/yong-choi",
       "statement": "\"Buena Park City Council | Concejo municipal\" / \"District 2 – Yong Choi\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1632,6 +1763,7 @@
       },
       "stance": "endorse",
       "choice": "Jozef Maldonado",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/fullerton-city-council-district-5/jozef-maldonado",
       "statement": "\"Fullerton City Council | Concejo municipal\" / \"District 5 – Jozef Maldonado\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1644,6 +1776,7 @@
       },
       "stance": "endorse",
       "choice": "Tracy La",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/garden-grove-unified-school-district-board-trustee-area-4/tracy-la",
       "statement": "\"Garden Grove School Board | Junta escolar\" / \"Trustee Area 4 – Tracy La\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1656,6 +1789,7 @@
       },
       "stance": "endorse",
       "choice": "Sukhee Kang",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/irvine-city-council-district-1/sukhee-kang",
       "statement": "\"Irvine City Council | Concejo municipal\" / \"District 1 – Sukhee Kang\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1668,6 +1802,7 @@
       },
       "stance": "endorse",
       "choice": "Betty Martinez Franco",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/irvine-city-council-district-5/betty-martinez-franco",
       "statement": "\"Irvine City Council | Concejo municipal\" / \"District 5 – Betty Martinez-Franco\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1680,6 +1815,7 @@
       },
       "stance": "endorse",
       "choice": "Kathleen Treseder",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/irvine-city-council-district-6/kathleen-treseder",
       "statement": "\"Irvine City Council | Concejo municipal\" / \"District 6 – Kathleen Treseder\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1692,6 +1828,7 @@
       },
       "stance": "endorse",
       "choice": "Paulette Chaffee",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/north-orange-county-community-college-district-board-trustee-area-6/paulette-chaffee",
       "statement": "\"North OC Community College Board | Junta universitaria\" / \"District 6 – Paulette Chaffee\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1704,6 +1841,7 @@
       },
       "stance": "endorse",
       "choice": "Benjamin Vazquez",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-city-council-ward-2/benjamin-vazquez",
       "statement": "\"Santa Ana City Council | Concejo municipal\" / \"Ward 2 – Benjamin Vazquez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1716,6 +1854,7 @@
       },
       "stance": "endorse",
       "choice": "Sandra De Anda",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-city-council-ward-4/sandra-de-anda",
       "statement": "\"Santa Ana City Council | Concejo municipal\" / \"Ward 4 – Sandra de Anda\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1728,6 +1867,7 @@
       },
       "stance": "endorse",
       "choice": "Giovanni Chavez",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-city-council-ward-6/giovanni-chavez",
       "statement": "\"Santa Ana City Council | Concejo municipal\" / \"Ward 6 – Giovanni Chavez\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1740,6 +1880,7 @@
       },
       "stance": "endorse",
       "choice": "Katelyn Brazer Aceves",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-unified-school-district-board-trustee-area-4/katelyn-brazer-aceves",
       "statement": "\"Santa Ana School Board | Junta escolar\" / \"Trustee Area 4 – Katelyn Braezer Aceves\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1752,6 +1893,7 @@
       },
       "stance": "endorse",
       "choice": "Hector Bustos",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-unified-school-district-board-trustee-area-5/hector-bustos",
       "statement": "\"Santa Ana School Board | Junta escolar\" / \"Trustee Area 5 – Hector Bustos\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1764,6 +1906,7 @@
       },
       "stance": "endorse",
       "choice": "Donald Torres",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/stanton-city-council-district-1/donald-torres",
       "statement": "\"Stanton City Council | Concejo municipal\" / \"District 1 – Donald Torres\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1776,6 +1919,7 @@
       },
       "stance": "endorse",
       "choice": "Marlon-Ray Velasco",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/stanton-city-council-district-3/marlon-ray-velasco",
       "statement": "\"Stanton City Council | Concejo municipal\" / \"District 3 – Marlon Ray-Velasco\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1788,6 +1932,7 @@
       },
       "stance": "endorse",
       "choice": "Carlos Manzo",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/westminster-mayor/carlos-manzo",
       "statement": "\"Westminster City Council | Concejo municipal\" / \"Mayor – Carlos Manzo\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -1885,7 +2030,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Asociate Justice Joshua Groban YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes"
     },
     {
       "subject": {
@@ -1897,7 +2043,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Kelli M. Evans YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes"
     },
     {
       "subject": {
@@ -1909,7 +2056,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Michelle C. Kim YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-michelle-c-kim/yes"
     },
     {
       "subject": {
@@ -1921,7 +2069,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Gregory J. Weingart YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gregory-j-weingart/yes"
     },
     {
       "subject": {
@@ -1933,7 +2082,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Anne Richardson YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-anne-richardson/yes"
     },
     {
       "subject": {
@@ -1945,7 +2095,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Steve Goorvitch YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-steve-goorvitch/yes"
     },
     {
       "subject": {
@@ -1957,7 +2108,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Rashida A. Adams YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-rashida-a-adams/yes"
     },
     {
       "subject": {
@@ -1969,7 +2121,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Mark Hanasono YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-mark-hanasono/yes"
     },
     {
       "subject": {
@@ -1981,7 +2134,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Helen Zukin YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-helen-zukin/yes"
     },
     {
       "subject": {
@@ -1993,7 +2147,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Nicholas Daum YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-nicholas-daum/yes"
     },
     {
       "subject": {
@@ -2005,7 +2160,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Audra M. Mori YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-audra-m-mori/yes"
     },
     {
       "subject": {
@@ -2017,7 +2173,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Armen Tamzarian YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-armen-tamzarian/yes"
     },
     {
       "subject": {
@@ -2029,7 +2186,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Brian M. Hoffstadt YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-brian-m-hoffstadt/yes"
     },
     {
       "subject": {
@@ -2041,7 +2199,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Tari L. Cody YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-tari-l-cody/yes"
     },
     {
       "subject": {
@@ -2053,7 +2212,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Kenneth R. Yegan YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-kenneth-r-yegan/yes"
     },
     {
       "subject": {
@@ -2065,7 +2225,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Gonzalo C. Martinez YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gonzalo-c-martinez/yes"
     },
     {
       "subject": {
@@ -2077,7 +2238,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Natalie Stone YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-natalie-stone/yes"
     },
     {
       "subject": {
@@ -2089,7 +2251,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice John Wiley YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-john-wiley/yes"
     },
     {
       "subject": {
@@ -2101,7 +2264,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Matthew A. Scherb YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-matthew-a-scherb/yes"
     },
     {
       "subject": {
@@ -2113,7 +2277,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Victor G. Viramontes YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-victor-g-viramontes/yes"
     },
     {
       "subject": {
@@ -2125,7 +2290,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Julia C. Kelety YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-julia-c-kelety/yes"
     },
     {
       "subject": {
@@ -2137,7 +2303,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Jose S. Castillo YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-jose-s-castillo/yes"
     },
     {
       "subject": {
@@ -2149,7 +2316,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Truc T. Do YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-truc-t-do/yes"
     },
     {
       "subject": {
@@ -2161,7 +2329,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice William S. Dato YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-william-s-dato/yes"
     },
     {
       "subject": {
@@ -2173,7 +2342,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Eran M. Bermudez YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-eran-m-bermudez/yes"
     },
     {
       "subject": {
@@ -2185,7 +2355,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"San Diego County Superior Court Judge Lisa Rodriguez YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-lisa-rodriguez/yes"
     },
     {
       "subject": {
@@ -2197,7 +2368,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice David M. Rubin YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-david-m-rubin/yes"
     },
     {
       "subject": {
@@ -2209,7 +2381,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Corey G. Lee YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-corey-g-lee/yes"
     },
     {
       "subject": {
@@ -2221,7 +2394,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Michael J. Raphael YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-michael-j-raphael/yes"
     },
     {
       "subject": {
@@ -2233,7 +2407,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Presiding Justice Joanne Motoike YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-joanne-motoike/yes"
     },
     {
       "subject": {
@@ -2245,7 +2420,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Tomas A. Delaney YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-thomas-a-delaney/yes"
     },
     {
       "subject": {
@@ -2257,7 +2433,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Nathan R. Scott YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-nathan-r-scott/yes"
     },
     {
       "subject": {
@@ -2269,7 +2446,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Deborah C. Servino YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-deborah-c-servino/yes"
     },
     {
       "subject": {
@@ -2281,7 +2459,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Martha K. Gooding YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-martha-k-gooding/yes"
     },
     {
       "subject": {
@@ -2293,7 +2472,8 @@
       "stance": "endorse",
       "statement": "\"For Judicial retention elections, all of the below are YES\" / \"Associate Justice Juliet O. Macaula YES | SÍ\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-juliet-o-macaulay/yes"
     },
     {
       "subject": {
@@ -2304,6 +2484,7 @@
       },
       "stance": "endorse",
       "choice": "Maria Ghobadi",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-64/maria-ghobadi",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 64: Maria Ghobadi\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2316,6 +2497,7 @@
       },
       "stance": "endorse",
       "choice": "Justin Clayton",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-65/justin-clayton",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 65: Justin Clayton\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2328,6 +2510,7 @@
       },
       "stance": "endorse",
       "choice": "Anthony (A.J.) Bayne",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-87/anthony-a-j-bayne",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 87: Choose between one of the two | Elige entre uno de los dos:\" / \"Anthony (A.J.) Bayne, endorsed by SEIU Local 721 the Longshore and Warehouse Union, and the Letter Carriers Union\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2340,6 +2523,7 @@
       },
       "stance": "endorse",
       "choice": "David DeJute",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-87/david-dejute",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 87: Choose between one of the two | Elige entre uno de los dos:\" / \"David Dejute, endorsed by the Los Angeles County Democratic Party and the Stonewall Democratic Club\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2352,6 +2536,7 @@
       },
       "stance": "endorse",
       "choice": "David Ross",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/david-ross",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 131: Choose between one of the two | Elige entre uno de los dos:\" / \"David Ross, endorsed by the Longshore and Warehouse Union and the Working Families Party\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2364,6 +2549,7 @@
       },
       "stance": "endorse",
       "choice": "Donna Tryfman",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/donna-tryfman",
       "statement": "\"Los Angeles County Superior Court | Corte Superior del Condado de Los Ángeles\" / \"Office 131: Choose between one of the two | Elige entre uno de los dos:\" / \"Donna Tryfman, endorsed by SEIU Local 721, the Carpenters Union, and the Stonewall Democratic Club\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/"
     },
@@ -2377,7 +2563,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 1: The Veterans and Affordable Housing Bond Act\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes"
     },
     {
       "subject": {
@@ -2389,7 +2576,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 2: Increases State’s Rainy Day Fund\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes"
     },
     {
       "subject": {
@@ -2401,7 +2589,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 3: Funding for Schools by Extending Tax on High Incomes\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes"
     },
     {
       "subject": {
@@ -2413,7 +2602,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 4: Repeals Ban on Public Funding of Election Campaigns\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes"
     },
     {
       "subject": {
@@ -2425,7 +2615,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 5: Changes Recall Election Process for Statewide Officers\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes"
     },
     {
       "subject": {
@@ -2437,7 +2628,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 37: Creates Loan Program for Middle-Income New Home Buyers\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes"
     },
     {
       "subject": {
@@ -2449,7 +2641,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 38: Authorizes Bonds for Immunology Medical Research\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/yes"
     },
     {
       "subject": {
@@ -2461,7 +2654,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 39: Prohibits Citizens From Voting Unless They Present ID\" / \"Recommend: NO\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no"
     },
     {
       "subject": {
@@ -2473,7 +2667,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 40: Billionaire Wealth Tax Initiative\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes"
     },
     {
       "subject": {
@@ -2485,7 +2680,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 41: Requires Audits for New State Special Taxes\" / \"Recommend: NO\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no"
     },
     {
       "subject": {
@@ -2497,7 +2693,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 42: Prohibits New State Personal Property Taxes\" / \"Recommend: NO\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no"
     },
     {
       "subject": {
@@ -2509,7 +2706,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 43: Limits Voters’ Ability to Raise Revenues for Local Services\" / \"Recommend: NO\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no"
     },
     {
       "subject": {
@@ -2521,7 +2719,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 44: Requires Community Clinics Spend 90% of Revenue on Services\" / \"Recommend: YES\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "Yes"
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/yes"
     },
     {
       "subject": {
@@ -2533,7 +2732,8 @@
       "stance": "endorse",
       "statement": "\"Proposition 45: Limits CEQA Environmental Review and Public Input\" / \"Recommend: NO\"",
       "source": "https://www.unitehere11.org/ca-voter-guide-nov-2026/",
-      "choice": "No"
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no"
     }
   ]
 }
