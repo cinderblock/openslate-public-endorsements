@@ -34,6 +34,7 @@ const DEFAULT_ICONS = [
   /(^|\/\/)s\.w\.org\//,
   /wordpress\.com\/i\/(webclip|favicon)/,
   /initial-website\.com\/favicon/, // IONOS site builder
+  /(^|\.)clubexpress\.com\/favicon\.ico/,
   /\/modules\/contrib\/pwa\/assets\//, // Drupal PWA module
   /\/default[-_]favicon/i,
   /^https?:\/\/([\w-]+\.)*(facebook\.com|fbcdn\.net|instagram\.com|linktr\.ee)\//,
@@ -41,6 +42,8 @@ const DEFAULT_ICONS = [
 // The same placeholders served from the org's own domain (e.g. Wix answers /favicon.ico).
 const DEFAULT_ICON_SHA256 = new Set([
   "33c1436f8c40ca2582d091c449fccc34ed9bf73f02526c5fdef44f4f06c6321b", // Wix pfavico.ico
+  "7ebbf3f7075aa008a892b1ac497a2d847fcfbc7e760ecb2ee915d6e6e914bcd3", // WordPress "W", via Google
+  "2c5afe10de3355423ed2a1eefb0d80e58feb862e980487890c869bafa544cc07", // grey WordPress "W", via Google
 ]);
 
 const args = process.argv.slice(2);
