@@ -8,6 +8,7 @@
   "scripts": {
     "fetch-openslate": "bun scripts/fetch-openslate.ts",
     "verify": "bun scripts/verify-positions.ts",
+    "test": "bun test scripts",
     "sign": "bun .openslate/packages/cli/src/index.ts sign --batch . --force",
     "verify-signed": "bun scripts/verify-signed.ts",
     "build-site": "bun scripts/build-site.ts",
