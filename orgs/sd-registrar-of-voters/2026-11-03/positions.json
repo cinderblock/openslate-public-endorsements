@@ -1,0 +1,5111 @@
+{
+  "context": {
+    "title": "San Diego County Registrar of Voters — 2026-11-03 ballot: local candidates and measures",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego County Registrar of Voters",
+      "uri": "https://www.sdvote.com/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T18:46:17Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf",
+      "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cory Brown",
+      "statement": "Parent/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alicia Muñoz",
+      "statement": "Governing Board Member, San Diego County Board of Education",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bianca Ragonesi-Lasche",
+      "statement": "Retired Accountant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rick Shea",
+      "statement": "Governing Board Member, SD County Board of Education",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rosangela Cribbs",
+      "statement": "Homemaker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Gwin",
+      "statement": "Community College Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Judy Patacsil",
+      "statement": "Governing Board Member, Palomar Community College",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anthony Wiley",
+      "statement": "Parent/Retired Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Xu",
+      "statement": "Parent/Non-profit Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cory Anderson",
+      "statement": "Marriage Family Therapist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Jeffries",
+      "statement": "Retired College Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle Moore",
+      "statement": "College Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jonny Brown",
+      "statement": "Student Advocate/Writer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maria Nieto Senour",
+      "statement": "Governing Board Member, San Diego Community College District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Samantha Ely",
+      "statement": "Appointed Program Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Craig Milgrim",
+      "statement": "Governing Board Member, San Diego Community College District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert Moreno",
+      "statement": "Southwestern College Governing Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Salas",
+      "statement": "Retired Mayor Chula Vista",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Trevor Andersen",
+      "statement": "Father/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Aimee Cuellar-Martinez",
+      "statement": "Assistant Principal",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Selena Ellis-Vizcarra",
+      "statement": "Nonprofit Executive/COO",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Southwestern Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Corina Soto",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bonsall Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Gaddis",
+      "statement": "Trustee, Bonsall Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bonsall Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Emily Wilke",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amber Martinez",
+      "statement": "Real Estate Agent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michele Tsutagawa Ward",
+      "statement": "Governing Board Member, Carlsbad Unified School District Board of Trustees",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tracey Perrault",
+      "statement": "Associate Principal/Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gretchen Vurbeff",
+      "statement": "Board Trustee/Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joel Gutierrez",
+      "statement": "Airline Pilot/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Waidelich",
+      "statement": "Parent/Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peggy Duncan",
+      "statement": "Attorney/Nonprofit President",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alexia Palacios-Peters",
+      "statement": "Governing Board Member, Coronado Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mal Sandie",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kaye Schneider",
+      "statement": "Family Life Coach",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jerry Garcia Avila",
+      "statement": "Retired Lieutenant Commander",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nancy Licona",
+      "statement": "School Counselor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joey Pearson",
+      "statement": "Professional Learning Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nicole Watson",
+      "statement": "Businesswoman/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Raquel Riojas Alvarez",
+      "statement": "Governing Board Member, Oceanside Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jason Bethurum",
+      "statement": "Teacher/Father",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brett Davis",
+      "statement": "Father/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kym Sosnowski",
+      "statement": "Education Advocate/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jason Bennett",
+      "statement": "Parent/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Heather Plotzke",
+      "statement": "Governing Board Member, Poway Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniela Darling",
+      "statement": "Parent/Children Therapist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle O'Connor-Ratcliff",
+      "statement": "Governing Board Member, Poway Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Dahlquist Ramirez",
+      "statement": "Educational Consultant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maya Phillips",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shelzea Zamora",
+      "statement": "Parent/Non-Profit Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William Adelson",
+      "statement": "Architect",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Theresa Ketchem-Grace",
+      "statement": "Retired RUSD Administrator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Summers",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeri Billick",
+      "statement": "Retired Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jared Birrenkott",
+      "statement": "Deputy/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rodger Dohm",
+      "statement": "Governing Board Member, Ramona Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District Board, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shana Hazan",
+      "statement": "Board Member, San Diego Unified School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Hayden Gore",
+      "statement": "Classroom Teacher/Father",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christine Baker",
+      "statement": "Parent/Certified Appraiser",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Derrick Davis",
+      "statement": "Parent/Security Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center-Pauma Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Caputto",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center-Pauma Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lisa Nordstrom",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Martha Alvarado",
+      "statement": "Teacher/Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jon Moffat",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nina Haines",
+      "statement": "Businessowner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bob Weller",
+      "statement": "Governing Board Member, Escondido Union High School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rafaela Cervantes",
+      "statement": "College Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Hinrichs",
+      "statement": "Public School Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Lucas",
+      "statement": "Teacher/College Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Georgine Tomasi",
+      "statement": "Retired Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Vincent",
+      "statement": "Governing Board Member, Escondido Union High School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stacey Max Nijst",
+      "statement": "Entrepreneur/Grandfather",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tauna Rodarte",
+      "statement": "Trustee, Fallbrook Union High School District Board",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tracy Daniel",
+      "statement": "Certified Public Accountant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karen Weisberger",
+      "statement": "Special Education Paraprofessional",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jenee Littrell",
+      "statement": "Public School Counselor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gary Woods",
+      "statement": "Governing Board Member, Grossmont Union High School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "statement": "Loan Officer/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jimmy Merino",
+      "statement": "Public Adjuster/Coach",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Mull",
+      "statement": "Public School Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Kelly",
+      "statement": "Governing Board Member, Grossmont Union High School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pete Mergens",
+      "statement": "Public School Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Flicker",
+      "statement": "Nonprofit Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Miyashiro",
+      "statement": "Public School Superintendent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Summer Boger",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Helen Doyle",
+      "statement": "Community Volunteer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ginny Merrifield",
+      "statement": "Charter School President",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Justin Moodie",
+      "statement": "Public School Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maria Betancourt-Castaneda",
+      "statement": "Governing Board Trustee, National School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Fermin Eusebio Jimenez",
+      "statement": "Substitute Teacher/Paralegal",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Darlene Cossio",
+      "statement": "Parent/CPG Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Glenn Dickie",
+      "statement": "Governing Board Member, Alpine Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Al Guerra",
+      "statement": "Alpine Union School District Trustee",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Angela May",
+      "statement": "Entrepreneur/Instructor/Rancher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eric Wray",
+      "statement": "Governing Board Member, Alpine Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patti Alvarez",
+      "statement": "Special Education Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anthony Carnevale",
+      "statement": "Cajon Valley Governing Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Keenan",
+      "statement": "Educator/Homemaker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dana Covell",
+      "statement": "Business Owner/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jolyana Jirjees",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marbriza Alcala",
+      "statement": "Parent Volunteer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jo Alegria",
+      "statement": "Business Owner/Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael William Bucy",
+      "statement": "Father/ Care Provider",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lily Schworm",
+      "statement": "Teacher/Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jorge Balvaneda",
+      "statement": "Operations Manager/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jessica Castillo Tolston",
+      "statement": "Appointed Governing Board Member Chula Vista Elementary School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Debra McLaren",
+      "statement": "Educator/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katina Gonzalez-Rondeau",
+      "statement": "Teacher/Student Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Leticia Segura",
+      "statement": "Retired Educator/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Norma Toothman",
+      "statement": "Parent/Nonprofit Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Delia Dominguez Cervantes",
+      "statement": "Governing Board Member, Chula Vista Elementary School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tom Glover",
+      "statement": "Retired Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Janette Gomez",
+      "statement": "Teacher/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jaqueline Gonzalez",
+      "statement": "Parent/Substitute Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Devone L. Jones",
+      "statement": "Education Facilitator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael \"Tony\" Perez",
+      "statement": "Retired Administrator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dehesa School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Healy",
+      "statement": "Museum Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dehesa School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christopher Pham",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dehesa School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cynthia White",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dehesa School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dustin White",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stephen Cochrane",
+      "statement": "Education Law Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katherine C. Fitzpatrick",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alan Kholos",
+      "statement": "Governing Board Member, Del Mar Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Douglas Rafner",
+      "statement": "Governing Board Member, Del Mar Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle Clark",
+      "statement": "Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jillian Cocayne",
+      "statement": "Parent/Policy Advisor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marika Dixon",
+      "statement": "Elementary Aide/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Hargrave",
+      "statement": "Teacher/Principal/Grandparent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jorge Sanchez",
+      "statement": "Parent/Firefighter/Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Shen",
+      "statement": "Business Owner/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Ranglas",
+      "statement": "University Project Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth Shulok",
+      "statement": "Parent/Education Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maggie Cascio",
+      "statement": "School Volunteer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Zesty Harper",
+      "statement": "Governing Board Member, Escondido Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Huston",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bonnie Wagner",
+      "statement": "Educator/Project Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anabel Canseco",
+      "statement": "Parent/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maria G. Moran",
+      "statement": "Governing Board Member, Fallbrook Union Elementary School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah Reed",
+      "statement": "Teacher/Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebecca Tweedle",
+      "statement": "Operations Manager/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Littig",
+      "statement": "Public School Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebecca McRae",
+      "statement": "Board Member/Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Myriam S. Moody",
+      "statement": "Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brianna Coston",
+      "statement": "School Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah Feeley",
+      "statement": "Parent/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joanna Coronado",
+      "statement": "Pharmacy Technician/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alma Sarmiento",
+      "statement": "Governing Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Barbara Avalos",
+      "statement": "Retired Counselor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Arturo Solis",
+      "statement": "High School Trustee",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maria Miranda",
+      "statement": "Childcare Provider",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Delise Vann",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Randy Vargas",
+      "statement": "Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jared Khan",
+      "statement": "Father/Technology Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jee Manghani",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bow Ruggeri",
+      "statement": "Technology Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Seitz",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Martin Arias",
+      "statement": "Appointed Governing Board Member, San Ysidro School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Manuel Dircio",
+      "statement": "Mechanical Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Olga Lydia Espinoza",
+      "statement": "Mother/Education Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Irene Lopez",
+      "statement": "San Ysidro School District Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lidya Morales",
+      "statement": "Parent/Banquet Server",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Miguel \"Mike\" Ochoa",
+      "statement": "Retired Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yvette Olea",
+      "statement": "Retired CSEA Employee",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Roxane Palestino",
+      "statement": "Parent Community Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brandon J Plascencia",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Zenaida Rosario",
+      "statement": "Governing Board Member San Ysidro School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Monica Yrineo",
+      "statement": "Retired School Employee",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Misty Kendall",
+      "statement": "Legal Assistant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Peterson",
+      "statement": "Engineering Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cindy Petretta",
+      "statement": "Child Supervision Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Dobesh",
+      "statement": "Entrepreneur/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matthew C. McKell",
+      "statement": "Federal Employee/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Uday Sinha",
+      "statement": "Software Engineer/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "South Bay Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Leiker",
+      "statement": "Board Member/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "South Bay Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Erika Lowery",
+      "statement": "Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vallecitos School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Darnley",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vallecitos School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cheri Wheeler",
+      "statement": "Retired Business Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristine Alessio",
+      "statement": "Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Monica Montgomery Steppe",
+      "statement": "San Diego County Supervisor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebecca Jones",
+      "statement": "San Marcos Mayor/Businesswoman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kyle Krahel",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Assessor/Recorder/Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jordan Marks",
+      "statement": "Assessor/Recorder/County Clerk",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Treasurer-Tax Collector",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Larry Cohen",
+      "statement": "Appointed Treasurer Tax Collector San Diego County",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Treasurer-Tax Collector",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shirley Nakawatase",
+      "statement": "Businesswoman/Treasurer/CPA",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Arsenault",
+      "statement": "Retired Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stephen Banister",
+      "statement": "Energy Program Supervisor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Keith Blackburn",
+      "statement": "Mayor, City of Carlsbad",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eric Nixon",
+      "statement": "Emergency Medical Technician",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Melanie Burkholder",
+      "statement": "Council Member/Therapist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nate Larson",
+      "statement": "Artist/Father",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Priya Bhat-Patel",
+      "statement": "Council Member, City of Carlsbad",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Wayland T. Lim",
+      "statement": "Retired Business Consultant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sherry A. Freisinger",
+      "statement": "City Clerk, City of Carlsbad",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas Krouse",
+      "statement": "Investment Company CEO",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christian Peacox",
+      "statement": "Carlsbad City Treasurer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marco Verdugo",
+      "statement": "Chula Vista City Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carolina Chavez",
+      "statement": "Councilmember, City of Chula Vista",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Greg Martinez",
+      "statement": "CPA/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Angelica Martinez",
+      "statement": "Educator/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Preciado",
+      "statement": "Chula Vista Councilmember/Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John McCann",
+      "statement": "Mayor, City of Chula Vista",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Francisco Tamayo",
+      "statement": "Governing Board Member, Chula Vista Elementary School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Gade",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ricky Hoyt",
+      "statement": "Aviator/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebecca King",
+      "statement": "Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Purvis",
+      "statement": "Appointed City of Coronado Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Terry Gaasterland",
+      "statement": "City Councilmember/Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jas Grewal",
+      "statement": "Planning Commissioner/Banker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Meghan Spieker",
+      "statement": "Planning Commissioner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Sturgis",
+      "statement": "Biotech Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alexander Kraft",
+      "statement": "Legal Support Assistant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Wells",
+      "statement": "Mayor of El Cajon",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Osama Bayati",
+      "statement": "Civic Affairs Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patrick Grillot",
+      "statement": "Healthcare Manager/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chuck Kaye",
+      "statement": "Retired Police Chief",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Arielle Golden",
+      "statement": "Community Organizer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ed Sprague",
+      "statement": "Retired Firefighter/Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brad Lefkowits",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marco San Antonio",
+      "statement": "Appointed Councilmember/Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bruce Ehlers",
+      "statement": "Mayor, City of Encinitas",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rimga Viskanta",
+      "statement": "Trustee, San Dieguito Union High School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elias Velazquez",
+      "statement": "Nonprofit Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dane White",
+      "statement": "Mayor, City of Escondido",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tanner Horsley",
+      "statement": "Navy Communications Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vanessa Valenzuela",
+      "statement": "Director of Finance",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anthony DiMartino",
+      "statement": "Government Affairs Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Garcia",
+      "statement": "Pastor/City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karl Bradley",
+      "statement": "Retired School Administrator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matthew Leyba-Gonzalez",
+      "statement": "Councilmember/Union Representative",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mitchell \"Mitch\" McKay",
+      "statement": "Appointed Mayor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Berry",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Lopez Eguino",
+      "statement": "School Board Member, South Bay Union School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "O'Mar Diallo",
+      "statement": "Federal Law Enforcement",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mariko Nakawatase",
+      "statement": "Small Businesswoman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Moana Alo",
+      "statement": "Senate District Representative",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amanda-Dawn Natalia",
+      "statement": "Attorney/Commissioner/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Lothian",
+      "statement": "City of La Mesa Councilmember/Businesswoman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patricia Normandy-Dillard",
+      "statement": "City of La Mesa Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Quinn M. Reese",
+      "statement": "Regenerative Farmer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Stieringer",
+      "statement": "Retired City of La Mesa Treasurer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Exeter",
+      "statement": "Treasurer/CFO/CEO",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Emmett Stewart",
+      "statement": "Financial Analyst",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Minola Clark Manson",
+      "statement": "Planning Commissioner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Krystle Johnson",
+      "statement": "Special Education Teacher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Smith",
+      "statement": "Community Engagement Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Seth Smith",
+      "statement": "Appointed Councilmember/Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Mendoza",
+      "statement": "City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yasmin Mendoza",
+      "statement": "Healthcare Worker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ruble Mitchel Beauchamp",
+      "statement": "Biological Consultant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marcus Bush",
+      "statement": "Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jacobb Castrejon",
+      "statement": "Stem-Enrichment Instructor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Rodriguez",
+      "statement": "Councilmember, City of National City",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cindy Lopez",
+      "statement": "Teacher/Mother/Trustee",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Luz Molina",
+      "statement": "Councilmember District 1",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jerry Cano",
+      "statement": "Environmental Protection Specialist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Edward Nieto",
+      "statement": "Retired Governmental Accountant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "National City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ditas Yamane",
+      "statement": "Councilmember/Businesswoman/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Cline",
+      "statement": "Retired U.S. Army",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eric Joyce",
+      "statement": "Oceanside City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Perry Alvarez",
+      "statement": "Automotive Repair Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Emily Gonzales",
+      "statement": "Director/Facilitator/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ricky James",
+      "statement": "Real Estate Broker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Oscarin Ortega",
+      "statement": "Nonprofit Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard Robinson",
+      "statement": "Oceanside City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jenny Maeda",
+      "statement": "District 4 Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dellena Olps",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Vaus",
+      "statement": "Mayor/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Pikus",
+      "statement": "Appointed Councilmember/Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peter De Hoff",
+      "statement": "City Councilman/Scientist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bob Walder",
+      "statement": "Volunteer Administrator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard Bailey",
+      "statement": "San Diego Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nicole Crosby",
+      "statement": "Deputy City Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Martha Abraham",
+      "statement": "Neonatal ICU Nurse/Mother",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Henry Foster III",
+      "statement": "Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kent Lee",
+      "statement": "City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Powell",
+      "statement": "Business Owner/Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Antonio Martinez",
+      "statement": "Governing Board Member, San Ysidro School District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gerardo Ramirez",
+      "statement": "Chief of Staff, District 8",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sharon Jenkins",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Sannella",
+      "statement": "San Marcos Deputy Mayor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas Gabriele",
+      "statement": "Teacher/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maria Nunez",
+      "statement": "San Marcos Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Justin Matsushita",
+      "statement": "Educator/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lindsey Smith",
+      "statement": "Planning Commissioner/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rob McNelis",
+      "statement": "Councilmember/Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matthew G. Rascon",
+      "statement": "Orthopaedic Technologist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ronn Hall",
+      "statement": "Business Owner/Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eddie Vandiver",
+      "statement": "Business Owner/Parent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristi Becker",
+      "statement": "Solana Beach City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jenna Dellamano",
+      "statement": "Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joe Green",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kenneth Zuniga",
+      "statement": "Businessman/ Homelessness Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Corinna Contreras",
+      "statement": "Councilmember/Policy Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yolanda Kenniston Alvarez",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Nuñez",
+      "statement": "Non-Profit Director/ Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Josh Davis",
+      "statement": "Public Safety Technologist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan O'Donnell",
+      "statement": "Vista City Council Member Dist. 4",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Canebrake County Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andie Collins",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Canebrake County Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ellyn Hae",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Canebrake County Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daryl Holmes",
+      "statement": "Board Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Canebrake County Water District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "F. C McKenney",
+      "statement": "Retired Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carl Atwood",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lynne Caples",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James E Gordon",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Kerrin",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Leatherberry",
+      "statement": "Health Law Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Public Utility District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kenneth W. Endter",
+      "statement": "Fallbrook Public Utility District 2 Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Public Utility District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gerry Hoffman",
+      "statement": "Retired Chemistry Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Randy Lenac",
+      "statement": "Grossmont Healthcare President",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Morrissey",
+      "statement": "Commissioner/Nonprofit Executive",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Claudia Rempel",
+      "statement": "Emergency Medical Technician",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maggie T. Watkins",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrea Beth Damsky",
+      "statement": "Director, Helix Water District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lawrence Powers",
+      "statement": "Loan Officer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mounah Abdel-Samad",
+      "statement": "Public Administration Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kathleen Coates Hedberg",
+      "statement": "Board Director, Helix Water District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Liliana Soriano Garista",
+      "statement": "Director of Policy",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard Abraham",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sheryl Kimberly Brown",
+      "statement": "Business Excellence Leader",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ashley Carnevale",
+      "statement": "Mother/Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sandra Deakins",
+      "statement": "Community Volunteer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristen Everhart",
+      "statement": "Professor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Geisel",
+      "statement": "Teacher/Grandparent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dylan Nigh",
+      "statement": "Community Organizer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ryan Preddy",
+      "statement": "Software Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Oleksandra Reva",
+      "statement": "Lakeside Community Planning Group Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Robak",
+      "statement": "LCPG Member/ Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Roderick Streeper",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cole Marting",
+      "statement": "Wildfire Policy Author",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Shaw",
+      "statement": "Director, North County Fire Protection District",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert \"Bob\" Atkins",
+      "statement": "Retired Agricultural Commissioner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christine Ibbotson",
+      "statement": "Businesswoman/Gemologist",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kenneth E. Munson",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Otay Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gary Croucher",
+      "statement": "Retired Fire Chief",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Otay Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Hector Raul Gastelum",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Padre Dam Municipal Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Fordyce",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Padre Dam Municipal Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Woods",
+      "statement": "Retired Police Sergeant",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laurie Edwards-Tate",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah Telahun",
+      "statement": "Registered Nurse, Kaiser Permanente",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amanda Christensen",
+      "statement": "Registered Nurse, Scripps Health",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Clark",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ian Butler",
+      "statement": "Critical Care Physician, Tri-City Medical Center",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Linda Greer",
+      "statement": "Registered Nurse",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rainbow Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Greg Irvine",
+      "statement": "Small Business Owner",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rainbow Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pam Moss",
+      "statement": "Realty Broker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William S Adelson",
+      "statement": "Architect",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sophia Browning",
+      "statement": "Attorney",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Scott Doig",
+      "statement": "Electrical Salesman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lisa Garcia",
+      "statement": "Insurance Claims Adjuster",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristi Mansolf",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robin Joy Maxson",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dawn Perfect",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tim Roberts",
+      "statement": "Retired Service Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lauren Elyse Welty",
+      "statement": "Land Developer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Hickle",
+      "statement": "Engineer/Executive Director",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Stevenson",
+      "statement": "Retired Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rincon del Diablo Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kenneth Hoving",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Rincon del Diablo Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Abel Martinez",
+      "statement": "Cybersecurity Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Miguel Consolidated Fire Protection District Board, Division 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Malcolm Gettmann",
+      "statement": "Retired Union President",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Miguel Consolidated Fire Protection District Board, Division 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Edward Woodruff",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Craig Allen",
+      "statement": "Retired Navy Chief",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel Burow",
+      "statement": "Retired Law Enforcement",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Luis Rafael De La Rosa",
+      "statement": "Engineer/Farmer/Educator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel Diaz",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carri Jo Fernandez",
+      "statement": "Broker Associate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Susan Heavilin",
+      "statement": "Online News Publisher",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Donna Hodge",
+      "statement": "Retired Customer Representative",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lori Noe",
+      "statement": "Appointed Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Archie Orozco",
+      "statement": "Retired Automotive Administrator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stephen Stonehouse",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Harriet Taylor",
+      "statement": "Community Advocate",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Taylor",
+      "statement": "Physician",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jerome Kern",
+      "statement": "Retired City Councilmember",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kayla Lauriano",
+      "statement": "Registered Nurse, MiraCosta College",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marilyn Piek",
+      "statement": "Registered Nurse, Genex Services",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lisa H. Adams",
+      "statement": "Civil Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vlad Anthony Ciupitu",
+      "statement": "Navy Government Contractor",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Susan Fajardo",
+      "statement": "Retired Registered Nurse",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Garritson",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Hutchison",
+      "statement": "Incumbent",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mordi Iheme",
+      "statement": "Retired Chemical Engineer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matt J. Matthews",
+      "statement": "Veterinarian",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Noll",
+      "statement": "Retired Commercial Banker",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lavonne R. Norwood",
+      "statement": "Valley Center Community Planning Group Member",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lin Werkheiser",
+      "statement": "VP Special Investigations",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Yeager",
+      "statement": "Mortgage Originator",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Irrigation District Board, Division 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Roland Allen",
+      "statement": "Retired Businessman",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Irrigation District Board, Division 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elida Garcia",
+      "statement": "Construction Office Manager",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Vista Irrigation District Board, Division 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard L. Vasquez",
+      "statement": "Retired Engineering Designer",
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coronado — Measure D (R-4 Multiple-Family Development Height Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Coronado — Measure D (R-4 Multiple-Family Development Height Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove — Measure E (Bird Rescue-Only Sales Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove — Measure E (Bird Rescue-Only Sales Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure R (Oceanside Charter — Prevailing Wage & Fair Competition Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure R (Oceanside Charter — Prevailing Wage & Fair Competition Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach — Measure C (Solana Beach Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach — Measure C (Solana Beach Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District — Measure K (Fallbrook Union Elementary School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District — Measure K (Fallbrook Union Elementary School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Jamul-Dulzura Union School District — Measure H (Jamul-Dulzura Union School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Jamul-Dulzura Union School District — Measure H (Jamul-Dulzura Union School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Julian Union High School District — Measure J (Julian Union High School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Julian Union High School District — Measure J (Julian Union High School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District — Measure AA (La Mesa-Spring Valley School District Classroom Repair & Upgrade Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District — Measure AA (La Mesa-Spring Valley School District Classroom Repair & Upgrade Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 13A (Pala Mesa Zone A) — Measure T (Pala Mesa Zone A Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 13A (Pala Mesa Zone A) — Measure T (Pala Mesa Zone A Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 9B (Harris Annex) — Measure Q (Harris Annex Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 9B (Harris Annex) — Measure Q (Harris Annex Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District — Measure P (Amendment of Proposition 'NN' to Modernize the Ordinance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District — Measure P (Amendment of Proposition 'NN' to Modernize the Ordinance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "source": "https://www.sdvote.com/content/rov/en/sample-ballot-info-lookup.html"
+    }
+  ]
+}
