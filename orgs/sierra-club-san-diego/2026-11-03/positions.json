@@ -267,25 +267,27 @@
     },
     {
       "subject": {
-        "title": "Carlsbad Unified School District Board of Trustees",
+        "title": "Carlsbad Unified School District Board, Trustee Area 1",
         "kind": "race",
-        "jurisdiction": "us/ca/carlsbad",
+        "jurisdiction": "us/ca/san-diego",
         "election": "2026-11-03"
       },
       "stance": "endorse",
       "choice": "Michele Tsutagawa Ward",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-unified-school-district-board-trustee-area-1/michele-tsutagawa-ward",
       "statement": "\"Position: Carlsbad Unified School District Board of Trustees\" (trustee area not stated).",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
       "subject": {
-        "title": "Carlsbad Unified School District Board, Area 5",
+        "title": "Carlsbad Unified School District Board, Trustee Area 5",
         "kind": "race",
-        "jurisdiction": "us/ca/carlsbad",
+        "jurisdiction": "us/ca/san-diego",
         "election": "2026-11-03"
       },
       "stance": "endorse",
       "choice": "Chris Waidelich",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-unified-school-district-board-trustee-area-5/chris-waidelich",
       "statement": "\"Position: Carlsbad Unified School Board Trustee, Area 5\"",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -315,13 +317,14 @@
     },
     {
       "subject": {
-        "title": "Oceanside Unified School District Board, Area 3",
+        "title": "Oceanside Unified School District Board, Trustee Area 3",
         "kind": "race",
-        "jurisdiction": "us/ca/oceanside",
+        "jurisdiction": "us/ca/san-diego",
         "election": "2026-11-03"
       },
       "stance": "endorse",
       "choice": "Joey Pearson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-unified-school-district-board-trustee-area-3/joey-pearson",
       "statement": "Listed as \"Dr. Joey Pearson\", \"running for Area 3 on the Oceanside Unified School District Board of Education\".",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
