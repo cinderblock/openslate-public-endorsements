@@ -4,8 +4,18 @@
     {
       "election": "2026-11-03",
       "jurisdiction": "us/ca",
+      "covers": ["us/ca", "us/ca/coa-1", "us/ca/coa-2", "us/ca/coa-3", "us/ca/coa-4", "us/ca/coa-5", "us/ca/coa-6"],
       "title": "California Official Voter Information Guide: November 3, 2026 General Election",
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/sf",
+      "covers": ["us/ca/sf", "us/ca/cd-11", "us/ca/cd-15", "us/ca/ad-17", "us/ca/ad-19", "us/ca/bart-8", "us/ca/bay-area"],
+      "title": "San Francisco Voter Information Pamphlet: November 3, 2026 Consolidated General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/sf/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
