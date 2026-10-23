@@ -1,0 +1,2469 @@
+{
+  "url": "https://alamedacountyca.gov/rov_app/candidatelist/",
+  "electionId": "260",
+  "sha256": "589a66f601f50a07ab5cccd041337982d4c55f77b20c81a9096f93467900f513",
+  "races": [
+    {
+      "title": "Governor",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "XAVIER BECERRA",
+          "party": "Democratic Party",
+          "designation": "Voting Rights Attorney",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "STEVE HILTON",
+          "party": "Republican Party",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Lieutenant Governor",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FIONA MA",
+          "party": "Democratic Party",
+          "designation": "State Treasurer/CPA",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "GLORIA ROMERO",
+          "party": "Republican Party",
+          "designation": "Educator/Businesswoman",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Secretary Of State",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DONALD P. (DON) WAGNER",
+          "party": "Republican Party",
+          "designation": "Orange County Supervisor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SHIRLEY N. WEBER",
+          "party": "Democratic Party",
+          "designation": "California Secretary of State",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Controller",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MALIA M. COHEN",
+          "party": "Democratic Party",
+          "designation": "State Controller/Mother",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "HERB W MORGAN",
+          "party": "Republican Party",
+          "designation": "Chief Investment Officer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Treasurer",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JENNIFER HAWKS",
+          "party": "Republican Party",
+          "designation": "Retired Business Executive",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ELENI KOUNALAKIS",
+          "party": "Democratic Party",
+          "designation": "Lieutenant Governor of California",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Attorney General",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROB BONTA",
+          "party": "Democratic Party",
+          "designation": "California Attorney General",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "MICHAEL E. GATES",
+          "party": "Republican Party",
+          "designation": "Deputy United States Attorney",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Insurance Commissioner",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BEN ALLEN",
+          "party": "Democratic Party",
+          "designation": "California State Senator",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JANE KIM",
+          "party": "Democratic Party",
+          "designation": "Attorney/Consumer Advocate",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Member, State Board Of Equalization, 2nd District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SALLY J. LIEBER",
+          "party": "Democratic Party",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JOHN PIMENTEL",
+          "party": "Democratic Party",
+          "designation": "Member, Board of Trustees, San Mateo County Community College District",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "10th Congressional District",
+      "category": "100",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARK DESAULNIER",
+          "party": "Democratic Party",
+          "designation": "United States Congressman",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JEFF FRESE",
+          "party": "Republican Party",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "12th Congressional District",
+      "category": "100",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JAMIE JOYCE",
+          "party": "Democratic Party",
+          "designation": "Nonprofit Executive Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LATEEFAH SIMON",
+          "party": "Democratic Party",
+          "designation": "U.S. Representative",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "14th Congressional District",
+      "category": "100",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MELISSA HERNANDEZ",
+          "party": "Democratic Party",
+          "designation": "Healthcare Services Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "AISHA WAHAB",
+          "party": "Democratic Party",
+          "designation": "State Senator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "17th Congressional District",
+      "category": "100",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RO KHANNA",
+          "party": "Democratic Party",
+          "designation": "United States Congressmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "RITESH TANDON",
+          "party": "Republican Party",
+          "designation": "CEO/Entrepreneur/Researcher",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "10th State Senate District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LINDA R. PRICE",
+          "party": "Republican Party",
+          "designation": "Businesswoman",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SCOTT SAKAKIHARA",
+          "party": "Democratic Party",
+          "designation": "Councilmember/Navy Officer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "14th Assembly District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARK RENDON",
+          "party": "Green Party",
+          "designation": "Teacher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BUFFY WICKS",
+          "party": "Democratic Party",
+          "designation": "Assemblymember/Mom",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "16th Assembly District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "REBECCA BAUER-KAHAN",
+          "party": "Democratic Party",
+          "designation": "Assemblymember/Mother",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JOSEPH A. RUBAY",
+          "party": "Republican Party",
+          "designation": "Businessman/Father",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "18th Assembly District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MIA BONTA",
+          "party": "Democratic Party",
+          "designation": "California State Assemblymember, Assembly District 18",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "ANDRE SANDFORD",
+          "party": "Democratic Party",
+          "designation": "Housing Program Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "20th Assembly District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PATRICIA MUGA",
+          "party": "Republican Party",
+          "designation": "Real Estate Appraiser",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LIZ ORTEGA",
+          "party": "Democratic Party",
+          "designation": "Assemblymember",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "24th Assembly District",
+      "category": "200",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MAX HSIA",
+          "party": "Republican Party",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ALEX LEE",
+          "party": "Democratic Party",
+          "designation": "State Assemblymember",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "State Superintendent Of Public Instruction",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RICHARD BARRERA",
+          "designation": "State Superintendent Advisor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SONJA SHAW",
+          "designation": "School District President",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Ohlone Community College District Trustee, Area 6",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SUZANNE \"SUE\" LEE CHAN",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "SONIA SALWAN",
+          "designation": "Veterinarian/Nonprofit Founder",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Chabot - Las Positas Community College District Trustee, Area 2",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LINDA GRANGER",
+          "designation": "Education Administrator",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "CINDY ROCHA",
+          "designation": "San Leandro Unified School District Board Trustee Area 3",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Chabot - Las Positas Community College District Trustee, Area 3",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARK FAY",
+          "designation": "Airworthiness Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "WENDY HUANG",
+          "designation": "Real Estate Investor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "HARRIS MOJADEDI",
+          "designation": "Chabot-Las Positas Governing Board Member",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Chabot - Las Positas Community College District Trustee, Area 6",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "HAL G. GIN",
+          "designation": "Chabot-Las Positas College Trustee",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JOE ORLANDO RAMOS",
+          "designation": "Author/Adult Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Peralta Community College District Trustee, Area 5",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CINDI REISS",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "SANDRA WEESE",
+          "designation": "Retired Labor Organizer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Alameda Unified School District Governing Board Member, Full Term",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "JOYCE BOYD",
+          "designation": "Certified Public Accountant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "CARRIE HAHNEL",
+          "designation": "Appointed AUSD Board Member",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "GARY LYM",
+          "designation": "Alameda Unified School District Governing Board Member",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "MIKE MCMAHON",
+          "designation": "Independent Contractor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SARAH PUTNAM",
+          "designation": "Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Castro Valley Unified School District Governing Board Member, Area 2, Short Term",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JESUS JACOBO",
+          "designation": "Autopilot Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MYLA LONG",
+          "designation": "Planning Manager/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "FREDERICK REGALA",
+          "designation": "Construction Technology Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Castro Valley Unified School District Governing Board Member, Area 3",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DAN JACOWITZ",
+          "designation": "Peace Officer/Father",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ERYKA N MATHEWS-CAIN",
+          "designation": "Financial Manager/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "GLENN A. MILLER",
+          "designation": "Certified Public Accountant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KARA WONG",
+          "designation": "Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Castro Valley Unified School District Governing Board Member, Area 4",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FAITH CARROLL",
+          "designation": "Classified Substitute/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BRIAN A. FOSTER",
+          "designation": "Retired Teacher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Dublin Unified School District Governing Board Members, Area 3, Short Term",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SHALINI BHANDARI",
+          "designation": "Energy Sustainability Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TANNER FRYE",
+          "designation": "Energy Compliance Inspector",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Dublin Unified School District Governing Board Members, Area 5",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SEEMA BADAR",
+          "designation": "Community Volunteer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DAN CHERRIER",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Emery Unified School District Governing Board Members",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "CHRISTOPHER KEITH ALLEN",
+          "designation": "Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "REGINA CHAGOLLA",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "BRIAN DONAHUE",
+          "designation": "Businessman/Journalist/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DAVID RIDLEHUBER",
+          "designation": "Parent/Contractor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KIMBERLY SOLIS",
+          "designation": "Student",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Hayward Unified School District Governing Board Member, Area 2",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOANN GUZMAN",
+          "designation": "Community Volunteer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOE ORLANDO RAMOS",
+          "designation": "Author/Adult Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Hayward Unified School District Governing Board Member, Area 4",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MICHELLE FERNELIUS",
+          "designation": "Parent/Research Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARIA ARACELI OROZCO",
+          "designation": "Parent/Caregiver/Student",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Livermore Valley Joint Unified School District Governing Board Member, Area #2",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "TARA BOYCE",
+          "designation": "Parent/Finance Consultant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "STEPHEN R ORGAIN",
+          "designation": "Regional Sales Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Livermore Valley Joint Unified School District Governing Board Member, Area #3",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ANGELA M. BRADY",
+          "designation": "Parent/Data Analyst",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DEBORAH GIBSON",
+          "designation": "Retired Teacher",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Livermore Valley Joint Unified School District Governing Board Member, Area #5",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DEENA KAPLANIS",
+          "designation": "Livermore Valley Joint Unified School District Board Member",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SAM PHELPS",
+          "designation": "Father",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "CHRISTIAAN VANDENHEUVEL",
+          "designation": "Member, Board of Education, Livermore Valley Joint Unified School District",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "New Haven Unified School District Governing Board Member, Area 4",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SHRUTI KUMAR",
+          "designation": "Professor/School Trustee",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "CHARANDEEP SINGH TATLAH",
+          "designation": "Entrepreneur/IT Professional",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KASHIF WASIM",
+          "designation": "Software Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "New Haven Unified School District Governing Board Member, Area 5",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DEEPTI GARG",
+          "designation": "Mother/Program Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "FRANCIS ROJAS",
+          "designation": "Educational Consultant/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Pleasanton Unified School District Governing Board Member, Area 5",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "THOMAS CHOI",
+          "designation": "Attorney/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KAREN FLETCHER",
+          "designation": "Teacher/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BRETT GERALD MARTINEZ",
+          "designation": "Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Sunol Glen Unified School District Governing Board Member",
+      "category": "260",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "GAGAN BASSI",
+          "designation": "Parent/Cybersecurity Professional",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JENNIFER KAVOUNIARIS",
+          "designation": "Businesswoman/Grandmother",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KAREN RUTH NEWCOMB",
+          "designation": "Retired Investment Strategist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "RENÉ TURNBULL",
+          "designation": "Retired College Dean",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Alameda",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "TONY DAYSOG",
+          "designation": "Councilmember/Urban Planner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TRACY JENSEN",
+          "designation": "Councilmember/Nonprofit Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MALIA VELLA",
+          "designation": "Businesswoman/Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members of City Council, Alameda",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "THUSHAN AMARASIRIWARDENA",
+          "designation": "Software Product Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARIA L. BONDONNO",
+          "designation": "Public Service Attorney",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARCIE JOHNSON",
+          "designation": "Social Worker",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TYLER SAVAGE",
+          "designation": "Technology Partner Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "STEVE SLAUSON",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "AMOS WHITE",
+          "designation": "Environmental Nonprofit Executive",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Rent Stabilization Board Commissioners, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 5,
+      "candidates": [
+        {
+          "name": "AVERY ARBAUGH",
+          "designation": "Tenant Union Organizer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "CAROLE MARASOVIC",
+          "designation": "Attorney/City Commissioner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "IDA MARTINAC",
+          "designation": "Rent Stabilization Board Commissioner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "NATHAN MIZELL",
+          "designation": "Rent Stabilization Board Commissioner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "VYLMA ORTIZ",
+          "designation": "Attorney/Meditation Teacher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DEREK RODRIGUEZ",
+          "designation": "Student/National Guardsman",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For School Directors, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "KA'DIJAH A. BROWN",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "REICHI LEE",
+          "designation": "Write-in Candidate",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SANDY PARK",
+          "designation": "Education Consultant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JENNIFER SHANOSKI",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Dublin",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SHERRY HU",
+          "designation": "Mayor/Entrepreneur/Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MICHAEL MCCORRISTON",
+          "designation": "Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KIRAN MOHAMMAD",
+          "designation": "Author",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council #2, Dublin",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DANIEL HOR",
+          "designation": "Researcher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "STEVE LOREY",
+          "designation": "Intelligence Analyst",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TEJPREET SINGH",
+          "designation": "Investor/Father",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "RICHARD THORNBURY",
+          "designation": "Principal Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council #4, Dublin",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KASHEF QAADRI",
+          "designation": "City Councilmember/Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SHIVRAJ SINGH",
+          "designation": "Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members of City Council, Emeryville",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "CORRY FRYDLEWICZ",
+          "designation": "Web Developer/Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DAVID MOURRA",
+          "designation": "Emeryville City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KALIMAH ATREYU PRIFORCE",
+          "designation": "City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BRANDON SOUBLET",
+          "designation": "No Ballot Designation",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #2, Fremont",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DESRIE CAMPBELL",
+          "designation": "Councilmember/Healthcare Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KEITH PARKER",
+          "designation": "Marketing Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #3, Fremont",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KATHY KIMBERLIN",
+          "designation": "County Field Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "VIPIN SHARMA",
+          "designation": "Senior Engineering Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #4, Fremont",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AZIZ AKBARI",
+          "designation": "Director, Alameda County Water District",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "YING MIN LI",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ANURAG MISHRA",
+          "designation": "Technical Leader",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MANISHA PATHAK",
+          "designation": "Educator/Nonprofit Executive",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Hayward",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARK SALINAS",
+          "designation": "Mayor/College Instructor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TOM WONG",
+          "designation": "Businessman",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council District #1, Hayward",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BRIAN M. SCHOTT",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "GEORGE SYROP",
+          "designation": "Council Member",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council District #6, Hayward",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JULIE ROCHE",
+          "designation": "Hayward City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #2, Livermore",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BEN BARRIENTOS",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "NARAYAN TADIMETI",
+          "designation": "Physician",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Newark",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MICHAEL K. HANNON",
+          "designation": "Mayor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council, Newark",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "TONYA CONNOLLY",
+          "designation": "Retired Maintenance Superintendent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "NOAH PATRICK GRUSHKIN",
+          "designation": "No Ballot Designation",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MATTHEW JORGENS",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "EVE MARIE LITTLE",
+          "designation": "Councilmember/College Professor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members of City Council, Piedmont",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "NANCY BENINATI",
+          "designation": "Supervising Deputy Attorney-General",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SUNNY BOSTROM-FLEMING",
+          "designation": "No Ballot Designation",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ADAM HUNDT",
+          "designation": "Businessman",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "TOM RAMSEY",
+          "designation": "Architect/City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BILL REICHLE",
+          "designation": "Retired University Administrator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Pleasanton",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JACK BALCH",
+          "designation": "Mayor/CPA",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JULIE TESTA",
+          "designation": "Councilmember, City of Pleasanton",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council #1, Pleasanton",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "VIN KRUTTIVENTI",
+          "designation": "Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KATHY NARUM",
+          "designation": "Businesswoman",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council #3, Pleasanton",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "REENA GUPTA",
+          "designation": "Local Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JAMIE YEE",
+          "designation": "Communications Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, San Leandro",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JUAN GONZÁLEZ III",
+          "designation": "Mayor, City of San Leandro",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JAMES MAES",
+          "designation": "Business Operations Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #1, San Leandro",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SBEYDEH VIVEROS-WALTON",
+          "designation": "San Leandro Councilwoman",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #2, San Leandro - Short Term",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JAMES AGUILAR",
+          "designation": "Appointed City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #3, San Leandro",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LEE THOMAS",
+          "designation": "Nonprofit Executive Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOSEPH TRUJILLO",
+          "designation": "Chief Plant Operator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #5, San Leandro",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "XOUHOA BOWEN",
+          "designation": "San Leandro Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #2, Union City",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "VICTOR LOPEZ PULIDO",
+          "designation": "Legal Advocate/Translator",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JAIME PATINO",
+          "designation": "Councilmember/Finance Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #3, Union City",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHERIS CROCKER-ROOT",
+          "designation": "Financial Asset Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JEFF WANG",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council #4, Union City",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "VIPAN S. BAJWA",
+          "designation": "City Commissioner/Accountant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SARABJIT KAUR CHEEMA",
+          "designation": "High School Teacher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "QASIM LODHI",
+          "designation": "Software Engineer/Father",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ANN YAP-JEQUINTO",
+          "designation": "Planning Commissioner/Caregiver",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "AC Transit District Director, Ward 3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ADRIANA VALENCIA",
+          "designation": "Product Manager/Mother",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOEL B. YOUNG",
+          "designation": "AC Transit District Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "AC Transit District Director, Ward 4",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "GABRIEL MORALES",
+          "designation": "Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SARAH SYED",
+          "designation": "AC Transit Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "AC Transit District Director, Ward 5",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MURPHY MCCALLEY",
+          "designation": "AC Transit District Board Member",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LUIS REYNOSO",
+          "designation": "University Business Professor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Alameda County Water District Director, Ward 2",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JUDY C. HUANG",
+          "designation": "Director, Alameda County Water District, Ward 2",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JASON MIGUEL",
+          "designation": "Water District Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Alameda County Water District Director, Ward 3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PAUL SETHY",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "YANG SHAO",
+          "designation": "Councilmember, City of Fremont",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "BART Director, District 4",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROBERT RABURN",
+          "designation": "BART Director",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "LUIS REYNOSO",
+          "designation": "University Business Professor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Castro Valley Sanitary District Directors",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "KRISTY (DOOMAN) WOERZ",
+          "designation": "Castro Valley Sanitary District Director",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "RALPH JOHNSON",
+          "designation": "Board Member Castro Valley Sanitary District",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "KEN OWEN",
+          "designation": "Sewer Contractor/Attorney",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DARSHAN SAINI",
+          "designation": "Organization Change Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "EBMUD Director, Ward 3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DON GRAY",
+          "designation": "Retired Wastewater Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARGUERITE YOUNG",
+          "designation": "EBMUD Director Ward 3",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "EBMUD Director, Ward 7",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "APRIL CHAN",
+          "designation": "Director, East Bay Municipal Utility District, Ward 7",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LUIS REYNOSO",
+          "designation": "University Business Professor",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "GARY WOLFF",
+          "designation": "Licensed Civil Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "East Bay Regional Park District Director, Ward 3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "REBECCA LEWINGTON",
+          "designation": "Retired Brand Strategist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "WILLIAM YRAGUI",
+          "designation": "Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "East Bay Regional Park District Director, Ward 5",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BRUCE HENRY",
+          "designation": "Retired Sales Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "OLIVIA SANWONG",
+          "designation": "Director, East Bay Regional Park District Ward 5",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Eden Township Healthcare District Director, Area 3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "NARGES DILLON",
+          "designation": "Nonprofit Director/Therapist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOSEPH GRCAR",
+          "designation": "Retired Laboratory Scientist",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Fairview Fire Protection District Directors",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "MICHELLE BICHE",
+          "designation": "Paralegal/Goat Farmer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "VANDANA SINGH GAUTAM",
+          "designation": "Nonprofit Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MICHAEL D. JUSTICE",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Hayward Area Recreation & Park District Director, Area 2",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AMANDA ALYSIA DANIELS",
+          "designation": "Law Student/Analyst",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SARA LAMNIN",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Hayward Area Recreation & Park District Director, Area 4",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOSEPH \"JOE\" GILTNER",
+          "designation": "Community Advocate",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "PAUL W. HODGES, JR.",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        }
+      ]
+    },
+    {
+      "title": "Livermore Area Recreation & Park District Directors",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "TIMOTHY BARRY",
+          "designation": "Retired General Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LARRY BIRD",
+          "designation": "Retired Police Sergeant",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MATT BOGDANOWICZ",
+          "designation": "Recreation Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARYALICE SUMMERS FALTINGS",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "PHILIP PIERPONT",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": true
+        },
+        {
+          "name": "MIKE RALPH",
+          "designation": "Bike Shop Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LAUREEN TURNER",
+          "designation": "Nursing Professor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Member, Board Of Director, Oro Loma Sanitary Dist #1",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "TIARE PEÑA",
+          "designation": "Land Use Planner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SHELIA YOUNG",
+          "designation": "Director, Oro Loma Sanitary District",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Member, Board Of Director, Oro Loma Sanitary Dist #3",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BENNY LEE",
+          "designation": "Director, Oro Loma Sanitary District",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "FRED SIMON",
+          "designation": "Director, Oro Loma Sanitary District",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Member, Board Of Director, Oro Loma Sanitary Dist #5",
+      "category": "270",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RITA DUNCAN",
+          "designation": "Board Director Oro Loma Sanitary District",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KOROUSH \"CYRUS\" FARSAEI",
+          "designation": "Plant Operator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Members Of City Council, Albany",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "JON DESTIN",
+          "designation": "Albany Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "KATHERINE ENOS",
+          "designation": "Small Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ROBIN D. LÓPEZ",
+          "designation": "Incumbent/Ecologist",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "CHRIS MCDANIELS",
+          "designation": "Public Works Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "AARON TIEDEMANN",
+          "designation": "Housing Policy Analyst",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "Members Of The Board Of Education, Albany",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 4,
+      "candidates": [
+        {
+          "name": "MARGARET ALLEN",
+          "designation": "Finance Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MELISSA BOYD",
+          "designation": "Appointed Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BECKY HOPWOOD",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JOSH MAHONEY",
+          "designation": "Appointed Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DAVID MCKINNEY",
+          "designation": "Education Researcher",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council District #1, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LAURA BABITT",
+          "designation": "Auditor/Operations Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ROSS BERNET",
+          "designation": "Environmental Program Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MONI GANGOPADHYAY",
+          "designation": "Consumer Protection Investigator",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "STEVE KROMER",
+          "designation": "Energy Efficiency Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "DARIA WRUBEL",
+          "designation": "Youth Therapist",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council District #4, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MAJDI \"GAITH\" ABUHAMDIEH",
+          "designation": "Entrepreneur/Technologist/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "IGOR A. TREGUB",
+          "designation": "Berkeley City Councilmember, District 4",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council District #7, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AIDAN HILL",
+          "designation": "Medical Case Manager",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SYRAK MICAEL",
+          "designation": "Community Engagement Liaison",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Member Of City Council District #8, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FRED M. FELLER",
+          "designation": "Attorney",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARK HUMBERT",
+          "designation": "City Councilmember",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MARI MENDONCA",
+          "designation": "No Ballot Designation",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MICHAEL WALLMAN",
+          "designation": "Systems Engineer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Auditor, Berkeley",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JENNY WONG",
+          "designation": "City Auditor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Mayor, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BRENDA F. GRISHAM",
+          "designation": "Business Owner",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "BARBARA LEE",
+          "designation": "Mayor, City of Oakland",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MINDY RUTH PECHENUK",
+          "designation": "Educator/Researcher",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "JULIUS ROBINSON",
+          "designation": "Community Investment Executive",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Councilmember, District No. 2, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "NATE ADAMS",
+          "designation": "Community Organizer",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "CHARLENE WANG",
+          "designation": "City Councilmember, District 2",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Councilmember, District No. 4, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JANANI RAMACHANDRAN",
+          "designation": "Councilmember/Attorney/Mother",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Councilmember, District No. 6, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KEVIN E. JENKINS",
+          "designation": "City Council President",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "NANCY S. SIDEBOTHAM",
+          "designation": "Tax Preparer",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For Auditor, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MICHAEL C. HOUSTON",
+          "designation": "Oakland City Auditor",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For School Director, District No. 2, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JENNIFER BROUHARD",
+          "designation": "Retired Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ARIELLE FLEISHER",
+          "designation": "Parent/Policy Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For School Director, District No. 4, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KATHRYN CAMP",
+          "designation": "Public Policy Professional",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "MIKE HUTCHINSON",
+          "designation": "Incumbent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "SYLVIA PFEIFFER WILLIAMS",
+          "designation": "Adult Educator",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "title": "For School Director, District No. 6, Oakland",
+      "category": "600",
+      "status": "On Ballot",
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "VALARIE BACHELOR",
+          "designation": "School Board Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "LEANA POWELL",
+          "designation": "Family Advocate/Parent",
+          "status": "Filing Completed",
+          "incumbent": false
+        },
+        {
+          "name": "ALEXANDRA WILLIAMS",
+          "designation": "Teacher/Program Director",
+          "status": "Filing Completed",
+          "incumbent": false
+        }
+      ]
+    }
+  ]
+}

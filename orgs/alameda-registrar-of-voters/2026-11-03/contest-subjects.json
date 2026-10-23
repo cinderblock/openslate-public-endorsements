@@ -1,0 +1,678 @@
+{
+  "contests": {
+    "Ohlone Community College District Trustee, Area 6": {
+      "title": "Ohlone Community College District Board, Area 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Chabot - Las Positas Community College District Trustee, Area 2": {
+      "title": "Chabot-Las Positas Community College District Board, Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Chabot - Las Positas Community College District Trustee, Area 3": {
+      "title": "Chabot-Las Positas Community College District Board, Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Chabot - Las Positas Community College District Trustee, Area 6": {
+      "title": "Chabot-Las Positas Community College District Board, Area 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Peralta Community College District Trustee, Area 5": {
+      "title": "Peralta Community College District Board, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Alameda Unified School District Governing Board Member, Full Term": {
+      "title": "Alameda Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Castro Valley Unified School District Governing Board Member, Area 2, Short Term": {
+      "title": "Castro Valley Unified School District Board, Area 2 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Castro Valley Unified School District Governing Board Member, Area 3": {
+      "title": "Castro Valley Unified School District Board, Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Castro Valley Unified School District Governing Board Member, Area 4": {
+      "title": "Castro Valley Unified School District Board, Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Dublin Unified School District Governing Board Members, Area 3, Short Term": {
+      "title": "Dublin Unified School District Board, Area 3 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Dublin Unified School District Governing Board Members, Area 5": {
+      "title": "Dublin Unified School District Board, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Emery Unified School District Governing Board Members": {
+      "title": "Emery Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Hayward Unified School District Governing Board Member, Area 2": {
+      "title": "Hayward Unified School District Board, Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Hayward Unified School District Governing Board Member, Area 4": {
+      "title": "Hayward Unified School District Board, Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Livermore Valley Joint Unified School District Governing Board Member, Area #2": {
+      "title": "Livermore Valley Joint Unified School District Board, Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Livermore Valley Joint Unified School District Governing Board Member, Area #3": {
+      "title": "Livermore Valley Joint Unified School District Board, Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Livermore Valley Joint Unified School District Governing Board Member, Area #5": {
+      "title": "Livermore Valley Joint Unified School District Board, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "New Haven Unified School District Governing Board Member, Area 4": {
+      "title": "New Haven Unified School District Board, Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "New Haven Unified School District Governing Board Member, Area 5": {
+      "title": "New Haven Unified School District Board, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Pleasanton Unified School District Governing Board Member, Area 5": {
+      "title": "Pleasanton Unified School District Board, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Sunol Glen Unified School District Governing Board Member": {
+      "title": "Sunol Glen Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Alameda": {
+      "title": "Alameda Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/city-of-alameda",
+      "election": "2026-11-03"
+    },
+    "For Members of City Council, Alameda": {
+      "title": "Alameda City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/city-of-alameda",
+      "election": "2026-11-03"
+    },
+    "For Rent Stabilization Board Commissioners, Berkeley": {
+      "title": "Berkeley Rent Stabilization Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For School Directors, Berkeley": {
+      "title": "Berkeley Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Dublin": {
+      "title": "Dublin Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/dublin",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council #2, Dublin": {
+      "title": "Dublin City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/dublin",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council #4, Dublin": {
+      "title": "Dublin City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/dublin",
+      "election": "2026-11-03"
+    },
+    "For Members of City Council, Emeryville": {
+      "title": "Emeryville City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/emeryville",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #2, Fremont": {
+      "title": "Fremont City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/fremont",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #3, Fremont": {
+      "title": "Fremont City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/fremont",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #4, Fremont": {
+      "title": "Fremont City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/fremont",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Hayward": {
+      "title": "Hayward Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/hayward",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council District #1, Hayward": {
+      "title": "Hayward City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/hayward",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council District #6, Hayward": {
+      "title": "Hayward City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/hayward",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #2, Livermore": {
+      "title": "Livermore City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/livermore",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Newark": {
+      "title": "Newark Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/newark",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council, Newark": {
+      "title": "Newark City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/newark",
+      "election": "2026-11-03"
+    },
+    "For Members of City Council, Piedmont": {
+      "title": "Piedmont City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/piedmont",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Pleasanton": {
+      "title": "Pleasanton Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/pleasanton",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council #1, Pleasanton": {
+      "title": "Pleasanton City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/pleasanton",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council #3, Pleasanton": {
+      "title": "Pleasanton City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/pleasanton",
+      "election": "2026-11-03"
+    },
+    "For Mayor, San Leandro": {
+      "title": "San Leandro Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-leandro",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #1, San Leandro": {
+      "title": "San Leandro City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-leandro",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #2, San Leandro - Short Term": {
+      "title": "San Leandro City Council, District 2 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-leandro",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #3, San Leandro": {
+      "title": "San Leandro City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-leandro",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #5, San Leandro": {
+      "title": "San Leandro City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-leandro",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #2, Union City": {
+      "title": "Union City City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/union-city",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #3, Union City": {
+      "title": "Union City City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/union-city",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council #4, Union City": {
+      "title": "Union City City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/union-city",
+      "election": "2026-11-03"
+    },
+    "AC Transit District Director, Ward 3": {
+      "title": "AC Transit Board, Ward 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "AC Transit District Director, Ward 4": {
+      "title": "AC Transit Board, Ward 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "AC Transit District Director, Ward 5": {
+      "title": "AC Transit Board, Ward 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "Alameda County Water District Director, Ward 2": {
+      "title": "Alameda County Water District Board, Ward 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Alameda County Water District Director, Ward 3": {
+      "title": "Alameda County Water District Board, Ward 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "BART Director, District 4": {
+      "title": "BART Board of Directors, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/bart-4",
+      "election": "2026-11-03"
+    },
+    "Castro Valley Sanitary District Directors": {
+      "title": "Castro Valley Sanitary District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "EBMUD Director, Ward 3": {
+      "title": "EBMUD Board of Directors, Ward 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/ebmud",
+      "election": "2026-11-03"
+    },
+    "EBMUD Director, Ward 7": {
+      "title": "EBMUD Board of Directors, Ward 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/ebmud",
+      "election": "2026-11-03"
+    },
+    "East Bay Regional Park District Director, Ward 3": {
+      "title": "East Bay Regional Park District Board, Ward 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "East Bay Regional Park District Director, Ward 5": {
+      "title": "East Bay Regional Park District Board, Ward 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Eden Township Healthcare District Director, Area 3": {
+      "title": "Eden Township Healthcare District Board, Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Fairview Fire Protection District Directors": {
+      "title": "Fairview Fire Protection District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Hayward Area Recreation & Park District Director, Area 2": {
+      "title": "Hayward Area Recreation & Park District Board, Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Hayward Area Recreation & Park District Director, Area 4": {
+      "title": "Hayward Area Recreation & Park District Board, Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Livermore Area Recreation & Park District Directors": {
+      "title": "Livermore Area Recreation & Park District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "Member, Board Of Director, Oro Loma Sanitary Dist #1": {
+      "title": "Oro Loma Sanitary District Board of Directors, Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "Member, Board Of Director, Oro Loma Sanitary Dist #3": {
+      "title": "Oro Loma Sanitary District Board of Directors, Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "Member, Board Of Director, Oro Loma Sanitary Dist #5": {
+      "title": "Oro Loma Sanitary District Board of Directors, Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda",
+      "election": "2026-11-03"
+    },
+    "For Members Of City Council, Albany": {
+      "title": "Albany City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "Members Of The Board Of Education, Albany": {
+      "title": "Albany Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council District #1, Berkeley": {
+      "title": "Berkeley City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council District #4, Berkeley": {
+      "title": "Berkeley City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council District #7, Berkeley": {
+      "title": "Berkeley City Council, District 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For Member Of City Council District #8, Berkeley": {
+      "title": "Berkeley City Council, District 8",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For Auditor, Berkeley": {
+      "title": "Berkeley City Auditor",
+      "kind": "race",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "For Mayor, Oakland": {
+      "title": "Oakland Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "For Councilmember, District No. 2, Oakland": {
+      "title": "Oakland City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "For Councilmember, District No. 4, Oakland": {
+      "title": "Oakland City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "For Councilmember, District No. 6, Oakland": {
+      "title": "Oakland City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "For Auditor, Oakland": {
+      "title": "Oakland City Auditor",
+      "kind": "race",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "For School Director, District No. 2, Oakland": {
+      "title": "Oakland Unified School District Board, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "For School Director, District No. 4, Oakland": {
+      "title": "Oakland Unified School District Board, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "For School Director, District No. 6, Oakland": {
+      "title": "Oakland Unified School District Board, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    }
+  },
+  "measures": {
+    "REGIONAL TRANSIT MEASURE RTM": {
+      "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/bay-area",
+      "election": "2026-11-03"
+    },
+    "DUBLIN UNIFIED SCHOOL DISTRICT MEASURE I": {
+      "title": "Dublin Unified School District — Measure I (Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "SAN LORENZO UNIFIED SCHOOL DISTRICT MEASURE J": {
+      "title": "San Lorenzo Unified School District — Measure J (Education Parcel Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "SUNOL GLEN UNIFIED SCHOOL DISTRICT BOND MEASURE K": {
+      "title": "Sunol Glen Unified School District — Measure K (GO Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/alameda-county",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALAMEDA BOND MEASURE L": {
+      "title": "Alameda — Measure L (SAFER Alameda Act)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/city-of-alameda",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALAMEDA MEASURE M": {
+      "title": "Alameda — Measure M (Charter Amendment - Amend and Repeal Outdated Provisions)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/city-of-alameda",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALAMEDA MEASURE N": {
+      "title": "Alameda — Measure N (Charter Amendment - Leases and Sales of Real Property Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/city-of-alameda",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE O": {
+      "title": "Albany — Measure O (Requirement to Zoning Changes Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE P": {
+      "title": "Albany — Measure P (Street Paving and Storm Drain Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE Q": {
+      "title": "Albany — Measure Q (EMS, ALS, Fire Protection Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE R": {
+      "title": "Albany — Measure R (Business License Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE S": {
+      "title": "Albany — Measure S (Real Property Transfer Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF ALBANY MEASURE T": {
+      "title": "Albany — Measure T (Street Trees & Streetlighting Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/albany",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY BOND MEASURE U": {
+      "title": "Berkeley — Measure U (Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE V": {
+      "title": "Berkeley — Measure V (Sales Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE W": {
+      "title": "Berkeley — Measure W (Charter Amendment Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE X": {
+      "title": "Berkeley — Measure X (Rent Ordinance Amendment Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE Y": {
+      "title": "Berkeley — Measure Y (Arts Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE Z": {
+      "title": "Berkeley — Measure Z (Parcel Tax to Fund a Public Bank)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF BERKELEY MEASURE AA": {
+      "title": "Berkeley — Measure AA (Soda Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/berkeley",
+      "election": "2026-11-03"
+    },
+    "CITY OF EMERYVILLE MEASURE BB": {
+      "title": "Emeryville — Measure BB (Business Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/emeryville",
+      "election": "2026-11-03"
+    },
+    "CITY OF HAYWARD MEASURE CC": {
+      "title": "Hayward — Measure CC (Business Tax Ordinance Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/hayward",
+      "election": "2026-11-03"
+    },
+    "CITY OF NEWARK MEASURE DD": {
+      "title": "Newark — Measure DD (Newark Essential Services Protection Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/newark",
+      "election": "2026-11-03"
+    },
+    "CITY OF OAKLAND MEASURE EE": {
+      "title": "Oakland — Measure EE (Governance Structure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "CITY OF OAKLAND MEASURE FF": {
+      "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/oakland",
+      "election": "2026-11-03"
+    },
+    "CITY OF PIEDMONT MEASURE GG": {
+      "title": "Piedmont — Measure GG (Real Property Conveyance Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/piedmont",
+      "election": "2026-11-03"
+    },
+    "CITY OF PLEASANTON MEASURE HH": {
+      "title": "Pleasanton — Measure HH (Uniform Transient Occupancy Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/pleasanton",
+      "election": "2026-11-03"
+    },
+    "CITY OF UNION CITY MEASURE II": {
+      "title": "Union City — Measure II (Union City Essential Services Extension Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/union-city",
+      "election": "2026-11-03"
+    }
+  }
+}
