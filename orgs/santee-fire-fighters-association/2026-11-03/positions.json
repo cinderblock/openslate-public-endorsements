@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "Santee Fire Fighters Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santee Fire Fighters Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:39:50Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=80",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=81"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Adam Daniels (President, Santee Fire Fighters Association) signed the argument in favor of Santee Measure Y and the rebuttal to the argument against Santee Measure Y in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=80"
+    }
+  ]
+}

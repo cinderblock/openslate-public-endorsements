@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "SEIU Local 2015: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SEIU Local 2015",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=92"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Service Employees International Union 2015 signed the paid argument against San Francisco Proposition D in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=92"
+    }
+  ]
+}

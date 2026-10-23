@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Block by Block Organizing Network: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Block by Block Organizing Network",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:52:48Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=935"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Sheryl Walton (Co-Chair, Block by Block Organizing Network) signed the argument in favor of Oakland Measure EE in the Alameda County Voter Information Guide.",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=935"
+    }
+  ]
+}

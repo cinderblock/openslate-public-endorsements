@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "San Diego Deputy Sheriffs Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego Deputy Sheriffs Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:04:21Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mike O’Deane (President, San Diego Deputy Sheriffs Association) signed the argument in favor of San Diego County Measure A in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Chinatown Transportation Research and Improvement Project: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Chinatown Transportation Research and Improvement Project",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=131"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Chinatown Transportation Research and Improvement Project signed the paid argument in favor of San Francisco Proposition H in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=131"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "International Union of Elevator Constructors Local 8: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "International Union of Elevator Constructors Local 8",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "International Union of Elevator Constructors Local 8 signed the paid argument against San Francisco Proposition I in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=142"
+    }
+  ]
+}

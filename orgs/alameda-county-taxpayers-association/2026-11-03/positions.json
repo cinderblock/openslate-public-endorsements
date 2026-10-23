@@ -1,0 +1,46 @@
+{
+  "context": {
+    "title": "Alameda County Taxpayers’ Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Alameda County Taxpayers’ Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:52:48Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=759",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=760",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=961"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Thomas Rubin (Vice President) for Alameda County Taxpayer’s Association and Marcus Crawley (President) for Alameda County Taxpayers’ Association signed the rebuttal to the argument in favor of Bay Area Regional Measure RTM and the argument against Bay Area Regional Measure RTM in the Alameda County Voter Information Guide.",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=759"
+    },
+    {
+      "subject": {
+        "title": "Union City — Measure II (Union City Essential Services Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Marcus Crawley (President Date: August 7, 2026) for Alameda County Taxpayers’ Association signed the rebuttal to the argument in favor of Union City Measure II in the Alameda County Voter Information Guide.",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=961"
+    }
+  ]
+}

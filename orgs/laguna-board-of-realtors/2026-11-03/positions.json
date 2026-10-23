@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Laguna Board of Realtors: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Laguna Board of Realtors",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T16:40:42Z",
+    "sources": [
+      "https://ocvote.gov/sites/default/files/2026-09/A-LBUSD%20-%20LAYOUT%20(1).pdf#page=6"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Laguna Beach Unified School District — Measure A (Safe, Modern Laguna Beach Unified School District School Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Geoff Dunlevie (President, Laguna Board of Realtors) signed the argument in favor of Laguna Beach Unified School District Measure A in the Orange County voter guide.",
+      "source": "https://ocvote.gov/sites/default/files/2026-09/A-LBUSD%20-%20LAYOUT%20(1).pdf#page=6"
+    }
+  ]
+}

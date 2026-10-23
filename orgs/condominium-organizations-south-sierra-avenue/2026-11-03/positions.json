@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Condominium Organizations of South Sierra Avenue: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Condominium Organizations of South Sierra Avenue",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:15:40Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-235.pdf#page=78"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Solana Beach — Measure C (Solana Beach Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "John Steel (President, Condominium Organizations of South Sierra Avenue 20 year resident) signed the argument in favor of Solana Beach Measure C in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-235.pdf#page=78"
+    }
+  ]
+}

@@ -10,9 +10,11 @@
       "kind": "organization"
     },
     "mode": "inferred",
-    "retrieved_at": "2026-10-22T08:06:00Z",
+    "retrieved_at": "2026-10-23T17:04:21Z",
     "sources": [
-      "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+      "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=58"
     ]
   },
   "positions": [
@@ -27,6 +29,18 @@
       "choice": "Yes",
       "statement": "Johnathan Hale (Executive Director) signed the rebuttal to the argument against Proposition 39 in the official voter guide.",
       "source": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Johnathan Hale (Executive Director, The Transparency Foundation) signed the rebuttal to the argument in favor of San Diego County Measure A and the argument against San Diego County Measure A in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=57"
     }
   ]
 }

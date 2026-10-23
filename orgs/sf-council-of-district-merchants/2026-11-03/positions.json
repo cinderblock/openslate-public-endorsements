@@ -1,0 +1,75 @@
+{
+  "context": {
+    "title": "San Francisco Council of District Merchants Associations: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Council of District Merchants Associations",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=101",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=104",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=107",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=132",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=88",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=91",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=98"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Council of District Merchant Associations and Council of District Merchants Associations signed the argument in favor of San Francisco Proposition D and the paid argument in favor of San Francisco Proposition D in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=88"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Council of District Merchant Associations and Council of District Merchants Associations signed the argument in favor of San Francisco Proposition E and the paid argument in favor of San Francisco Proposition E in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=98"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Council of District Merchant Associations and Council of District Merchants Associations signed the argument in favor of San Francisco Proposition F and the paid argument in favor of San Francisco Proposition F in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=104"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "SF Council of District Merchants and Council of District Merchant Associations signed the argument in favor of San Francisco Proposition H and the paid argument in favor of San Francisco Proposition H in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=128"
+    }
+  ]
+}

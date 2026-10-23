@@ -1,0 +1,136 @@
+{
+  "context": {
+    "title": "San Diego County Taxpayers Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-diego",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego County Taxpayers Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T18:34:16Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=72",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=89",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=82",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=79",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=80",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=83",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=87",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=84",
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=80"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District — Measure K (Fallbrook Union Elementary School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (San Diego County Taxpayers Association President and CEO) signed the argument in favor of Fallbrook Union Elementary School District Measure K in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-247.pdf#page=82"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President & CEO, San Diego County Taxpayers Association) signed the argument in favor of Grossmont-Cuyamaca Community College District Measure G in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=83"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District — Measure AA (La Mesa-Spring Valley School District Classroom Repair & Upgrade Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President & CEO, San Diego County Taxpayers Association) signed the argument in favor of La Mesa-Spring Valley School District Measure AA in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=84"
+    },
+    {
+      "subject": {
+        "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President, San Diego County Taxpayers Association) signed the argument in favor of Mountain Empire Unified School District Measure L in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=80"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark Kersey (President & CEO San Diego County Taxpayers Association) signed the argument against San Diego County Measure B in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=72"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President & CEO, San Diego County Taxpayers Association) signed the argument in favor of San Diego Unified School District Measure M in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-312.pdf#page=79"
+    },
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (Executive Director, San Diego County Taxpayers Association) signed the argument in favor of Santee Measure Y in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=80"
+    },
+    {
+      "subject": {
+        "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President and CEO of San Diego County Taxpayers Association) signed the argument in favor of Santee School District Measure BB in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=87"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mark Kersey (President & CEO, San Diego Taxpayers Association) signed the argument in favor of Vista Unified School District Measure N in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-155.pdf#page=89"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "context": {
+    "title": "San Francisco Taxpayers Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Taxpayers Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=115",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=144",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=148",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=149",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=57"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "jurisdiction": "us/ca/bay-area",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "San Francisco Taxpayers Association signed the argument against Bay Area Regional Measure RTM in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=57"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "SF Taxpayers Association signed the paid argument in favor of San Francisco Proposition G in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=115"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "San Francisco Taxpayers Association signed the argument against San Francisco Proposition I and the paid argument against San Francisco Proposition I in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "San Francisco Taxpayers Association signed the rebuttal to the argument in favor of San Francisco Proposition J and the argument against San Francisco Proposition J in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=148"
+    }
+  ]
+}

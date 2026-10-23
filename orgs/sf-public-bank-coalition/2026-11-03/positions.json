@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "San Francisco Public Bank Coalition: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Public Bank Coalition",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=74",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=75",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=76"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "San Francisco Public Bank Coalition signed the argument in favor of San Francisco Proposition B and the rebuttal to the argument against San Francisco Proposition B and the paid argument in favor of San Francisco Proposition B in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=74"
+    }
+  ]
+}

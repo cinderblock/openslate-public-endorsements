@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Alameda Firefighters: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Alameda Firefighters",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:52:48Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=785"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Alameda — Measure L (SAFER Alameda Act)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Mike Dewindt (President, Alameda Firefighters) signed the argument in favor of Alameda Measure L in the Alameda County Voter Information Guide.",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=785"
+    }
+  ]
+}

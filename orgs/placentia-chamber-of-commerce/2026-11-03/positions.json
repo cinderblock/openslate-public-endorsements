@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Placentia Chamber of Commerce: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/orange-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Placentia Chamber of Commerce",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T16:40:48Z",
+    "sources": [
+      "https://ocvote.gov/sites/default/files/2026-09/L-PLAC%20-%20LAYOUT%20(1).pdf#page=4"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Placentia — Measure L (Placentia Hotel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placentia",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Kenny Binnings (President of Placentia Chamber of Commerce) signed the argument in favor of Placentia Measure L in the Orange County voter guide.",
+      "source": "https://ocvote.gov/sites/default/files/2026-09/L-PLAC%20-%20LAYOUT%20(1).pdf#page=4"
+    }
+  ]
+}

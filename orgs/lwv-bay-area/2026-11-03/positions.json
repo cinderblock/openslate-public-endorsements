@@ -1,0 +1,34 @@
+{
+  "context": {
+    "title": "League of Women Voters Bay Area: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters Bay Area",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=759",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=761",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "jurisdiction": "us/ca/bay-area",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "League of Women Voters of the Bay Area signed the argument in favor of Bay Area Regional Measure RTM in the San Francisco Voter Information Pamphlet. Louise Rothman-Riemer (Co President) for League of Women Voters Bay Area signed the argument in favor of Bay Area Regional Measure RTM and the rebuttal to the argument against Bay Area Regional Measure RTM in the Alameda County Voter Information Guide.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56"
+    }
+  ]
+}
