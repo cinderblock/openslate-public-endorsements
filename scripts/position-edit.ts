@@ -136,3 +136,29 @@ export async function trackedBundles(): Promise<Set<string>> {
   const out = await Bun.$`git ls-files -- "orgs/*/*/positions.json"`.quiet().text();
   return new Set(out.split(/\r?\n/).filter(Boolean));
 }
+
+/**
+ * Remove positions by index (a seat that isn't on the ballot), with the comma that joins each
+ * to a neighbour, keeping the rest of the file as it was.
+ */
+export function removePositions(text: string, indexes: number[]): string {
+  let out = text;
+  // Highest index first, so earlier spans don't move.
+  for (const index of [...new Set(indexes)].sort((a, b) => b - a)) {
+    const span = positionSpan(out, index);
+    if (!span) throw new Error(`no position ${index}`);
+    const after = /^\s*,/.exec(out.slice(span[1]));
+    if (after) {
+      // Drop the object, its comma, and the whitespace up to the next object.
+      const next = /^\s*,\s*/.exec(out.slice(span[1]))?.[0] ?? after[0];
+      const lead = /\s*$/.exec(out.slice(0, span[0]))?.[0] ?? "";
+      out = out.slice(0, span[0] - lead.length) + lead + out.slice(span[1] + next.length);
+    } else {
+      // The last one: drop the comma before it instead.
+      const before = /,\s*$/.exec(out.slice(0, span[0]));
+      const start = before ? span[0] - before[0].length : span[0];
+      out = out.slice(0, start) + out.slice(span[1]);
+    }
+  }
+  return out;
+}

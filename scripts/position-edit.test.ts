@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { editPositionText, editPositions } from "./position-edit";
+import { editPositionText, editPositions, removePositions } from "./position-edit";
 
 const file = (nl: string) =>
   [
@@ -89,5 +89,33 @@ test("a move rewrites the subject's title and jurisdiction", () => {
     stance: "endorse",
     choice: "N",
     choice_id: "id:n",
+  });
+});
+
+describe("removePositions", () => {
+  const three = (nl: string) =>
+    [
+      "{",
+      '  "positions": [',
+      '    { "choice": "A" },',
+      '    { "choice": "B" },',
+      '    { "choice": "C" }',
+      "  ]",
+      "}",
+    ].join(nl);
+
+  test("drops a middle, a last and a first position, keeping the layout", () => {
+    expect(removePositions(three("\n"), [1])).toBe(
+      ["{", '  "positions": [', '    { "choice": "A" },', '    { "choice": "C" }', "  ]", "}"].join(
+        "\n",
+      ),
+    );
+    expect(removePositions(three("\n"), [2])).toBe(
+      ["{", '  "positions": [', '    { "choice": "A" },', '    { "choice": "B" }', "  ]", "}"].join(
+        "\n",
+      ),
+    );
+    expect(JSON.parse(removePositions(three("\r\n"), [0, 2])).positions).toEqual([{ choice: "B" }]);
+    expect(removePositions(three("\r\n"), [0])).not.toMatch(/[^\r]\n/);
   });
 });
