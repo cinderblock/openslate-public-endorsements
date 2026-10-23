@@ -78,3 +78,16 @@ describe("editPositions", () => {
     );
   });
 });
+
+test("a move rewrites the subject's title and jurisdiction", () => {
+  const { text } = editPositions(
+    '{ "positions": [ { "subject": { "title": "A", "jurisdiction": "us/ca/x" }, "stance": "endorse", "choice": "N" } ] }',
+    [{ index: 0, title: "B", jurisdiction: "us/ca/y", choiceId: "id:n" }],
+  );
+  expect(JSON.parse(text).positions[0]).toEqual({
+    subject: { title: "B", jurisdiction: "us/ca/y" },
+    stance: "endorse",
+    choice: "N",
+    choice_id: "id:n",
+  });
+});

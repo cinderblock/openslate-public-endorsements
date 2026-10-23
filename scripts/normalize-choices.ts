@@ -55,7 +55,11 @@ for (const { path, bundle } of bundles) {
         index: p.index,
         title: p.title,
         from: bundle.positions[p.index]?.choice ?? "",
-        edit: { title: p.moveTo.title, ...toListed(p.moveTo.listed) },
+        edit: {
+          title: p.moveTo.title,
+          jurisdiction: p.moveTo.jurisdiction,
+          ...toListed(p.moveTo.listed),
+        },
       });
     } else if (p.kind === "race") {
       unresolved.push(`${path} positions[${p.index}]: race "${p.title}" isn't on the ballot`);
@@ -113,7 +117,7 @@ for (const [title, ps] of Map.groupBy(uncovered, (p) => p.title)) {
 }
 
 const show = (ch: Change) =>
-  `${ch.file} [${ch.index}] ${ch.title}: "${ch.from}" → ${ch.edit.title ? `"${ch.edit.title}": ` : ""}"${ch.edit.choice}"${ch.edit.choiceId ? ` (${ch.edit.choiceId})` : ""}`;
+  `${ch.file} [${ch.index}] ${ch.title}: "${ch.from}" → ${ch.edit.title ? `"${ch.edit.title}"${ch.edit.jurisdiction ? ` (${ch.edit.jurisdiction})` : ""}: ` : ""}"${ch.edit.choice}"${ch.edit.choiceId ? ` (${ch.edit.choiceId})` : ""}`;
 const respelled = changes.filter((ch) => ch.edit.choice !== ch.from);
 const idOnly = changes.length - respelled.length;
 if (respelled.length)

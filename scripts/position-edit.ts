@@ -4,6 +4,8 @@
 export interface ChoiceEdit {
   /** The new `subject.title`; absent leaves it. */
   title?: string;
+  /** The new `subject.jurisdiction`; absent leaves it. */
+  jurisdiction?: string;
   /** The new `choice`; absent leaves it. */
   choice?: string;
   /** The new `choice_id`; `null` removes it, absent leaves it. */
@@ -58,6 +60,20 @@ export function editPositionText(body: string, edit: ChoiceEdit): string | undef
     const titleRe = new RegExp(`("title"\\s*:\\s*)(${STRING})`);
     if (!titleRe.test(out)) return undefined;
     out = out.replace(titleRe, (_, key: string) => key + JSON.stringify(edit.title));
+  }
+  if (edit.jurisdiction !== undefined) {
+    // The subject's jurisdiction; added after its title when the subject has none.
+    const jurisdictionRe = new RegExp(`("jurisdiction"\\s*:\\s*)(${STRING})`);
+    if (jurisdictionRe.test(out))
+      out = out.replace(
+        jurisdictionRe,
+        (_, key: string) => key + JSON.stringify(edit.jurisdiction),
+      );
+    else
+      out = out.replace(
+        new RegExp(`("title"\\s*:\\s*${STRING})`),
+        (m: string) => `${m}, "jurisdiction": ${JSON.stringify(edit.jurisdiction)}`,
+      );
   }
   if (edit.choice !== undefined)
     out = out.replace(choiceRe, (_, key: string) => key + JSON.stringify(edit.choice));

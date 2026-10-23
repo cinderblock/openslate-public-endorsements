@@ -170,18 +170,58 @@ describe("checkBundle", () => {
         jurisdiction: "us/ca",
         moveTo: {
           title: "California Secretary of State",
+          jurisdiction: "us/ca",
           listed: { name: "Shirley N. Weber", id: "sos:weber", writeIn: false },
         },
       },
     ]);
     expect(describeProblem(wrongTitle[0] as (typeof wrongTitle)[number])).toContain(
-      'is on the ballot for "California Secretary of State": the wrong race?',
+      'is on the ballot for "California Secretary of State" (us/ca): the wrong race?',
     );
-    // Same jurisdiction only: AD-44's names don't move to a statewide race.
+    // Another jurisdiction only when the titles name the same place: AD-44's names don't
+    // move to a statewide race.
     expect(
       checkBundle(org({ subject: SOS, stance: "endorse", choice: "Carolyn Daniels" }), ballot)
         .problems[0],
     ).not.toHaveProperty("moveTo");
+  });
+
+  test("a race filed under another jurisdiction moves when its title names the same place", () => {
+    const county: Bundle = {
+      attribution: { of: { kind: "election-authority" } },
+      positions: [
+        {
+          subject: race(
+            "Carlsbad Unified School District Board, Trustee Area 5",
+            "us/ca/san-diego",
+          ),
+          stance: "neutral",
+          choice: "Chris Waidelich",
+          choice_id: "sd:cusd5/waidelich",
+        },
+        {
+          subject: race("Carlsbad City Council, District 1", "us/ca/carlsbad"),
+          stance: "neutral",
+          choice: "Nate Larson",
+          choice_id: "sd:ccc1/larson",
+        },
+      ],
+    };
+    const { problems } = checkBundle(
+      org({
+        subject: race("Carlsbad Unified School District Board, Area 5", "us/ca/carlsbad"),
+        stance: "endorse",
+        choice: "Chris Waidelich",
+      }),
+      ballotFrom([county]),
+    );
+    expect(problems[0]).toMatchObject({
+      kind: "race",
+      moveTo: {
+        title: "Carlsbad Unified School District Board, Trustee Area 5",
+        jurisdiction: "us/ca/san-diego",
+      },
+    });
   });
 
   test("a jurisdiction no authority covers is unchecked, not failed", () => {

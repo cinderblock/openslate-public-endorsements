@@ -29,11 +29,26 @@ export const isAuthority = (b: Bundle) => isBallotListing(b);
 /** The ballot listings among some bundles. */
 export const ballotFrom = (bundles: Iterable<Bundle>): BallotListing => ballotListing(bundles);
 
-/** The one listed race, in the same election and jurisdiction, whose field has this name. */
+/** The one listed race whose field has this name: where the position belongs. */
 export interface Move {
   title: string;
+  jurisdiction: string;
   listed: ListedChoice;
 }
+
+/** Words that say what kind of body a race is for, not which one. */
+const GENERIC = new Set(
+  "california,state,board,boards,district,districts,school,schools,unified,union,elementary,high,community,college,city,county,council,member,members,trustee,trustees,area,ward,seat,division,governing,directors,director,the,and,for,of,mayor,water,municipal,special".split(
+    ",",
+  ),
+);
+const placeWords = (title: string) =>
+  new Set(
+    title
+      .toLowerCase()
+      .split(/[^a-z]+/)
+      .filter((w) => w.length > 3 && !GENERIC.has(w)),
+  );
 
 export type Problem =
   /** A race the listing doesn't name, in a jurisdiction it covers. */
@@ -75,25 +90,36 @@ export interface Check {
 }
 
 /**
- * A name on the wrong race (Area 2 for Area 7, a council seat without its district): the one
- * other listed race, same election and jurisdiction, that has the same person. Yes / No never
- * moves.
+ * A name on the wrong race (Area 2 for Area 7, a council seat without its district, a school
+ * board filed under the city where the listing files it under the county): the one other
+ * listed race that has the same person, in the same election, and either the same
+ * jurisdiction or a title naming the same place ("Carlsbad"). Yes / No never moves.
  */
 function moveFor(ballot: BallotListing, p: Position, bundle: Bundle): Move | undefined {
   if (!p.choice || /^(yes|no)$/i.test(p.choice)) return undefined;
   const { election, jurisdiction } = scopeOf(p.subject, bundle);
-  const moves: Move[] = [];
+  const places = placeWords(p.subject.title);
+  const near: Move[] = [];
+  const far: Move[] = [];
   for (const race of ballot.races.values()) {
-    if (race.election !== election || race.jurisdiction !== jurisdiction) continue;
-    if (race.subject.title === p.subject.title) continue;
+    if (race.election !== election) continue;
+    if (race.subject.title === p.subject.title && race.jurisdiction === jurisdiction) continue;
+    const same = race.jurisdiction === jurisdiction;
+    if (!same && ![...placeWords(race.subject.title)].some((w) => places.has(w))) continue;
     const match = matchBallotName(
       p.choice,
       race.choices.map((c) => c.name),
     );
     const listed = match?.sure && race.choices.find((c) => c.name === match.name);
-    if (listed) moves.push({ title: race.subject.title, listed });
+    if (listed)
+      (same ? near : far).push({
+        title: race.subject.title,
+        jurisdiction: race.jurisdiction,
+        listed,
+      });
   }
-  return moves.length === 1 ? moves[0] : undefined;
+  if (near.length) return near.length === 1 ? near[0] : undefined;
+  return far.length === 1 ? far[0] : undefined;
 }
 
 /** Check one bundle against the listings. A listing is checked for ids on its own choices. */
@@ -201,7 +227,7 @@ export function describe(problem: Problem): string {
 
 function moveHint(move: Move | undefined): string {
   return move
-    ? ` ("${move.listed.name}" is on the ballot for "${move.title}": the wrong race? check the source)`
+    ? ` ("${move.listed.name}" is on the ballot for "${move.title}" (${move.jurisdiction}): the wrong race? check the source)`
     : "";
 }
 
