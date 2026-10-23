@@ -187,24 +187,38 @@ conventions (`Governor of California`, `US House of Representatives, California
 District 11` at `us/ca/cd-11`, `San Francisco — Proposition A (…)` at
 `us/ca/sf`, …). Candidate spellings follow the official list.
 
-CI enforces both. In any election and jurisdiction an authority bundle covers,
-`scripts/verify-positions.ts` fails a position whose race isn't on the
-authority's list, or whose `choice` isn't one of that race's ballot names,
-spelled exactly as the ballot spells it. Within a race, the ballot spelling
-*is* the candidate's identity: the web app groups choices on the exact
-string, so "Don Wagner" next to the ballot's "Donald P. (Don) Wagner" would
-show as two people. Races in jurisdictions no authority covers yet (most
-county and city races) aren't checked; the verify output counts them.
+Every choice in an authority bundle carries a `choice_id` (OpenSlate SPEC
+§3.11), `<org slug>:<election>/<race slug>/<choice slug>`, e.g.
+`ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner`.
+An id is minted once and never changes, even when a spelling is corrected.
+After building or regenerating an authority bundle, run
+`bun scripts/assign-choice-ids.ts <election> --apply`: it carries ids over
+from the last committed version (same race, same person) and mints the rest.
 
-To fix a failure, run `bun scripts/normalize-choices.ts <election>`. It
-rewrites a choice to the ballot spelling when the two are the same person
-(a nickname in the ballot's parentheses or quotes, a middle initial, accents,
-common nicknames). A choice that only *resembles* a ballot name (a typo, an
-unusual short form like "Mano" for "Manohar") is listed as a suggestion: check
-each against its source, then rerun with `--apply --suggested`. The org's own
-wording stays in `statement`. On races no authority covers, the script groups
-variant spellings of the same person across orgs and uses the most common
-one.
+CI enforces all of it. In any election and jurisdiction an authority bundle
+covers, `scripts/verify-positions.ts` fails a position whose race isn't on the
+authority's list, or whose `choice` isn't one of that race's ballot names,
+spelled exactly as the ballot spells it and carrying its `choice_id`. A
+candidate who isn't printed on the ballot needs `"write_in": true` (§3.12);
+one the authority doesn't list as a certified write-in passes with a warning.
+The web app matches endorsements to the ballot by `choice_id` (and, for
+slates without one, by name, the same rules as below), so "Don Wagner" next
+to the ballot's "Donald P. (Don) Wagner" is one candidate, and anything it
+can't place is shown as *Not on the ballot*. Races in jurisdictions no
+authority covers yet aren't checked; the verify output counts them.
+
+To fix a failure, run `bun scripts/normalize-choices.ts <election>`. For a
+choice that is the same person as a ballot name (a nickname in the ballot's
+parentheses or quotes, a middle initial, accents, common short forms like
+Danny / Daniel), `--apply` writes the ballot spelling and its `choice_id`. A
+choice that only *resembles* a ballot name (a typo, an unusual short form like
+"Mano" for "Manohar"), or a listed candidate under the wrong race (Area 2 for
+Area 7, a council seat without its district), is listed as a suggestion: check
+each against its source and the race's other names, then rerun with
+`--apply --suggested`. The org's own wording stays in `statement`. On races no
+authority covers, the script groups variant spellings of the same person
+across orgs and uses the most common one. Both scripts edit only files git
+tracks: an untracked bundle is someone's work in progress.
 
 ## Contributing a new endorsement
 
@@ -330,13 +344,17 @@ git clone https://github.com/cinderblock/openslate.git ../openslate
 git -C ../openslate checkout "$(cat .openslate-version)"
 ( cd ../openslate && bun install --frozen-lockfile )
 
-# Run the verify script (schema, then ballot spellings)
+# Run the verify script (schema, then the ballot check)
 bun scripts/verify-positions.ts
 
-# Snap candidate spellings to the ballot (dry run; add --apply)
+# Give an authority bundle's choices their ids (dry run; add --apply)
+bun scripts/assign-choice-ids.ts <election>
+
+# Snap candidate spellings and ids to the ballot (dry run; add --apply)
 bun scripts/normalize-choices.ts <election>
 
-# Unit tests for the name matcher and the ballot check
+# Unit tests for the ballot check and the text edits
+# (the name matcher's are in OpenSlate core)
 bun run test
 ```
 

@@ -1,13 +1,14 @@
 #!/usr/bin/env bun
 // Schema-validate every orgs/<slug>/<election>/positions.json against the
 // OpenSlate SlatePayload schema, then check each against the election authorities'
-// ballots (scripts/ballot.ts): races must be on the ballot, and choices spelled as
-// the ballot spells them. PR-time and pre-sign check — no signing involved.
+// ballot listings (scripts/ballot.ts): races must be on the ballot, and each choice
+// must be a listed one, spelled as the ballot spells it and carrying its choice_id,
+// or marked write_in. PR-time and pre-sign check — no signing involved.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { slatePayloadSchema } from "../.openslate/packages/core/src/index";
-import { type Bundle, ballotFrom, checkBundle, describe } from "./ballot";
+import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -102,21 +103,28 @@ for (const slug of listDirs(ORGS_DIR)) {
 const ballot = ballotFrom(valid.map((v) => v.bundle));
 let checked = 0;
 let unchecked = 0;
-let offBallot = false;
+const kinds = new Set<string>();
+const warnings: string[] = [];
 for (const { path, bundle } of valid) {
   const check = checkBundle(bundle, ballot);
   checked += check.checked;
   unchecked += check.unchecked;
+  for (const w of check.warnings) warnings.push(`${path} ${describeWarning(w)}`);
   if (!check.problems.length) continue;
   ok--;
-  offBallot ||= check.problems.some((p) => p.kind === "choice");
+  for (const p of check.problems) kinds.add(p.kind);
   failures.push({ path, errors: check.problems.map(describe) });
 }
 console.log(
   `\nBallot: ${checked} positions checked against an election authority's list, ${unchecked} in jurisdictions no authority covers yet`,
 );
-if (offBallot)
-  console.log("Fix spellings with: bun scripts/normalize-choices.ts <election> --apply");
+if (warnings.length) console.log(`\nWarnings:\n  ${warnings.join("\n  ")}`);
+if (kinds.has("listing-id"))
+  console.log(
+    "Give a listing's choices ids with: bun scripts/assign-choice-ids.ts <election> --apply",
+  );
+if (kinds.has("fix") || kinds.has("choice"))
+  console.log("Fix names and ids with: bun scripts/normalize-choices.ts <election> --apply");
 
 console.log(`\n${ok} OK, ${failures.length} failed`);
 
