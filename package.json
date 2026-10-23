@@ -19,5 +19,8 @@
     "@biomejs/biome": "^1.9.4",
     "@types/bun": "^1.1.14",
     "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.4.299"
   }
 }
