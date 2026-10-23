@@ -168,6 +168,7 @@ never a source to follow or count.
 | --- | --- | --- |
 | `orgs/ca-secretary-of-state/<election>/` | statewide offices, Congress, State Senate, Assembly, Board of Equalization, judicial retention, statewide propositions | `bun scripts/ca-sos-ballot.ts <election> --apply` from the certified list PDF's text and the qualified-measures page saved under `evidence/` |
 | `orgs/sf-department-of-elections/<election>/` | San Francisco local offices and measures, BART | `bun scripts/sf-elections-ballot.ts <election> --apply` from the candidates and qualified-measures pages transcribed under `evidence/` |
+| `orgs/la-county-registrar/<election>/` | Los Angeles County local offices (Sheriff, Superior Court, LA City, every city, school, college, water and library district) and local measures | `bun scripts/la-rrcc-ballot.ts <election> --fetch` saves LA's candidate statements API contest list and each measure's sample-ballot record (English only) under `evidence/`, paced for LA's bot wall; `--apply` builds from them. It reuses an existing subject whenever a bundle already names the same body and seat (or measure letter), and a candidate's existing spelling; it lists catalog subjects LA doesn't have. It also writes `contest-subjects.json` (LA contest ID → subject) for the LA voter guide. Candidates are in the order LA's API lists them, which may not be ballot order. |
 
 Subject titles and jurisdictions must match the endorsement bundles exactly
 or the field won't line up with the endorsements; the scripts use the catalog's

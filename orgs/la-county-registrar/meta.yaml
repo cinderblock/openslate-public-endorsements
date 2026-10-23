@@ -1,0 +1,14 @@
+name: Los Angeles County Registrar-Recorder/County Clerk
+slug: la-county-registrar
+uri: https://www.lavote.gov/
+kind: election-authority
+logo: logo.ico
+logo_source: https://www.lavote.gov/Sitefinity/WebsiteTemplates/v2/images/icon_tab.ico
+about: |
+  Los Angeles County's election office. This bundle is a ballot source, not an
+  endorsement: every local candidate and measure on the county's ballot as a
+  neutral position, so a voter's ballot shows the whole field. Built by
+  scripts/la-rrcc-ballot.ts from LA's candidate statements API and sample
+  ballot data, saved under evidence/. Titles reuse the catalog's existing
+  subjects where a bundle already names the contest. Federal and state
+  offices come from the Secretary of State's bundle.
