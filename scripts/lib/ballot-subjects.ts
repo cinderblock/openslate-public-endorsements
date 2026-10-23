@@ -18,18 +18,24 @@ export interface Built {
   jurisdiction: string;
 }
 
-export type Existing = Map<string, { subject: Subject; choices: Set<string> }>;
+export type Existing = Map<string, { subject: Subject; choices: Set<string>; orgs: Set<string> }>;
 
 /** Every subject the catalog's bundles use for an election, with the names they give each. */
 export async function loadExisting(election: string, skipDir: string): Promise<Existing> {
   const existing: Existing = new Map();
   for await (const file of new Glob(`orgs/*/${election}/positions.json`).scan(".")) {
     if (file.replaceAll("\\", "/").startsWith(`${skipDir}/`)) continue;
+    const org = file.replaceAll("\\", "/").split("/")[1] ?? file;
     const { positions } = (await Bun.file(file).json()) as {
       positions: { subject: Subject; choice?: string }[];
     };
     for (const { subject, choice } of positions) {
-      const entry = existing.get(subject.title) ?? { subject, choices: new Set<string>() };
+      const entry = existing.get(subject.title) ?? {
+        subject,
+        choices: new Set<string>(),
+        orgs: new Set<string>(),
+      };
+      entry.orgs.add(org);
       if (choice && !/^(yes|no)$/i.test(choice)) entry.choices.add(choice);
       existing.set(subject.title, entry);
     }
@@ -156,15 +162,18 @@ const SEAT_LABEL =
 
 /**
  * Finds the catalog's own subject for a contest. `isLocal` says which jurisdictions can hold the
- * same contest (the county, its cities, and the contest's own); problems collect ambiguities.
+ * same contest (the county, its cities, and the contest's own). When bundles already name one
+ * contest two ways, the name more bundles use wins and the others go to `duplicates` (if given,
+ * else to problems), to be reconciled in those bundles.
  */
 export function subjectMatcher(options: {
   existing: Existing;
   election: string;
   isLocal: (jurisdiction: string, built: Built) => boolean;
   problems: string[];
+  duplicates?: string[];
 }) {
-  const { existing, election, isLocal, problems } = options;
+  const { existing, election, isLocal, problems, duplicates } = options;
 
   /**
    * A new seat of a body the catalog already names takes that body's seat label, so one board
@@ -189,19 +198,38 @@ export function subjectMatcher(options: {
   return function reuse(built: Built, kind: "race" | "measure"): Subject {
     const keyOf = kind === "measure" ? measureKey : titleKey;
     const key = keyOf(built.title);
-    const matches = [...existing.values()].filter(
-      ({ subject }) =>
-        subject.kind === kind &&
-        isLocal(subject.jurisdiction, built) &&
-        keyOf(subject.title) === key,
-    );
+    const matches = [...existing.values()]
+      .filter(
+        ({ subject }) =>
+          subject.kind === kind &&
+          isLocal(subject.jurisdiction, built) &&
+          keyOf(subject.title) === key,
+      )
+      .sort((a, b) => b.orgs.size - a.orgs.size);
     if (matches.length > 1) {
-      problems.push(
-        `"${built.title}" matches ${matches.map((m) => `"${m.subject.title}"`).join(", ")}`,
-      );
+      const list = matches.map((m) => `"${m.subject.title}" (${m.orgs.size})`).join(", ");
+      (duplicates ?? problems).push(`"${built.title}" matches ${list}`);
     }
     const found = matches[0]?.subject;
     if (found) return { ...found };
+    // A short or partial term the bundles named without saying so ("Encinitas Mayor" for the
+    // registrar's "Encinitas Mayor (Short Term)"): the same race when it's the only one.
+    const term = /\s*\(Short Term\)$|, Partial Term$/;
+    if (term.test(built.title)) {
+      const plainKey = keyOf(built.title.replace(term, ""));
+      const plain = [...existing.values()].filter(
+        ({ subject }) =>
+          subject.kind === kind &&
+          isLocal(subject.jurisdiction, built) &&
+          keyOf(subject.title) === plainKey,
+      );
+      if (plain.length === 1 && plain[0]) {
+        (duplicates ?? problems).push(
+          `"${built.title}" is the catalog's "${plain[0].subject.title}" (no other seat by that name)`,
+        );
+        return { ...plain[0].subject };
+      }
+    }
     return { title: sameStyle(built), kind, jurisdiction: built.jurisdiction, election };
   };
 }
