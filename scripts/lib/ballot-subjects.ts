@@ -127,9 +127,12 @@ export function titleKey(title: string): string {
   );
 }
 
-/** "Burbank — Measure C (City Services)" → "burbank measure c": body and letter only. */
+/**
+ * "Burbank — Measure C (City Services)" → "burbank measure c": body and letter only, without any
+ * parenthetical ("Permanent Road Division No. 1000, Zone No. 9B (Harris Annex) — Measure Q").
+ */
 export function measureKey(title: string): string {
-  return strip(title.replace(/\s*\(.*\)\s*$/, "").replace(/\bCity\b/g, ""));
+  return strip(title.replace(/\s*\([^()]*\)/g, "").replace(/\bCity\b/g, ""));
 }
 
 export function slugify(text: string): string {
