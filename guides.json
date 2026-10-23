@@ -227,6 +227,45 @@
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/alameda/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/san-diego",
+      "covers": [
+        "us/ca/san-diego",
+        "us/ca/ad-77",
+        "us/ca/ad-80",
+        "us/ca/carlsbad",
+        "us/ca/cd-48",
+        "us/ca/cd-49",
+        "us/ca/cd-50",
+        "us/ca/cd-51",
+        "us/ca/cd-52",
+        "us/ca/chula-vista",
+        "us/ca/coronado",
+        "us/ca/del-mar",
+        "us/ca/el-cajon",
+        "us/ca/encinitas",
+        "us/ca/escondido",
+        "us/ca/imperial-beach",
+        "us/ca/la-mesa",
+        "us/ca/lemon-grove",
+        "us/ca/national-city",
+        "us/ca/oceanside",
+        "us/ca/poway",
+        "us/ca/san-marcos",
+        "us/ca/santee",
+        "us/ca/sd-18",
+        "us/ca/sd-32",
+        "us/ca/sd-38",
+        "us/ca/sd-40",
+        "us/ca/solana-beach",
+        "us/ca/vista"
+      ],
+      "title": "San Diego County Voter Information Pamphlets: candidate statements and local measures, November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/sd/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
   ]
 }
