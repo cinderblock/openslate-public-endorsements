@@ -77,8 +77,10 @@ export function nameCase(name: string): string {
       if (/^\s+$/.test(word)) return word;
       if (/^(II|III|IV|V)$/.test(word)) return word;
       if (/^(JR|SR)\.?$/.test(word)) return `${word[0]}${word.slice(1).toLowerCase()}`;
-      // Initials and quoted nicknames in capitals ("J.R.", "(DJ)", "“PJ”") stay as printed.
-      if (/^([A-Z]\.)+,?$/.test(word) || /^[("“'][A-Z]{1,3}[)"”']$/.test(word)) return word;
+      // Initials and initial-nicknames ("J.R.", "(DJ)", "“PJ”") stay as printed; a quoted name
+      // ("BOB") is a word like any other.
+      if (/^([A-Z]\.)+,?$/.test(word)) return word;
+      if (/^[("“'](?:[A-Z]{1,2}|[^AEIOUY\W]{3})[)"”']$/.test(word)) return word;
       return word
         .toLowerCase()
         .replace(/(^|[-'’("“])(\p{L})/gu, (_m, p: string, c: string) => p + c.toUpperCase())
