@@ -137,7 +137,14 @@ organization's president or director. `scripts/ca-ballot-arguments.ts` turns
 those signatures into the organizations' positions (Yes or No on the
 proposition), counting only signers who speak for their organization;
 organizations not otherwise in this catalog get bundles attributed as
-`inferred`.
+`inferred`. `scripts/county-ballot-arguments.ts` does the same for the county
+guides' measures. There, an organization also signs as itself (San
+Francisco's "San Francisco Labor Council") or as Alameda's "s/ League of Women
+Voters Bay Area, by NAME, Title"; a title marked "*" is for identification only
+and doesn't count. Both scripts share one hand-reviewed table of the
+organizations as printed (`scripts/lib/argument-signers.ts`), so an
+organization is one source whichever guide it signs in. A new signature stops
+the run until it's reviewed.
 
 ## Relationship to OpenSlate `research-bot/`
 
