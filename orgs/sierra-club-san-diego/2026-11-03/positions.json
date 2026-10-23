@@ -80,6 +80,7 @@
       },
       "stance": "endorse",
       "choice": "Kyle Krahel",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-board-of-supervisors-district-5/kyle-krahel",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -91,6 +92,7 @@
       },
       "stance": "endorse",
       "choice": "Nicole Crosby",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-2/nicole-crosby",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -102,6 +104,7 @@
       },
       "stance": "endorse",
       "choice": "Martha Abraham",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-4/martha-abraham",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -113,6 +116,7 @@
       },
       "stance": "endorse",
       "choice": "Antonio Martinez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-8/antonio-martinez",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -124,6 +128,7 @@
       },
       "stance": "endorse",
       "choice": "Meghan Spieker",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/del-mar-city-council/meghan-spieker",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -135,6 +140,7 @@
       },
       "stance": "endorse",
       "choice": "Jas Grewal",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/del-mar-city-council/jas-grewal",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -146,6 +152,7 @@
       },
       "stance": "endorse",
       "choice": "Rimga Viskanta",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-mayor/rimga-viskanta",
       "statement": "\"Position: Mayor of Encinitas\"",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -158,6 +165,7 @@
       },
       "stance": "endorse",
       "choice": "Arielle Golden",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-3/arielle-golden",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -169,6 +177,7 @@
       },
       "stance": "endorse",
       "choice": "Brad Lefkowits",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-4/brad-lefkowits",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -180,6 +189,7 @@
       },
       "stance": "endorse",
       "choice": "Jillian Cocayne",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/jillian-cocayne",
       "statement": "\"Position: Encinitas Union School District Board of Trustees\" (trustee area not stated).",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -192,6 +202,7 @@
       },
       "stance": "endorse",
       "choice": "Bill Shen",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/bill-shen",
       "statement": "\"Position: Encinitas Union School District Board of Trustees\" (trustee area not stated).",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -204,6 +215,7 @@
       },
       "stance": "endorse",
       "choice": "Chris Hargrave",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/chris-hargrave",
       "statement": "\"Position: Encinitas Union School District Board of Education\" (trustee area not stated).",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -231,13 +243,14 @@
     },
     {
       "subject": {
-        "title": "Solana Beach City Council, District 3",
+        "title": "Solana Beach City Council, District 2",
         "kind": "race",
         "jurisdiction": "us/ca/solana-beach",
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Kristi J. Becker",
+      "choice": "Kristi Becker",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/solana-beach-city-council-district-2/kristi-becker",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -249,6 +262,7 @@
       },
       "stance": "endorse",
       "choice": "Jenna Dellamano",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/solana-beach-city-council-district-4/jenna-dellamano",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -284,6 +298,7 @@
       },
       "stance": "endorse",
       "choice": "Eric Joyce",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-1/eric-joyce",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -295,6 +310,7 @@
       },
       "stance": "endorse",
       "choice": "Emily Gonzales",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-2/emily-gonzales",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -318,17 +334,19 @@
       },
       "stance": "endorse",
       "choice": "Corinna Contreras",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-city-council-district-1/corinna-contreras",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
       "subject": {
-        "title": "Vista City Council",
+        "title": "Vista City Council, District 4",
         "kind": "race",
         "jurisdiction": "us/ca/vista",
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Dan O’Donnell",
+      "choice": "Dan O'Donnell",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-city-council-district-4/dan-odonnell",
       "statement": "\"Position: Vista City Council\" (district not stated).",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -341,6 +359,7 @@
       },
       "stance": "endorse",
       "choice": "Kenneth Zuniga",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-mayor/kenneth-zuniga",
       "statement": "\"Position: Mayor of Vista\"",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -353,6 +372,7 @@
       },
       "stance": "endorse",
       "choice": "Dellena Olps",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-mayor/dellena-olps",
       "statement": "\"Position: Mayor of Poway\"",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
@@ -365,6 +385,7 @@
       },
       "stance": "endorse",
       "choice": "Bob Walder",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-city-council-district-3/bob-walder",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -376,6 +397,7 @@
       },
       "stance": "endorse",
       "choice": "Andrea Beth Damsky",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-2/andrea-beth-damsky",
       "statement": "Listed as \"Andrea Beth Damsky, L.Ac.\", \"Position: Helix Water District Board Division 2\".",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },

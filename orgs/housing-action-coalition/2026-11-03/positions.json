@@ -585,7 +585,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
-      "choice_id": "sf-department-of-elections:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
       "statement": "\"Support Regional Transit Measure (Measure RTM)\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1140,6 +1140,7 @@
       },
       "stance": "endorse",
       "choice": "Barbara Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/barbara-lee",
       "statement": "\"Barbara Lee – Oakland Mayor\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1152,6 +1153,7 @@
       },
       "stance": "endorse",
       "choice": "Charlene Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/charlene-wang",
       "statement": "\"Charlene Wang – Oakland City Council, District 2\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1164,6 +1166,7 @@
       },
       "stance": "endorse",
       "choice": "Janani Ramachandran",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-4/janani-ramachandran",
       "statement": "\"Janani Ramachandran – Oakland City Council, District 4\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1176,6 +1179,7 @@
       },
       "stance": "endorse",
       "choice": "Daria Wrubel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
       "weight": 1,
       "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
@@ -1189,6 +1193,7 @@
       },
       "stance": "endorse",
       "choice": "Ross Bernet",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/ross-bernet",
       "weight": 0.5,
       "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
@@ -1202,6 +1207,7 @@
       },
       "stance": "endorse",
       "choice": "Igor A. Tregub",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-4/igor-a-tregub",
       "statement": "\"Igor Tregub – Berkeley City Council, District 4\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1214,6 +1220,7 @@
       },
       "stance": "endorse",
       "choice": "Mark Humbert",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/mark-humbert",
       "statement": "\"Mark Humbert – Berkeley City Council, District 8\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1226,6 +1233,7 @@
       },
       "stance": "endorse",
       "choice": "Malia Vella",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-mayor/malia-vella",
       "statement": "\"Malia Vella – Alameda Mayor\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1238,6 +1246,7 @@
       },
       "stance": "endorse",
       "choice": "Amos White",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/amos-white",
       "statement": "\"Amos White – Alameda City Council\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1250,6 +1259,7 @@
       },
       "stance": "endorse",
       "choice": "Corry Frydlewicz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/corry-frydlewicz",
       "statement": "\"Corry Frydlewicz – Emeryville City Council\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1262,6 +1272,7 @@
       },
       "stance": "endorse",
       "choice": "Aaron Tiedemann",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/aaron-tiedemann",
       "weight": 1,
       "statement": "\"Aaron Tiedemann (Rank #1), Robin López (Rank #2) – Albany City Council\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
@@ -1275,6 +1286,7 @@
       },
       "stance": "endorse",
       "choice": "Robin D. López",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/robin-d-lopez",
       "weight": 0.5,
       "statement": "\"Aaron Tiedemann (Rank #1), Robin López (Rank #2) – Albany City Council\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
@@ -1288,6 +1300,7 @@
       },
       "stance": "endorse",
       "choice": "Adriana Valencia",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/adriana-valencia",
       "statement": "\"Adriana Valencia – AC Transit, Ward 3\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
@@ -1300,6 +1313,7 @@
       },
       "stance": "endorse",
       "choice": "Robert Raburn",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bart-board-of-directors-district-4/robert-raburn",
       "statement": "\"Robert Raburn – BART, District 4\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },

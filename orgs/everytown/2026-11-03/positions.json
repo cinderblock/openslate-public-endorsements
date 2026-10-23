@@ -238,6 +238,7 @@
       },
       "stance": "endorse",
       "choice": "Priya Bhat-Patel",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-council-district-3/priya-bhat-patel",
       "statement": "API record: \"candidate name\":\"Priya Bhat-Patel\",\"office sought\":\"Carlsbad City Council - District 3\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
     },
@@ -263,6 +264,7 @@
       },
       "stance": "endorse",
       "choice": "Arielle Golden",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-3/arielle-golden",
       "statement": "API record: \"candidate name\":\"Arielle Golden\",\"office sought\":\"Encinitas City Council - District 3\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
     },
@@ -324,6 +326,7 @@
       },
       "stance": "endorse",
       "choice": "Eric Joyce",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-1/eric-joyce",
       "statement": "API record: \"candidate name\":\"Eric Joyce\",\"office sought\":\"Oceanside City Council - District 1\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
     },
@@ -349,6 +352,7 @@
       },
       "stance": "endorse",
       "choice": "Heather Plotzke",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-unified-school-district-board-trustee-area-c/heather-plotzke",
       "statement": "API record: \"candidate name\":\"Heather Plotzke\",\"office sought\":\"Poway Unified School Board - Area C\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
     },

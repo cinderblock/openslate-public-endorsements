@@ -27,6 +27,7 @@
       },
       "stance": "endorse",
       "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
       "statement": "San Francisco Climate Emergency Coalition signed the argument in favor of San Francisco Proposition B and the paid argument in favor of San Francisco Proposition B in the San Francisco Voter Information Pamphlet.",
       "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=74"
     },
@@ -39,6 +40,7 @@
       },
       "stance": "endorse",
       "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
       "statement": "San Francisco Climate Emergency Coalition signed the paid argument against San Francisco Proposition G in the San Francisco Voter Information Pamphlet.",
       "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=121"
     }
