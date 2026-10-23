@@ -1,6 +1,9 @@
 name: "California Hispanic Chambers of Commerce"
 slug: california-hispanic-chambers-of-commerce
+uri: https://cahcc.com/
 kind: organization
+logo: logo.png
+logo_source: https://cahcc.com/assets/images/logo/CAHCCLogo.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

@@ -1,6 +1,9 @@
 name: "California Asian Pacific Chamber of Commerce (CalAsian Chamber)"
 slug: calasian-chamber
+uri: https://calasiancc.org/
 kind: organization
+logo: logo.png
+logo_source: https://calasiancc.org/wp-content/uploads/2025/07/cropped-CalAsianChamber-favicon-2-180x180.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

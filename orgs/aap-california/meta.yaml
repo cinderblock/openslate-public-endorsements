@@ -1,6 +1,9 @@
 name: "American Academy of Pediatrics, California"
 slug: aap-california
+uri: https://aap-ca.org/
 kind: organization
+logo: logo.png
+logo_source: https://aap-ca.org/apple-touch-icon.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

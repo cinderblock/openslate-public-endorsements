@@ -1,6 +1,9 @@
 name: "The Transparency Foundation"
 slug: the-transparency-foundation
+uri: https://thetransparencyfoundation.org/
 kind: organization
+logo: logo.png
+logo_source: https://cdn.prod.website-files.com/639ba3621a72923685807b82/63c1ba14d6a57aa2823d3f53_TF_Web_Icon_256.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

@@ -1,6 +1,9 @@
 name: "American College of Emergency Physicians, California Chapter"
 slug: california-acep
+uri: https://californiaacep.org/
 kind: organization
+logo: logo.jpg
+logo_source: https://westjem.com/wp-content/uploads/2013/02/CAL_ACEP_Logo_HOR_Final_Cropped.jpg
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

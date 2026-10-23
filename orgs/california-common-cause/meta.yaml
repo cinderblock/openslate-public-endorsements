@@ -1,6 +1,9 @@
 name: "California Common Cause"
 slug: california-common-cause
+uri: https://www.commoncause.org/california/
 kind: organization
+logo: logo.png
+logo_source: https://www.commoncause.org/california/wp-content/themes/common-cause/_html/apple-touch-icon.png?ver=1792773628
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

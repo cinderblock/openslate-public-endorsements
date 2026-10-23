@@ -1,6 +1,9 @@
 name: "American Nurses Association\\California"
 slug: ana-california
+uri: https://www.anacalifornia.org/
 kind: organization
+logo: logo.jpg
+logo_source: https://static.wixstatic.com/media/22658b_ef81269c269e43a1af9726ab02febcb2%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/22658b_ef81269c269e43a1af9726ab02febcb2%7Emv2.jpg
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

@@ -1,6 +1,9 @@
 name: "Clean Water Action"
 slug: clean-water-action-california
+uri: https://cleanwater.org/states/california
 kind: organization
+logo: logo.svg
+logo_source: https://cleanwater.org/themes/custom/clean_water_theme/footer-logo.svg
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

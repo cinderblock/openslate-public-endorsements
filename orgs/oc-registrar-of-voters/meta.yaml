@@ -2,6 +2,8 @@ name: Orange County Registrar of Voters
 slug: oc-registrar-of-voters
 uri: https://ocvote.gov/
 kind: election-authority
+logo: logo.png
+logo_source: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=https%3A%2F%2Focvote.gov%2F
 about: |
   Orange County's election office. This bundle is a ballot source, not an
   endorsement: every qualified local candidate and local measure on the

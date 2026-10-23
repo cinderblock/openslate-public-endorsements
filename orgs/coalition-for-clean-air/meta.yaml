@@ -1,6 +1,9 @@
 name: "Coalition for Clean Air"
 slug: coalition-for-clean-air
+uri: https://www.ccair.org/
 kind: organization
+logo: logo.jpg
+logo_source: https://www.ccair.org/wp-content/uploads/2024/05/cropped-cropped-CCA_Favicon-180x180.jpg?x29833
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

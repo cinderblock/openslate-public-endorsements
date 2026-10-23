@@ -1,6 +1,9 @@
 name: "California Taxpayers Association (CalTax)"
 slug: caltax
+uri: https://caltax.org/
 kind: organization
+logo: logo.webp
+logo_source: https://caltax.org/wp-content/uploads/2023/06/favicon.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

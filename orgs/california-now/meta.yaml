@@ -1,6 +1,9 @@
 name: "California National Organization for Women"
 slug: california-now
+uri: https://canow.org/
 kind: organization
+logo: logo.jpg
+logo_source: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=https%3A%2F%2Fcanow.org%2F
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

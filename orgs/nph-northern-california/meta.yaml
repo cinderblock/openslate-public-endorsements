@@ -1,6 +1,9 @@
 name: "Non-Profit Housing Association of Northern California"
 slug: nph-northern-california
+uri: https://nonprofithousing.org/
 kind: organization
+logo: logo.jpg
+logo_source: https://nonprofithousing.org/wp-content/uploads/2021/09/cropped-Logo-rectangle-180x180.jpg
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

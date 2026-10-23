@@ -1,6 +1,9 @@
 name: "California Water Association"
 slug: california-water-association
+uri: https://calwaterassn.com/
 kind: organization
+logo: logo.png
+logo_source: https://calwaterassn.com/wp-content/uploads/2021/05/cropped-android-chrome-512x512-1-180x180.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

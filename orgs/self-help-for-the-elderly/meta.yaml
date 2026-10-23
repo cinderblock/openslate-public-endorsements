@@ -1,6 +1,9 @@
 name: "Self-Help for the Elderly"
 slug: self-help-for-the-elderly
+uri: https://www.selfhelpelderly.org/
 kind: organization
+logo: logo.png
+logo_source: https://www.selfhelpelderly.org/wp-content/uploads/2014/10/favicon.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

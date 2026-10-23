@@ -1,6 +1,9 @@
 name: "Family Business Association of California"
 slug: family-business-association-of-california
+uri: https://myfba.org/
 kind: organization
+logo: logo.png
+logo_source: https://myfba.org/wp-content/uploads/2017/07/cropped-FBA_siteID-180x180.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

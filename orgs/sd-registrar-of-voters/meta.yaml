@@ -2,8 +2,8 @@ name: San Diego County Registrar of Voters
 slug: sd-registrar-of-voters
 uri: https://www.sdvote.com/
 kind: election-authority
-logo: logo.ico
-logo_source: https://www.sdvote.com/etc/designs/sdc/county/countydesign/favicon.ico
+logo: logo.png
+logo_source: https://www.sandiegocounty.gov/content/dam/sdc/initialcontent/logo/County-logo-OpenGraph-1200x630.png
 about: |
   San Diego County's election office. This bundle is a ballot source, not an
   endorsement: every qualified local candidate and local measure on the

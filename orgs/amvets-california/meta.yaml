@@ -1,6 +1,9 @@
 name: "AMVETS, Department of California"
 slug: amvets-california
+uri: https://amvetscasf.org/
 kind: organization
+logo: logo.png
+logo_source: https://amvetscasf.org/wp-content/uploads/2021/11/amvets-brand-id.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

@@ -1,6 +1,9 @@
 name: "Californians Against Waste"
 slug: californians-against-waste
+uri: https://www.cawrecycles.org/
 kind: organization
+logo: logo.webp
+logo_source: https://images.squarespace-cdn.com/content/v1/54d3a62be4b068e9347ca880/a7aed249-ca1e-438c-893a-8cb88a294de4/favicon.ico?format=100w
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

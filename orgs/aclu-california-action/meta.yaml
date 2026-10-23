@@ -1,6 +1,9 @@
 name: "ACLU California Action"
 slug: aclu-california-action
+uri: https://www.aclucalaction.org/
 kind: organization
+logo: logo.png
+logo_source: https://aclucalaction.org/wp-content/uploads/2021/02/cropped-android-icon-192x192-1-180x180.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

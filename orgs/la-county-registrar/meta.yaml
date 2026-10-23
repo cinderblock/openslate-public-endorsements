@@ -2,8 +2,8 @@ name: Los Angeles County Registrar-Recorder/County Clerk
 slug: la-county-registrar
 uri: https://www.lavote.gov/
 kind: election-authority
-logo: logo.ico
-logo_source: https://www.lavote.gov/Sitefinity/WebsiteTemplates/v2/images/icon_tab.ico
+logo: logo.png
+logo_source: https://www.lavote.gov/Sitefinity/WebsiteTemplates/v2/images/county_seal_120x.png
 about: |
   Los Angeles County's election office. This bundle is a ballot source, not an
   endorsement: every local candidate and measure on the county's ballot as a

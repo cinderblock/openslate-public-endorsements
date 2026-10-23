@@ -1,6 +1,9 @@
 name: "California School Boards Association"
 slug: california-school-boards-association
+uri: https://www.csba.org/
 kind: organization
+logo: logo.png
+logo_source: https://publications.csba.org/wp-content/uploads/2019/09/cropped-csba-favicon-270x270.png
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The

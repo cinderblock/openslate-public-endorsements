@@ -1,6 +1,9 @@
 name: "California Council on Affordable Housing"
 slug: california-council-on-affordable-housing
+uri: https://californiacouncil.org/
 kind: organization
+logo: logo.svg
+logo_source: https://californiacouncil.org/icon.svg
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The
