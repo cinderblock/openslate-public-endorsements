@@ -185,9 +185,26 @@ Subject titles and jurisdictions must match the endorsement bundles exactly
 or the field won't line up with the endorsements; the scripts use the catalog's
 conventions (`Governor of California`, `US House of Representatives, California
 District 11` at `us/ca/cd-11`, `San Francisco — Proposition A (…)` at
-`us/ca/sf`, …). Candidate spellings follow the official list:
-`scripts/normalize-choices.ts` treats an election authority's spelling as
-canonical and rewrites the endorsement bundles to it.
+`us/ca/sf`, …). Candidate spellings follow the official list.
+
+CI enforces both. In any election and jurisdiction an authority bundle covers,
+`scripts/verify-positions.ts` fails a position whose race isn't on the
+authority's list, or whose `choice` isn't one of that race's ballot names,
+spelled exactly as the ballot spells it. Within a race, the ballot spelling
+*is* the candidate's identity: the web app groups choices on the exact
+string, so "Don Wagner" next to the ballot's "Donald P. (Don) Wagner" would
+show as two people. Races in jurisdictions no authority covers yet (most
+county and city races) aren't checked; the verify output counts them.
+
+To fix a failure, run `bun scripts/normalize-choices.ts <election>`. It
+rewrites a choice to the ballot spelling when the two are the same person
+(a nickname in the ballot's parentheses or quotes, a middle initial, accents,
+common nicknames). A choice that only *resembles* a ballot name (a typo, an
+unusual short form like "Mano" for "Manohar") is listed as a suggestion: check
+each against its source, then rerun with `--apply --suggested`. The org's own
+wording stays in `statement`. On races no authority covers, the script groups
+variant spellings of the same person across orgs and uses the most common
+one.
 
 ## Contributing a new endorsement
 
@@ -313,8 +330,14 @@ git clone https://github.com/cinderblock/openslate.git ../openslate
 git -C ../openslate checkout "$(cat .openslate-version)"
 ( cd ../openslate && bun install --frozen-lockfile )
 
-# Run the verify script
+# Run the verify script (schema, then ballot spellings)
 bun scripts/verify-positions.ts
+
+# Snap candidate spellings to the ballot (dry run; add --apply)
+bun scripts/normalize-choices.ts <election>
+
+# Unit tests for the name matcher and the ballot check
+bun run test
 ```
 
 To sign a single bundle locally with a throwaway key (for end-to-end

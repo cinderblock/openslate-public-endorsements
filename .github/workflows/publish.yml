@@ -53,7 +53,10 @@ jobs:
           chmod 600 "$RUNNER_TEMP/signing/key.json"
           echo "SIGNING_KEY_PATH=$RUNNER_TEMP/signing/key.json" >> "$GITHUB_ENV"
 
-      - name: Schema-validate every positions.json
+      - name: Test the scripts
+        run: bun run test
+
+      - name: Schema- and ballot-check every positions.json
         run: bun scripts/verify-positions.ts
 
       - name: Sign every slate

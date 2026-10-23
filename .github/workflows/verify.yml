@@ -27,5 +27,8 @@ jobs:
         working-directory: .openslate
         run: bun install --frozen-lockfile
 
-      - name: Schema-validate every positions.json
+      - name: Test the scripts
+        run: bun run test
+
+      - name: Schema- and ballot-check every positions.json
         run: bun scripts/verify-positions.ts

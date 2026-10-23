@@ -1,10 +1,13 @@
 #!/usr/bin/env bun
 // Schema-validate every orgs/<slug>/<election>/positions.json against the
-// OpenSlate SlatePayload schema. PR-time check — no signing involved.
+// OpenSlate SlatePayload schema, then check each against the election authorities'
+// ballots (scripts/ballot.ts): races must be on the ballot, and choices spelled as
+// the ballot spells them. PR-time and pre-sign check — no signing involved.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { slatePayloadSchema } from "../.openslate/packages/core/src/index";
+import { type Bundle, ballotFrom, checkBundle, describe } from "./ballot";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -32,6 +35,7 @@ interface Failure {
 
 let ok = 0;
 const failures: Failure[] = [];
+const valid: { path: string; bundle: Bundle }[] = [];
 
 for (const slug of listDirs(ORGS_DIR)) {
   for (const election of listDirs(join(ORGS_DIR, slug))) {
@@ -81,6 +85,7 @@ for (const slug of listDirs(ORGS_DIR)) {
     const result = slatePayloadSchema.safeParse(placeholderPayload);
     if (result.success) {
       ok++;
+      valid.push({ path: rel, bundle: result.data });
       const attrNote = result.data.attribution
         ? `, attribution: ${result.data.attribution.of.name} (${result.data.attribution.mode})`
         : "";
@@ -93,6 +98,25 @@ for (const slug of listDirs(ORGS_DIR)) {
     }
   }
 }
+
+const ballot = ballotFrom(valid.map((v) => v.bundle));
+let checked = 0;
+let unchecked = 0;
+let offBallot = false;
+for (const { path, bundle } of valid) {
+  const check = checkBundle(bundle, ballot);
+  checked += check.checked;
+  unchecked += check.unchecked;
+  if (!check.problems.length) continue;
+  ok--;
+  offBallot ||= check.problems.some((p) => p.kind === "choice");
+  failures.push({ path, errors: check.problems.map(describe) });
+}
+console.log(
+  `\nBallot: ${checked} positions checked against an election authority's list, ${unchecked} in jurisdictions no authority covers yet`,
+);
+if (offBallot)
+  console.log("Fix spellings with: bun scripts/normalize-choices.ts <election> --apply");
 
 console.log(`\n${ok} OK, ${failures.length} failed`);
 
