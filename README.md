@@ -68,8 +68,11 @@ CI and exposed via the published site.
 Org logos are committed copies of each org's own site icon, so the published
 site serves them and a visitor's browser never contacts the org. In
 `meta.yaml`, `logo:` names the file and `logo_source:` records the URL it was
-downloaded from. `bun scripts/fetch-logos.ts` fetches them (skipping orgs that
-already have one; `--only <slug> [--url <homepage>]`, `--force`), and
+downloaded from. `bun scripts/fetch-logos.ts` fetches them from each org's
+`uri` (skipping orgs that already have one; `--only <slug> [--url <homepage>]`,
+`--force`). When the homepage turns bots away or only has a small icon, it
+asks Google's favicon service for the site's icon instead.
+`--only <slug> --icon <image url>` takes a hand-picked image, and
 `--reject <slug> --reason "..."` drops a bad pick. It also writes a review
 contact sheet to `review/logos.html` (gitignored). Orgs without a logo get a
 monogram in the app.

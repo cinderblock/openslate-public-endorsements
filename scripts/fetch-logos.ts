@@ -5,8 +5,12 @@
 // the best one that is verifiably an image (square raster >= 96px or a safe SVG preferred),
 // and records `logo:` + `logo_source:` in meta.yaml right after `kind:`. Results also land
 // in review/fetch-logos.json, and review/logos.html is a contact sheet of every org's logo.
+// When the homepage blocks us or offers nothing usable, Google's favicon service is asked
+// for the site's icon instead. `--icon` takes a hand-picked image (e.g. a better logo on the
+// org's own site), checked like any other.
 //
 //   bun scripts/fetch-logos.ts [--force] [--only <slug> [--url <homepage override>]]
+//   bun scripts/fetch-logos.ts --only <slug> --icon <image url>  # use this image
 //   bun scripts/fetch-logos.ts --reject <slug> --reason "<why>"   # drop a bad pick
 //   bun scripts/fetch-logos.ts --review                           # rebuild the sheet only
 
@@ -48,6 +52,8 @@ const force = args.includes("--force");
 const only = flag("--only");
 const urlOverride = flag("--url");
 if (urlOverride && !only) throw new Error("--url needs --only <slug>");
+const iconOverride = flag("--icon");
+if (iconOverride && !only) throw new Error("--icon needs --only <slug>");
 
 type Format = "png" | "jpg" | "gif" | "webp" | "ico" | "svg";
 interface Org {
@@ -60,7 +66,7 @@ interface Org {
 }
 interface Candidate {
   url: string;
-  via: "apple-touch-icon" | "manifest" | "icon" | "fallback";
+  via: "apple-touch-icon" | "manifest" | "icon" | "fallback" | "google" | "chosen";
   declared?: number;
   maskable?: boolean;
 }
@@ -183,6 +189,12 @@ const fallbacks = (page: string): Candidate[] => [
   { url: new URL("/apple-touch-icon.png", page).href, via: "fallback" },
   { url: new URL("/favicon.ico", page).href, via: "fallback" },
 ];
+
+// Google's copy of the site's icon (404 when it has none), for sites that turn bots away.
+const googleIcon = (page: string): Candidate => ({
+  url: `https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=${encodeURIComponent(new URL("/", page).href)}`,
+  via: "google",
+});
 
 async function candidatesFrom(
   homepage: string,
@@ -365,11 +377,15 @@ function score(img: Image, c: Candidate): number {
   else s = 100 + edge;
   if (c.maskable) s -= 60;
   if (c.via === "apple-touch-icon") s += 5;
+  if (c.via === "google") s -= 1; // the site's own copy wins a tie
   return s;
 }
 
 async function download(c: Candidate): Promise<{ img: Image; url: string } | string> {
-  if (DEFAULT_ICONS.some((re) => re.test(c.url))) return "platform default icon";
+  // A hand-picked image may live on a platform host (an org's Facebook profile picture).
+  const placeholder = (url: string) =>
+    c.via !== "chosen" && DEFAULT_ICONS.some((re) => re.test(url));
+  if (placeholder(c.url)) return "platform default icon";
   try {
     const res = await get(
       c.url,
@@ -379,7 +395,7 @@ async function download(c: Candidate): Promise<{ img: Image; url: string } | str
       await res.body?.cancel();
       return `HTTP ${res.status}`;
     }
-    if (DEFAULT_ICONS.some((re) => re.test(res.url))) return "platform default icon";
+    if (placeholder(res.url)) return "platform default icon";
     const bytes = await readCapped(res, MAX_BYTES);
     if (!bytes) return "larger than 200 KB";
     if (DEFAULT_ICON_SHA256.has(new Bun.CryptoHasher("sha256").update(bytes).digest("hex")))
@@ -421,9 +437,11 @@ async function fetchLogo(org: Org): Promise<Result> {
   const at = new Date().toISOString();
   const fail = (reason: string): Result => ({ slug: org.slug, status: "failed", reason, at });
   const homepage = (only === org.slug && urlOverride) || org.uri;
-  if (!homepage) return fail("no uri in meta.yaml");
-  const { list, page, note } = await candidatesFrom(homepage);
-  if (!list.length) return fail(note ?? "no icon candidates");
+  const chosen = only === org.slug ? iconOverride : undefined;
+  if (!homepage && !chosen) return fail("no uri in meta.yaml");
+  const { list, page, note } = chosen
+    ? { list: [{ url: chosen, via: "chosen" } as Candidate], page: undefined, note: undefined }
+    : await candidatesFrom(homepage as string);
   const tryAll = (cs: Candidate[]) =>
     Promise.all(cs.map(async (c) => ({ c, got: await download(c) })));
   const tried = await tryAll(list);
@@ -439,6 +457,11 @@ async function fetchLogo(org: Org): Promise<Result> {
   let best = pick();
   if (!best && page && !list.some((c) => c.via === "fallback")) {
     tried.push(...(await tryAll(fallbacks(page))));
+    best = pick();
+  }
+  // Nothing usable, or only a small or oblong raster: Google may have a better copy.
+  if (!chosen && (!best || best.s < 800)) {
+    tried.push(...(await tryAll([googleIcon(page ?? (homepage as string))])));
     best = pick();
   }
   if (!best) {
