@@ -18,9 +18,14 @@ if (!existsSync(join(ROOT, ".openslate/packages/core/src/index.ts"))) {
   process.exit(2);
 }
 
+/**
+ * Sorted, as `loadBundles` sorts: when several listings name one race (a regional measure), the
+ * first one read gives its choice_ids, so the order can't be the filesystem's.
+ */
 function listDirs(p: string): string[] {
   if (!existsSync(p)) return [];
-  return readdirSync(p).filter((n) => {
+  const names = readdirSync(p).sort((a, b) => a.localeCompare(b));
+  return names.filter((n) => {
     try {
       return statSync(join(p, n)).isDirectory();
     } catch {
