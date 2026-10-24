@@ -365,6 +365,7 @@
       },
       "stance": "endorse",
       "choice": "Michael Melillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/michael-melillo",
       "statement": "API record: \"candidate name\":\"Michael Melillo\",\"office sought\":\"San Jose Unified School Board - Area 4\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
     },
