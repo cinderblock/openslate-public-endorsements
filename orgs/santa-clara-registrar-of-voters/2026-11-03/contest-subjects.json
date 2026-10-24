@@ -1,0 +1,564 @@
+{
+  "contests": {
+    "Santa Clara County BOE, Trustee Area 7": {
+      "title": "Santa Clara County Board of Education, Trustee Area 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Foothill-De Anza CCD, Trustee Area 4": {
+      "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Gavilan Joint CCD, Trustee Area 3": {
+      "title": "Gavilan Joint Community College District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "San José-Evergreen CCD, Trustee Area 2": {
+      "title": "San José-Evergreen Community College District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "West Valley-Mission CCD, Trustee Area 3": {
+      "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "West Valley-Mission CCD, Trustee Area 7": {
+      "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Yosemite CCD, Trustee Area 4": {
+      "title": "Yosemite Community College District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Gilroy Unified SD, Trustee Area 3": {
+      "title": "Gilroy Unified School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Gilroy Unified SD, Trustee Area 4": {
+      "title": "Gilroy Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Milpitas Unified SD": {
+      "title": "Milpitas Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Morgan Hill Unified SD, Trustee Area 1": {
+      "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Morgan Hill Unified SD, Trustee Area 2": {
+      "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Morgan Hill Unified SD, Trustee Area 3": {
+      "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Morgan Hill Unified SD, Trustee Area 4": {
+      "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Palo Alto Unified SD": {
+      "title": "Palo Alto Unified School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "San José Unified SD, Trustee Area 2": {
+      "title": "San Jose Unified School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "San José Unified SD, Trustee Area 4": {
+      "title": "San Jose Unified School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Santa Clara Unified SD, Trustee Area 1": {
+      "title": "Santa Clara Unified School District Board, Trustee Area 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "East Side Union HSD, TA 1, Short Term": {
+      "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "East Side Union HSD, TA 4": {
+      "title": "East Side Union High School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Fremont Union HSD, TA 3": {
+      "title": "Fremont Union High School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Fremont Union HSD, TA 4": {
+      "title": "Fremont Union High School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Los Gatos-Saratoga Union HSD, TA 2": {
+      "title": "Los Gatos-Saratoga Union High School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Mountain View-Los Altos Union HSD, TA 3": {
+      "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Alum Rock Union SD, TA 3": {
+      "title": "Alum Rock Union Elementary School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Alum Rock Union SD, TA 5": {
+      "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Berryessa Union SD": {
+      "title": "Berryessa Union School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Cambrian SD": {
+      "title": "Cambrian School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Campbell Union SD, TA 4": {
+      "title": "Campbell Union School District Board, Trustee Area 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Campbell Union SD, TA 5": {
+      "title": "Campbell Union School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Evergreen SD": {
+      "title": "Evergreen School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Franklin-McKinley SD": {
+      "title": "Franklin-McKinley School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Los Altos SD": {
+      "title": "Los Altos School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Mountain View Whisman SD": {
+      "title": "Mountain View Whisman School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Oak Grove SD, Trustee Area 2": {
+      "title": "Oak Grove School District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Oak Grove SD, Trustee Area 3": {
+      "title": "Oak Grove School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Oak Grove SD, Trustee Area 5": {
+      "title": "Oak Grove School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Orchard SD": {
+      "title": "Orchard School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Saratoga Union SD": {
+      "title": "Saratoga Union School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Sunnyvale SD, Trustee Area 3": {
+      "title": "Sunnyvale School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "City of Campbell Council, District 3": {
+      "title": "Campbell City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/campbell",
+      "election": "2026-11-03"
+    },
+    "City of Campbell Council, District 4": {
+      "title": "Campbell City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/campbell",
+      "election": "2026-11-03"
+    },
+    "City of Campbell Council, District 5": {
+      "title": "Campbell City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/campbell",
+      "election": "2026-11-03"
+    },
+    "City of Cupertino Council": {
+      "title": "Cupertino City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/cupertino",
+      "election": "2026-11-03"
+    },
+    "City of Gilroy Council, District 4": {
+      "title": "Gilroy City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/gilroy",
+      "election": "2026-11-03"
+    },
+    "City of Gilroy Council, District 5": {
+      "title": "Gilroy City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/gilroy",
+      "election": "2026-11-03"
+    },
+    "City of Gilroy Council, District 6": {
+      "title": "Gilroy City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/gilroy",
+      "election": "2026-11-03"
+    },
+    "City of Los Altos Council, D2": {
+      "title": "Los Altos City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-altos",
+      "election": "2026-11-03"
+    },
+    "City of Los Altos Council, D4": {
+      "title": "Los Altos City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-altos",
+      "election": "2026-11-03"
+    },
+    "Town of Los Altos Hills Council": {
+      "title": "Los Altos Hills Town Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-altos-hills",
+      "election": "2026-11-03"
+    },
+    "Town of Los Gatos Council": {
+      "title": "Los Gatos Town Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/los-gatos",
+      "election": "2026-11-03"
+    },
+    "Mayor, City of Milpitas": {
+      "title": "Milpitas Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/milpitas",
+      "election": "2026-11-03"
+    },
+    "City of Milpitas Council": {
+      "title": "Milpitas City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/milpitas",
+      "election": "2026-11-03"
+    },
+    "Mayor, City of Morgan Hill": {
+      "title": "Morgan Hill Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/morgan-hill",
+      "election": "2026-11-03"
+    },
+    "City of Morgan Hill Council, District B": {
+      "title": "Morgan Hill City Council, District B",
+      "kind": "race",
+      "jurisdiction": "us/ca/morgan-hill",
+      "election": "2026-11-03"
+    },
+    "City of Morgan Hill Council, District D": {
+      "title": "Morgan Hill City Council, District D",
+      "kind": "race",
+      "jurisdiction": "us/ca/morgan-hill",
+      "election": "2026-11-03"
+    },
+    "City of Mountain View Council": {
+      "title": "Mountain View City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/mountain-view",
+      "election": "2026-11-03"
+    },
+    "City of Palo Alto Council": {
+      "title": "Palo Alto City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/palo-alto",
+      "election": "2026-11-03"
+    },
+    "City of San José Council, District 5": {
+      "title": "San Jose City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-jose",
+      "election": "2026-11-03"
+    },
+    "City of San José Council, District 7": {
+      "title": "San Jose City Council, District 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-jose",
+      "election": "2026-11-03"
+    },
+    "City of San José Council, District 9": {
+      "title": "San Jose City Council, District 9",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-jose",
+      "election": "2026-11-03"
+    },
+    "Mayor, City of Santa Clara": {
+      "title": "Santa Clara Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara",
+      "election": "2026-11-03"
+    },
+    "City of Santa Clara Council, District 2": {
+      "title": "Santa Clara City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara",
+      "election": "2026-11-03"
+    },
+    "City of Santa Clara Council, District 3": {
+      "title": "Santa Clara City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara",
+      "election": "2026-11-03"
+    },
+    "City of Saratoga Council": {
+      "title": "Saratoga City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/saratoga",
+      "election": "2026-11-03"
+    },
+    "City of Sunnyvale Council, District 1": {
+      "title": "Sunnyvale City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "City of Sunnyvale Council, District 3": {
+      "title": "Sunnyvale City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "City of Sunnyvale Council, District 5": {
+      "title": "Sunnyvale City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "Santa Clara Valley Water, District 1": {
+      "title": "Santa Clara Valley Water District Board, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Santa Clara Valley Water, District 6": {
+      "title": "Santa Clara Valley Water District Board, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Santa Clara Valley Water, District 7": {
+      "title": "Santa Clara Valley Water District Board, District 7",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Cupertino Sanitary District": {
+      "title": "Cupertino Sanitary District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "Midpeninsula Regional Open Space District Ward 1": {
+      "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    }
+  },
+  "measures": {
+    "PUBLIC TRANSIT REVENUE MEASURE DISTRICT REGIONAL TRANSIT MEASURE": {
+      "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/bay-area",
+      "election": "2026-11-03"
+    },
+    "CITY OF MORGAN HILL MEASURE A": {
+      "title": "Morgan Hill — Measure A",
+      "kind": "measure",
+      "jurisdiction": "us/ca/morgan-hill",
+      "election": "2026-11-03"
+    },
+    "CITY OF GILROY MEASURE B": {
+      "title": "Gilroy — Measure B",
+      "kind": "measure",
+      "jurisdiction": "us/ca/gilroy",
+      "election": "2026-11-03"
+    },
+    "CITY OF SANTA CLARA MEASURE C": {
+      "title": "Santa Clara — Measure C",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara",
+      "election": "2026-11-03"
+    },
+    "CITY OF LOS ALTOS MEASURE D": {
+      "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/los-altos",
+      "election": "2026-11-03"
+    },
+    "CITY OF MOUNTAIN VIEW MEASURE E": {
+      "title": "Mountain View — Measure E (City Charter Amendment - Modernizing Provisions)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/mountain-view",
+      "election": "2026-11-03"
+    },
+    "CITY OF MOUNTAIN VIEW MEASURE F": {
+      "title": "Mountain View — Measure F (Transient Occupancy Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/mountain-view",
+      "election": "2026-11-03"
+    },
+    "CITY OF SUNNYVALE MEASURE G": {
+      "title": "Sunnyvale — Measure G",
+      "kind": "measure",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "CITY OF SUNNYVALE MEASURE H": {
+      "title": "Sunnyvale — Measure H",
+      "kind": "measure",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "CITY OF SUNNYVALE MEASURE I": {
+      "title": "Sunnyvale — Measure I",
+      "kind": "measure",
+      "jurisdiction": "us/ca/sunnyvale",
+      "election": "2026-11-03"
+    },
+    "CITY OF PALO ALTO MEASURE J": {
+      "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/palo-alto",
+      "election": "2026-11-03"
+    },
+    "CITY OF MILPITAS MEASURE K": {
+      "title": "Milpitas — Measure K",
+      "kind": "measure",
+      "jurisdiction": "us/ca/milpitas",
+      "election": "2026-11-03"
+    },
+    "CITY OF CUPERTINO MEASURE L": {
+      "title": "Cupertino — Measure L",
+      "kind": "measure",
+      "jurisdiction": "us/ca/cupertino",
+      "election": "2026-11-03"
+    },
+    "GILROY UNIFIED SCHOOL DISTRICT MEASURE M": {
+      "title": "Gilroy Unified School District — Measure M (School Bonds)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "LOS GATOS-SARATOGA UNION HIGH SCHOOL DISTRICT MEASURE N": {
+      "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "ALUM ROCK UNION SCHOOL DISTRICT MEASURE O": {
+      "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "ALUM ROCK UNION SCHOOL DISTRICT MEASURE P": {
+      "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "CAMBRIAN SCHOOL DISTRICT MEASURE Q": {
+      "title": "Cambrian School District — Measure Q (Parcel Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "ORCHARD SCHOOL DISTRICT MEASURE R": {
+      "title": "Orchard School District — Measure R (Parcel Tax)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    },
+    "EL CAMINO HEALTHCARE DISTRICT MEASURE S": {
+      "title": "El Camino Healthcare District — Measure S",
+      "kind": "measure",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "election": "2026-11-03"
+    }
+  }
+}

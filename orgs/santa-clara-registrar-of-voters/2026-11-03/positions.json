@@ -1,0 +1,3197 @@
+{
+  "context": {
+    "title": "Santa Clara County Registrar of Voters — 2026-11-03 ballot: local candidates and measures",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Clara County Registrar of Voters",
+      "uri": "https://vote.santaclaracounty.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-24T20:10:10Z",
+    "sources": [
+      "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli",
+      "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Santa Clara County Board of Education, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Raeena S. Lari",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-county-board-of-education-trustee-area-7/raeena-s-lari",
+      "statement": "Governing Board Member, Santa Clara County Board of Education,TA #7",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara County Board of Education, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karla Dominguez Vega",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-county-board-of-education-trustee-area-7/karla-dominguez-vega",
+      "statement": "Student Support Specialist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Liangfang \"Liang\" Chao",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/foothill-de-anza-community-college-district-board-trustee-area-4/liangfang-liang-chao",
+      "statement": "City Councilmember/Technologist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William \"Bill\" Wilson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/foothill-de-anza-community-college-district-board-trustee-area-4/william-bill-wilson",
+      "statement": "Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gavilan Joint Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shahida S. Merchant",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gavilan-joint-community-college-district-board-trustee-area-3/shahida-s-merchant",
+      "statement": "Scientist/College Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gavilan Joint Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gabriel Gutierrez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gavilan-joint-community-college-district-board-trustee-area-3/gabriel-gutierrez",
+      "statement": "Governing Board Member, Gavilan Joint Community College District, Trustee Area 3",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San José-Evergreen Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karen Martinez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-evergreen-community-college-district-board-trustee-area-2/karen-martinez",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San José-Evergreen Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Scott Hung Pham",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-evergreen-community-college-district-board-trustee-area-2/scott-hung-pham",
+      "statement": "Retired College Professor",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anne J. Kepner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-3/anne-j-kepner",
+      "statement": "Governing Board Member, West Valley-Mission Community College District, Trustee Area 3",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Colin Lee Elliott Glaves",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-3/colin-lee-elliott-glaves",
+      "statement": "Materials Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Doug Robb",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-7/doug-robb",
+      "statement": "College Professor/Coach",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Susan Oster Fish",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-7/susan-oster-fish",
+      "statement": "Nurse/College Trustee",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ryan Segoviano",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/yosemite-community-college-district-board-trustee-area-4/ryan-segoviano",
+      "statement": "Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Yosemite Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jenny Nicolau",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/yosemite-community-college-district-board-trustee-area-4/jenny-nicolau",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle Nelson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-3/michelle-nelson",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel Harney",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-3/daniel-harney",
+      "statement": "Parent/Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Trevor Scott Van Laar",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-4/trevor-scott-van-laar",
+      "statement": "Pastor",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jane Stevens",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-4/jane-stevens",
+      "statement": "Retired Registered Nurse",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Norwood",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-unified-school-district-board/chris-norwood",
+      "statement": "Governing Board Member, Milpitas Unified School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Yip-Chuan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-unified-school-district-board/kelly-yip-chuan",
+      "statement": "Governing Board Member, Milpitas Unified School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anuradha Sankaran",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-unified-school-district-board/anuradha-sankaran",
+      "statement": "Engineer/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Franchesca Lacanlale",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-unified-school-district-board/franchesca-lacanlale",
+      "statement": "Non Profit Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nancy Altman-Palm",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-1/nancy-altman-palm",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jason Amezcua",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-1/jason-amezcua",
+      "statement": "Father/College Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John T. Horner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-2/john-t-horner",
+      "statement": "Governing Board Member, Morgan Hill Unified School District, TA 2",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gabriela \"Gabby\" Winter",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-2/gabriela-gabby-winter",
+      "statement": "Homemaker",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Art Cohen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-3/art-cohen",
+      "statement": "Parent/Business Consultant",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cesar Gamboa",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-3/cesar-gamboa",
+      "statement": "Father/Translator/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah Northrup Gadus",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-3/sarah-northrup-gadus",
+      "statement": "Parent/Student",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Glen R. Webb",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-4/glen-r-webb",
+      "statement": "Educator/Coach/Administrator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Claudia Ortiz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-4/claudia-ortiz",
+      "statement": "Parent/Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Linda Henigin",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-unified-school-district-board/linda-henigin",
+      "statement": "Math Teacher/Mother",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Craig",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-unified-school-district-board/john-craig",
+      "statement": "Parent/Operations Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Avery Wang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-unified-school-district-board/avery-wang",
+      "statement": "Research Scientist/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tomara Hall",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-2/tomara-hall",
+      "statement": "Public School Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carson Dance",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-2/carson-dance",
+      "statement": "Student Service Administrator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jose Magana",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-2/jose-magana",
+      "statement": "San José Unified School District, Governing Board Member, Trustee Area 2",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary J. Grunthaner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/mary-j-grunthaner",
+      "statement": "Retired Educator/Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Melillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/michael-melillo",
+      "statement": "Parent/Data Scientist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Canova",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-unified-school-district-board-trustee-area-1/jim-canova",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kamal Yassin",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-unified-school-district-board-trustee-area-1/kamal-yassin",
+      "statement": "Engineer/Manager/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mer Curry Nuñez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-1-short-term/mer-curry-nunez",
+      "statement": "Educator/Consultant",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patricia Martínez-Roach",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-1-short-term/patricia-martinez-roach",
+      "statement": "Retired Public Schoolteacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Pham",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-1-short-term/paul-pham",
+      "statement": "School District Auditor",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lorena Chavez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-4/lorena-chavez",
+      "statement": "Governing Board Member, East Side Union High School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tony Lam",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-4/tony-lam",
+      "statement": "Parent/Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mahbub Khan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-4/mahbub-khan",
+      "statement": "Professor of Physics",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rosa Kim",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-3/rosa-kim",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ilanit Eliaz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-4/ilanit-eliaz",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Naomi Nakano-Matsumoto",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-4/naomi-nakano-matsumoto",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sangeeta Balachandran Mallik",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-saratoga-union-high-school-district-board-trustee-area-2/sangeeta-balachandran-mallik",
+      "statement": "Psychologist/Researcher/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ishaan Prasad",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-saratoga-union-high-school-district-board-trustee-area-2/ishaan-prasad",
+      "statement": "Educational Advocate",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Catherine Vonnegut",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-los-altos-union-high-school-district-board-trustee-area-3/catherine-vonnegut",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thida Cornes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-los-altos-union-high-school-district-board-trustee-area-3/thida-cornes",
+      "statement": "Governing Board Member, Mountain View-Los Altos Union High School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sanjay Dave",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-los-altos-union-high-school-district-board-trustee-area-3/sanjay-dave",
+      "statement": "Engineer/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrés Quintero",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-3/andres-quintero",
+      "statement": "Governing Board Member, Alum Rock Union School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Delia Oseguera",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-3/delia-oseguera",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Manisha Kand",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-5/manisha-kand",
+      "statement": "Education Consultant",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Línda Lo Chávez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-5/linda-lo-chavez",
+      "statement": "Small Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jenny Ludwig",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-5/jenny-ludwig",
+      "statement": "Retired School Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jaria Jaug",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/jaria-jaug",
+      "statement": "Governing Board Member, Berryessa Union School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thelma B. Boac",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/thelma-b-boac",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jamal Khan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/jamal-khan",
+      "statement": "Nonprofit Attorney",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shanna Brewer",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/shanna-brewer",
+      "statement": "Appointed Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carol Presunka",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-board/carol-presunka",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Debora Bodenheimer",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-board/debora-bodenheimer",
+      "statement": "Retired Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sergio Martínez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-board/sergio-martinez",
+      "statement": "Appointed Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Harmony \"Jay\" McMillin",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-board/harmony-jay-mcmillin",
+      "statement": "Program Specialist/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mohit Vora",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-union-school-district-board-trustee-area-4/mohit-vora",
+      "statement": "Parent/Technology Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Miller",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-union-school-district-board-trustee-area-4/chris-miller",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vartika Chandra",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-union-school-district-board-trustee-area-5/vartika-chandra",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sam Krow-Lucal",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-union-school-district-board-trustee-area-5/sam-krow-lucal",
+      "statement": "Appointed Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Johnny Ray Reyna",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/johnny-ray-reyna",
+      "statement": "Teacher/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Hien Pollett",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/mary-hien-pollett",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Corinna Diener",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/corinna-diener",
+      "statement": "Retired Secretary/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Monte Wright",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/monte-wright",
+      "statement": "Nurse/Parent/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thong Quang La",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/thong-quang-la",
+      "statement": "Father",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Magaly Fernández",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/magaly-fernandez",
+      "statement": "Mother/Artist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rudy J. Rodriguez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/rudy-j-rodriguez",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gilbert Borrayo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/gilbert-borrayo",
+      "statement": "Educator/Advisory President",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marc Cooper",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/marc-cooper",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Sanchez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/steven-sanchez",
+      "statement": "Governing Board Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Poll",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-school-district-board/david-poll",
+      "statement": "Parent/Engineering Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brandon Stroy",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-school-district-board/brandon-stroy",
+      "statement": "Appointed Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vaishali \"Shali\" Sirkay",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-school-district-board/vaishali-shali-sirkay",
+      "statement": "Governing Board Member, Los Altos School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bryan Harvey Johnson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-school-district-board/bryan-harvey-johnson",
+      "statement": "Governing Board Member, Los Altos School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Devon Conley",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/devon-conley",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "William Lambert",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/william-lambert",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sundar Subbarayan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/sundar-subbarayan",
+      "statement": "Retired Tech Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Quintin Riis",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/quintin-riis",
+      "statement": "Father",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Victor A. Ramirez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-2/victor-a-ramirez",
+      "statement": "Air Traffic Controller",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diego Martinez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-2/diego-martinez",
+      "statement": "Governing Board Member, Oak Grove School District, Trustee Area 2",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sophie Freestone",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-3/sophie-freestone",
+      "statement": "Homemaker/Mother/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kaushik C. Joglekar",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-3/kaushik-c-joglekar",
+      "statement": "Appointed Governing Board Member, Oak Grove School District, Trustee Area 3",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Chun",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-5/paul-chun",
+      "statement": "Public School Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pradeep Kumar",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-5/pradeep-kumar",
+      "statement": "Cyber Security Professional",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Casino Fajardo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-5/casino-fajardo",
+      "statement": "School Administrator/Parent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lyseria Evelyn Phillips",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/lyseria-evelyn-phillips",
+      "statement": "Union Inside Wireman",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Renee Lo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/renee-lo",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katherine Kasolas-Jacobson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/katherine-kasolas-jacobson",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Tang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/jeff-tang",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Molly Eslao",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/molly-eslao",
+      "statement": "Senior Placement Counselor",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eric Cao",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/eric-cao",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Catalina Rupert",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/catalina-rupert",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vidya R. Vineet",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/vidya-r-vineet",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Farnoush Drexel",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/farnoush-drexel",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anna Goldberg",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/anna-goldberg",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michelle Maginot",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-school-district-board-trustee-area-3/michelle-maginot",
+      "statement": "Governing Board Member, Sunnyvale School District, Trustee Area 3",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rommy Kushner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-school-district-board-trustee-area-3/rommy-kushner",
+      "statement": "Teacher",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joseph \"Joe\" Brenner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-3/joseph-joe-brenner",
+      "statement": "Small Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Furtado",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-3/dan-furtado",
+      "statement": "City Councilmember/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Davis Stuart Fields",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-4/davis-stuart-fields",
+      "statement": "Product Manager/Father",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joseph I. Guardado",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-4/joseph-i-guardado",
+      "statement": "Grocery Store Clerk",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daraius R. Sorabji",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-5/daraius-r-sorabji",
+      "statement": "Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gopal Kumarappan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/gopal-kumarappan",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Santosh Rao",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/santosh-rao",
+      "statement": "Technology Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Seema Sharma Lindskog",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/seema-sharma-lindskog",
+      "statement": "Nonprofit Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tracy Kosolcharoen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/tracy-kosolcharoen",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Fantozzi",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/mark-fantozzi",
+      "statement": "Civil Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John Tang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/john-tang",
+      "statement": "Educator/Engineer/Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "J.R. Fruen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/j-r-fruen",
+      "statement": "Member of the City Council, City of Cupertino",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "J. Z. Wang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/j-z-wang",
+      "statement": "Engineer/Caregiver/Businesswoman",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Fred Tovar",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-4/fred-tovar",
+      "statement": "College Admissions Counselor",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diana Sanchez Bentz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-4/diana-sanchez-bentz",
+      "statement": "Specialist Paralegal",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joseph Garcia",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-5/joseph-garcia",
+      "statement": "Locomotive Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christina Tovar",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-5/christina-tovar",
+      "statement": "Gilroy Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tom Cline",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-5/tom-cline",
+      "statement": "Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth Bracco",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-6/elizabeth-bracco",
+      "statement": "Chief Financial Officer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brad Starks",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-6/brad-starks",
+      "statement": "Father/Marketing Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebeca G. Armendáriz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-6/rebeca-g-armendariz",
+      "statement": "Nonprofit Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Anky van Deursen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-city-council-district-2/anky-van-deursen",
+      "statement": "Housing Manager",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lynette Lee Eng",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-city-council-district-2/lynette-lee-eng",
+      "statement": "Community Programs Coordinator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Larry Lang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-city-council-district-4/larry-lang",
+      "statement": "Councilmember, City of Los Altos",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos Hills Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jim Waschura",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-hills-town-council/jim-waschura",
+      "statement": "Los Altos Hills Planning Commissioner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos Hills Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jasmeen Pombra",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-hills-town-council/jasmeen-pombra",
+      "statement": "Physician",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Altos Hills Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos-hills",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Indu Kadambi",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-hills-town-council/indu-kadambi",
+      "statement": "Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steve Raspe",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/steve-raspe",
+      "statement": "Attorney/Father",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rob Stump",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/rob-stump",
+      "statement": "Retired Business Executive",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Badame",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/mary-badame",
+      "statement": "Council Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeff Suzuki",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/jeff-suzuki",
+      "statement": "Economic Analyst",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rob Moore",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/rob-moore",
+      "statement": "Los Gatos Town Council Member",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Heidi Owens",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/heidi-owens",
+      "statement": "Senior Management Analyst",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Hon Lien",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-mayor/hon-lien",
+      "statement": "Council Member, City of Milpitas",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Carmen Montano",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-mayor/carmen-montano",
+      "statement": "Mayor/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Voltaire S. Montemayor",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-mayor/voltaire-s-montemayor",
+      "statement": "Retired Geologist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Santosh Sahoo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-mayor/santosh-sahoo",
+      "statement": "Tech Entrepreneur",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennie Ha Phan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/jennie-ha-phan",
+      "statement": "Community Volunteer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Chuan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/bill-chuan",
+      "statement": "Engineer/Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Seema Kanani",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/seema-kanani",
+      "statement": "Clinical Social Worker",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Garry Barbadillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/garry-barbadillo",
+      "statement": "City Councilmember/Attorney",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dipak Awasthi",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/dipak-awasthi",
+      "statement": "Milpitas Planning Commissioner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kristopher L. Clayton",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-mayor/kristopher-l-clayton",
+      "statement": "Carpenter",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Turner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-mayor/mark-turner",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Deborah M. Africa",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-mayor/deborah-m-africa",
+      "statement": "Retired RN/Mother",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven Hayes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-city-council-district-b/steven-hayes",
+      "statement": "Fire Captain/Paramedic",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yvonne Martinez Beltran",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-city-council-district-b/yvonne-martinez-beltran",
+      "statement": "Councilwoman/Mother",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dolores Alvarado",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-city-council-district-d/dolores-alvarado",
+      "statement": "Chief Executive Officer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marilyn Librers",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-city-council-district-d/marilyn-librers",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Paul Donahue",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/paul-donahue",
+      "statement": "Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert Cox",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/robert-cox",
+      "statement": "Retired Software Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Kuszmaul",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/james-kuszmaul",
+      "statement": "Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Samuel Ali",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/samuel-ali",
+      "statement": "No Ballot Designation",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "IdaRose Sylvester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/idarose-sylvester",
+      "statement": "Entrepreneur/Educator",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Silja Paymer",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/silja-paymer",
+      "statement": "Teacher/Mother/Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Erik Poicon",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/erik-poicon",
+      "statement": "Library Outreach Specalist",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alex Amoroso",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/alex-amoroso",
+      "statement": "Army Reserve Officer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Henry Etzkowitz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/henry-etzkowitz",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ed Lauing",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/ed-lauing",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bryna Chang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/bryna-chang",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vicki Veenker",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/vicki-veenker",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yu \"Yudy\" Deng",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/yu-yudy-deng",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gary Gechlik",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/gary-gechlik",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Raymond Lee Goins",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/raymond-lee-goins",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Brian Hamachek",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/brian-hamachek",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nora Campos",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-5/nora-campos",
+      "statement": "Businesswoman/Policy Analyst",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peter Ortiz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-5/peter-ortiz",
+      "statement": "Councilmember, City of San Jose District 5",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Van Le",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-7/van-le",
+      "statement": "Trustee East Side Union High School District",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bien Doan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-7/bien-doan",
+      "statement": "Council Member, City of San Jose District 7",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Genny Altwer",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-9/genny-altwer",
+      "statement": "Business Owner/Mother",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gordon Chester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-9/gordon-chester",
+      "statement": "City of San Jose Infrastructure Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Wiltberger",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/mike-wiltberger",
+      "statement": "Research Scientist/Entrepreneur",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Armando \"Gary\" Ferraris",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/armando-gary-ferraris",
+      "statement": "Retired City Employee",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Karen Hardy",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/karen-hardy",
+      "statement": "City of Santa Clara Councilmember District 3",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Kertes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/david-kertes",
+      "statement": "Bussinessman/Father/Coach",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kathy Watanabe",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/kathy-watanabe",
+      "statement": "School Board Trustee",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kevin Park",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/kevin-park",
+      "statement": "City of Santa Clara Councilmember, District 4",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kimberley Williams",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-2/kimberley-williams",
+      "statement": "University Administrator/Mother",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yvonne Inciarte",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-2/yvonne-inciarte",
+      "statement": "Government Relations Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kyle Madej",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-3/kyle-madej",
+      "statement": "Businessman/Father",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eric Crutchlow",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-3/eric-crutchlow",
+      "statement": "Cybersecurity Product Manager",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/saratoga",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jeri Bromley",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-city-council/jeri-bromley",
+      "statement": "Commissioner, Saratoga Library and Public Art Commission",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/saratoga",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ping Li",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-city-council/ping-li",
+      "statement": "Chairperson, Planning Commission",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/saratoga",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bill Dalton",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-city-council/bill-dalton",
+      "statement": "Retired Programmer/Engineer",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Saratoga City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/saratoga",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Glenn K. Hendricks",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-city-council/glenn-k-hendricks",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Linda Sell",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-city-council-district-1/linda-sell",
+      "statement": "Sunnyvale Councilmember, District 1",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Murali Srinivasan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-city-council-district-3/murali-srinivasan",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard Mehlinger",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-city-council-district-5/richard-mehlinger",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jimmy Forbis",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-1/jimmy-forbis",
+      "statement": "Retired City Manager",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "John L. Varela",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-1/john-l-varela",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Phuong Tran Nguyen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-6/phuong-tran-nguyen",
+      "statement": "Field Representative",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Milan Balinton",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-6/milan-balinton",
+      "statement": "Nonprofit Executive Director",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pete Dailey",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-7/pete-dailey",
+      "statement": "Member, Los Altos City Council",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rebecca Eisenberg",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-7/rebecca-eisenberg",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patrick Shupui Kwok",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-sanitary-district-board/patrick-shupui-kwok",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Taghi Saadati",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-sanitary-district-board/taghi-saadati",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Cupertino Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gilbert Wong",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-sanitary-district-board/gilbert-wong",
+      "statement": "Small Business Owner",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Craig Gleason",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/midpeninsula-regional-open-space-district-board-ward-1/craig-gleason",
+      "statement": "Incumbent",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tina Marie To",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/midpeninsula-regional-open-space-district-board-ward-1/tina-marie-to",
+      "statement": "Director of Operations",
+      "source": "https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf?VersionId=CM6jbwAVTLFIjLakj6hJku2l9KPAIxli"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill — Measure A",
+        "kind": "measure",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-measure-a/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill — Measure A",
+        "kind": "measure",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-measure-a/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-measure-b/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-measure-b/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara — Measure C",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-measure-c/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara — Measure C",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-measure-c/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-measure-d-citizen-sponsored-initiative/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-measure-d-citizen-sponsored-initiative/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure E (City Charter Amendment - Modernizing Provisions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-measure-e-city-charter-amendment-modernizing-provisions/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure E (City Charter Amendment - Modernizing Provisions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-measure-e-city-charter-amendment-modernizing-provisions/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure F (Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-measure-f-transient-occupancy-tax/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure F (Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-measure-f-transient-occupancy-tax/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure G",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-g/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure G",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-g/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure H",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-h/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure H",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-h/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure I",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-i/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale — Measure I",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-measure-i/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-measure-j-transactions-and-use-tax/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-measure-j-transactions-and-use-tax/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Milpitas — Measure K",
+        "kind": "measure",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-measure-k/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Milpitas — Measure K",
+        "kind": "measure",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-measure-k/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Cupertino — Measure L",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-measure-l/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Cupertino — Measure L",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-measure-l/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-measure-m-school-bonds/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-measure-m-school-bonds/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-saratoga-union-high-school-district-measure-n-school-bonds/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-saratoga-union-high-school-district-measure-n-school-bonds/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-o-parcel-tax/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-o-parcel-tax/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-p-general-obligation-bond/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-p-general-obligation-bond/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District — Measure Q (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-measure-q-parcel-tax/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District — Measure Q (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-measure-q-parcel-tax/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District — Measure R (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-measure-r-parcel-tax/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District — Measure R (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-measure-r-parcel-tax/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "El Camino Healthcare District — Measure S",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/el-camino-healthcare-district-measure-s/yes",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    },
+    {
+      "subject": {
+        "title": "El Camino Healthcare District — Measure S",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/el-camino-healthcare-district-measure-s/no",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/lookups.json"
+    }
+  ]
+}
