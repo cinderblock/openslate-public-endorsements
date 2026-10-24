@@ -1,0 +1,2533 @@
+{
+  "context": {
+    "title": "San Mateo County Elections — 2026-11-03 ballot: local candidates and measures",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Mateo County Elections",
+      "uri": "https://www.smcacre.gov/elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-24T20:44:58Z",
+    "sources": [
+      "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf",
+      "https://www.smcacre.gov/elections/current-election"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Mateo County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Beverly Gerard",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-education-trustee-area-2/beverly-gerard",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dana Johnson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-education-trustee-area-2/dana-johnson",
+      "statement": "Program Director / Commissioner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mike Guingona",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-board-trustee-area-2/mike-guingona",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jason Holt",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-board-trustee-area-2/jason-holt",
+      "statement": "Software Engineer / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peter Tokofsky",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-board-trustee-area-c/peter-tokofsky",
+      "statement": "Teacher / Dad / Journalist",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lizet Cortes-Ronquillo",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-board-trustee-area-c/lizet-cortes-ronquillo",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Beth Alexander",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-board-trustee-area-e/mary-beth-alexander",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrea Rosenthal",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-board-trustee-area-e/andrea-rosenthal",
+      "statement": "Teacher / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chialin Hsieh",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-unified-school-district-board-trustee-area-c/chialin-hsieh",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Avin Sharma",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-unified-school-district-board-trustee-area-c/avin-sharma",
+      "statement": "Parent / Finance Administrator",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Lara",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-unified-school-district-board-trustee-area-e/frank-lara",
+      "statement": "Teacher / Union Leader",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mina A. Richardson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-unified-school-district-board-trustee-area-e/mina-a-richardson",
+      "statement": "SSFUSD Trustee",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diana Harris",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-3/diana-harris",
+      "statement": "Teacher / Mother",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Jacobson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-3/jennifer-jacobson",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kimo Rosenbaum",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-5/kimo-rosenbaum",
+      "statement": "Parent / Software Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alison Proctor",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-5/alison-proctor",
+      "statement": "San Mateo-Foster City School District Trustee",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Amy Koo",
+      "choice_id": "san-mateo-county-elections:2026-11-03/sequoia-union-high-school-district-board-trustee-area-a/amy-koo",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alon Shiran",
+      "choice_id": "san-mateo-county-elections:2026-11-03/sequoia-union-high-school-district-board-trustee-area-a/alon-shiran",
+      "statement": "Product Executive / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Dekshenieks",
+      "choice_id": "san-mateo-county-elections:2026-11-03/sequoia-union-high-school-district-board-trustee-area-d/michael-dekshenieks",
+      "statement": "Management Executive / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sathvik Nori",
+      "choice_id": "san-mateo-county-elections:2026-11-03/sequoia-union-high-school-district-board-trustee-area-d/sathvik-nori",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charlene Larson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-school-district-board/charlene-larson",
+      "statement": "Retired Federal Employee",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Morgan Finlay",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-school-district-board/morgan-finlay",
+      "statement": "Appointed Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Emily Wirowek",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-school-district-board/emily-wirowek",
+      "statement": "Parent / Attorney",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah Duffy",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-school-district-board/sarah-duffy",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jed Scolnick",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-school-district-board/jed-scolnick",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Maya Herstein",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-school-district-board/maya-herstein",
+      "statement": "Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sherwin Chen",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-school-district-board/sherwin-chen",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrew Barnes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-school-district-board/andrew-barnes",
+      "statement": "County of Santa Clara Facilities Professional",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bridget Hardt",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/bridget-hardt",
+      "statement": "Appointed Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rachel Durkin",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/rachel-durkin",
+      "statement": "Realtor / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Grace Sobieski",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/grace-sobieski",
+      "statement": "Parent / Educator",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tiffany Button",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/tiffany-button",
+      "statement": "Quality Director / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christopher Swiedler",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/christopher-swiedler",
+      "statement": "Parent / Software Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Katy Bradley",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/katy-bradley",
+      "statement": "Union Organizer / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laverne R Villalobos",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board/laverne-r-villalobos",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kelly Mendoza",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board-short-term/kelly-mendoza",
+      "statement": "Education Programs Leader",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tracey Simmons",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board-short-term/tracey-simmons",
+      "statement": "Artist / Biologist",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District Board (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elizabeth A. Bredall",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-board-short-term/elizabeth-a-bredall",
+      "statement": "Special Education Paraprofessional",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Boris Lipkin",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-board/boris-lipkin",
+      "statement": "Appointed San Carlos School District Member, Governing Board",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Richard F. Wahl",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-board/richard-f-wahl",
+      "statement": "Optician / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Megha Chawla",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-board/megha-chawla",
+      "statement": "Tech Executive / Mother",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Shivani Tripathi",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-board/shivani-tripathi",
+      "statement": "Community Volunteer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark Nagales",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-supervisors-district-5-short-term/mark-nagales",
+      "statement": "Vice Mayor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Juslyn Cabrera Manalo",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-supervisors-district-5-short-term/juslyn-cabrera-manalo",
+      "statement": "Daly City Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Belmont Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Julia Mates",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-mayor/julia-mates",
+      "statement": "Mayor of Belmont",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Belmont City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gina Latimerlo",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-city-council-district-1/gina-latimerlo",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Belmont City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sarah K.M. Delisle",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-city-council-district-3/sarah-k-m-delisle",
+      "statement": "Mother / Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Julie Sims",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-city-council/julie-sims",
+      "statement": "Small Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charles Spencer",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-city-council/charles-spencer",
+      "statement": "Small Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Madison Davis",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-city-council/madison-davis",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chaya-Bella David",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-city-council/chaya-bella-david",
+      "statement": "Community Volunteer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christopher Hornick",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-city-council/christopher-hornick",
+      "statement": "Businessman / Entrepreneur",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Andrea Pappajohn",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-city-council-district-1/andrea-pappajohn",
+      "statement": "Burlingame Vice Mayor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jen Faber",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-city-council-district-3/jen-faber",
+      "statement": "Education Foundation Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Howard Wettan",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-city-council-district-3/howard-wettan",
+      "statement": "City Commissioner / Attorney",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Peter W. Stevenson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-city-council-district-5/peter-w-stevenson",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Colma City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/colma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Helen Fisicaro",
+      "choice_id": "san-mateo-county-elections:2026-11-03/colma-city-council/helen-fisicaro",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Colma City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/colma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura M Walsh",
+      "choice_id": "san-mateo-county-elections:2026-11-03/colma-city-council/laura-m-walsh",
+      "statement": "Medical Assistant",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Colma City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/colma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joanne F. Del Rosario",
+      "choice_id": "san-mateo-county-elections:2026-11-03/colma-city-council/joanne-f-del-rosario",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Colma City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/colma",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Elisabeth Aurora Jenson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/colma-city-council/elisabeth-aurora-jenson",
+      "statement": "Entrepreneur / Artist",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Thomas A. Nuris",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/thomas-a-nuris",
+      "statement": "Attorney",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pamela DiGiovanni",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/pamela-digiovanni",
+      "statement": "Daly City Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Teresa Proaño",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/teresa-proano",
+      "statement": "City Councilmember / Businesswoman",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Tony Bayudan",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/tony-bayudan",
+      "statement": "Chief of Staff",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rod Daus-Magbual",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/rod-daus-magbual",
+      "statement": "Councilman / Professor / Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Asia Su",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/asia-su",
+      "statement": "Small Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Barry Rodriguez",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/barry-rodriguez",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Holifa Windom",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/holifa-windom",
+      "statement": "Businesswoman",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gail Wilk Dixon",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/gail-wilk-dixon",
+      "statement": "Legal Investigator",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ruben Abrica",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/ruben-abrica",
+      "statement": "Substitute Teacher",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sam Jimenez",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/sam-jimenez",
+      "statement": "Plumbing Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ofelia Bello",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/ofelia-bello",
+      "statement": "Nonprofit Executive Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Deborah Lewis-Virges",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/deborah-lewis-virges",
+      "statement": "Pastor / Community Advocate",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Michael Mashack",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-city-council/michael-mashack",
+      "statement": "Planning Commissioner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Art Kiesel",
+      "choice_id": "san-mateo-county-elections:2026-11-03/foster-city-city-council-district-1/art-kiesel",
+      "statement": "Mayor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Phoebe Shin Venkat",
+      "choice_id": "san-mateo-county-elections:2026-11-03/foster-city-city-council-district-1/phoebe-shin-venkat",
+      "statement": "Nonprofit Executive / Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Stacy Jimenez",
+      "choice_id": "san-mateo-county-elections:2026-11-03/foster-city-city-council-district-2/stacy-jimenez",
+      "statement": "Councilmember / Attorney",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert Brownstone",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-1/robert-brownstone",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "David Gorn",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-1/david-gorn",
+      "statement": "Planning Commissioner Chair",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ron Kies",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-4/ron-kies",
+      "statement": "Geologist",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Debbie Ruddock",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-4/debbie-ruddock",
+      "statement": "Retired Legislative Analyst",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Susie Morasci",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-5/susie-morasci",
+      "statement": "Paralegal",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Steven R. Booker",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-city-council-district-5/steven-r-booker",
+      "statement": "Electrician",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "James Rohr",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-1/james-rohr",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Wonman Lee",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-1/wonman-lee",
+      "statement": "Software Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Drew Combs",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-2/drew-combs",
+      "statement": "Menlo Park City Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Vamsi Velagapudi",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-2/vamsi-velagapudi",
+      "statement": "Community Volunteer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Charlotte Reed",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-4/charlotte-reed",
+      "statement": "Communications Professional / Singer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Laura Melahn",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-city-council-district-4/laura-melahn",
+      "statement": "Entrepreneur / Nonprofit Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sissy Riley",
+      "choice_id": "san-mateo-county-elections:2026-11-03/millbrae-city-council-district-2/sissy-riley",
+      "statement": "Appointed Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Juan Gámez",
+      "choice_id": "san-mateo-county-elections:2026-11-03/millbrae-city-council-district-3-short-term/juan-gamez",
+      "statement": "Business Consultant / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ann Schneider",
+      "choice_id": "san-mateo-county-elections:2026-11-03/millbrae-city-council-district-3-short-term/ann-schneider",
+      "statement": "Community Volunteer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Albert Yam",
+      "choice_id": "san-mateo-county-elections:2026-11-03/millbrae-city-council-district-4/albert-yam",
+      "statement": "University Data Analyst",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Millbrae City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/millbrae",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Bob Nguyen",
+      "choice_id": "san-mateo-county-elections:2026-11-03/millbrae-city-council-district-4/bob-nguyen",
+      "statement": "Small Business Owner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Christine Boles",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-city-council-district-2/christine-boles",
+      "statement": "Architect / Businesswoman / Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dan Urban",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-city-council-district-2/dan-urban",
+      "statement": "Retired Regional Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cindy Abbott",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-city-council-district-3/cindy-abbott",
+      "statement": "Nonprofit Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Margo Meiman",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-city-council-district-5/margo-meiman",
+      "statement": "Retired Teacher",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sam Casillas",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-city-council-district-5/sam-casillas",
+      "statement": "Climate Resiliency Manager",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Portola Valley Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/portola-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mary Hufty",
+      "choice_id": "san-mateo-county-elections:2026-11-03/portola-valley-town-council/mary-hufty",
+      "statement": "Portola Valley Vice Mayor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Portola Valley Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/portola-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Craig S Taylor",
+      "choice_id": "san-mateo-county-elections:2026-11-03/portola-valley-town-council/craig-s-taylor",
+      "statement": "Town Council Member",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Portola Valley Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/portola-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Judith A. Hasko",
+      "choice_id": "san-mateo-county-elections:2026-11-03/portola-valley-town-council/judith-a-hasko",
+      "statement": "Town Council Member",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Chris Sturken",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-2/chris-sturken",
+      "statement": "City Council Member",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kaia Eakin",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-5/kaia-eakin",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Diane Howard",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-6/diane-howard",
+      "statement": "City Councilmember / Nurse",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rico E. Medina",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-mayor/rico-e-medina",
+      "statement": "Mayor, City of San Bruno",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Jennifer M. Blanco",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-city-council-district-1/jennifer-m-blanco",
+      "statement": "Juvenile Justice Commissioner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kingsley Ma",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-city-council-district-1/kingsley-ma",
+      "statement": "School Board President",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Marty P. Medina",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-city-council-district-4/marty-p-medina",
+      "statement": "San Bruno City Councilmember District 4",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Auros Harman",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-city-council-district-4/auros-harman",
+      "statement": "Planning Commissioner / Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Pranita Venkatesh",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-city-council/pranita-venkatesh",
+      "statement": "Councilmember / Educator",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sara McDowell",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-city-council/sara-mcdowell",
+      "statement": "City Councilmember / Mother",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Adam Rak",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-city-council/adam-rak",
+      "statement": "San Carlos City Councilmember",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Mark D. Iwanowski",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-city-council/mark-d-iwanowski",
+      "statement": "Business Owner / Entrepreneur",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Taso Zografos",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-1/taso-zografos",
+      "statement": "Business Executive / Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lisa Diaz Nash",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-1/lisa-diaz-nash",
+      "statement": "San Mateo Councilmember, District 1",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Seema Patel",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-3/seema-patel",
+      "statement": "Planning Commissioner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Robert G. Newsom Jr.",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-3/robert-g-newsom-jr",
+      "statement": "Councilmember / Businessman / Father",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dave Johnson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-5/dave-johnson",
+      "statement": "Pastor / Coach",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Dana Yates Sahae",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-5/dana-yates-sahae",
+      "statement": "Community Advocate / Parent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Adam Loraine",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-5/adam-loraine",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Aysha Dominguez Pamukcu",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-1/aysha-dominguez-pamukcu",
+      "statement": "Policy Fund Director",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Buenaflor (Flor) Nicolas",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-3/buenaflor-flor-nicolas",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Sophia Cyris",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-3/sophia-cyris",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Melanie Olson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-3/melanie-olson",
+      "statement": "Associate Planner",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Eddie Flores",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-5/eddie-flores",
+      "statement": "South San Francisco Councilmember, District 5",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Rosa Govea Acosta",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-clerk/rosa-govea-acosta",
+      "statement": "City Clerk",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Frank Risso",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-treasurer/frank-risso",
+      "statement": "City Treasurer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Woodside Town Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/woodside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Lyle Weaver",
+      "choice_id": "san-mateo-county-elections:2026-11-03/woodside-town-council-district-2/lyle-weaver",
+      "statement": "Retired Engineer",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Woodside Town Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/woodside",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Daniel Druker",
+      "choice_id": "san-mateo-county-elections:2026-11-03/woodside-town-council-district-3/daniel-druker",
+      "statement": "Retired Technology Executive",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside County Water District Board, Zone 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Nancy Eleanora Poss",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-county-water-district-board-zone-5/nancy-eleanora-poss",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside County Water District Board, Zone 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Joey P. Silva",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-county-water-district-board-zone-5/joey-p-silva",
+      "statement": "Retired Maintenance Supervisor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside Fire Protection District Board, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Ryan McGraw",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-fire-protection-district-board-district-d/ryan-mcgraw",
+      "statement": "Deputy Fire Marshal",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside Fire Protection District Board, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Cynthia Sherrill",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-fire-protection-district-board-district-d/cynthia-sherrill",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside Fire Protection District Board, District E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Gary Burke",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-fire-protection-district-board-district-e/gary-burke",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Coastside Fire Protection District Board, District E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Alex Carrillo",
+      "choice_id": "san-mateo-county-elections:2026-11-03/coastside-fire-protection-district-board-district-e/alex-carrillo",
+      "statement": "Crisis Management Professional",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Granada Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Barbara Dye",
+      "choice_id": "san-mateo-county-elections:2026-11-03/granada-community-services-district-board/barbara-dye",
+      "statement": "Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Granada Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Kevin W. Sniecinski",
+      "choice_id": "san-mateo-county-elections:2026-11-03/granada-community-services-district-board/kevin-w-sniecinski",
+      "statement": "Researcher / Community Advocate",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Granada Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Matt Allen",
+      "choice_id": "san-mateo-county-elections:2026-11-03/granada-community-services-district-board/matt-allen",
+      "statement": "Appointed Incumbent",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Granada Community Services District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Patrick Tierney",
+      "choice_id": "san-mateo-county-elections:2026-11-03/granada-community-services-district-board/patrick-tierney",
+      "statement": "Retired Professor",
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-measure-d-transient-occupancy-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-ImpartialAnalysis-Burlingame-Occupancy-Tax_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burlingame",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-measure-d-transient-occupancy-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MD-ImpartialAnalysis-Burlingame-Occupancy-Tax_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-measure-e-rent-control-and-eviction-limits-initiative/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-ImpartialAnalysis-RWC-Housing_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-measure-e-rent-control-and-eviction-limits-initiative/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ME-ImpartialAnalysis-RWC-Housing_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo — Measure F (Charter Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-measure-f-charter-amendment-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MF-ImpartialAnalysis-San-Mateo-Charter-Amendment-Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo — Measure F (Charter Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-measure-f-charter-amendment-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MF-ImpartialAnalysis-San-Mateo-Charter-Amendment-Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-measure-g-transactions-and-use-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ImpartialAnalysis-City-of-San-Carlos-Use-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-measure-g-transactions-and-use-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MG-ImpartialAnalysis-City-of-San-Carlos-Use-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo — Measure H (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-measure-h-transactions-and-use-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-ImpartialAnalysis-San-Mateo-Transactions-and-Use-Tax-Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo — Measure H (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-measure-h-transactions-and-use-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MH-ImpartialAnalysis-San-Mateo-Transactions-and-Use-Tax-Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure I (Coastal Land Use Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-measure-i-coastal-land-use-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure I (Coastal Land Use Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-measure-i-coastal-land-use-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MI-ImpartialAnalysis-Half-Moon-Bay-Coastal-Land_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-j-charter-amendment-measure-extension-to-call-a-special-election-or-appoint/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MJ-ImpartialAnalysis-SMC-Charter-Extension-to-Call%20Special%20Election.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-j-charter-amendment-measure-extension-to-call-a-special-election-or-appoint/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MJ-ImpartialAnalysis-SMC-Charter-Extension-to-Call%20Special%20Election.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-measure-k-parcel-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MK-ImpartialAnalysis-San-Carlos-SD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-school-district-measure-k-parcel-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MK-ImpartialAnalysis-San-Carlos-SD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure L (Charter Amendment Measure – Extreme Weather Events)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-l-charter-amendment-measure-extreme-weather-events/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ML-ImpartialAnalysis-SMC-Charter-Extreme-Weather.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure L (Charter Amendment Measure – Extreme Weather Events)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-l-charter-amendment-measure-extreme-weather-events/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-ML-ImpartialAnalysis-SMC-Charter-Extreme-Weather.pdf"
+    },
+    {
+      "subject": {
+        "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/jefferson-union-high-school-district-measure-m-parcel-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-ImpartialAnalysis-JUHSD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/jefferson-union-high-school-district-measure-m-parcel-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MM-ImpartialAnalysis-JUHSD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Portola Valley — Measure N (Town Charter and Property Transfer Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/portola-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/portola-valley-measure-n-town-charter-and-property-transfer-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-ImpartialAnalysis-PortolaValley-Transfer-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Portola Valley — Measure N (Town Charter and Property Transfer Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/portola-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/portola-valley-measure-n-town-charter-and-property-transfer-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MN-ImpartialAnalysis-PortolaValley-Transfer-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure O (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-measure-o-bond-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ImpartialAnalysis-City-of-East-Palo-Alto-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure O (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-measure-o-bond-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MO-ImpartialAnalysis-City-of-East-Palo-Alto-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-measure-p-citizen-initiative-to-amend-municipal-code/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MP-ImpartialAnalysis-MenloPark-Muni-Amendment.pdf"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-measure-p-citizen-initiative-to-amend-municipal-code/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MP-ImpartialAnalysis-MenloPark-Muni-Amendment.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-measure-q-housing-initiative-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/half-moon-bay",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/half-moon-bay-measure-q-housing-initiative-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MQ-ImpartialAnalysis-Half-Moon-Bay-Housing_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-school-district-measure-r-bond-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-ImpartialAnalysis-Burlingame-ESD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-school-district-measure-r-bond-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MR-ImpartialAnalysis-Burlingame-ESD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure S (Housing Permits and Developments Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-s-housing-permits-and-developments-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure S (Housing Permits and Developments Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-s-housing-permits-and-developments-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MS-ImpartialAnalysis-San-Bruno-Hosuing-Permit-and-Development.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-measure-t-parcel-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-ImpartialAnalysis-Pacifica-SD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-school-district-measure-t-parcel-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MT-ImpartialAnalysis-Pacifica-SD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-u-charter-amendment-measure-reapportionment-of-supervisorial-districts/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MU-ImpartialAnalysis-SMC-Charter-Reapportionment.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-u-charter-amendment-measure-reapportionment-of-supervisorial-districts/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MU-ImpartialAnalysis-SMC-Charter-Reapportionment.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-measure-v-bond-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-ImpartialAnalysis-SMCCD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-measure-v-bond-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MV-ImpartialAnalysis-SMCCD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-foster-city-school-district-measure-w-bond-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-ImpartialAnalysis-SMFCSD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-foster-city-school-district-measure-w-bond-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MW-ImpartialAnalysis-SMFCSD-Bond.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane — Measure X (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-measure-x-business-license-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Brisbane — Measure X (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/brisbane",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/brisbane-measure-x-business-license-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MX-ImpartialAnalysis-City-of-Brisbane-Business-License-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Belmont — Measure Y (Special Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-measure-y-special-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-ImpartialAnalysis-Belmont-Special-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Belmont — Measure Y (Special Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-measure-y-special-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-ImpartialAnalysis-Belmont-Special-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District — Measure Z (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-measure-z-parcel-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MZ-ImpartialAnalysis-Cabrillo-USD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District — Measure Z (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/cabrillo-unified-school-district-measure-z-parcel-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MZ-ImpartialAnalysis-Cabrillo-USD-Parcel-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure AA (Charter Amendment Measure – Affirmation of Rights)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-aa-charter-amendment-measure-affirmation-of-rights/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MAA-ImpartialAnalysis-SMC-Charter-Affirmation-of-Rights.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure AA (Charter Amendment Measure – Affirmation of Rights)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-aa-charter-amendment-measure-affirmation-of-rights/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MAA-ImpartialAnalysis-SMC-Charter-Affirmation-of-Rights.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica — Measure BB (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-measure-bb-transactions-and-use-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ImpartialAnalysis-Pacifica-Transactions-and-Use-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pacifica — Measure BB (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pacifica",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/pacifica-measure-bb-transactions-and-use-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MBB-ImpartialAnalysis-Pacifica-Transactions-and-Use-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure CC (Term Limits Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-measure-cc-term-limits-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-ImpartialAnalysis-EPA-Term-Limits_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure CC (Term Limits Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/east-palo-alto-measure-cc-term-limits-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MCC-ImpartialAnalysis-EPA-Term-Limits_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure DD (Fireworks Ban Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-dd-fireworks-ban-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ImpartialAnalysis-San-Bruno-Fireworks-Ban.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure DD (Fireworks Ban Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-dd-fireworks-ban-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MDD-ImpartialAnalysis-San-Bruno-Fireworks-Ban.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure EE (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-ee-business-license-tax-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ImpartialAnalysis-San-Bruno-Business-License-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Bruno — Measure EE (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-ee-business-license-tax-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MEE-ImpartialAnalysis-San-Bruno-Business-License-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-ImpartialAnalysis-Public-Transit-District-Sales-Tax.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/no",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M206-ImpartialAnalysis-Public-Transit-District-Sales-Tax.pdf"
+    }
+  ]
+}

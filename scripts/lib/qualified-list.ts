@@ -50,10 +50,13 @@ export function readQualifiedList(pages: { lines: Line[] }[]): QualifiedContest[
       const text = row.map((l) => l.text).join(" | ");
       const number = row.find((l) => l.x0 < 30 && l.bold && /^\d{3,5}$/.test(l.text));
       if (number) {
-        const title = row.find((l) => l.x0 > 40 && l.x0 < 300 && l.bold)?.text;
-        const onBallot = /On Ballot: (Yes|No)/.exec(text)?.[1];
-        const voteFor = /Vote For:? (\d+)/i.exec(text)?.[1];
-        if (!title || !onBallot || !voteFor) throw new Error(`can't read contest row "${text}"`);
+        // A contest row's cells can sit a point and a half apart (San Mateo's).
+        const cells = page.lines.filter((l) => Math.abs(l.y - number.y) < 2.5);
+        const header = cells.map((l) => l.text).join(" | ");
+        const title = cells.find((l) => l.x0 > 40 && l.x0 < 300 && l.bold)?.text;
+        const onBallot = /On Ballot: (Yes|No)/.exec(header)?.[1];
+        const voteFor = /Vote For:? (\d+)/i.exec(header)?.[1];
+        if (!title || !onBallot || !voteFor) throw new Error(`can't read contest row "${header}"`);
         current = {
           number: number.text,
           title: title.replace(/\s+/g, " ").trim(),

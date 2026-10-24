@@ -1,0 +1,552 @@
+{
+  "contests": {
+    "County Board of Education Member, Trustee Area 2": {
+      "title": "San Mateo County Board of Education, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "San Mateo County Community College District Member, Governing Board, Trustee Area 2": {
+      "title": "San Mateo County Community College District Board, Trustee Area 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Cabrillo Unified School District Member, Governing Board, Trustee Area C": {
+      "title": "Cabrillo Unified School District Board, Trustee Area C",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Cabrillo Unified School District Member, Governing Board, Trustee Area E": {
+      "title": "Cabrillo Unified School District Board, Trustee Area E",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "South San Francisco Unified School District Member, Governing Board, Trustee Area C": {
+      "title": "South San Francisco Unified School District Board, Trustee Area C",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "South San Francisco Unified School District Member, Governing Board, Trustee Area E": {
+      "title": "South San Francisco Unified School District Board, Trustee Area E",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "San Mateo Union High School District Member, Governing Board, Trustee Area 3": {
+      "title": "San Mateo Union High School District Board, Trustee Area 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "San Mateo Union High School District Member, Governing Board, Trustee Area 5": {
+      "title": "San Mateo Union High School District Board, Trustee Area 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Sequoia Union High School District Member, Governing Board, Trustee Area A": {
+      "title": "Sequoia Union High School District Board, Trustee Area A",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Sequoia Union High School District Member, Governing Board, Trustee Area D": {
+      "title": "Sequoia Union High School District Board, Trustee Area D",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Brisbane School District Member, Governing Board": {
+      "title": "Brisbane School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Menlo Park City School District Member, Governing Board": {
+      "title": "Menlo Park City School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Pacifica School District Member, Governing Board (Full Term)": {
+      "title": "Pacifica School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Pacifica School District Member, Governing Board (Short Term)": {
+      "title": "Pacifica School District Board (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "San Carlos School District Member, Governing Board": {
+      "title": "San Carlos School District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Member, Board of Supervisors, District 5 (Short Term)": {
+      "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "City of Belmont Mayor": {
+      "title": "Belmont Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/belmont",
+      "election": "2026-11-03"
+    },
+    "City of Belmont Member, City Council, District 1": {
+      "title": "Belmont City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/belmont",
+      "election": "2026-11-03"
+    },
+    "City of Belmont Member, City Council, District 3": {
+      "title": "Belmont City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/belmont",
+      "election": "2026-11-03"
+    },
+    "City of Brisbane Member, City Council": {
+      "title": "Brisbane City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/brisbane",
+      "election": "2026-11-03"
+    },
+    "City of Burlingame Member, City Council, District 1": {
+      "title": "Burlingame City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/burlingame",
+      "election": "2026-11-03"
+    },
+    "City of Burlingame Member, City Council, District 3": {
+      "title": "Burlingame City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/burlingame",
+      "election": "2026-11-03"
+    },
+    "City of Burlingame Member, City Council, District 5": {
+      "title": "Burlingame City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/burlingame",
+      "election": "2026-11-03"
+    },
+    "Town of Colma Member, City Council": {
+      "title": "Colma City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/colma",
+      "election": "2026-11-03"
+    },
+    "City of Daly City Member, City Council": {
+      "title": "Daly City City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/daly-city",
+      "election": "2026-11-03"
+    },
+    "City of East Palo Alto Member, City Council": {
+      "title": "East Palo Alto City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/east-palo-alto",
+      "election": "2026-11-03"
+    },
+    "City of Foster City Member, City Council, District 1": {
+      "title": "Foster City City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/foster-city",
+      "election": "2026-11-03"
+    },
+    "City of Foster City Member, City Council, District 2": {
+      "title": "Foster City City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/foster-city",
+      "election": "2026-11-03"
+    },
+    "City of Half Moon Bay Member, City Council, District 1": {
+      "title": "Half Moon Bay City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/half-moon-bay",
+      "election": "2026-11-03"
+    },
+    "City of Half Moon Bay Member, City Council, District 4": {
+      "title": "Half Moon Bay City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/half-moon-bay",
+      "election": "2026-11-03"
+    },
+    "City of Half Moon Bay Member, City Council, District 5": {
+      "title": "Half Moon Bay City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/half-moon-bay",
+      "election": "2026-11-03"
+    },
+    "City of Menlo Park Member, City Council, District 1": {
+      "title": "Menlo Park City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/menlo-park",
+      "election": "2026-11-03"
+    },
+    "City of Menlo Park Member, City Council, District 2": {
+      "title": "Menlo Park City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/menlo-park",
+      "election": "2026-11-03"
+    },
+    "City of Menlo Park Member, City Council, District 4": {
+      "title": "Menlo Park City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/menlo-park",
+      "election": "2026-11-03"
+    },
+    "City of Millbrae Member, City Council, District 2 (Full Term)": {
+      "title": "Millbrae City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/millbrae",
+      "election": "2026-11-03"
+    },
+    "City of Millbrae Member, City Council, District 3 (Short Term)": {
+      "title": "Millbrae City Council, District 3 (Short Term)",
+      "kind": "race",
+      "jurisdiction": "us/ca/millbrae",
+      "election": "2026-11-03"
+    },
+    "City of Millbrae Member, City Council, District 4 (Full Term)": {
+      "title": "Millbrae City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/millbrae",
+      "election": "2026-11-03"
+    },
+    "City of Pacifica Member, City Council, District 2": {
+      "title": "Pacifica City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/pacifica",
+      "election": "2026-11-03"
+    },
+    "City of Pacifica Member, City Council, District 3": {
+      "title": "Pacifica City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/pacifica",
+      "election": "2026-11-03"
+    },
+    "City of Pacifica Member, City Council, District 5": {
+      "title": "Pacifica City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/pacifica",
+      "election": "2026-11-03"
+    },
+    "Town of Portola Valley Member, Town Council": {
+      "title": "Portola Valley Town Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/portola-valley",
+      "election": "2026-11-03"
+    },
+    "City of Redwood City Member, City Council, District 2": {
+      "title": "Redwood City City Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/redwood-city",
+      "election": "2026-11-03"
+    },
+    "City of Redwood City Member, City Council, District 5": {
+      "title": "Redwood City City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/redwood-city",
+      "election": "2026-11-03"
+    },
+    "City of Redwood City Member, City Council, District 6": {
+      "title": "Redwood City City Council, District 6",
+      "kind": "race",
+      "jurisdiction": "us/ca/redwood-city",
+      "election": "2026-11-03"
+    },
+    "City of San Bruno Mayor": {
+      "title": "San Bruno Mayor",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "City of San Bruno Member, City Council, District 1": {
+      "title": "San Bruno City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "City of San Bruno Member, City Council, District 4": {
+      "title": "San Bruno City Council, District 4",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "City of San Carlos Member, City Council": {
+      "title": "San Carlos City Council",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-carlos",
+      "election": "2026-11-03"
+    },
+    "City of San Mateo Member, City Council, District 1": {
+      "title": "San Mateo City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo",
+      "election": "2026-11-03"
+    },
+    "City of San Mateo Member, City Council, District 3": {
+      "title": "San Mateo City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo",
+      "election": "2026-11-03"
+    },
+    "City of San Mateo Member, City Council, District 5": {
+      "title": "San Mateo City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo",
+      "election": "2026-11-03"
+    },
+    "City of South San Francisco Member, City Council, District 1": {
+      "title": "South San Francisco City Council, District 1",
+      "kind": "race",
+      "jurisdiction": "us/ca/south-san-francisco",
+      "election": "2026-11-03"
+    },
+    "City of South San Francisco Member, City Council, District 3": {
+      "title": "South San Francisco City Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/south-san-francisco",
+      "election": "2026-11-03"
+    },
+    "City of South San Francisco Member, City Council, District 5": {
+      "title": "South San Francisco City Council, District 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/south-san-francisco",
+      "election": "2026-11-03"
+    },
+    "City of South San Francisco City Clerk": {
+      "title": "South San Francisco City Clerk",
+      "kind": "race",
+      "jurisdiction": "us/ca/south-san-francisco",
+      "election": "2026-11-03"
+    },
+    "City of South San Francisco City Treasurer": {
+      "title": "South San Francisco City Treasurer",
+      "kind": "race",
+      "jurisdiction": "us/ca/south-san-francisco",
+      "election": "2026-11-03"
+    },
+    "Town of Woodside Member, Town Council, District 2": {
+      "title": "Woodside Town Council, District 2",
+      "kind": "race",
+      "jurisdiction": "us/ca/woodside",
+      "election": "2026-11-03"
+    },
+    "Town of Woodside Member, Town Council, District 3": {
+      "title": "Woodside Town Council, District 3",
+      "kind": "race",
+      "jurisdiction": "us/ca/woodside",
+      "election": "2026-11-03"
+    },
+    "Coastside County Water District Member, Board of Directors, Zone 5": {
+      "title": "Coastside County Water District Board, Zone 5",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Coastside Fire Protection District Member, Board of Directors, District D": {
+      "title": "Coastside Fire Protection District Board, District D",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Coastside Fire Protection District Member, Board of Directors, District E": {
+      "title": "Coastside Fire Protection District Board, District E",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Granada Community Services District Member, Board of Directors": {
+      "title": "Granada Community Services District Board",
+      "kind": "race",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    }
+  },
+  "measures": {
+    "Measure D": {
+      "title": "Burlingame — Measure D (Transient Occupancy Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/burlingame",
+      "election": "2026-11-03"
+    },
+    "Measure E": {
+      "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/redwood-city",
+      "election": "2026-11-03"
+    },
+    "Measure F": {
+      "title": "San Mateo — Measure F (Charter Amendment Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo",
+      "election": "2026-11-03"
+    },
+    "Measure G": {
+      "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-carlos",
+      "election": "2026-11-03"
+    },
+    "Measure H": {
+      "title": "San Mateo — Measure H (Transactions and Use Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo",
+      "election": "2026-11-03"
+    },
+    "Measure I": {
+      "title": "Half Moon Bay — Measure I (Coastal Land Use Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/half-moon-bay",
+      "election": "2026-11-03"
+    },
+    "Measure J": {
+      "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure K": {
+      "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure L": {
+      "title": "San Mateo County — Measure L (Charter Amendment Measure – Extreme Weather Events)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure M": {
+      "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure N": {
+      "title": "Portola Valley — Measure N (Town Charter and Property Transfer Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/portola-valley",
+      "election": "2026-11-03"
+    },
+    "Measure O": {
+      "title": "East Palo Alto — Measure O (Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/east-palo-alto",
+      "election": "2026-11-03"
+    },
+    "Measure P": {
+      "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/menlo-park",
+      "election": "2026-11-03"
+    },
+    "Measure Q": {
+      "title": "Half Moon Bay — Measure Q (Housing Initiative Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/half-moon-bay",
+      "election": "2026-11-03"
+    },
+    "Measure R": {
+      "title": "Burlingame School District — Measure R (Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure S": {
+      "title": "San Bruno — Measure S (Housing Permits and Developments Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "Measure T": {
+      "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure U": {
+      "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure V": {
+      "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure W": {
+      "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure X": {
+      "title": "Brisbane — Measure X (Business License Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/brisbane",
+      "election": "2026-11-03"
+    },
+    "Measure Y": {
+      "title": "Belmont — Measure Y (Special Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/belmont",
+      "election": "2026-11-03"
+    },
+    "Measure Z": {
+      "title": "Cabrillo Unified School District — Measure Z (Parcel Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure AA": {
+      "title": "San Mateo County — Measure AA (Charter Amendment Measure – Affirmation of Rights)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "election": "2026-11-03"
+    },
+    "Measure BB": {
+      "title": "Pacifica — Measure BB (Transactions and Use Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/pacifica",
+      "election": "2026-11-03"
+    },
+    "Measure CC": {
+      "title": "East Palo Alto — Measure CC (Term Limits Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/east-palo-alto",
+      "election": "2026-11-03"
+    },
+    "Measure DD": {
+      "title": "San Bruno — Measure DD (Fireworks Ban Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "Measure EE": {
+      "title": "San Bruno — Measure EE (Business License Tax Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/san-bruno",
+      "election": "2026-11-03"
+    },
+    "Regional Transit Measure": {
+      "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+      "kind": "measure",
+      "jurisdiction": "us/ca/bay-area",
+      "election": "2026-11-03"
+    }
+  }
+}
