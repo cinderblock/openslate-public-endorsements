@@ -277,3 +277,9 @@ byte-for-byte, including the Orange County supervisor seats, which use
   digital guide has long per-race blurbs. Only the Prop 40 card's one-line
   tagline was captured and quoted. (Local positions added 10-19 all carry a
   statement.)
+
+## Not on the Nov 3 ballot: removed 2026-10-24
+
+The catalog's ballot check found this position on a seat no ballot carries: it was uncontested, so no election is held for it. It was removed, since a position here has to map to a ballot entry.
+
+- Foothill-De Anza Community College District Board, Trustee Area 2: Alexander Gvatua. Not on the ballot: Santa Clara County's Final Qualified List of Local Eligible Candidates (contest 3214, https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf) lists him as the seat's only qualified candidate, marked "On Ballot: No".
