@@ -53,3 +53,11 @@
   (all three endorsees are on the full-term ballot).
 - All endorsees were confirmed as qualified candidates on the ACRE roster;
   none were dropped.
+
+## Not on the Nov 3 ballot: removed 2026-10-24
+
+The catalog's ballot check found these positions on seats no ballot carries: each was uncontested (no more qualified candidates than seats), so no election is held for it. They were removed, since a position here has to map to a ballot entry. San Mateo's Roster of Candidates (https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf) marks each contest "On Ballot: No".
+
+- Jefferson Elementary School District Board (full term, 3 seats): Aaron Rashba, Anthony Tsujisaka, Shakeel Ali, the only three qualified candidates (contest 3500).
+- San Mateo-Foster City School District Board, Trustee Area 1: Allyson Chan, the only qualified candidate (contest 3702).
+- Millbrae Elementary School District Board (3 seats): Nnenna C. Okezie-Sanchez, one of three qualified candidates (contest 3561).
