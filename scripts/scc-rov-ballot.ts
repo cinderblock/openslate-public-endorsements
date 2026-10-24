@@ -13,7 +13,7 @@
 // Titles reuse the catalog's own subjects where a bundle already names the contest
 // (scripts/lib/ballot-subjects.ts).
 //
-//   bun scripts/scc-rov-ballot.ts 2026-11-03 --fetch
+//   bun scripts/scc-rov-ballot.ts 2026-11-03 --fetch [--pdf <saved qualified list> [--url <its URL>]]
 //   bun scripts/scc-rov-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
@@ -31,7 +31,9 @@ const election = process.argv[2] ?? "";
 if (!election) throw new Error("usage: scc-rov-ballot.ts <election> [--fetch] [--apply]");
 const fetchMode = process.argv.includes("--fetch");
 const apply = process.argv.includes("--apply");
-const dir = `orgs/santa-clara-registrar-of-voters/${election}`;
+const argAfter = (flag: string) =>
+  process.argv.includes(flag) ? process.argv[process.argv.indexOf(flag) + 1] : undefined;
+const dir =`orgs/santa-clara-registrar-of-voters/${election}`;
 const EVIDENCE = `${dir}/evidence`;
 
 const SITE = "https://vote.santaclaracounty.gov";
@@ -74,13 +76,15 @@ async function get(url: string): Promise<Response> {
   return response;
 }
 
-/** Lines sharing a baseline (within a point and a half), top to bottom, each row left to right. */
+/** Lines sharing a baseline, top to bottom, each row left to right. */
 function rows(lines: Line[]): Line[][] {
   const sorted = [...lines].sort((a, b) => b.y - a.y || a.x0 - b.x0);
   const out: Line[][] = [];
   for (const line of sorted) {
     const row = out.at(-1);
-    if (row && Math.abs((row[0] as Line).y - line.y) < 1.5) row.push(line);
+    // Within a point of the row's lowest line so far: cells of one row sit up to a point apart,
+    // and a candidate's website line can sit 1.4 pt above the next candidate's name.
+    if (row && (row.at(-1) as Line).y - line.y < 1) row.push(line);
     else out.push([line]);
   }
   return out.map((r) => r.sort((a, b) => a.x0 - b.x0));
@@ -115,9 +119,15 @@ function readQualifiedList(pages: { lines: Line[] }[]): Contest[] {
         awaitingDesignation = undefined;
         continue;
       }
-      const qualified = row
-        .map((l) => /^Qualified \d+ (.+)$/.exec(l.text)?.[1])
-        .find((name) => name !== undefined);
+      // Usually one run, "Qualified 2 Jason Lin"; sometimes the name is set apart, in bold.
+      const qualified = row.some((l) => /^Qualified \d+$/.test(l.text))
+        ? row.find((l) => l.bold && l.x0 > 100 && l.x0 < 340)?.text
+        : row
+            .map((l) => /^Qualified \d+ (.+)$/.exec(l.text)?.[1])
+            .find((name) => name !== undefined);
+      if (!qualified && row.some((l) => /^Qualified \d+/.test(l.text))) {
+        throw new Error(`can't read the candidate in "${text}"`);
+      }
       if (qualified) {
         if (!current) throw new Error(`candidate "${qualified}" before any contest`);
         awaitingDesignation = { name: qualified.replace(/\s+/g, " ").trim(), designation: "" };
@@ -137,14 +147,30 @@ function readQualifiedList(pages: { lines: Line[] }[]): Contest[] {
   return contests;
 }
 
-async function fetchEvidence(): Promise<void> {
-  mkdirSync(EVIDENCE, { recursive: true });
+/** The qualified list's URL, from the resources page. */
+async function qualifiedListUrl(): Promise<string> {
   const page = await (await get(RESOURCES)).text();
   const url = /href="(https:\/\/files\.santaclaracounty\.gov\/[^"]*qualified-list-of-local-candidates[^"]*)"/
     .exec(page)?.[1]
     ?.replace(/&amp;/g, "&");
   if (!url) throw new Error(`no qualified list linked from ${RESOURCES}`);
-  const bytes = new Uint8Array(await (await get(url)).arrayBuffer());
+  return url;
+}
+
+async function fetchEvidence(): Promise<void> {
+  mkdirSync(EVIDENCE, { recursive: true });
+  // The county's Cloudflare sometimes refuses scripts outright (HTTP 403, even with a browser's
+  // user agent). Then save the PDF from a browser and pass it: `--pdf <file> [--url <its URL>]`
+  // (the URL defaults to the one the evidence already records).
+  const pdfArg = argAfter("--pdf");
+  const recorded = existsSync(`${EVIDENCE}/qualified-list.json`)
+    ? ((await Bun.file(`${EVIDENCE}/qualified-list.json`).json()) as { url: string }).url
+    : undefined;
+  const url = pdfArg ? (argAfter("--url") ?? recorded) : await qualifiedListUrl();
+  if (!url) throw new Error("--pdf needs --url (no qualified list recorded yet)");
+  const bytes = new Uint8Array(
+    pdfArg ? await Bun.file(pdfArg).arrayBuffer() : await (await get(url)).arrayBuffer(),
+  );
   const contests = readQualifiedList(await pdfPages(bytes));
   await Bun.write(
     `${EVIDENCE}/qualified-list.json`,
