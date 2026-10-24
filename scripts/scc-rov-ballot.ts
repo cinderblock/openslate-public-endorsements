@@ -25,7 +25,8 @@ import {
   subjectMatcher,
   titleCase,
 } from "./lib/ballot-subjects";
-import { type Line, pdfPages } from "./lib/pdf-layout";
+import { pdfPages } from "./lib/pdf-layout";
+import { type QualifiedContest, readQualifiedList } from "./lib/qualified-list";
 
 const election = process.argv[2] ?? "";
 if (!election) throw new Error("usage: scc-rov-ballot.ts <election> [--fetch] [--apply]");
@@ -50,18 +51,7 @@ const USER_AGENT =
 
 // ---------------------------------------------------------------- evidence
 
-interface Candidate {
-  name: string;
-  designation: string;
-}
-interface Contest {
-  number: string;
-  /** As the list prints it: "Alum Rock Union SD, TA 3", "Mayor, City of Milpitas". */
-  title: string;
-  onBallot: boolean;
-  voteFor: number;
-  candidates: Candidate[];
-}
+type Contest = QualifiedContest;
 interface Measure {
   /** OmniBallot's contest id for the measure. */
   box: string;
@@ -74,77 +64,6 @@ async function get(url: string): Promise<Response> {
   const response = await fetch(url, { headers: { "user-agent": USER_AGENT } });
   if (!response.ok) throw new Error(`${url}: HTTP ${response.status}`);
   return response;
-}
-
-/** Lines sharing a baseline, top to bottom, each row left to right. */
-function rows(lines: Line[]): Line[][] {
-  const sorted = [...lines].sort((a, b) => b.y - a.y || a.x0 - b.x0);
-  const out: Line[][] = [];
-  for (const line of sorted) {
-    const row = out.at(-1);
-    // Within a point of the row's lowest line so far: cells of one row sit up to a point apart,
-    // and a candidate's website line can sit 1.4 pt above the next candidate's name.
-    if (row && (row.at(-1) as Line).y - line.y < 1) row.push(line);
-    else out.push([line]);
-  }
-  return out.map((r) => r.sort((a, b) => a.x0 - b.x0));
-}
-
-/**
- * The qualified list: a table per contest. A contest's row has its number at the left margin,
- * its name, "On Ballot: Yes|No" and "Vote For: N"; each candidate's row reads "Qualified <n>
- * <name>", with the ballot designation on the row below, indented. A contest runs across pages.
- */
-function readQualifiedList(pages: { lines: Line[] }[]): Contest[] {
-  const contests: Contest[] = [];
-  let current: Contest | undefined;
-  let awaitingDesignation: Candidate | undefined;
-  for (const page of pages) {
-    for (const row of rows(page.lines)) {
-      const text = row.map((l) => l.text).join(" | ");
-      const number = row.find((l) => l.x0 < 30 && l.bold && /^\d{3,5}$/.test(l.text));
-      if (number) {
-        const title = row.find((l) => l.x0 > 40 && l.x0 < 300 && l.bold)?.text;
-        const onBallot = /On Ballot: (Yes|No)/.exec(text)?.[1];
-        const voteFor = /Vote For: (\d+)/.exec(text)?.[1];
-        if (!title || !onBallot || !voteFor) throw new Error(`can't read contest row "${text}"`);
-        current = {
-          number: number.text,
-          title: title.replace(/\s+/g, " ").trim(),
-          onBallot: onBallot === "Yes",
-          voteFor: Number(voteFor),
-          candidates: [],
-        };
-        contests.push(current);
-        awaitingDesignation = undefined;
-        continue;
-      }
-      // Usually one run, "Qualified 2 Jason Lin"; sometimes the name is set apart, in bold.
-      const qualified = row.some((l) => /^Qualified \d+$/.test(l.text))
-        ? row.find((l) => l.bold && l.x0 > 100 && l.x0 < 340)?.text
-        : row
-            .map((l) => /^Qualified \d+ (.+)$/.exec(l.text)?.[1])
-            .find((name) => name !== undefined);
-      if (!qualified && row.some((l) => /^Qualified \d+/.test(l.text))) {
-        throw new Error(`can't read the candidate in "${text}"`);
-      }
-      if (qualified) {
-        if (!current) throw new Error(`candidate "${qualified}" before any contest`);
-        awaitingDesignation = { name: qualified.replace(/\s+/g, " ").trim(), designation: "" };
-        current.candidates.push(awaitingDesignation);
-        continue;
-      }
-      if (awaitingDesignation) {
-        // The designation sits under the name, indented past the "Res:" and "Mail:" lines.
-        const designation = row.find((l) => l.x0 > 110 && l.x0 < 140 && !l.bold);
-        if (designation) {
-          awaitingDesignation.designation = designation.text.replace(/\s+/g, " ").trim();
-          awaitingDesignation = undefined;
-        }
-      }
-    }
-  }
-  return contests;
 }
 
 /** The qualified list's URL, from the resources page. */
