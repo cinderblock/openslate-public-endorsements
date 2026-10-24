@@ -266,6 +266,42 @@
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/sd/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/santa-clara-county",
+      "covers": [
+        "us/ca/santa-clara-county",
+        "us/ca/ad-23",
+        "us/ca/ad-24",
+        "us/ca/ad-25",
+        "us/ca/ad-26",
+        "us/ca/ad-28",
+        "us/ca/bay-area",
+        "us/ca/campbell",
+        "us/ca/cd-16",
+        "us/ca/cd-17",
+        "us/ca/cd-18",
+        "us/ca/cd-19",
+        "us/ca/cupertino",
+        "us/ca/gilroy",
+        "us/ca/los-altos",
+        "us/ca/los-altos-hills",
+        "us/ca/los-gatos",
+        "us/ca/milpitas",
+        "us/ca/morgan-hill",
+        "us/ca/mountain-view",
+        "us/ca/palo-alto",
+        "us/ca/san-jose",
+        "us/ca/santa-clara",
+        "us/ca/saratoga",
+        "us/ca/sd-10",
+        "us/ca/sunnyvale"
+      ],
+      "title": "Santa Clara County Voter Information Guide: candidate statements and local measures, November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/santa-clara/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
   ]
 }
