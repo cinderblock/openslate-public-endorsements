@@ -79,9 +79,13 @@ interface Guide {
 
 /** Titles that lead an organization, printed before its name or after it. */
 const ROLE =
-  "(?:co-?president|president(?: (?:and|&) ceo)?|president/ceo|ceo|chief executive officer|executive director|chair(?:man|person|woman)?|co-?chair|commander|secretary-treasurer|business manager)";
+  "(?:co-?president|president(?: (?:and|&) ceo)?|pres\\.|president/ceo|ceo|chief executive officer|executive director|chair(?:man|person|woman)?|co-?chair|commander|secretary-treasurer|business manager)";
 const space = String.raw`\s+`;
-const ROLE_FIRST = new RegExp(`^(${ROLE}),?${space}(?:of${space})?(?:the${space})?(.+)$`, "i");
+// "President, X", "President of X", and in Santa Clara "President: X" and "President─X".
+const ROLE_FIRST = new RegExp(
+  `^(${ROLE})(?:,?${space}|\\s*[:─—–]\\s*)(?:of${space})?(?:the${space})?(.+)$`,
+  "i",
+);
 const ROLE_LAST = new RegExp(`^(.+?),?${space}(${ROLE})$`, "i");
 /** A signature that may be an organization's own name: worth a review if it isn't listed. */
 const ORGISH =
@@ -227,7 +231,11 @@ function statementOf(entry: Signed): string {
   for (const p of entry.pieces) byGuide.set(p.guide, [...(byGuide.get(p.guide) ?? []), p]);
   const sentences = [...byGuide].map(([guide, pieces]) => {
     const labels = [...new Set(pieces.map((p) => label(p.argument)))];
-    const people = [...new Set(pieces.map((p) => p.who))];
+    // Each person once, though one title may be printed two ways ("President, X", "President: X").
+    const person = (who: string) => who.replace(/ \(.*$/, "");
+    const people = pieces
+      .map((p) => p.who)
+      .filter((who, i, all) => all.findIndex((w) => person(w) === person(who)) === i);
     return `${people.join(" and ")} signed ${labels.map((l) => `${l} ${measure}`).join(" and ")} in the ${guideName(guide)}.`;
   });
   return sentences.join(" ");

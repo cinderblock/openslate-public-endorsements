@@ -679,6 +679,54 @@ export const SIGNERS: Record<string, Target | null> = {
     "vista-unified-council-of-ptas",
     "Vista Unified Council of PTAs",
   ),
+
+  // Santa Clara: "/s/ NAME" over "Title, Organization" (or "Title: …", "Title─…").
+  // "Pres. Cup. Chamber", on Cupertino's Measure L.
+  "Cup. Chamber": org("cupertino-chamber-of-commerce", "Cupertino Chamber of Commerce"),
+  // "Pres. Cal. Cricket": which organization isn't clear from the abbreviation.
+  "Cal. Cricket": null,
+  "Cambrian Education Foundation": org(
+    "cambrian-education-foundation",
+    "Cambrian Education Foundation",
+  ),
+  "IAFF Local 1699": org("iaff-local-1699", "IAFF Local 1699"),
+  "Libertarian Party of Santa Clara County": org(
+    "libertarian-party-santa-clara-county",
+    "Libertarian Party of Santa Clara County",
+  ),
+  "Los Altos Mountain View Community Foundation": org(
+    "los-altos-mountain-view-community-foundation",
+    "Los Altos Mountain View Community Foundation",
+  ),
+  "Orchard Teacher Association": org("orchard-teacher-association", "Orchard Teacher Association"),
+  "Palo Alto Educators Association (PAEA)": org(
+    "palo-alto-educators-association",
+    "Palo Alto Educators Association",
+  ),
+  "Palo Alto Professional Firefighters": org(
+    "palo-alto-professional-firefighters",
+    "Palo Alto Professional Firefighters",
+  ),
+  "Santa Clara County Firefighter Local 1165": org(
+    "santa-clara-county-firefighters-local-1165",
+    "Santa Clara County Firefighters, IAFF Local 1165",
+  ),
+  "Santa Clara County Firefighters─IAFF Local 1165": org(
+    "santa-clara-county-firefighters-local-1165",
+    "Santa Clara County Firefighters, IAFF Local 1165",
+  ),
+  "Saratoga Robotics Team": org("saratoga-robotics-team", "Saratoga Robotics Team"),
+  "Silicon Valley Taxpayers Association": org(
+    "silicon-valley-taxpayers-association",
+    "Silicon Valley Taxpayers Association",
+  ),
+  "Youth Community Service": org("youth-community-service", "Youth Community Service"),
+  // Not organizations' positions: a school board (its members sign as individuals) and a city's
+  // advisory committee.
+  Board: null,
+  "First Cubberley Citizens Advisory Committee": null,
+  "GUSD Board": null,
+  "Orchard School Board": null,
 };
 
 /** Whether a signer's title makes them the organization's voice (not a board member, past officer, member or staff). */
@@ -691,8 +739,8 @@ export function speaksFor(title: string | undefined): boolean {
   ) {
     return false;
   }
-  // A union's business manager or secretary-treasurer leads it.
-  return /\b(president|co-president|ceo|chief|executive director|director|chair|chairman|commander|business manager|secretary-treasurer)\b/i.test(
+  // A union's business manager or secretary-treasurer leads it. "Pres." is a president.
+  return /\b(president|co-president|pres\.|ceo|chief|executive director|director|chair|chairman|commander|business manager|secretary-treasurer)(?=\W|$)/i.test(
     title,
   );
 }

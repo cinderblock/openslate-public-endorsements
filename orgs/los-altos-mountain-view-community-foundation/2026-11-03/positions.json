@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Los Altos Mountain View Community Foundation: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Altos Mountain View Community Foundation",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-24T20:25:57Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Crysta Krames (CEO, Los Altos Mountain View Community Foundation) signed the argument against Los Altos Measure D in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/725_md.json"
+    }
+  ]
+}

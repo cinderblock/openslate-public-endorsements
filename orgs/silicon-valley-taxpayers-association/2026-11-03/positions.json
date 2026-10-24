@@ -1,0 +1,84 @@
+{
+  "context": {
+    "title": "Silicon Valley Taxpayers Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Silicon Valley Taxpayers Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-24T20:26:00Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
+      "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
+      "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
+      "https://ca.omniballot.us/published/06085/1968/vg/734_md.json",
+      "https://ca.omniballot.us/published/06085/1968/vg/735_md.json"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark W.A. Hinkle (President: Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Bay Area Regional Measure RTM and the argument against Bay Area Regional Measure RTM in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark W.A. Hinkle (President: Silicon Valley Taxpayers Association) signed the argument against Gilroy Measure B in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/723_md.json"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark W.A. Hinkle (President: Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Gilroy Unified School District Measure M and the argument against Gilroy Unified School District Measure M in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/734_md.json"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark W.A. Hinkle (President: Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Los Gatos-Saratoga Union High School District Measure N and the argument against Los Gatos-Saratoga Union High School District Measure N in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/735_md.json"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "Mark W.A. Hinkle (President, Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Palo Alto Measure J and the argument against Palo Alto Measure J in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+    }
+  ]
+}

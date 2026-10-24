@@ -1,0 +1,32 @@
+{
+  "context": {
+    "title": "Orchard Teacher Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Orchard Teacher Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-24T20:26:02Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/739_md.json"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Orchard School District — Measure R (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Erin McCarthy (Orchard Teacher Association President) signed the argument in favor of Orchard School District Measure R in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/739_md.json"
+    }
+  ]
+}
