@@ -308,7 +308,6 @@ const built = races
   .filter((r): r is { race: Race; built: Built } => r.built !== undefined);
 const nearby = new Set([
   COUNTY,
-  "us/ca/alameda",
   "us/ca/ebmud",
   "us/ca/bay-area",
   ...built.map((b) => b.built.jurisdiction),

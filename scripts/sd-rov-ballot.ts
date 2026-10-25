@@ -255,7 +255,7 @@ function seatOf(text: string): { seat?: string; short: boolean } {
   return { ...(m ? { seat: `${titleCase(m[1] as string)} ${m[2]}` } : {}), short };
 }
 
-const COUNTY = "us/ca/san-diego";
+const COUNTY = "us/ca/san-diego-county";
 const SKIP =
   /^(GOVERNOR|LIEUTENANT GOVERNOR|SECRETARY OF STATE|CONTROLLER|TREASURER$|ATTORNEY GENERAL|INSURANCE COMMISSIONER|STATE BOARD EQUALIZATION|U\.S\. REPRESENTATIVE|STATE SENATE|STATE ASSEMBLY|STATE SUPERINTENDENT)/;
 const problems: string[] = [];
@@ -285,7 +285,7 @@ function contestSubject(heading: string): Built | undefined {
   const city = /^CITY OF (.+)$/.exec(body)?.[1];
   if (city) {
     const name = titleCase(city);
-    const jurisdiction = name === "San Diego" ? COUNTY : `us/ca/${slugify(name)}`;
+    const jurisdiction = `us/ca/${slugify(name)}`;
     const office = qualifier.replace(/\(Short Term\)/i, "").trim();
     const shortSuffix = /\(Short Term\)/i.test(qualifier) ? " (Short Term)" : "";
     if (/^MAYOR/.test(office)) return { title: `${name} Mayor${shortSuffix}`, jurisdiction };
@@ -336,8 +336,7 @@ function measureSubject(m: Measure): Built | undefined {
   const short = m.title ? ` (${titleCase(m.title)})` : "";
   return {
     title: `${label} — Measure ${parsed[2]}${short}`,
-    jurisdiction:
-      city && titleCase(city) !== "San Diego" ? `us/ca/${slugify(titleCase(city))}` : COUNTY,
+    jurisdiction: city ? `us/ca/${slugify(titleCase(city))}` : COUNTY,
   };
 }
 

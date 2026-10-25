@@ -206,6 +206,16 @@ conventions (`Governor of California`, `US House of Representatives, California
 District 11` at `us/ca/cd-11`, `San Francisco — Proposition A (…)` at
 `us/ca/sf`, …). Candidate spellings follow the official list.
 
+A county's contests are filed under `us/ca/<name>-county`, a city's under
+`us/ca/<name>` (or `us/ca/city-of-<name>`), and San Francisco, one city and
+county, under `us/ca/sf`. A county's bare name is a city's path when a city
+shares the name (`us/ca/orange` is the City of Orange, `us/ca/san-diego` the
+City of San Diego) and no one's when none does, so a county contest must never
+sit there: the web app would show it to that city's voters, or to no one.
+`scripts/lib/localities.ts` has the rule; `bun scripts/refile-localities.ts
+--apply` moves any such contest to its county in every bundle at once (a
+re-filed race is a new subject, so they have to move together).
+
 Every choice in an authority bundle carries a `choice_id` (OpenSlate SPEC
 §3.11), `<org slug>:<election>/<race slug>/<choice slug>`, e.g.
 `ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner`.
@@ -235,7 +245,8 @@ CI enforces all of it. In any election and jurisdiction an authority bundle
 covers, `scripts/verify-positions.ts` fails a position whose race isn't on the
 authority's list, or whose `choice` isn't one of that race's ballot names,
 spelled exactly as the ballot spells it and carrying its `choice_id`, and an
-authority bundle whose `district`s aren't the ones `assign-districts` gives. A
+authority bundle whose `district`s aren't the ones `assign-districts` gives,
+and any bundle with a county contest under a county's bare name. A
 candidate who isn't printed on the ballot needs `"write_in": true` (§3.12);
 one the authority doesn't list as a certified write-in passes with a warning.
 The web app matches endorsements to the ballot by `choice_id` (and, for
@@ -392,6 +403,9 @@ bun scripts/normalize-choices.ts <election>
 
 # Say who votes on each authority bundle's contests (dry run; add --apply)
 bun scripts/assign-districts.ts <election>
+
+# Move county contests filed under a county's bare name to the county (dry run; add --apply)
+bun scripts/refile-localities.ts
 
 # Unit tests for the ballot check and the text edits
 # (the name matcher's are in OpenSlate core)

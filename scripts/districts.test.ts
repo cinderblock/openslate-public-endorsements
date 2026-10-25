@@ -18,7 +18,7 @@ describe("districtFor", () => {
     expect(district("Pasadena Unified School District Board, District 3", LA, LA)).toBe(
       "us/ca/unsd-29940/ta-3",
     );
-    const SD = "us/ca/san-diego";
+    const SD = "us/ca/san-diego-county";
     expect(district("Santee School District Board, Seat 1", SD, SD)).toBe("us/ca/elsd-35880");
   });
 

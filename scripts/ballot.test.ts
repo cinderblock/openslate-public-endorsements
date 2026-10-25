@@ -193,7 +193,7 @@ describe("checkBundle", () => {
         {
           subject: race(
             "Carlsbad Unified School District Board, Trustee Area 5",
-            "us/ca/san-diego",
+            "us/ca/san-diego-county",
           ),
           stance: "neutral",
           choice: "Chris Waidelich",
@@ -219,7 +219,7 @@ describe("checkBundle", () => {
       kind: "race",
       moveTo: {
         title: "Carlsbad Unified School District Board, Trustee Area 5",
-        jurisdiction: "us/ca/san-diego",
+        jurisdiction: "us/ca/san-diego-county",
       },
     });
   });

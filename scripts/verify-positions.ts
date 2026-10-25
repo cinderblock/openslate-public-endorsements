@@ -4,14 +4,16 @@
 // ballot listings (scripts/ballot.ts): races must be on the ballot, and each choice
 // must be a listed one, spelled as the ballot spells it and carrying its choice_id,
 // or marked write_in. A listing's contests must also say who votes on them when only part of
-// their jurisdiction does (`subject.district`, scripts/lib/districts.ts). PR-time and pre-sign
-// check — no signing involved.
+// their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
+// sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts).
+// PR-time and pre-sign check — no signing involved.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { slatePayloadSchema } from "../.openslate/packages/core/src/index";
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 import { districtFor } from "./lib/districts";
+import { localityProblem } from "./lib/localities";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -146,6 +148,24 @@ for (const { path, bundle } of valid) {
   }
 }
 
+// Every bundle: county contests under the county's own path.
+let localitiesWrong = false;
+for (const { path, bundle } of valid) {
+  const errors = new Set<string>();
+  for (const { subject } of bundle.positions) {
+    const problem = localityProblem(subject);
+    if (problem) errors.add(problem);
+  }
+  if (!errors.size) continue;
+  localitiesWrong = true;
+  const failed = failures.find((f) => f.path === path);
+  if (failed) failed.errors.push(...errors);
+  else {
+    ok--;
+    failures.push({ path, errors: [...errors] });
+  }
+}
+
 console.log(
   `\nBallot: ${checked} positions checked against an election authority's list, ${unchecked} in jurisdictions no authority covers yet`,
 );
@@ -156,6 +176,8 @@ if (kinds.has("listing-id"))
   );
 if (districtsWrong)
   console.log("Set listings' districts with: bun scripts/assign-districts.ts <election> --apply");
+if (localitiesWrong)
+  console.log("Re-file county contests with: bun scripts/refile-localities.ts --apply");
 if (kinds.has("fix") || kinds.has("choice"))
   console.log("Fix names and ids with: bun scripts/normalize-choices.ts <election> --apply");
 

@@ -5,6 +5,7 @@
 // keep a spelling some bundle already uses, or are title-cased with care.
 
 import { Glob } from "bun";
+import { localityProblem } from "./localities";
 
 export interface Subject {
   title: string;
@@ -206,6 +207,8 @@ export function subjectMatcher(options: {
         ({ subject }) =>
           subject.kind === kind &&
           isLocal(subject.jurisdiction, built) &&
+          // Not a county contest filed under a city's name: the listing's own path is right.
+          !localityProblem(subject) &&
           keyOf(subject.title) === key,
       )
       .sort((a, b) => b.orgs.size - a.orgs.size);
