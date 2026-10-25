@@ -95,6 +95,14 @@ entry (`scripts/catalog-extras.ts`):
   arithmetic on the org's picks, not a judgement about the org; the app hides
   it below five sided subjects.
 
+`openslate sign --batch` itself writes each entry's `scope` (the slate's
+`context.jurisdiction`) and `jurisdictions` (races per position jurisdiction),
+so the app's setup wizard can match orgs to a voter's area and count their
+races there without downloading every slate. `index.json` also names the
+bundle: `"bundle": { "path": "bundle.json", "bytes": <uncompressed size> }`,
+which the wizard's "download all" fetches in one request (the size drives its
+progress bar, since Pages serves the file gzipped).
+
 ## Published URLs
 
 After GitHub Pages is enabled for this repo, the published site exposes:
@@ -103,6 +111,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | --- | --- |
 | `index.html` | Human-readable list of every slate with copy-import links. |
 | `index.json` | Machine-readable catalog of all slates, with each org's `logo` and `lean`. |
+| `bundle.json` | Every `index.json` entry with its signed slate inline (`token`): the whole catalog in one request. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |

@@ -34,6 +34,10 @@ interface IndexEntry {
     sources?: string[];
   };
   positions: number;
+  /** The slate's `context.jurisdiction` (written by `sign --batch`). */
+  scope?: string;
+  /** Races per position jurisdiction, so the app can match an org to a voter's area unfetched. */
+  jurisdictions?: Record<string, number>;
   issued_at: string;
   /** Site path of the org's logo. */
   logo?: string;
@@ -47,6 +51,12 @@ interface Catalog {
   version: number;
   generated_at: string;
   entries: IndexEntry[];
+  /**
+   * bundle.json, advertised so the app can offer "download everything" in one
+   * request. `bytes` is its uncompressed size: Pages gzips it, so the browser's
+   * Content-Length can't drive a progress bar.
+   */
+  bundle?: { path: string; bytes: number };
 }
 
 let catalog: Catalog = { version: 1, generated_at: new Date().toISOString(), entries: [] };
@@ -79,7 +89,6 @@ const withExtras = <T extends IndexEntry>(entry: T): T => ({
 });
 catalog = { ...catalog, entries: catalog.entries.map(withExtras) };
 bundleEntries.splice(0, bundleEntries.length, ...bundleEntries.map(withExtras));
-await Bun.write(join(DIST, "index.json"), `${JSON.stringify(catalog, null, 2)}\n`);
 const withLogo = catalog.entries.filter((e) => e.logo).length;
 const withLean = catalog.entries.filter((e) => e.lean).length;
 const bundle = {
@@ -87,7 +96,13 @@ const bundle = {
   generated_at: catalog.generated_at,
   entries: bundleEntries,
 };
-await Bun.write(join(DIST, "bundle.json"), `${JSON.stringify(bundle, null, 2)}\n`);
+const bundleText = `${JSON.stringify(bundle, null, 2)}\n`;
+await Bun.write(join(DIST, "bundle.json"), bundleText);
+catalog = {
+  ...catalog,
+  bundle: { path: "bundle.json", bytes: new TextEncoder().encode(bundleText).byteLength },
+};
+await Bun.write(join(DIST, "index.json"), `${JSON.stringify(catalog, null, 2)}\n`);
 
 const publicKey = JSON.parse(await Bun.file(join(ROOT, "keys/project-public.json")).text()) as {
   publicKey: string;
