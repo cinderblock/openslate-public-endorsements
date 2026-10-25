@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test";
+import { homeCounty } from "./lib/districts";
 import { countyPathFor, localityProblem } from "./lib/localities";
 
 const race = (title: string, jurisdiction: string) => ({ title, jurisdiction });
@@ -63,4 +64,47 @@ test("localityProblem says where it belongs", () => {
     '"Marin County Board of Supervisors, District 1": Marin County is us/ca/marin-county, not us/ca/marin',
   );
   expect(localityProblem(race("Orange City Council, District 1", "us/ca/orange"))).toBeUndefined();
+});
+
+describe("homeCounty", () => {
+  test("a school district that crosses a county line is its home county's", () => {
+    const fullerton = "Fullerton Joint Union High School District Board, Trustee Area 1";
+    expect(homeCounty({ title: fullerton, jurisdiction: "us/ca/los-angeles-county" })).toBe(
+      "us/ca/orange-county",
+    );
+    expect(homeCounty({ title: fullerton, jurisdiction: "us/ca/orange-county" })).toBeUndefined();
+    expect(
+      homeCounty({
+        title: "Paso Robles Joint Unified School District — Measure G-26 (Bond)",
+        jurisdiction: "us/ca/monterey-county",
+      }),
+    ).toBe("us/ca/san-luis-obispo-county");
+  });
+
+  test("the county of record wins over the one with most of the area", () => {
+    expect(
+      homeCounty({
+        title: "Center Joint Unified School District Board, Area 1",
+        jurisdiction: "us/ca/sacramento-county",
+      }),
+    ).toBeUndefined();
+    expect(
+      homeCounty({
+        title: "Lowell Joint School District Board, Trustee Area 4",
+        jurisdiction: "us/ca/orange-county",
+      }),
+    ).toBeUndefined();
+  });
+
+  test("other contests, and other paths, are left alone", () => {
+    expect(
+      homeCounty({ title: "Orange City Council, District 1", jurisdiction: "us/ca/orange" }),
+    ).toBeUndefined();
+    expect(
+      homeCounty({
+        title: "Irvine Ranch Water District Board, Division 5",
+        jurisdiction: "us/ca/orange-county",
+      }),
+    ).toBeUndefined();
+  });
 });

@@ -216,6 +216,15 @@ sit there: the web app would show it to that city's voters, or to no one.
 --apply` moves any such contest to its county in every bundle at once (a
 re-filed race is a new subject, so they have to move together).
 
+A school district that crosses a county line (Fullerton Joint Union High,
+in Orange and Los Angeles Counties) is on both counties' ballots and in both
+registrars' listings, but it's one race: filed once, under its county of
+record (`homeCounty` in `scripts/lib/districts.ts`: the Census district's
+county, with the CDE's where they differ), with its `district` as usual. The
+listing scripts, `refile-localities` and the verify check all apply that, and
+the web app shows the race to a voter its lookup puts in the school district
+whichever county they live in.
+
 Every choice in an authority bundle carries a `choice_id` (OpenSlate SPEC
 §3.11), `<org slug>:<election>/<race slug>/<choice slug>`, e.g.
 `ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner`.

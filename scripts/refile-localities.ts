@@ -10,14 +10,22 @@
 //   bun scripts/refile-localities.ts [--apply]
 
 import { existsSync } from "node:fs";
-import { countyPathFor } from "./lib/localities";
+import { belongsUnder } from "./lib/localities";
 import { positionSpan, trackedBundles } from "./position-edit";
 
 const apply = process.argv.includes("--apply");
 
-/** One-off moves the county rule doesn't cover: a school board filed as a place of its own. */
-const MOVES: Record<string, string> = {
-  "us/ca/san-dieguito-uhsd": "us/ca/san-diego-county",
+/**
+ * One-off moves the rules don't cover: a school board filed as a place of its own; a park
+ * district ward filed under the park district, which no lookup finds, moved under its county
+ * with the ward as its district (no listing covers Contra Costa yet to say so).
+ */
+const MOVES: Record<string, { to: string; district?: string }> = {
+  "us/ca/san-dieguito-uhsd": { to: "us/ca/san-diego-county" },
+  "us/ca/ebrpd": {
+    to: "us/ca/contra-costa-county",
+    district: "us/ca/east-bay-regional-park-district/ward-7",
+  },
 };
 
 /**
@@ -34,16 +42,21 @@ interface Subject {
 }
 
 /** Where a subject moves, or undefined when it stays. */
-function destination(subject: Subject): string | undefined {
+function destination(subject: Subject): { to: string; district?: string } | undefined {
   const from = subject.jurisdiction;
-  return from ? (countyPathFor(subject) ?? MOVES[from]) : undefined;
+  if (!from) return undefined;
+  const rule = belongsUnder(subject);
+  return rule ? { to: rule } : MOVES[from];
 }
 
 const escapeRegExp = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-/** `text` with the subject's jurisdiction, and its district under it, moved from `from` to `to`. */
-function moveText(text: string, from: string, to: string): string {
-  return text
+/**
+ * `text` with the subject's jurisdiction, and its district under it, moved from `from` to
+ * `to`; a `district` the move gives is added after the jurisdiction when there's none.
+ */
+function moveText(text: string, from: string, to: string, district?: string): string {
+  let out = text
     .replace(
       new RegExp(`("jurisdiction"\\s*:\\s*)"${escapeRegExp(from)}"`),
       (_, key: string) => `${key}"${to}"`,
@@ -52,6 +65,18 @@ function moveText(text: string, from: string, to: string): string {
       new RegExp(`("district"\\s*:\\s*)"${escapeRegExp(from)}/`),
       (_, key: string) => `${key}"${to}/`,
     );
+  if (district && !/"district"\s*:/.test(out)) {
+    const m = new RegExp(`"jurisdiction"\\s*:\\s*"${escapeRegExp(to)}"`).exec(out);
+    if (m) {
+      const lineStart = out.lastIndexOf("\n", m.index) + 1;
+      const lead = out.slice(lineStart, m.index);
+      const newline = out[lineStart - 2] === "\r" ? "\r\n" : "\n";
+      const sep = /^\s*$/.test(lead) ? `,${newline}${lead}` : ", ";
+      const at = m.index + m[0].length;
+      out = `${out.slice(0, at)}${sep}"district": ${JSON.stringify(district)}${out.slice(at)}`;
+    }
+  }
+  return out;
 }
 
 const moved = new Map<string, string>();
@@ -66,20 +91,20 @@ for (const file of [...(await trackedBundles())].sort()) {
   for (let index = bundle.positions.length - 1; index >= 0; index--) {
     const subject = bundle.positions[index]?.subject;
     const from = subject?.jurisdiction;
-    const to = subject && destination(subject);
-    if (!subject || !from || !to) continue;
+    const move = subject && destination(subject);
+    if (!subject || !from || !move) continue;
     const span = positionSpan(text, index);
     if (!span) throw new Error(`${file}: no position ${index}`);
     const body = text.slice(span[0], span[1]);
-    const edited = moveText(body, from, to);
+    const edited = moveText(body, from, move.to, move.district);
     if (edited === body) throw new Error(`${file}: position ${index} has no "jurisdiction"`);
     text = text.slice(0, span[0]) + edited + text.slice(span[1]);
-    moved.set(`${election}  ${subject.title}`, `${from} → ${to}`);
+    moved.set(`${election}  ${subject.title}`, `${from} → ${move.to}`);
     changed++;
   }
   const scope = bundle.context?.jurisdiction;
   const contextTo =
-    scope && CONTEXT_MOVES.has(scope) ? destination(bundle.context as Subject) : undefined;
+    scope && CONTEXT_MOVES.has(scope) ? destination(bundle.context as Subject)?.to : undefined;
   if (scope && contextTo) {
     // The context comes before the positions, and nothing before it has a jurisdiction.
     const at = text.search(/"positions"\s*:/);
@@ -99,9 +124,9 @@ for (const file of [...(await trackedBundles())].sort()) {
   let contestsChanged = 0;
   for (const group of Object.values(contests)) {
     for (const [key, subject] of Object.entries(group)) {
-      const to = destination(subject);
-      if (!to || !subject.jurisdiction) continue;
-      group[key] = JSON.parse(moveText(JSON.stringify(subject), subject.jurisdiction, to));
+      const move = destination(subject);
+      if (!move || !subject.jurisdiction) continue;
+      group[key] = JSON.parse(moveText(JSON.stringify(subject), subject.jurisdiction, move.to));
       contestsChanged++;
     }
   }

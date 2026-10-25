@@ -5,6 +5,8 @@
 // app looks counties up as `<name>-county` (OpenSlate's apps/web/src/lib/geo.ts), so a county
 // contest under a bare name reaches the wrong voters, or none.
 
+import { homeCounty } from "./districts";
+
 const CA_COUNTIES =
   "Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba".split(
     ", ",
@@ -45,10 +47,21 @@ export function countyPathFor(subject: { title: string; jurisdiction?: string })
   return `${jurisdiction}-county`;
 }
 
+/** Where a subject belongs when it's filed somewhere else (`countyPathFor`, `homeCounty`). */
+export function belongsUnder(subject: { title: string; jurisdiction?: string }):
+  | string
+  | undefined {
+  return countyPathFor(subject) ?? homeCounty(subject);
+}
+
 /** What's wrong with where a subject is filed, if anything. */
 export function localityProblem(subject: { title: string; jurisdiction?: string }):
   | string
   | undefined {
+  const home = homeCounty(subject);
+  if (home) {
+    return `"${subject.title}" is a school district contest filed under ${subject.jurisdiction}; the district is ${home}'s, so file it there`;
+  }
   const want = countyPathFor(subject);
   if (!want) return undefined;
   const county = COUNTY_BY_SLUG.get(subject.jurisdiction ?? "");

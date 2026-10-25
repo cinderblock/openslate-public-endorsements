@@ -133,6 +133,43 @@ function placePath(state: string, body: string): string {
   return `${state}/${slug}`;
 }
 
+/** The body a board or measure title names ("Fullerton Joint Union High School District"). */
+function bodyOf(title: string): string | undefined {
+  const measure = /^(.+?) — Measure \S+/.exec(title);
+  const board =
+    /^(.+?) Board(?: of (?:Trustees|Directors|Education))?(?:, (?:Trustee Area|Area|District|Division|Ward|Zone|Seat) \w+)?$/.exec(
+      title,
+    );
+  return (measure?.[1] ?? board?.[1])?.trim();
+}
+
+/**
+ * Straddling districts whose county of record (the CDE's, the CDS code's county) isn't the
+ * one with most of their area, which is what the Census data's `county` is.
+ */
+const COUNTY_OF_RECORD: Record<string, string> = {
+  "07900": "Sacramento", // Center Joint Unified (34-73973): Antelope, with land in Placer
+  "23010": "Orange", // Lowell Joint (30-64766): Whittier and La Habra
+};
+
+/**
+ * The county a school district contest belongs under when it's filed under another: a
+ * district that crosses a county line is on both counties' ballots, and each county's
+ * registrar lists it, but it's one race, filed once, under the county the Census puts it in.
+ * Undefined when the contest is where it belongs, or isn't a school district's.
+ */
+export function homeCounty(subject: { title: string; jurisdiction?: string }): string | undefined {
+  const jurisdiction = subject.jurisdiction ?? "";
+  const match = /^((?:[a-z]+\/)+?[a-z]+)\/([a-z-]+)-county$/.exec(jurisdiction);
+  if (!match?.[1]) return undefined;
+  const body = bodyOf(withoutTerm(subject.title.trim()));
+  if (!body || !/School District$/.test(body)) return undefined;
+  const school = schoolDistrict(body, countyName(jurisdiction));
+  const home = school && (COUNTY_OF_RECORD[school.lea] ?? school.county);
+  if (!home || home === countyName(jurisdiction)) return undefined;
+  return `${match[1]}/${slugify(home)}-county`;
+}
+
 export interface DistrictResult {
   district?: string;
   /** Why a school or college board got a named path instead of a mapped one: worth a look. */
@@ -171,9 +208,11 @@ export function districtFor(
   const education = /County Board of Education, (?:Trustee Area|Area|District) (\w+)$/.exec(title);
   if (education?.[1]) return { district: `${jurisdiction}/coe-${idOf(education[1])}` };
 
-  // The rest: special districts a county files under itself. San Francisco's are the city's
-  // own, citywide (its school and college boards); a city's are the city's.
-  if (jurisdiction !== listingJurisdiction || jurisdiction === `${state}/sf`) return {};
+  // The rest: special districts a county files under itself, or under a school district's home
+  // county when it crosses the line (`homeCounty`). San Francisco's are the city's own,
+  // citywide (its school and college boards); a city's are the city's.
+  const home = homeCounty({ title, jurisdiction: listingJurisdiction });
+  if (jurisdiction !== (home ?? listingJurisdiction) || jurisdiction === `${state}/sf`) return {};
   const county = countyName(listingJurisdiction);
   // An unincorporated community's planning group: only that community votes.
   if (/ Community Planning Group$/.test(title)) return { district: placePath(state, title) };
@@ -182,7 +221,7 @@ export function districtFor(
     /^(.+?) Board(?: of (?:Trustees|Directors|Education))?(?:, (Trustee Area|Area|District|Division|Ward|Zone|Seat) (\w+))?$/.exec(
       title,
     );
-  const body = (measure?.[1] ?? board?.[1])?.trim();
+  const body = bodyOf(title);
   if (!body) return {};
   // The county's own (its measures, "San Diego County Board of Education" at large).
   if (strip(body) === strip(county) || strip(body) === strip(`${county} County`)) return {};

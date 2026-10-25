@@ -5,6 +5,7 @@
 // keep a spelling some bundle already uses, or are title-cased with care.
 
 import { Glob } from "bun";
+import { homeCounty } from "./districts";
 import { localityProblem } from "./localities";
 
 export interface Subject {
@@ -199,7 +200,9 @@ export function subjectMatcher(options: {
     return label ? `${bodyTitle}, ${label} ${seatMatch[2]}${seatMatch[3] ?? ""}` : built.title;
   }
 
-  return function reuse(built: Built, kind: "race" | "measure"): Subject {
+  return function reuse(given: Built, kind: "race" | "measure"): Subject {
+    // A school district that crosses a county line is filed under its home county.
+    const built = { ...given, jurisdiction: homeCounty(given) ?? given.jurisdiction };
     const keyOf = kind === "measure" ? measureKey : titleKey;
     const key = keyOf(built.title);
     const matches = [...existing.values()]
