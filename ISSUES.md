@@ -2,6 +2,19 @@
 
 Problems noticed while working on something else, for a fresh session to pick up.
 
+## Rebuilding LA's listing renames four seats
+
+`bun scripts/la-rrcc-ballot.ts 2026-11-03 --apply` on master (`7623d18`) changes
+four committed titles: "Bellflower Unified School District Board, Area 2" and
+"Area 5", "Long Beach Community College District Board, Area 5" and "Paramount
+Unified School District Board, District 4" all become "…, Trustee Area N", with
+new `choice_id`s. Only LA's listing names them, so whatever seat label the
+committed titles were reused from is gone. Why it matters: a routine rebuild
+changes four races' identity (and their ids) without anyone deciding to, and
+anyone who marked them loses the marks. Noticed 2026-10-25 while checking that
+the San Diego, Alameda and OC listings rebuild unchanged after the
+city/county re-file (they do).
+
 ## `tsc --noEmit` fails on five older scripts
 
 `bunx tsc --noEmit -p .` reports 37 errors, all in `scripts/adopt.ts`,
