@@ -302,6 +302,30 @@
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/santa-clara/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/san-mateo-county",
+      "covers": [
+        "us/ca/san-mateo-county",
+        "us/ca/bay-area",
+        "us/ca/belmont",
+        "us/ca/brisbane",
+        "us/ca/burlingame",
+        "us/ca/east-palo-alto",
+        "us/ca/half-moon-bay",
+        "us/ca/menlo-park",
+        "us/ca/pacifica",
+        "us/ca/portola-valley",
+        "us/ca/redwood-city",
+        "us/ca/san-bruno",
+        "us/ca/san-carlos",
+        "us/ca/san-mateo"
+      ],
+      "title": "San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/san-mateo/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
   ]
 }
