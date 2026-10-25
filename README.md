@@ -200,10 +200,24 @@ After building or regenerating an authority bundle, run
 `bun scripts/assign-choice-ids.ts <election> --apply`: it carries ids over
 from the last committed version (same race, same person) and mints the rest.
 
+A county files its school boards, water districts and supervisorial seats under
+the county, though only part of it votes on each. So each authority bundle's
+contests also say who does, in `subject.district` (OpenSlate SPEC §3.3):
+`us/ca/elsd-18030/ta-4` (trustee area 4 of the Census school district with LEA
+code 18030), `us/ca/orange-county/sup-4`, `us/ca/anaheim/council-3`,
+`us/ca/irvine-ranch-water-district/div-5`. The web app shows a race to the
+voters it can place in that district (it finds school districts from an
+address), and lists the rest as *Might be on your ballot*. After building an
+authority bundle, run `bun scripts/assign-districts.ts <election> --apply`; the
+rules are in `scripts/lib/districts.ts`. School boards are matched to the
+Census Bureau's districts in `scripts/data/ca-school-districts.json`
+(`bun scripts/fetch-school-districts.ts` rebuilds it from TIGERweb).
+
 CI enforces all of it. In any election and jurisdiction an authority bundle
 covers, `scripts/verify-positions.ts` fails a position whose race isn't on the
 authority's list, or whose `choice` isn't one of that race's ballot names,
-spelled exactly as the ballot spells it and carrying its `choice_id`. A
+spelled exactly as the ballot spells it and carrying its `choice_id`, and an
+authority bundle whose `district`s aren't the ones `assign-districts` gives. A
 candidate who isn't printed on the ballot needs `"write_in": true` (§3.12);
 one the authority doesn't list as a certified write-in passes with a warning.
 The web app matches endorsements to the ballot by `choice_id` (and, for
@@ -357,6 +371,9 @@ bun scripts/assign-choice-ids.ts <election>
 
 # Snap candidate spellings and ids to the ballot (dry run; add --apply)
 bun scripts/normalize-choices.ts <election>
+
+# Say who votes on each authority bundle's contests (dry run; add --apply)
+bun scripts/assign-districts.ts <election>
 
 # Unit tests for the ballot check and the text edits
 # (the name matcher's are in OpenSlate core)

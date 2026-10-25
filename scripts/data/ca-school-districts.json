@@ -1,0 +1,5857 @@
+{
+  "source": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_Current/MapServer (layers unsd=14, elsd=18, scsd=16; counties=82)",
+  "vintage": "Census Current (2026) WMS Legal and Statistical Entities Web Map Service; January 1, 2026 vintage",
+  "fetchedAt": "2026-10-25",
+  "districts": [
+    {
+      "family": "unsd",
+      "lea": "01620",
+      "name": "ABC Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "01650",
+      "name": "Acalanes Union High School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "01680",
+      "name": "Ackerman Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "unsd",
+      "lea": "00001",
+      "name": "Acton-Agua Dulce Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "01710",
+      "name": "Adelanto Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "01770",
+      "name": "Alameda City Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "01860",
+      "name": "Albany City Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "01890",
+      "name": "Alexander Valley Union School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "00153",
+      "name": "Alhambra Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "06037",
+      "name": "Alhambra Unified School District (9-12)",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "01950",
+      "name": "Alisal Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "01980",
+      "name": "Allensworth Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "02010",
+      "name": "Alpaugh Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "02070",
+      "name": "Alpine County Unified School District",
+      "county": "Alpine"
+    },
+    {
+      "family": "elsd",
+      "lea": "02100",
+      "name": "Alpine Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "02160",
+      "name": "Alta Loma Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "02220",
+      "name": "Alta Vista Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "02250",
+      "name": "Alta-Dutch Flat Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "02310",
+      "name": "Alum Rock Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "02360",
+      "name": "Alview-Dairyland Union Elementary School District",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "02370",
+      "name": "Alvina Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "02430",
+      "name": "Alvord Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "02450",
+      "name": "Amador County Unified School District",
+      "county": "Amador"
+    },
+    {
+      "family": "elsd",
+      "lea": "02610",
+      "name": "Anaheim Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "scsd",
+      "lea": "02630",
+      "name": "Anaheim Union High School District",
+      "county": "Orange"
+    },
+    {
+      "family": "scsd",
+      "lea": "02700",
+      "name": "Anderson Union High School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "02730",
+      "name": "Anderson Valley Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "02760",
+      "name": "Antelope Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "scsd",
+      "lea": "02820",
+      "name": "Antelope Valley Union Joint High School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "02850",
+      "name": "Antioch Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "00017",
+      "name": "Apple Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "02970",
+      "name": "Arcadia Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "03000",
+      "name": "Arcata Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "03060",
+      "name": "Arcohe Union Elementary School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "elsd",
+      "lea": "03090",
+      "name": "Arena Union Elementary School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "03180",
+      "name": "Armona Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "unsd",
+      "lea": "91136",
+      "name": "Aromas-San Juan Unified School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "03270",
+      "name": "Arvin Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "03300",
+      "name": "Atascadero Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "03420",
+      "name": "Atwater Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "03480",
+      "name": "Auburn Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "unsd",
+      "lea": "03600",
+      "name": "Azusa Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "03610",
+      "name": "Baker Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "03630",
+      "name": "Bakersfield City School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "03690",
+      "name": "Baldwin Park Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "03720",
+      "name": "Ballard Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "03750",
+      "name": "Ballico-Cressey Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "03780",
+      "name": "Bangor Union Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "03840",
+      "name": "Banning Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "02571",
+      "name": "Banta Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "04020",
+      "name": "Barstow Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "04080",
+      "name": "Bass Lake Joint Union Elementary School District",
+      "county": "Madera"
+    },
+    {
+      "family": "unsd",
+      "lea": "04110",
+      "name": "Bassett Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "04200",
+      "name": "Bayshore Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "04230",
+      "name": "Bear Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "04260",
+      "name": "Beardsley Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "04290",
+      "name": "Beaumont Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "04350",
+      "name": "Bella Vista Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "04500",
+      "name": "Belleview Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "04380",
+      "name": "Bellevue Union School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "04440",
+      "name": "Bellflower Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "04530",
+      "name": "Belmont-Redwood Shores Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "04620",
+      "name": "Benicia Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "elsd",
+      "lea": "04650",
+      "name": "Bennett Valley Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "04740",
+      "name": "Berkeley Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "04800",
+      "name": "Berryessa Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "04830",
+      "name": "Beverly Hills Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "04860",
+      "name": "Big Creek Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "04890",
+      "name": "Big Lagoon Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "91137",
+      "name": "Big Oak Flat-Groveland Unified School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "unsd",
+      "lea": "04950",
+      "name": "Big Pine Unified School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "elsd",
+      "lea": "04980",
+      "name": "Big Springs Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "00031",
+      "name": "Big Sur Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "05010",
+      "name": "Big Valley Joint Unified School District",
+      "county": "Modoc"
+    },
+    {
+      "family": "unsd",
+      "lea": "05040",
+      "name": "Biggs Unified School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "01409",
+      "name": "Bishop Unified School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "scsd",
+      "lea": "06021",
+      "name": "Bishop Unified School District (9-12)",
+      "county": "Inyo"
+    },
+    {
+      "family": "elsd",
+      "lea": "05190",
+      "name": "Bitterwater-Tully Union Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "05220",
+      "name": "Black Butte Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "05240",
+      "name": "Black Oak Mine Unified School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "05250",
+      "name": "Blake Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "05280",
+      "name": "Blochman Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "05400",
+      "name": "Blue Lake Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "05490",
+      "name": "Bogus Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "05520",
+      "name": "Bolinas-Stinson Union Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "unsd",
+      "lea": "05610",
+      "name": "Bonita Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "05640",
+      "name": "Bonny Doon Union Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "unsd",
+      "lea": "01426",
+      "name": "Bonsall Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "05700",
+      "name": "Borrego Springs Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "05730",
+      "name": "Bradley Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "05790",
+      "name": "Brawley Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "scsd",
+      "lea": "05820",
+      "name": "Brawley Union High School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "unsd",
+      "lea": "05880",
+      "name": "Brea-Olinda Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "05910",
+      "name": "Brentwood Union Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "scsd",
+      "lea": "05940",
+      "name": "Bret Harte Union High School District",
+      "county": "Calaveras"
+    },
+    {
+      "family": "elsd",
+      "lea": "06000",
+      "name": "Bridgeville Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "06030",
+      "name": "Briggs Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "06060",
+      "name": "Brisbane Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "06090",
+      "name": "Brittan Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "06100",
+      "name": "Browns Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "06270",
+      "name": "Buckeye Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "06330",
+      "name": "Buellton Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "06360",
+      "name": "Buena Park Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "06420",
+      "name": "Buena Vista Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "06450",
+      "name": "Burbank Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "06480",
+      "name": "Burlingame Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "06510",
+      "name": "Burnt Ranch Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "06540",
+      "name": "Burrel Union Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "06570",
+      "name": "Burton Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "06580",
+      "name": "Butte Valley Unified School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "06690",
+      "name": "Butteville Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "06720",
+      "name": "Buttonwillow Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "06750",
+      "name": "Byron Union Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "06780",
+      "name": "Cabrillo Unified School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "06810",
+      "name": "Cajon Valley Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "06870",
+      "name": "Calaveras Unified School District",
+      "county": "Calaveras"
+    },
+    {
+      "family": "unsd",
+      "lea": "06900",
+      "name": "Calexico Unified School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "06960",
+      "name": "Caliente Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "06990",
+      "name": "Calipatria Unified School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "unsd",
+      "lea": "07020",
+      "name": "Calistoga Joint Unified School District",
+      "county": "Napa"
+    },
+    {
+      "family": "elsd",
+      "lea": "07140",
+      "name": "Cambrian Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "07170",
+      "name": "Camino Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "07200",
+      "name": "Campbell Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "scsd",
+      "lea": "07230",
+      "name": "Campbell Union High School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "07260",
+      "name": "Camptonville Elementary School District",
+      "county": "Yuba"
+    },
+    {
+      "family": "elsd",
+      "lea": "07350",
+      "name": "Canyon Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "07410",
+      "name": "Capay Joint Union Elementary School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "unsd",
+      "lea": "07440",
+      "name": "Capistrano Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "07470",
+      "name": "Cardiff Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "07500",
+      "name": "Carlsbad Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "07530",
+      "name": "Carmel Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "07560",
+      "name": "Carpinteria Unified School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "00067",
+      "name": "Caruthers Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "scsd",
+      "lea": "99002",
+      "name": "Caruthers Unified School District (9-12)",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "07680",
+      "name": "Cascade Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "07740",
+      "name": "Castaic Union School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "07770",
+      "name": "Castle Rock Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "07800",
+      "name": "Castro Valley Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "07840",
+      "name": "Cayucos Elementary School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "unsd",
+      "lea": "07900",
+      "name": "Center Joint Unified School District",
+      "county": "Placer"
+    },
+    {
+      "family": "scsd",
+      "lea": "07920",
+      "name": "Centinela Valley Union High School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "07950",
+      "name": "Central Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "07970",
+      "name": "Central Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "07980",
+      "name": "Central Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "scsd",
+      "lea": "08010",
+      "name": "Central Union High School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "08070",
+      "name": "Centralia Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "08130",
+      "name": "Ceres Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "scsd",
+      "lea": "08160",
+      "name": "Chaffey Joint Union High School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "08190",
+      "name": "Charter Oak Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "08250",
+      "name": "Chatom Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "00116",
+      "name": "Chawanakee Unified School District",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "08340",
+      "name": "Chicago Park Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "unsd",
+      "lea": "08370",
+      "name": "Chico Unified School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "08460",
+      "name": "Chino Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "08520",
+      "name": "Chowchilla Elementary School District",
+      "county": "Madera"
+    },
+    {
+      "family": "scsd",
+      "lea": "08550",
+      "name": "Chowchilla Union High School District",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "08580",
+      "name": "Chualar Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "08610",
+      "name": "Chula Vista Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "08640",
+      "name": "Cienega Union Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "08700",
+      "name": "Cinnabar Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "08760",
+      "name": "Claremont Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "08850",
+      "name": "Clay Joint Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "08880",
+      "name": "Clear Creek Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "unsd",
+      "lea": "08970",
+      "name": "Cloverdale Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "09030",
+      "name": "Clovis Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "09070",
+      "name": "Coachella Valley Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "09120",
+      "name": "Coalinga-Huron Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "00049",
+      "name": "Coast Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "scsd",
+      "lea": "99009",
+      "name": "Coast Unified School District (9-12)",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "09240",
+      "name": "Coffee Creek Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "09270",
+      "name": "Cold Spring Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "09300",
+      "name": "Colfax Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "09330",
+      "name": "College Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "09390",
+      "name": "Colton Joint Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "09450",
+      "name": "Columbia Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "09480",
+      "name": "Columbia Union Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "09510",
+      "name": "Columbine Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "09570",
+      "name": "Colusa Unified School District",
+      "county": "Colusa"
+    },
+    {
+      "family": "unsd",
+      "lea": "09620",
+      "name": "Compton Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "09640",
+      "name": "Conejo Valley Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "09690",
+      "name": "Corcoran Joint Unified School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "09780",
+      "name": "Corning Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "scsd",
+      "lea": "09810",
+      "name": "Corning Union High School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "09850",
+      "name": "Corona-Norco Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "09870",
+      "name": "Coronado Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "09940",
+      "name": "Cotati-Rohnert Park Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "09990",
+      "name": "Cottonwood Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "10050",
+      "name": "Covina-Valley Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "16300",
+      "name": "Cucamonga Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "10230",
+      "name": "Cuddeback Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "10260",
+      "name": "Culver City Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "10290",
+      "name": "Cupertino Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "10320",
+      "name": "Curtis Creek Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "unsd",
+      "lea": "10350",
+      "name": "Cutler-Orosi Joint Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "10380",
+      "name": "Cutten Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "00009",
+      "name": "Cuyama Joint Unified School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "10440",
+      "name": "Cypress Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "10620",
+      "name": "Davis Joint Unified School District",
+      "county": "Yolo"
+    },
+    {
+      "family": "unsd",
+      "lea": "10680",
+      "name": "Death Valley Unified School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "elsd",
+      "lea": "10710",
+      "name": "Dehesa Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "10740",
+      "name": "Del Mar Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "10770",
+      "name": "Del Norte County Unified School District",
+      "county": "Del Norte"
+    },
+    {
+      "family": "scsd",
+      "lea": "10860",
+      "name": "Delano Joint Union High School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "10890",
+      "name": "Delano Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "00039",
+      "name": "Delhi Unified School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "10980",
+      "name": "Delphic Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "11040",
+      "name": "Denair Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "11100",
+      "name": "Desert Center Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "11110",
+      "name": "Desert Sands Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "11130",
+      "name": "Di Giorgio Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "00065",
+      "name": "Dinuba Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "06016",
+      "name": "Dinuba Unified School District (9-12)",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "11220",
+      "name": "Dixie Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "unsd",
+      "lea": "11280",
+      "name": "Dixon Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "unsd",
+      "lea": "00033",
+      "name": "Dos Palos-Oro Loma Joint Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "11430",
+      "name": "Douglas City Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "unsd",
+      "lea": "11460",
+      "name": "Downey Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "11490",
+      "name": "Dry Creek Joint Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "unsd",
+      "lea": "11520",
+      "name": "Duarte Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00019",
+      "name": "Dublin Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "11550",
+      "name": "Ducor Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "11610",
+      "name": "Dunham Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "11670",
+      "name": "Dunsmuir Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "scsd",
+      "lea": "11700",
+      "name": "Dunsmuir Joint Union High School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "11730",
+      "name": "Durham Unified School District",
+      "county": "Butte"
+    },
+    {
+      "family": "elsd",
+      "lea": "11760",
+      "name": "Earlimart Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "11780",
+      "name": "East Nicolaus Joint Union High School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "scsd",
+      "lea": "11820",
+      "name": "East Side Union High School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "11850",
+      "name": "East Whittier City Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "11870",
+      "name": "Eastern Sierra Unified School District",
+      "county": "Mono"
+    },
+    {
+      "family": "elsd",
+      "lea": "11910",
+      "name": "Eastside Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "11940",
+      "name": "Edison Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "12030",
+      "name": "El Centro Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "scsd",
+      "lea": "12070",
+      "name": "El Dorado Union High School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "12090",
+      "name": "El Monte City School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "12120",
+      "name": "El Monte Union High School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "12150",
+      "name": "El Nido Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "12180",
+      "name": "El Rancho Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "12210",
+      "name": "El Segundo Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00026",
+      "name": "El Tejon Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "12330",
+      "name": "Elk Grove Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "elsd",
+      "lea": "12360",
+      "name": "Elk Hills Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "12600",
+      "name": "Elverta Joint Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "unsd",
+      "lea": "12630",
+      "name": "Emery Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "12690",
+      "name": "Empire Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "12750",
+      "name": "Encinitas Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "12810",
+      "name": "Enterprise Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "12840",
+      "name": "Escalon Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "12880",
+      "name": "Escondido Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "scsd",
+      "lea": "12910",
+      "name": "Escondido Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "12930",
+      "name": "Esparto Unified School District",
+      "county": "Yolo"
+    },
+    {
+      "family": "elsd",
+      "lea": "12960",
+      "name": "Etiwanda Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "00052",
+      "name": "Eureka City Unified School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "scsd",
+      "lea": "99006",
+      "name": "Eureka City Unified School District (7-12)",
+      "county": "Humboldt"
+    },
+    {
+      "family": "scsd",
+      "lea": "99007",
+      "name": "Eureka City Unified School District (9-12)",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "13080",
+      "name": "Eureka Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "13140",
+      "name": "Evergreen Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "13170",
+      "name": "Evergreen Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "01423",
+      "name": "Exeter Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "06028",
+      "name": "Exeter Unified School District (9-12)",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "13290",
+      "name": "Fairfax Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "13360",
+      "name": "Fairfield-Suisun Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "unsd",
+      "lea": "13470",
+      "name": "Fall River Joint Unified School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "13500",
+      "name": "Fallbrook Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "scsd",
+      "lea": "13530",
+      "name": "Fallbrook Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "00035",
+      "name": "Farmersville Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "00037",
+      "name": "Ferndale Unified School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "13740",
+      "name": "Fieldbrook Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "13800",
+      "name": "Fillmore Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "13840",
+      "name": "Firebaugh-Las Deltas Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "13860",
+      "name": "Flournoy Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "13890",
+      "name": "Folsom-Cordova Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "unsd",
+      "lea": "13920",
+      "name": "Fontana Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "13980",
+      "name": "Foresthill Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "14010",
+      "name": "Forestville Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "14070",
+      "name": "Fort Bragg Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "14130",
+      "name": "Fort Ross Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "00011",
+      "name": "Fort Sage Unified School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "01420",
+      "name": "Fortuna Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "scsd",
+      "lea": "14190",
+      "name": "Fortuna Union High School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "14220",
+      "name": "Fountain Valley Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "14250",
+      "name": "Fowler Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "14340",
+      "name": "Franklin Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "14370",
+      "name": "Franklin-McKinley Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "14400",
+      "name": "Fremont Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "scsd",
+      "lea": "14430",
+      "name": "Fremont Union High School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "14490",
+      "name": "French Gulch-Whiskeytown Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "14520",
+      "name": "Freshwater Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "14550",
+      "name": "Fresno Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "14700",
+      "name": "Fruitvale Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "14730",
+      "name": "Fullerton Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "scsd",
+      "lea": "14760",
+      "name": "Fullerton Joint Union High School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "14790",
+      "name": "Galt Joint Union Elementary School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "scsd",
+      "lea": "14820",
+      "name": "Galt Joint Union High School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "unsd",
+      "lea": "14880",
+      "name": "Garden Grove Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "14910",
+      "name": "Garfield Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "14940",
+      "name": "Garvey Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "14950",
+      "name": "Gateway Unified School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "14970",
+      "name": "Gazelle Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "15000",
+      "name": "General Shafter Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "15090",
+      "name": "Gerber Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "15150",
+      "name": "Geyserville Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "15180",
+      "name": "Gilroy Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "15240",
+      "name": "Glendale Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "15270",
+      "name": "Glendora Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "15390",
+      "name": "Gold Oak Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "15450",
+      "name": "Gold Trail Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "15480",
+      "name": "Golden Feather Union Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "91134",
+      "name": "Golden Plains Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "00068",
+      "name": "Golden Valley Unified School District",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "15510",
+      "name": "Goleta Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "00046",
+      "name": "Gonzales Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "scsd",
+      "lea": "06053",
+      "name": "Gonzales Unified School District (9-12)",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "15600",
+      "name": "Gorman Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "15690",
+      "name": "Grant Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "15780",
+      "name": "Grass Valley Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "elsd",
+      "lea": "15810",
+      "name": "Gratton Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "15840",
+      "name": "Gravenstein Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "15870",
+      "name": "Graves Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "15990",
+      "name": "Green Point Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "16080",
+      "name": "Greenfield Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "16050",
+      "name": "Greenfield Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "16110",
+      "name": "Grenada Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "00051",
+      "name": "Gridley Unified School District",
+      "county": "Butte"
+    },
+    {
+      "family": "scsd",
+      "lea": "99001",
+      "name": "Gridley Unified School District (9-12)",
+      "county": "Butte"
+    },
+    {
+      "family": "scsd",
+      "lea": "16230",
+      "name": "Grossmont Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "16260",
+      "name": "Guadalupe Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "16320",
+      "name": "Guerneville Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "16323",
+      "name": "Gustine Unified School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "16325",
+      "name": "Hacienda La Puente Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "01339",
+      "name": "Hamilton Unified School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "scsd",
+      "lea": "06025",
+      "name": "Hamilton Unified School District (9-12)",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "16470",
+      "name": "Hanford Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "scsd",
+      "lea": "16500",
+      "name": "Hanford Joint Union High School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "16530",
+      "name": "Happy Camp Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "16560",
+      "name": "Happy Valley Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "16570",
+      "name": "Happy Valley Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "16620",
+      "name": "Harmony Union School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "16650",
+      "name": "Hart-Ransom Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "16680",
+      "name": "Hawthorne Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "16740",
+      "name": "Hayward Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "00044",
+      "name": "Healdsburg Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "scsd",
+      "lea": "06038",
+      "name": "Healdsburg Unified School District (7-12)",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "16830",
+      "name": "Heber Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "16860",
+      "name": "Helendale Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "16920",
+      "name": "Hemet Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "17040",
+      "name": "Hermosa Beach City Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00014",
+      "name": "Hesperia Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "17160",
+      "name": "Hickman Community Charter School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "17190",
+      "name": "Hillsborough City Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "17220",
+      "name": "Hilmar Unified School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "17340",
+      "name": "Hollister School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "unsd",
+      "lea": "17430",
+      "name": "Holtville Unified School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "17490",
+      "name": "Hope Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "17520",
+      "name": "Hope Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "17580",
+      "name": "Horicon Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "17620",
+      "name": "Hornbrook Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "17640",
+      "name": "Hot Springs Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "17760",
+      "name": "Howell Mountain Elementary School District",
+      "county": "Napa"
+    },
+    {
+      "family": "elsd",
+      "lea": "17850",
+      "name": "Hueneme Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "17880",
+      "name": "Hughes-Elizabeth Lakes Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00060",
+      "name": "Hughson Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "scsd",
+      "lea": "99012",
+      "name": "Hughson Unified School District (9-12)",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "18030",
+      "name": "Huntington Beach City Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "scsd",
+      "lea": "18060",
+      "name": "Huntington Beach Union High School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "18120",
+      "name": "Hydesville Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "18160",
+      "name": "Igo, Ono, Platina Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "18210",
+      "name": "Imperial Unified School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "18240",
+      "name": "Indian Diggings Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "unsd",
+      "lea": "18390",
+      "name": "Inglewood Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "84500",
+      "name": "Irvine Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "18510",
+      "name": "Island Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "18660",
+      "name": "Jacoby Creek Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "18690",
+      "name": "Jamestown Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "18730",
+      "name": "Jamul-Dulzura Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "18780",
+      "name": "Janesville Union Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "18810",
+      "name": "Jefferson Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "18840",
+      "name": "Jefferson Elementary School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "18870",
+      "name": "Jefferson Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "scsd",
+      "lea": "18930",
+      "name": "Jefferson Union High School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "18990",
+      "name": "John Swett Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "19050",
+      "name": "Johnstonville Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "19140",
+      "name": "Julian Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "scsd",
+      "lea": "19110",
+      "name": "Julian Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "19170",
+      "name": "Junction City Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "19200",
+      "name": "Junction Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "19230",
+      "name": "Junction Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "19260",
+      "name": "Jurupa Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "32340",
+      "name": "Kashia Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "19320",
+      "name": "Kelseyville Unified School District",
+      "county": "Lake"
+    },
+    {
+      "family": "elsd",
+      "lea": "19380",
+      "name": "Kentfield Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "19410",
+      "name": "Kenwood Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "19440",
+      "name": "Keppel Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "19490",
+      "name": "Kerman Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "scsd",
+      "lea": "19540",
+      "name": "Kern High School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "19590",
+      "name": "Kernville Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "19620",
+      "name": "Keyes Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "19680",
+      "name": "King City Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "19700",
+      "name": "Kings Canyon Joint Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "19740",
+      "name": "Kings River Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "19770",
+      "name": "Kings River-Hardwick Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "19800",
+      "name": "Kingsburg Elementary Charter School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "scsd",
+      "lea": "19830",
+      "name": "Kingsburg Joint Union High School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "19860",
+      "name": "Kirkwood Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "elsd",
+      "lea": "19890",
+      "name": "Kit Carson Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "19920",
+      "name": "Klamath River Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "19950",
+      "name": "Klamath-Trinity Joint Unified School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "19980",
+      "name": "Kneeland Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "20010",
+      "name": "Knights Ferry Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "20040",
+      "name": "Knightsen Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "20070",
+      "name": "Konocti Unified School District",
+      "county": "Lake"
+    },
+    {
+      "family": "unsd",
+      "lea": "20130",
+      "name": "La Cañada Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "20190",
+      "name": "La Habra City Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "20220",
+      "name": "La Honda-Pescadero Unified School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "20250",
+      "name": "La Mesa-Spring Valley School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "20310",
+      "name": "Lafayette Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "20370",
+      "name": "Laguna Beach Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "20430",
+      "name": "Laguna Joint Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "20490",
+      "name": "Lagunita Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "20520",
+      "name": "Lagunitas Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "20610",
+      "name": "Lake Elementary School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "unsd",
+      "lea": "00027",
+      "name": "Lake Elsinore Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "20640",
+      "name": "Lake Tahoe Unified School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "unsd",
+      "lea": "20670",
+      "name": "Lakeport Unified School District",
+      "county": "Lake"
+    },
+    {
+      "family": "elsd",
+      "lea": "20700",
+      "name": "Lakeside Joint Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "20760",
+      "name": "Lakeside Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "20790",
+      "name": "Lakeside Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "20730",
+      "name": "Lakeside Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "01410",
+      "name": "Lammersville Joint Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "scsd",
+      "lea": "06020",
+      "name": "Lammersville Joint Unified School District (9-12)",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "20850",
+      "name": "Lamont Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "20880",
+      "name": "Lancaster Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "20910",
+      "name": "Larkspur Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "22380",
+      "name": "Las Lomitas Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "21000",
+      "name": "Las Virgenes Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "21060",
+      "name": "Lassen Union High School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "21090",
+      "name": "Lassen View Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "21150",
+      "name": "Laton Joint Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "21180",
+      "name": "Latrobe Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "21210",
+      "name": "Lawndale Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "42580",
+      "name": "Laytonville Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "21240",
+      "name": "Le Grand Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "scsd",
+      "lea": "21270",
+      "name": "Le Grand Union High School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "09665",
+      "name": "Leggett Valley Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "21330",
+      "name": "Lemon Grove Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "21360",
+      "name": "Lemoore Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "scsd",
+      "lea": "21400",
+      "name": "Lemoore Union High School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "21420",
+      "name": "Lennox Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "21480",
+      "name": "Lewiston Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "21540",
+      "name": "Liberty Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "21570",
+      "name": "Liberty Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "21600",
+      "name": "Liberty Union High School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "21690",
+      "name": "Lincoln Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "21810",
+      "name": "Linden Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "21870",
+      "name": "Lindsay Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "21900",
+      "name": "Linns Valley-Poso Flat Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "21930",
+      "name": "Little Lake City Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "21960",
+      "name": "Little Shasta Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "21990",
+      "name": "Live Oak Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "unsd",
+      "lea": "22050",
+      "name": "Live Oak Unified School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "unsd",
+      "lea": "22110",
+      "name": "Livermore Valley Joint Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "22170",
+      "name": "Livingston Union School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "22230",
+      "name": "Lodi Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "22320",
+      "name": "Loleta Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "22350",
+      "name": "Loma Prieta Joint Union Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "unsd",
+      "lea": "22410",
+      "name": "Lompoc Unified School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "22440",
+      "name": "Lone Pine Unified School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "unsd",
+      "lea": "22500",
+      "name": "Long Beach Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "22560",
+      "name": "Loomis Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "unsd",
+      "lea": "22590",
+      "name": "Los Alamitos Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "22650",
+      "name": "Los Altos Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "22710",
+      "name": "Los Angeles Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "22740",
+      "name": "Los Banos Unified School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "22830",
+      "name": "Los Gatos Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "scsd",
+      "lea": "22800",
+      "name": "Los Gatos-Saratoga Joint Union School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "22860",
+      "name": "Los Molinos Unified School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "elsd",
+      "lea": "22890",
+      "name": "Los Nietos Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "22920",
+      "name": "Los Olivos Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "22950",
+      "name": "Lost Hills Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "23010",
+      "name": "Lowell Joint Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "23040",
+      "name": "Lucerne Elementary School District",
+      "county": "Lake"
+    },
+    {
+      "family": "unsd",
+      "lea": "00015",
+      "name": "Lucerne Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "23080",
+      "name": "Lucia Mar Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "23130",
+      "name": "Luther Burbank Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "23160",
+      "name": "Lynwood Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "23340",
+      "name": "Madera Unified School District",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "23430",
+      "name": "Magnolia Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "23460",
+      "name": "Magnolia Union Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "unsd",
+      "lea": "23530",
+      "name": "Mammoth Unified School District",
+      "county": "Mono"
+    },
+    {
+      "family": "elsd",
+      "lea": "23550",
+      "name": "Manchester Union Elementary School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "unsd",
+      "lea": "00025",
+      "name": "Manhattan Beach Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "23610",
+      "name": "Manteca Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "23700",
+      "name": "Manzanita Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "elsd",
+      "lea": "23730",
+      "name": "Maple Creek Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "23760",
+      "name": "Maple Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "23800",
+      "name": "Marcum-Illinois Union Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "unsd",
+      "lea": "23820",
+      "name": "Maricopa Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "23940",
+      "name": "Mariposa County Unified School District",
+      "county": "Mariposa"
+    },
+    {
+      "family": "elsd",
+      "lea": "23970",
+      "name": "Mark Twain Union Elementary School District",
+      "county": "Calaveras"
+    },
+    {
+      "family": "elsd",
+      "lea": "24000",
+      "name": "Mark West Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "24030",
+      "name": "Martinez Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "24090",
+      "name": "Marysville Joint Unified School District",
+      "county": "Yuba"
+    },
+    {
+      "family": "unsd",
+      "lea": "00038",
+      "name": "Mattole Unified School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "24150",
+      "name": "Maxwell Unified School District",
+      "county": "Colusa"
+    },
+    {
+      "family": "elsd",
+      "lea": "24180",
+      "name": "McCabe Union Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "24210",
+      "name": "McCloud Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "24230",
+      "name": "McFarland Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "24300",
+      "name": "McKinleyville Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "24330",
+      "name": "McKittrick Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "24360",
+      "name": "McSwain Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "24390",
+      "name": "Meadows Union Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "unsd",
+      "lea": "24480",
+      "name": "Mendocino Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "unsd",
+      "lea": "00022",
+      "name": "Mendota Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "24540",
+      "name": "Menifee Union School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "24570",
+      "name": "Menlo Park City Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "24600",
+      "name": "Merced City Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "24630",
+      "name": "Merced River Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "scsd",
+      "lea": "24660",
+      "name": "Merced Union High School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "24690",
+      "name": "Meridian Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "24720",
+      "name": "Mesa Union Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "24750",
+      "name": "Middletown Unified School District",
+      "county": "Lake"
+    },
+    {
+      "family": "elsd",
+      "lea": "24780",
+      "name": "Midway Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "24870",
+      "name": "Mill Valley Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "24900",
+      "name": "Millbrae Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "24930",
+      "name": "Millville Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "24500",
+      "name": "Milpitas Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "25110",
+      "name": "Mission Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "25130",
+      "name": "Modesto City Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "scsd",
+      "lea": "25150",
+      "name": "Modesto City High School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "25190",
+      "name": "Modoc Joint Unified School District",
+      "county": "Modoc"
+    },
+    {
+      "family": "unsd",
+      "lea": "25230",
+      "name": "Mojave Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "25290",
+      "name": "Monroe Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "25320",
+      "name": "Monrovia Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "25350",
+      "name": "Monson-Sultana Joint Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "25380",
+      "name": "Montague Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "25410",
+      "name": "Monte Rio Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "25470",
+      "name": "Montebello Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "25500",
+      "name": "Montecito Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "25530",
+      "name": "Monterey Peninsula Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "25650",
+      "name": "Montgomery Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "25690",
+      "name": "Moorpark Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "25740",
+      "name": "Moraga Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "25770",
+      "name": "Moreland School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "25800",
+      "name": "Moreno Valley Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "25830",
+      "name": "Morgan Hill Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "25860",
+      "name": "Morongo Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "25980",
+      "name": "Mother Lode Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "26340",
+      "name": "Mount Baldy Joint Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "26370",
+      "name": "Mount Diablo Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "26400",
+      "name": "Mount Pleasant Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "26040",
+      "name": "Mount Shasta Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "26070",
+      "name": "Mountain Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "unsd",
+      "lea": "26100",
+      "name": "Mountain Empire Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "26130",
+      "name": "Mountain House Elementary School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "27040",
+      "name": "Mountain Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "00018",
+      "name": "Mountain Valley Unified School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "26190",
+      "name": "Mountain View Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "26220",
+      "name": "Mountain View Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "26280",
+      "name": "Mountain View Whisman Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "scsd",
+      "lea": "26310",
+      "name": "Mountain View-Los Altos Union School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "26430",
+      "name": "Mulberry Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "26460",
+      "name": "Mupu Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "26490",
+      "name": "Muroc Joint Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "00029",
+      "name": "Murrieta Valley Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "26640",
+      "name": "Napa Valley Unified School District",
+      "county": "Napa"
+    },
+    {
+      "family": "elsd",
+      "lea": "26670",
+      "name": "National Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "00036",
+      "name": "Natomas Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "unsd",
+      "lea": "26760",
+      "name": "Needles Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "26820",
+      "name": "Nevada City Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "scsd",
+      "lea": "26880",
+      "name": "Nevada Joint Union High School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "scsd",
+      "lea": "99014",
+      "name": "Nevada Joint Union High School District (9-12)",
+      "county": "Yuba"
+    },
+    {
+      "family": "unsd",
+      "lea": "26910",
+      "name": "New Haven Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "26970",
+      "name": "New Hope Elementary School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "27030",
+      "name": "New Jerusalem Elementary School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "27060",
+      "name": "Newark Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "27120",
+      "name": "Newcastle Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "27180",
+      "name": "Newhall Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "27200",
+      "name": "Newman-Crows Landing Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "27240",
+      "name": "Newport-Mesa Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "27300",
+      "name": "Nicasio Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "27450",
+      "name": "Norris Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "27480",
+      "name": "North County Joint Union Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "27510",
+      "name": "North Cow Creek Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "27590",
+      "name": "North Monterey County Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "scsd",
+      "lea": "03030",
+      "name": "Northern Humboldt Union High School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "27690",
+      "name": "Norwalk-La Mirada Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "27720",
+      "name": "Novato Unified School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "27750",
+      "name": "Nuestro Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "27780",
+      "name": "Nuview Union Elementary School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "27810",
+      "name": "Oak Grove Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "27840",
+      "name": "Oak Grove Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "27850",
+      "name": "Oak Park Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "27870",
+      "name": "Oak Run Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "27900",
+      "name": "Oak Valley Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "27930",
+      "name": "Oak View Union Elementary School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "00062",
+      "name": "Oakdale Joint Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "scsd",
+      "lea": "99013",
+      "name": "Oakdale Joint Unified School District (9-12)",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "28050",
+      "name": "Oakland Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "28080",
+      "name": "Oakley Union Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "28140",
+      "name": "Ocean View Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "28170",
+      "name": "Ocean View Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "28250",
+      "name": "Oceanside Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "28270",
+      "name": "Ojai Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "28320",
+      "name": "Old Adobe Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "28470",
+      "name": "Ontario-Montclair School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "28530",
+      "name": "Orange Center Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "28650",
+      "name": "Orange Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "28680",
+      "name": "Orchard Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "28710",
+      "name": "Orcutt Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "28830",
+      "name": "Orick Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "28860",
+      "name": "Orinda Union Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "00045",
+      "name": "Orland Joint Unified School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "scsd",
+      "lea": "99005",
+      "name": "Orland Joint Unified School District (9-12)",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "28950",
+      "name": "Oro Grande Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "29100",
+      "name": "Oroville City Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "scsd",
+      "lea": "29130",
+      "name": "Oroville Union High School District",
+      "county": "Butte"
+    },
+    {
+      "family": "elsd",
+      "lea": "29160",
+      "name": "Outside Creek Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "29190",
+      "name": "Owens Valley Unified School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "elsd",
+      "lea": "29220",
+      "name": "Oxnard Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "scsd",
+      "lea": "29270",
+      "name": "Oxnard Union High School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "29280",
+      "name": "Pacheco Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "29340",
+      "name": "Pacific Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "unsd",
+      "lea": "29370",
+      "name": "Pacific Grove Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "29400",
+      "name": "Pacific Union Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "29430",
+      "name": "Pacific Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "20460",
+      "name": "Pacifica School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "29490",
+      "name": "Pajaro Valley Joint Unified School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "29540",
+      "name": "Palermo Union Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "29550",
+      "name": "Palm Springs Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "29580",
+      "name": "Palmdale Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "29610",
+      "name": "Palo Alto Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "29640",
+      "name": "Palo Verde Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "29670",
+      "name": "Palo Verde Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "29700",
+      "name": "Palos Verdes Peninsula Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "06390",
+      "name": "Panama-Buena Vista School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "29770",
+      "name": "Panoche Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "29790",
+      "name": "Paradise Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "29820",
+      "name": "Paradise Unified School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "29850",
+      "name": "Paramount Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "29910",
+      "name": "Parlier Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "29940",
+      "name": "Pasadena Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00048",
+      "name": "Paso Robles Joint Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "scsd",
+      "lea": "99010",
+      "name": "Paso Robles Joint Unified School District (9-12)",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "unsd",
+      "lea": "30030",
+      "name": "Patterson Joint Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "30090",
+      "name": "Peninsula Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "01427",
+      "name": "Penn Valley Union Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "elsd",
+      "lea": "30180",
+      "name": "Perris Elementary School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "scsd",
+      "lea": "30210",
+      "name": "Perris Union High School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "scsd",
+      "lea": "06034",
+      "name": "Perris Union High School District (9-12)",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "30230",
+      "name": "Petaluma City Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "scsd",
+      "lea": "30250",
+      "name": "Petaluma Joint Union High School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "30330",
+      "name": "Piedmont City Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "30360",
+      "name": "Pierce Joint Unified School District",
+      "county": "Colusa"
+    },
+    {
+      "family": "elsd",
+      "lea": "30390",
+      "name": "Pine Ridge Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "30450",
+      "name": "Piner-Olivet Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "30480",
+      "name": "Pioneer Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "30510",
+      "name": "Pioneer Union Elementary School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "30520",
+      "name": "Pioneer Union Elementary School District",
+      "county": "Butte"
+    },
+    {
+      "family": "unsd",
+      "lea": "30600",
+      "name": "Pittsburg Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "30630",
+      "name": "Pixley Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "30660",
+      "name": "Placentia-Yorba Linda Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "30720",
+      "name": "Placer Hills Union Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "scsd",
+      "lea": "30750",
+      "name": "Placer Union High School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "30780",
+      "name": "Placerville Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "elsd",
+      "lea": "30810",
+      "name": "Plainsburg Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "30840",
+      "name": "Planada Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "30870",
+      "name": "Plaza Elementary School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "30900",
+      "name": "Pleasant Grove Joint Union Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "elsd",
+      "lea": "30930",
+      "name": "Pleasant Ridge Union Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "elsd",
+      "lea": "30990",
+      "name": "Pleasant Valley Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "31020",
+      "name": "Pleasant Valley Joint Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "31050",
+      "name": "Pleasant View Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "00020",
+      "name": "Pleasanton Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "elsd",
+      "lea": "31180",
+      "name": "Plumas Lake Elementary School District",
+      "county": "Yuba"
+    },
+    {
+      "family": "unsd",
+      "lea": "31170",
+      "name": "Plumas Unified School District",
+      "county": "Plumas"
+    },
+    {
+      "family": "scsd",
+      "lea": "31230",
+      "name": "Point Arena Joint Union High School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "31290",
+      "name": "Pollock Pines Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "unsd",
+      "lea": "31320",
+      "name": "Pomona Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "31350",
+      "name": "Pond Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "31380",
+      "name": "Pope Valley Union Elementary School District",
+      "county": "Napa"
+    },
+    {
+      "family": "unsd",
+      "lea": "00064",
+      "name": "Porterville Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "06107",
+      "name": "Porterville Unified School District (9-12)",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "31470",
+      "name": "Portola Valley Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "31400",
+      "name": "Potter Valley Community Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "unsd",
+      "lea": "31530",
+      "name": "Poway Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "31620",
+      "name": "Princeton Joint Unified School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "31680",
+      "name": "Raisin City Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "31710",
+      "name": "Ramona City Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "31740",
+      "name": "Rancho Santa Fe Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "31830",
+      "name": "Ravendale-Termo Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "31860",
+      "name": "Ravenswood City Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "31920",
+      "name": "Raymond-Knowles Union Elementary School District",
+      "county": "Madera"
+    },
+    {
+      "family": "scsd",
+      "lea": "32010",
+      "name": "Red Bluff Joint Union High School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "elsd",
+      "lea": "31980",
+      "name": "Red Bluff Union Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "elsd",
+      "lea": "32040",
+      "name": "Redding Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "unsd",
+      "lea": "32070",
+      "name": "Redlands Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "00032",
+      "name": "Redondo Beach Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "32130",
+      "name": "Redwood City Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "32160",
+      "name": "Reed Union Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "32250",
+      "name": "Reeds Creek Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "unsd",
+      "lea": "32270",
+      "name": "Reef-Sunset Unified School District",
+      "county": "Kings"
+    },
+    {
+      "family": "elsd",
+      "lea": "32310",
+      "name": "Rescue Union Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "unsd",
+      "lea": "32370",
+      "name": "Rialto Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "32400",
+      "name": "Richfield Elementary School District",
+      "county": "Tehama"
+    },
+    {
+      "family": "elsd",
+      "lea": "32430",
+      "name": "Richgrove Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "21450",
+      "name": "Richland Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "32520",
+      "name": "Richmond Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "unsd",
+      "lea": "32610",
+      "name": "Rim of the World Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "32640",
+      "name": "Rincon Valley Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "32710",
+      "name": "Rio Bravo-Greeley Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "32730",
+      "name": "Rio Dell Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "32760",
+      "name": "Rio Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "32880",
+      "name": "Ripon Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "unsd",
+      "lea": "33110",
+      "name": "River Delta Joint Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "unsd",
+      "lea": "00061",
+      "name": "Riverbank Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "00040",
+      "name": "Riverdale Joint Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "scsd",
+      "lea": "99003",
+      "name": "Riverdale Joint Unified School District (9-12)",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "33150",
+      "name": "Riverside Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "33210",
+      "name": "Roberts Ferry Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "33240",
+      "name": "Robla Elementary School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "elsd",
+      "lea": "33270",
+      "name": "Rockford Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "00013",
+      "name": "Rocklin Unified School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "33390",
+      "name": "Romoland Elementary School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "33480",
+      "name": "Rosedale Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "33510",
+      "name": "Roseland School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "33570",
+      "name": "Rosemead Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "33600",
+      "name": "Roseville City Elementary School District",
+      "county": "Placer"
+    },
+    {
+      "family": "scsd",
+      "lea": "33630",
+      "name": "Roseville Joint Union High School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "33660",
+      "name": "Ross Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "00006",
+      "name": "Ross Valley Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "33690",
+      "name": "Round Valley Joint Elementary School District",
+      "county": "Inyo"
+    },
+    {
+      "family": "unsd",
+      "lea": "33720",
+      "name": "Round Valley Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "unsd",
+      "lea": "33750",
+      "name": "Rowland Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "33840",
+      "name": "Sacramento City Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "unsd",
+      "lea": "33860",
+      "name": "Saddleback Valley Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "33900",
+      "name": "Salida Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "33930",
+      "name": "Salinas City Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "scsd",
+      "lea": "33980",
+      "name": "Salinas Union High School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "34050",
+      "name": "San Antonio Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "34080",
+      "name": "San Ardo Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "scsd",
+      "lea": "34140",
+      "name": "San Benito High School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "unsd",
+      "lea": "34170",
+      "name": "San Bernardino City Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "34230",
+      "name": "San Bruno Park Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "34290",
+      "name": "San Carlos Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "unsd",
+      "lea": "34320",
+      "name": "San Diego City Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "scsd",
+      "lea": "34380",
+      "name": "San Dieguito Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "34410",
+      "name": "San Francisco Unified School District",
+      "county": "San Francisco"
+    },
+    {
+      "family": "unsd",
+      "lea": "34425",
+      "name": "San Gabriel Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "34440",
+      "name": "San Jacinto Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "34590",
+      "name": "San Jose Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "34620",
+      "name": "San Juan Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "unsd",
+      "lea": "34680",
+      "name": "San Leandro Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "34710",
+      "name": "San Lorenzo Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "34740",
+      "name": "San Lorenzo Valley Unified School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "34770",
+      "name": "San Lucas Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "34800",
+      "name": "San Luis Coastal Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "unsd",
+      "lea": "34880",
+      "name": "San Marcos Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "34860",
+      "name": "San Marino Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "34980",
+      "name": "San Mateo Union High School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "34920",
+      "name": "San Mateo-Foster City Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "35010",
+      "name": "San Miguel Joint Union Elementary School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "35040",
+      "name": "San Pasqual Union Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "35070",
+      "name": "San Pasqual Valley Unified School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "35090",
+      "name": "San Rafael City Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "scsd",
+      "lea": "35110",
+      "name": "San Rafael City High School District",
+      "county": "Marin"
+    },
+    {
+      "family": "unsd",
+      "lea": "35130",
+      "name": "San Ramon Valley Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "elsd",
+      "lea": "35220",
+      "name": "San Ysidro Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "35250",
+      "name": "Sanger Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "35310",
+      "name": "Santa Ana Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "01414",
+      "name": "Santa Barbara Unified School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "scsd",
+      "lea": "06019",
+      "name": "Santa Barbara Unified School District (7-12)",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "35490",
+      "name": "Santa Clara Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "35430",
+      "name": "Santa Clara Unified School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "35590",
+      "name": "Santa Cruz City Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "scsd",
+      "lea": "35600",
+      "name": "Santa Cruz City High School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "scsd",
+      "lea": "99011",
+      "name": "Santa Cruz City High School District (6-12)",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "scsd",
+      "lea": "06015",
+      "name": "Santa Cruz City High School District (9-12)",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "scsd",
+      "lea": "35670",
+      "name": "Santa Maria Joint Union High School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "05580",
+      "name": "Santa Maria-Bonita Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "35700",
+      "name": "Santa Monica-Malibu Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "01421",
+      "name": "Santa Paula Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "scsd",
+      "lea": "06022",
+      "name": "Santa Paula Unified School District (9-12)",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "35790",
+      "name": "Santa Rita Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "35810",
+      "name": "Santa Rosa Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "scsd",
+      "lea": "35830",
+      "name": "Santa Rosa High School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "scsd",
+      "lea": "35850",
+      "name": "Santa Ynez Valley Union High School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "35880",
+      "name": "Santee School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "35910",
+      "name": "Saratoga Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "35940",
+      "name": "Saucelito Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "35970",
+      "name": "Saugus Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "36000",
+      "name": "Sausalito Elementary School District",
+      "county": "Marin"
+    },
+    {
+      "family": "elsd",
+      "lea": "36030",
+      "name": "Savanna Elementary School District",
+      "county": "Orange"
+    },
+    {
+      "family": "unsd",
+      "lea": "99997",
+      "name": "School District Not Defined",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "36100",
+      "name": "Scotia Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "00159",
+      "name": "Scott Valley Unified School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "scsd",
+      "lea": "06005",
+      "name": "Scott Valley Unified School District (9-12)",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "00043",
+      "name": "Scotts Valley Unified School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "36180",
+      "name": "Sebastopol Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "36210",
+      "name": "Seeley Union Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "36240",
+      "name": "Seiad Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "36270",
+      "name": "Selma Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "36330",
+      "name": "Semitropic Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "36360",
+      "name": "Sequoia Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "36390",
+      "name": "Sequoia Union High School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "36420",
+      "name": "Shaffer Union Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "unsd",
+      "lea": "36450",
+      "name": "Shandon Joint Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "36570",
+      "name": "Shasta Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "scsd",
+      "lea": "36600",
+      "name": "Shasta Union High School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "36660",
+      "name": "Shiloh Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "36670",
+      "name": "Shoreline Unified School District",
+      "county": "Marin"
+    },
+    {
+      "family": "unsd",
+      "lea": "36800",
+      "name": "Sierra Sands Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "36805",
+      "name": "Sierra Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "scsd",
+      "lea": "99004",
+      "name": "Sierra Unified School District (9-12)",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "36780",
+      "name": "Sierra-Plumas Joint Unified School District",
+      "county": "Sierra"
+    },
+    {
+      "family": "elsd",
+      "lea": "36810",
+      "name": "Silver Fork Elementary School District",
+      "county": "El Dorado"
+    },
+    {
+      "family": "unsd",
+      "lea": "36820",
+      "name": "Silver Valley Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "36840",
+      "name": "Simi Valley Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "scsd",
+      "lea": "36940",
+      "name": "Siskiyou Union High School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "36960",
+      "name": "Snelling-Merced Falls Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "36970",
+      "name": "Snowline Joint Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "36990",
+      "name": "Solana Beach Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "37050",
+      "name": "Soledad Unified School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "37110",
+      "name": "Solvang Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "elsd",
+      "lea": "37140",
+      "name": "Somis Union Elementary School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "unsd",
+      "lea": "37200",
+      "name": "Sonoma Valley Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "37230",
+      "name": "Sonora Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "scsd",
+      "lea": "37260",
+      "name": "Sonora Union High School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "37290",
+      "name": "Soquel Elementary School District",
+      "county": "Santa Cruz"
+    },
+    {
+      "family": "elsd",
+      "lea": "37320",
+      "name": "Soulsbyville Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "37350",
+      "name": "South Bay Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "elsd",
+      "lea": "37380",
+      "name": "South Bay Union School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "37470",
+      "name": "South Fork Union School District",
+      "county": "Kern"
+    },
+    {
+      "family": "scsd",
+      "lea": "19650",
+      "name": "South Monterey County Joint Union High School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "37500",
+      "name": "South Pasadena Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "37530",
+      "name": "South San Francisco Unified School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "37560",
+      "name": "South Whittier Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "37590",
+      "name": "Southern Humboldt Joint Unified School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "37620",
+      "name": "Southern Kern Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "37630",
+      "name": "Southern Trinity Joint Unified School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "37650",
+      "name": "Southside Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "37680",
+      "name": "Spencer Valley Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "37710",
+      "name": "Spreckels Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "elsd",
+      "lea": "37770",
+      "name": "Springville Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "37830",
+      "name": "St. Helena Unified School District",
+      "county": "Napa"
+    },
+    {
+      "family": "elsd",
+      "lea": "37890",
+      "name": "Standard Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "37950",
+      "name": "Stanislaus Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "38010",
+      "name": "Stockton Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "38040",
+      "name": "Stone Corral Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "38070",
+      "name": "Stony Creek Joint Unified School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "38130",
+      "name": "Strathmore Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "38220",
+      "name": "Sulphur Springs Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "38250",
+      "name": "Summerville Elementary School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "scsd",
+      "lea": "38280",
+      "name": "Summerville Union High School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "38340",
+      "name": "Sundale Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "38430",
+      "name": "Sunnyside Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "38460",
+      "name": "Sunnyvale Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "unsd",
+      "lea": "00021",
+      "name": "Sunol Glen Unified School District",
+      "county": "Alameda"
+    },
+    {
+      "family": "unsd",
+      "lea": "38520",
+      "name": "Surprise Valley Joint Unified School District",
+      "county": "Modoc"
+    },
+    {
+      "family": "elsd",
+      "lea": "38550",
+      "name": "Susanville Elementary School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "scsd",
+      "lea": "38610",
+      "name": "Sutter Union High School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "scsd",
+      "lea": "38640",
+      "name": "Sweetwater Union High School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "38670",
+      "name": "Sylvan Union Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "38700",
+      "name": "Taft City School District",
+      "county": "Kern"
+    },
+    {
+      "family": "scsd",
+      "lea": "38730",
+      "name": "Taft Union High School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "38770",
+      "name": "Tahoe-Truckee Unified School District",
+      "county": "Placer"
+    },
+    {
+      "family": "scsd",
+      "lea": "38790",
+      "name": "Tamalpais Union High School District",
+      "county": "Marin"
+    },
+    {
+      "family": "unsd",
+      "lea": "38880",
+      "name": "Tehachapi Unified School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "00028",
+      "name": "Temecula Valley Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "unsd",
+      "lea": "38980",
+      "name": "Temple City Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "39000",
+      "name": "Templeton Unified School District",
+      "county": "San Luis Obispo"
+    },
+    {
+      "family": "elsd",
+      "lea": "39060",
+      "name": "Terra Bella Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "39180",
+      "name": "Thermalito Union School District",
+      "county": "Butte"
+    },
+    {
+      "family": "elsd",
+      "lea": "39210",
+      "name": "Three Rivers Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "39300",
+      "name": "Tipton Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "39420",
+      "name": "Torrance Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00047",
+      "name": "Tracy Unified School District",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "scsd",
+      "lea": "06031",
+      "name": "Tracy Unified School District (9-12)",
+      "county": "San Joaquin"
+    },
+    {
+      "family": "elsd",
+      "lea": "39600",
+      "name": "Traver Joint Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "39630",
+      "name": "Travis Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "elsd",
+      "lea": "39690",
+      "name": "Tres Pinos Union Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "elsd",
+      "lea": "39720",
+      "name": "Trinidad Union Elementary School District",
+      "county": "Humboldt"
+    },
+    {
+      "family": "unsd",
+      "lea": "01331",
+      "name": "Trinity Alps Unified School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "scsd",
+      "lea": "06006",
+      "name": "Trinity Alps Unified School District (9-12)",
+      "county": "Trinity"
+    },
+    {
+      "family": "elsd",
+      "lea": "39750",
+      "name": "Trinity Center Elementary School District",
+      "county": "Trinity"
+    },
+    {
+      "family": "unsd",
+      "lea": "39840",
+      "name": "Trona Joint Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "39870",
+      "name": "Tulare City Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "39930",
+      "name": "Tulare Joint Union High School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "39940",
+      "name": "Tulelake Basin Joint Unified School District",
+      "county": "Modoc"
+    },
+    {
+      "family": "unsd",
+      "lea": "00158",
+      "name": "Turlock Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "scsd",
+      "lea": "06013",
+      "name": "Turlock Unified School District (9-12)",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "40150",
+      "name": "Tustin Unified School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "40200",
+      "name": "Twain Harte School District",
+      "county": "Tuolumne"
+    },
+    {
+      "family": "elsd",
+      "lea": "40230",
+      "name": "Twin Hills Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "00012",
+      "name": "Twin Ridges Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "unsd",
+      "lea": "01332",
+      "name": "Twin Rivers Unified School District",
+      "county": "Sacramento"
+    },
+    {
+      "family": "scsd",
+      "lea": "06004",
+      "name": "Twin Rivers Unified School District (7-12)",
+      "county": "Sacramento"
+    },
+    {
+      "family": "scsd",
+      "lea": "06003",
+      "name": "Twin Rivers Unified School District (9-12)",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "40260",
+      "name": "Two Rock Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "40300",
+      "name": "Ukiah Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "40320",
+      "name": "Union Elementary School District",
+      "county": "Santa Clara"
+    },
+    {
+      "family": "elsd",
+      "lea": "40380",
+      "name": "Union Hill Elementary School District",
+      "county": "Nevada"
+    },
+    {
+      "family": "unsd",
+      "lea": "00016",
+      "name": "Upland Unified School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "unsd",
+      "lea": "01442",
+      "name": "Upper Lake Unified School District",
+      "county": "Lake"
+    },
+    {
+      "family": "scsd",
+      "lea": "99008",
+      "name": "Upper Lake Unified School District (9-12)",
+      "county": "Lake"
+    },
+    {
+      "family": "unsd",
+      "lea": "40590",
+      "name": "Vacaville Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "unsd",
+      "lea": "91135",
+      "name": "Val Verde Unified School District",
+      "county": "Riverside"
+    },
+    {
+      "family": "elsd",
+      "lea": "40650",
+      "name": "Valle Lindo Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "40680",
+      "name": "Vallecito Union Elementary School District",
+      "county": "Calaveras"
+    },
+    {
+      "family": "elsd",
+      "lea": "40710",
+      "name": "Vallecitos Elementary School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "unsd",
+      "lea": "40740",
+      "name": "Vallejo City Unified School District",
+      "county": "Solano"
+    },
+    {
+      "family": "unsd",
+      "lea": "00069",
+      "name": "Valley Center-Pauma Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "40800",
+      "name": "Valley Home Joint Elementary School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "unsd",
+      "lea": "40980",
+      "name": "Ventura Unified School District",
+      "county": "Ventura"
+    },
+    {
+      "family": "elsd",
+      "lea": "41040",
+      "name": "Victor Elementary School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "scsd",
+      "lea": "36972",
+      "name": "Victor Valley Union High School District",
+      "county": "San Bernardino"
+    },
+    {
+      "family": "elsd",
+      "lea": "41130",
+      "name": "Vineland Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "unsd",
+      "lea": "41160",
+      "name": "Visalia Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "41220",
+      "name": "Vista del Mar Union Elementary School District",
+      "county": "Santa Barbara"
+    },
+    {
+      "family": "unsd",
+      "lea": "41190",
+      "name": "Vista Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "41250",
+      "name": "Walnut Creek Elementary School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "41280",
+      "name": "Walnut Valley Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00042",
+      "name": "Warner Unified School District",
+      "county": "San Diego"
+    },
+    {
+      "family": "elsd",
+      "lea": "41400",
+      "name": "Wasco Union Elementary School District",
+      "county": "Kern"
+    },
+    {
+      "family": "scsd",
+      "lea": "41430",
+      "name": "Wasco Union High School District",
+      "county": "Kern"
+    },
+    {
+      "family": "elsd",
+      "lea": "41460",
+      "name": "Washington Colony Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "01415",
+      "name": "Washington Unified School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "unsd",
+      "lea": "41580",
+      "name": "Washington Unified School District",
+      "county": "Yolo"
+    },
+    {
+      "family": "scsd",
+      "lea": "06018",
+      "name": "Washington Unified School District (9-12)",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "41610",
+      "name": "Washington Union Elementary School District",
+      "county": "Monterey"
+    },
+    {
+      "family": "unsd",
+      "lea": "00063",
+      "name": "Waterford Unified School District",
+      "county": "Stanislaus"
+    },
+    {
+      "family": "elsd",
+      "lea": "41790",
+      "name": "Waugh Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "41820",
+      "name": "Waukena Joint Union Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "41880",
+      "name": "Weaver Union Elementary School District",
+      "county": "Merced"
+    },
+    {
+      "family": "elsd",
+      "lea": "41980",
+      "name": "Weed Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "32550",
+      "name": "West Contra Costa Unified School District",
+      "county": "Contra Costa"
+    },
+    {
+      "family": "unsd",
+      "lea": "42000",
+      "name": "West Covina Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "elsd",
+      "lea": "42060",
+      "name": "West Park Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "42270",
+      "name": "West Side Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "scsd",
+      "lea": "02670",
+      "name": "West Sonoma County Union High School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "42140",
+      "name": "Western Placer Unified School District",
+      "county": "Placer"
+    },
+    {
+      "family": "elsd",
+      "lea": "42150",
+      "name": "Westminster School District",
+      "county": "Orange"
+    },
+    {
+      "family": "elsd",
+      "lea": "42180",
+      "name": "Westmorland Union Elementary School District",
+      "county": "Imperial"
+    },
+    {
+      "family": "elsd",
+      "lea": "42210",
+      "name": "Westside Elementary School District",
+      "county": "Fresno"
+    },
+    {
+      "family": "elsd",
+      "lea": "42120",
+      "name": "Westside Union Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "42300",
+      "name": "Westwood Unified School District",
+      "county": "Lassen"
+    },
+    {
+      "family": "elsd",
+      "lea": "42330",
+      "name": "Wheatland Elementary School District",
+      "county": "Yuba"
+    },
+    {
+      "family": "scsd",
+      "lea": "42350",
+      "name": "Wheatland Union High School District",
+      "county": "Yuba"
+    },
+    {
+      "family": "elsd",
+      "lea": "42420",
+      "name": "Whitmore Union Elementary School District",
+      "county": "Shasta"
+    },
+    {
+      "family": "elsd",
+      "lea": "42450",
+      "name": "Whittier City Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "42480",
+      "name": "Whittier Union High School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "scsd",
+      "lea": "42510",
+      "name": "William S. Hart Union High School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "42540",
+      "name": "Williams Unified School District",
+      "county": "Colusa"
+    },
+    {
+      "family": "unsd",
+      "lea": "42560",
+      "name": "Willits Unified School District",
+      "county": "Mendocino"
+    },
+    {
+      "family": "elsd",
+      "lea": "42600",
+      "name": "Willow Creek Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "elsd",
+      "lea": "42630",
+      "name": "Willow Grove Union Elementary School District",
+      "county": "San Benito"
+    },
+    {
+      "family": "unsd",
+      "lea": "42710",
+      "name": "Willows Unified School District",
+      "county": "Glenn"
+    },
+    {
+      "family": "elsd",
+      "lea": "42750",
+      "name": "Wilmar Union Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "42810",
+      "name": "Wilsona Elementary School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "00034",
+      "name": "Windsor Unified School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "elsd",
+      "lea": "42900",
+      "name": "Winship Robbins Elementary School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "unsd",
+      "lea": "42930",
+      "name": "Winters Joint Unified School District",
+      "county": "Yolo"
+    },
+    {
+      "family": "elsd",
+      "lea": "42960",
+      "name": "Winton School District",
+      "county": "Merced"
+    },
+    {
+      "family": "unsd",
+      "lea": "01428",
+      "name": "Wiseburn Unified School District",
+      "county": "Los Angeles"
+    },
+    {
+      "family": "unsd",
+      "lea": "01418",
+      "name": "Woodlake Unified School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "scsd",
+      "lea": "06026",
+      "name": "Woodlake Unified School District (9-12)",
+      "county": "Tulare"
+    },
+    {
+      "family": "unsd",
+      "lea": "43080",
+      "name": "Woodland Joint Unified School District",
+      "county": "Yolo"
+    },
+    {
+      "family": "elsd",
+      "lea": "43140",
+      "name": "Woodside Elementary School District",
+      "county": "San Mateo"
+    },
+    {
+      "family": "elsd",
+      "lea": "43170",
+      "name": "Woodville Elementary School District",
+      "county": "Tulare"
+    },
+    {
+      "family": "elsd",
+      "lea": "43200",
+      "name": "Wright Elementary School District",
+      "county": "Sonoma"
+    },
+    {
+      "family": "unsd",
+      "lea": "00160",
+      "name": "Yosemite Unified School District",
+      "county": "Madera"
+    },
+    {
+      "family": "scsd",
+      "lea": "06001",
+      "name": "Yosemite Unified School District (9-12)",
+      "county": "Madera"
+    },
+    {
+      "family": "elsd",
+      "lea": "43380",
+      "name": "Yreka Union Elementary School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "scsd",
+      "lea": "43410",
+      "name": "Yreka Union High School District",
+      "county": "Siskiyou"
+    },
+    {
+      "family": "unsd",
+      "lea": "43470",
+      "name": "Yuba City Unified School District",
+      "county": "Sutter"
+    },
+    {
+      "family": "unsd",
+      "lea": "43560",
+      "name": "Yucaipa-Calimesa Joint Unified School District",
+      "county": "San Bernardino"
+    }
+  ]
+}
