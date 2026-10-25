@@ -1,7 +1,7 @@
 {
   "context": {
     "title": "Green Party of San Diego County — June 2, 2026 primary endorsements",
-    "jurisdiction": "us/ca/san-diego",
+    "jurisdiction": "us/ca/san-diego-county",
     "election": "2026-06-02"
   },
   "attribution": {
@@ -19,6 +19,6 @@
     { "subject": { "title": "Attorney General of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Marjorie Mikels" },
     { "subject": { "title": "California Insurance Commissioner", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Eduardo \"Lalo\" Vargas" },
     { "subject": { "title": "California Superintendent of Public Instruction", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Frank Lara" },
-    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sasha Miller" }
+    { "subject": { "title": "San Diego County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/san-diego-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sasha Miller" }
   ]
 }

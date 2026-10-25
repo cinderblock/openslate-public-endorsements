@@ -122,6 +122,6 @@
     { "subject": { "title": "US House of Representatives, California District 50", "kind": "race", "jurisdiction": "us/ca/cd-50", "election": "2026-06-02" }, "stance": "endorse", "choice": "Scott Peters", "source": "https://envirovoters.org/2026-endorsements/" },
     { "subject": { "title": "US House of Representatives, California District 51", "kind": "race", "jurisdiction": "us/ca/cd-51", "election": "2026-06-02" }, "stance": "endorse", "choice": "Sara Jacobs", "source": "https://envirovoters.org/2026-endorsements/" },
     { "subject": { "title": "US House of Representatives, California District 52", "kind": "race", "jurisdiction": "us/ca/cd-52", "election": "2026-06-02" }, "stance": "endorse", "choice": "Juan Vargas", "source": "https://envirovoters.org/2026-endorsements/" },
-    { "subject": { "title": "Orange County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/orange", "election": "2026-06-02" }, "stance": "endorse", "choice": "Katrina Foley", "source": "https://envirovoters.org/2026-endorsements/" }
+    { "subject": { "title": "Orange County Board of Supervisors, District 5", "kind": "race", "jurisdiction": "us/ca/orange-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Katrina Foley", "source": "https://envirovoters.org/2026-endorsements/" }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "context": {
     "title": "Sierra Club San Diego Chapter — November 3, 2026 California general election endorsements",
-    "jurisdiction": "us/ca/san-diego",
+    "jurisdiction": "us/ca/san-diego-county",
     "election": "2026-11-03"
   },
   "attribution": {
@@ -75,7 +75,7 @@
       "subject": {
         "title": "San Diego County Board of Supervisors, District 5",
         "kind": "race",
-        "jurisdiction": "us/ca/san-diego",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
@@ -221,24 +221,26 @@
     },
     {
       "subject": {
-        "title": "San Dieguito Union High School District Board, Area 3",
+        "title": "San Dieguito Union High School District Board, Trustee Area 3",
         "kind": "race",
-        "jurisdiction": "us/ca/san-dieguito-uhsd",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
       "choice": "Helen Doyle",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-dieguito-union-high-school-district-board-trustee-area-3/helen-doyle",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
       "subject": {
-        "title": "San Dieguito Union High School District Board, Area 5",
+        "title": "San Dieguito Union High School District Board, Trustee Area 5",
         "kind": "race",
-        "jurisdiction": "us/ca/san-dieguito-uhsd",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
       "choice": "Justin Moodie",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-dieguito-union-high-school-district-board-trustee-area-5/justin-moodie",
       "source": "https://sandiegosierraclub.org/news/endorsed-candidates"
     },
     {
@@ -269,7 +271,7 @@
       "subject": {
         "title": "Carlsbad Unified School District Board, Trustee Area 1",
         "kind": "race",
-        "jurisdiction": "us/ca/san-diego",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
@@ -282,7 +284,7 @@
       "subject": {
         "title": "Carlsbad Unified School District Board, Trustee Area 5",
         "kind": "race",
-        "jurisdiction": "us/ca/san-diego",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
@@ -319,7 +321,7 @@
       "subject": {
         "title": "Oceanside Unified School District Board, Trustee Area 3",
         "kind": "race",
-        "jurisdiction": "us/ca/san-diego",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
@@ -395,7 +397,7 @@
       "subject": {
         "title": "Helix Water District Board, Division 2",
         "kind": "race",
-        "jurisdiction": "us/ca/san-diego",
+        "jurisdiction": "us/ca/san-diego-county",
         "election": "2026-11-03"
       },
       "stance": "endorse",
