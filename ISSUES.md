@@ -2,6 +2,21 @@
 
 Problems noticed while working on something else, for a fresh session to pick up.
 
+## Races that cross a county line are filed once per county, or not at all
+
+Fullerton Joint Union High School District's Trustee Areas 1 and 5 are two
+subjects each: `us/ca/los-angeles-county` from LA's listing and
+`us/ca/orange-county` from OC's (where the org endorsements are). So a voter
+in the LA County part sees the race without OC's endorsements. And East Bay
+Regional Park District Ward 7 (Contra Costa) is only under `us/ca/ebrpd`
+(contra-costa-democratic-party, contra-costa-labor-council,
+sierra-club-sf-bay): with no Contra Costa listing there's nowhere better to
+file it, and the county without a ward district would show it to the whole
+county, so it reaches only someone who picks EBRPD by hand. Why it matters: a
+race that crosses a county line needs one subject that both counties' voters
+get, which the one-listing-per-county model doesn't have. Noticed 2026-10-25
+(wards 3 and 5 moved onto Alameda's listing then).
+
 ## Rebuilding LA's listing renames four seats
 
 `bun scripts/la-rrcc-ballot.ts 2026-11-03 --apply` on master (`7623d18`) changes
