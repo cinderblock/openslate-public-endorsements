@@ -2,6 +2,9 @@ name: "Physicians for Social Responsibility, Los Angeles"
 slug: psr-los-angeles
 uri: https://www.psr-la.org/
 kind: organization
+logo: logo.webp
+logo_source: https://images.squarespace-cdn.com/content/v1/6425c19e4d543f40fa406953/e8d5ccd2-0349-4666-a4bc-785e105016b7/psr-la_logo_one_color_white_rgb.png?format=1500w
+logo_background: dark
 about: |
   Its positions here come only from official ballot arguments in California's
   voter guide that its leaders signed (scripts/ca-ballot-arguments.ts). The
