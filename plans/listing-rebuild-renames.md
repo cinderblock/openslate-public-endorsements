@@ -70,8 +70,9 @@ LA's rebuild renames four seats nobody decided to rename. Logged in
    `district` its subjects already carry in positions.json (137 lines over
    six files), because a reused own subject comes back whole, as a subject
    reused from another bundle always has.
-6. [ ] README (the LA row's "reuses an existing subject" sentence), close the
-   ISSUES.md entry, commit, push, publish run green.
+6. [x] README (the LA row's "reuses an existing subject" sentence), ISSUES.md
+   entry closed, committed and pushed as `0847c47` (3:18 PM PDT, 22:18Z);
+   publish run green at 3:20 PM PDT (22:20Z).
 
 ## Progress log
 
