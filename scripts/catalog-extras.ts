@@ -31,20 +31,27 @@ export interface ExtrasInput {
 export interface Extras {
   /** Logo path relative to the site root, when the org has one. */
   logo?: string;
+  /** `"dark"` when the logo is drawn for a dark background (white on transparent). */
+  logo_background?: "dark";
   /** Contrasted subjects where the org took the Democratic / Republican side. */
   lean?: { left: number; right: number };
 }
 
 const ELECTION_AUTHORITY = "election-authority";
 
-/** `logo:` from an org's meta.yaml, as a site path (`orgs/<slug>/logo.png`). */
-export function logoPath(root: string, slug: string): string | undefined {
+/**
+ * `logo:` from an org's meta.yaml, as a site path (`orgs/<slug>/logo.png`), and
+ * `logo_background: dark` when it's set by hand for a white-only logo.
+ */
+export function logoOf(root: string, slug: string): Pick<Extras, "logo" | "logo_background"> {
   const meta = join(root, "orgs", slug, "meta.yaml");
-  if (!existsSync(meta)) return undefined;
-  const match = readFileSync(meta, "utf8").match(/^logo:\s*(\S+)\s*$/m);
-  const file = match?.[1];
-  if (!file || file.includes("/") || file.includes("..")) return undefined;
-  return existsSync(join(root, "orgs", slug, file)) ? `orgs/${slug}/${file}` : undefined;
+  if (!existsSync(meta)) return {};
+  const text = readFileSync(meta, "utf8");
+  const file = text.match(/^logo:\s*(\S+)\s*$/m)?.[1];
+  if (!file || file.includes("/") || file.includes("..")) return {};
+  if (!existsSync(join(root, "orgs", slug, file))) return {};
+  const logo = `orgs/${slug}/${file}`;
+  return /^logo_background:\s*dark\s*$/m.test(text) ? { logo, logo_background: "dark" } : { logo };
 }
 
 /** Party pairs by place: `ca`, `la-county`, … → their Democratic and Republican slugs. */
@@ -109,9 +116,7 @@ export function catalogExtras(root: string, entries: ExtrasInput[]): Map<string,
   const out = new Map<string, Extras>();
   for (const entry of entries) {
     const key = `${entry.slug}/${entry.election}`;
-    const extras: Extras = {};
-    const logo = logoPath(root, entry.slug);
-    if (logo) extras.logo = logo;
+    const extras: Extras = logoOf(root, entry.slug);
     const d = decoded.find((x) => x.slug === entry.slug && x.election === entry.election);
     const contrasts = contrastsByElection.get(entry.election);
     const own = positions.get(key);

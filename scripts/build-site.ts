@@ -37,6 +37,8 @@ interface IndexEntry {
   issued_at: string;
   /** Site path of the org's logo. */
   logo?: string;
+  /** `"dark"` when the logo is white-only and needs a dark tile. */
+  logo_background?: "dark";
   /** Subjects where the org took the Democratic / Republican side. */
   lean?: { left: number; right: number };
 }
@@ -104,7 +106,9 @@ const rows = catalog.entries
     const slateUrl = `orgs/${e.slug}/${e.election}/signed.slate`;
     const posUrl = `orgs/${e.slug}/${e.election}/positions.json`;
     const orgName = e.attribution?.of.name ?? e.slug;
-    const logo = e.logo ? `<img class="logo" src="${escape(e.logo)}" alt="" loading="lazy">` : "";
+    const logo = e.logo
+      ? `<img class="logo${e.logo_background === "dark" ? " logo-dark" : ""}" src="${escape(e.logo)}" alt="" loading="lazy">`
+      : "";
     const orgLink = e.attribution?.of.uri
       ? `<a href="${escape(e.attribution.of.uri)}">${escape(orgName)}</a>`
       : escape(orgName);
@@ -144,6 +148,7 @@ const html = `<!doctype html>
     .meta { color: #666; font-size: .9rem; }
     .meta a { color: #555; }
     .logo { width: 24px; height: 24px; object-fit: contain; display: block; }
+    .logo-dark { background: #1b1f24; border-radius: 4px; padding: 2px; box-sizing: border-box; }
     .note { background: #fffae6; border: 1px solid #e8d97a; padding: .75rem 1rem; border-radius: 4px; margin: 1rem 0; }
   </style>
 </head>

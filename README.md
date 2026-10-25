@@ -49,7 +49,7 @@ Women Voters) are usually a poor fit for this repo.
 .
 ├── orgs/
 │   └── <slug>/
-│       ├── meta.yaml                  # display name, uri, kind, logo, logo_source
+│       ├── meta.yaml                  # display name, uri, kind, logo, logo_source, logo_background
 │       ├── logo.<ext>                 # the org's site icon (png/svg/webp/ico/jpg/gif)
 │       └── <election-or-year>/
 │           └── positions.json         # source of truth — what we sign
@@ -75,12 +75,17 @@ asks Google's favicon service for the site's icon instead.
 `--only <slug> --icon <image url>` takes a hand-picked image, and
 `--reject <slug> --reason "..."` drops a bad pick. It also writes a review
 contact sheet to `review/logos.html` (gitignored). Orgs without a logo get a
-monogram in the app.
+monogram in the app. A logo drawn only in white (for a dark header) vanishes
+on the app's white tile: look for a light-background version on the org's
+site first (a WordPress site's `/wp-json/wp/v2/media?search=logo` lists its
+uploads), and when there isn't one, add `logo_background: dark` under
+`logo_source:` by hand so the app draws it on a dark tile.
 
-`scripts/build-site.ts` adds two fields to each `index.json` / `bundle.json`
+`scripts/build-site.ts` adds these fields to each `index.json` / `bundle.json`
 entry (`scripts/catalog-extras.ts`):
 
 - `logo`: the logo's site path, from `meta.yaml`.
+- `logo_background`: `"dark"` when `meta.yaml` says so; absent otherwise.
 - `lean`: `{ left, right }`, the subjects where the org took the Democratic
   (`left`) or Republican (`right`) side, counted by OpenSlate core's `leanOf`.
   The sides come from where the parties split: subjects a
