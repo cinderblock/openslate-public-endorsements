@@ -20,6 +20,7 @@ import {
   type Built,
   knownSpelling,
   loadExisting,
+  loadOwn,
   nameCase,
   slugify,
   strip,
@@ -327,9 +328,11 @@ function measureSubject(m: MeasureEntry): Built {
 // ---------------------------------------------------------------- build
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 const cityJurisdictions = new Set([...cities].map((c) => `us/ca/${slugify(c)}`));
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, built) => j === COUNTY || j === built.jurisdiction || cityJurisdictions.has(j),
   problems,

@@ -26,6 +26,7 @@ import {
   ORDINALS,
   knownSpelling,
   loadExisting,
+  loadOwn,
   nameCase,
   slugify,
   subjectMatcher,
@@ -201,6 +202,7 @@ if (fetchMode) {
 // ---------------------------------------------------------------- the catalog's existing subjects
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 
 // ---------------------------------------------------------------- contests → subjects
 
@@ -328,6 +330,7 @@ const cityJurisdictions = new Set<string>();
 /** The catalog's own subject for this contest, when some bundle already names it. */
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, built) =>
     j === COUNTY ||

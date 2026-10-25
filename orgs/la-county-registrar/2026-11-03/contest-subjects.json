@@ -5,48 +5,56 @@
       "title": "Walnut Valley Water District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/walnut-valley-water-district/div-2",
       "election": "2026-11-03"
     },
     "cc10372": {
       "title": "Walnut Valley Water District Board, Division 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/walnut-valley-water-district/div-3",
       "election": "2026-11-03"
     },
     "cc10374": {
       "title": "Walnut Valley Water District Board, Division 5, Partial Term",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/walnut-valley-water-district/div-5",
       "election": "2026-11-03"
     },
     "cc10375": {
       "title": "Wrightwood Community Services District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/wrightwood-community-services-district",
       "election": "2026-11-03"
     },
     "cc10377": {
       "title": "Crescenta Valley Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/crescenta-valley-water-district",
       "election": "2026-11-03"
     },
     "cc10384": {
       "title": "La Puente Valley County Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/la-puente-valley-county-water-district",
       "election": "2026-11-03"
     },
     "cc10397": {
       "title": "Valley County Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/valley-county-water-district",
       "election": "2026-11-03"
     },
     "cc10405": {
       "title": "La Cañada Irrigation District Board, Division 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/la-canada-irrigation-district/div-4",
       "election": "2026-11-03"
     },
     "cc10408": {
@@ -59,6 +67,7 @@
       "title": "Alhambra City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/alhambra",
+      "district": "us/ca/alhambra/council-2",
       "election": "2026-11-03"
     },
     "cc10410": {
@@ -71,24 +80,28 @@
       "title": "Arcadia City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/arcadia",
+      "district": "us/ca/arcadia/council-2",
       "election": "2026-11-03"
     },
     "cc10412": {
       "title": "Arcadia City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/arcadia",
+      "district": "us/ca/arcadia/council-3",
       "election": "2026-11-03"
     },
     "cc10413": {
       "title": "Arcadia City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/arcadia",
+      "district": "us/ca/arcadia/council-5",
       "election": "2026-11-03"
     },
     "cc10414": {
       "title": "Azusa City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/azusa",
+      "district": "us/ca/azusa/council-3",
       "election": "2026-11-03"
     },
     "cc10415": {
@@ -119,6 +132,7 @@
       "title": "Bellflower City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/bellflower",
+      "district": "us/ca/bellflower/council-1",
       "election": "2026-11-03"
     },
     "cc10425": {
@@ -167,6 +181,7 @@
       "title": "Claremont City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/claremont",
+      "district": "us/ca/claremont/council-2",
       "election": "2026-11-03"
     },
     "cc10435": {
@@ -203,30 +218,35 @@
       "title": "Diamond Bar City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/diamond-bar",
+      "district": "us/ca/diamond-bar/council-1",
       "election": "2026-11-03"
     },
     "cc10441": {
       "title": "Diamond Bar City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/diamond-bar",
+      "district": "us/ca/diamond-bar/council-3",
       "election": "2026-11-03"
     },
     "cc10442": {
       "title": "Diamond Bar City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/diamond-bar",
+      "district": "us/ca/diamond-bar/council-4",
       "election": "2026-11-03"
     },
     "cc10443": {
       "title": "Downey City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/downey",
+      "district": "us/ca/downey/council-2",
       "election": "2026-11-03"
     },
     "cc10444": {
       "title": "Downey City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/downey",
+      "district": "us/ca/downey/council-4",
       "election": "2026-11-03"
     },
     "cc10445": {
@@ -239,18 +259,21 @@
       "title": "El Monte City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/el-monte",
+      "district": "us/ca/el-monte/council-2",
       "election": "2026-11-03"
     },
     "cc10450": {
       "title": "El Monte City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/el-monte",
+      "district": "us/ca/el-monte/council-3",
       "election": "2026-11-03"
     },
     "cc10451": {
       "title": "El Monte City Council, District 6",
       "kind": "race",
       "jurisdiction": "us/ca/el-monte",
+      "district": "us/ca/el-monte/council-6",
       "election": "2026-11-03"
     },
     "cc10452": {
@@ -269,6 +292,7 @@
       "title": "Glendora City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/glendora",
+      "district": "us/ca/glendora/council-4",
       "election": "2026-11-03"
     },
     "cc10455": {
@@ -299,6 +323,7 @@
       "title": "Huntington Park City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/huntington-park",
+      "district": "us/ca/huntington-park/council-4",
       "election": "2026-11-03"
     },
     "cc10462": {
@@ -347,6 +372,7 @@
       "title": "La Verne City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/la-verne",
+      "district": "us/ca/la-verne/council-1",
       "election": "2026-11-03"
     },
     "cc10472": {
@@ -359,6 +385,7 @@
       "title": "La Verne City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/la-verne",
+      "district": "us/ca/la-verne/council-4",
       "election": "2026-11-03"
     },
     "cc10474": {
@@ -683,18 +710,21 @@
       "title": "Palmdale Water District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/palmdale-water-district/div-2",
       "election": "2026-11-03"
     },
     "cc10536": {
       "title": "Azusa City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/azusa",
+      "district": "us/ca/azusa/council-1",
       "election": "2026-11-03"
     },
     "cc10541": {
       "title": "Altadena Library District Board, Trustee Area 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/altadena-library-district/ta-3",
       "election": "2026-11-03"
     },
     "cc10543": {
@@ -707,6 +737,7 @@
       "title": "Foothill Municipal Water District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/foothill-municipal-water-district/div-2",
       "election": "2026-11-03"
     },
     "cc10546": {
@@ -725,12 +756,14 @@
       "title": "Las Virgenes Municipal Water District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/las-virgenes-municipal-water-district/div-2",
       "election": "2026-11-03"
     },
     "cc10553": {
       "title": "San Gabriel Valley Municipal Water District Board, Division 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/san-gabriel-valley-municipal-water-district/div-5",
       "election": "2026-11-03"
     },
     "cc10555": {
@@ -749,6 +782,7 @@
       "title": "West Basin Municipal Water District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/west-basin-municipal-water-district/div-2",
       "election": "2026-11-03"
     },
     "cc10562": {
@@ -779,6 +813,7 @@
       "title": "Water Replenishment District of Southern California Board, Division 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/water-replenishment-district-of-southern-california/div-4",
       "election": "2026-11-03"
     },
     "cc10570": {
@@ -803,18 +838,21 @@
       "title": "Antelope Valley Community College District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-620/ta-5",
       "election": "2026-11-03"
     },
     "cc10574": {
       "title": "Cerritos Community College District Board, Trustee Area 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-810/ta-3",
       "election": "2026-11-03"
     },
     "cc10579": {
       "title": "Compton Community College District Board, Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-710/ta-1",
       "election": "2026-11-03"
     },
     "cc10580": {
@@ -827,24 +865,28 @@
       "title": "Compton Community College District Board, Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-710/ta-5",
       "election": "2026-11-03"
     },
     "cc10582": {
       "title": "Compton Community College District Board, Area 2, Partial Term",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-710/ta-2",
       "election": "2026-11-03"
     },
     "cc10584": {
       "title": "El Camino Community College District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-720/ta-5",
       "election": "2026-11-03"
     },
     "cc10587": {
       "title": "Long Beach Community College District Board, Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-840/ta-5",
       "election": "2026-11-03"
     },
     "cc10588": {
@@ -899,6 +941,7 @@
       "title": "Rio Hondo Community College District Board, Trustee Area 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/ccd-880/ta-3",
       "election": "2026-11-03"
     },
     "cc10602": {
@@ -911,42 +954,49 @@
       "title": "ABC Unified School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-1620/ta-2",
       "election": "2026-11-03"
     },
     "cc10607": {
       "title": "ABC Unified School District Board, Trustee Area 5, Partial Term",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-1620/ta-5",
       "election": "2026-11-03"
     },
     "cc10613": {
       "title": "Acton-Agua Dulce Unified School District Board, Trustee Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-1/ta-4",
       "election": "2026-11-03"
     },
     "cc10619": {
       "title": "Azusa Unified School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-3600/ta-5",
       "election": "2026-11-03"
     },
     "cc10620": {
       "title": "Baldwin Park Unified School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-3690",
       "election": "2026-11-03"
     },
     "cc10621": {
       "title": "Bassett Unified School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-4110",
       "election": "2026-11-03"
     },
     "cc10622": {
       "title": "Beverly Hills Unified School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-4830",
       "election": "2026-11-03"
     },
     "cc10625": {
@@ -965,6 +1015,7 @@
       "title": "Covina-Valley Unified School District Board, Trustee Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-10050/ta-4",
       "election": "2026-11-03"
     },
     "cc10636": {
@@ -977,12 +1028,14 @@
       "title": "Downey Unified School District Board, Trustee Area 7",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-11460/ta-7",
       "election": "2026-11-03"
     },
     "cc10642": {
       "title": "Duarte Unified School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-11520/ta-5",
       "election": "2026-11-03"
     },
     "cc10646": {
@@ -1013,6 +1066,7 @@
       "title": "La Cañada Unified School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-20130",
       "election": "2026-11-03"
     },
     "cc10652": {
@@ -1031,6 +1085,7 @@
       "title": "Monrovia Unified School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-25320/ta-5",
       "election": "2026-11-03"
     },
     "cc10657": {
@@ -1055,6 +1110,7 @@
       "title": "Norwalk-La Mirada Unified School District Board, Trustee Area 6",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-27690/ta-6",
       "election": "2026-11-03"
     },
     "cc10662": {
@@ -1073,12 +1129,14 @@
       "title": "Pomona Unified School District Board, Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-31320/ta-4",
       "election": "2026-11-03"
     },
     "cc10666": {
       "title": "Rowland Unified School District Board, Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-33750/ta-1",
       "election": "2026-11-03"
     },
     "cc10667": {
@@ -1091,12 +1149,14 @@
       "title": "Rowland Unified School District Board, Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-33750/ta-5",
       "election": "2026-11-03"
     },
     "cc10669": {
       "title": "San Gabriel Unified School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-34425",
       "election": "2026-11-03"
     },
     "cc10678": {
@@ -1151,30 +1211,35 @@
       "title": "East Whittier City School District Board, Seat 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-11850",
       "election": "2026-11-03"
     },
     "cc10694": {
       "title": "Eastside Union School District Board, Trustee Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-11910/ta-1",
       "election": "2026-11-03"
     },
     "cc10697": {
       "title": "Eastside Union School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-11910/ta-5",
       "election": "2026-11-03"
     },
     "cc10705": {
       "title": "Lancaster School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-20880/ta-2",
       "election": "2026-11-03"
     },
     "cc10707": {
       "title": "Lancaster School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-20880/ta-5",
       "election": "2026-11-03"
     },
     "cc10708": {
@@ -1187,30 +1252,35 @@
       "title": "Lawndale School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-21210/ta-2",
       "election": "2026-11-03"
     },
     "cc10711": {
       "title": "Lennox School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-21420",
       "election": "2026-11-03"
     },
     "cc10712": {
       "title": "Little Lake City School District Board, Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-21930/ta-1",
       "election": "2026-11-03"
     },
     "cc10713": {
       "title": "Little Lake City School District Board, Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-21930/ta-2",
       "election": "2026-11-03"
     },
     "cc10714": {
       "title": "Los Nietos School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-22890/ta-2",
       "election": "2026-11-03"
     },
     "cc10717": {
@@ -1241,12 +1311,14 @@
       "title": "South Whittier School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-37560/ta-5",
       "election": "2026-11-03"
     },
     "cc10731": {
       "title": "Valle Lindo School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-40650",
       "election": "2026-11-03"
     },
     "cc10732": {
@@ -1259,6 +1331,7 @@
       "title": "Whittier City School District Board, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-42450/ta-3",
       "election": "2026-11-03"
     },
     "cc10735": {
@@ -1271,6 +1344,7 @@
       "title": "Norwalk-La Mirada Unified School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-27690/ta-2",
       "election": "2026-11-03"
     },
     "cc10740": {
@@ -1283,6 +1357,7 @@
       "title": "Paramount Unified School District Board, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-29850/ta-4",
       "election": "2026-11-03"
     },
     "cc10747": {
@@ -1301,24 +1376,28 @@
       "title": "Fullerton Joint Union High School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/scsd-14760/ta-5",
       "election": "2026-11-03"
     },
     "cc10755": {
       "title": "Keppel Union School District Board, Trustee Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-19440/ta-1",
       "election": "2026-11-03"
     },
     "cc10756": {
       "title": "Keppel Union School District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-19440/ta-2",
       "election": "2026-11-03"
     },
     "cc10757": {
       "title": "Keppel Union School District Board, Trustee Area 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-19440/ta-3",
       "election": "2026-11-03"
     },
     "cc10758": {
@@ -1331,24 +1410,28 @@
       "title": "Palmdale School District Board, Area 3",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-29580/ta-3",
       "election": "2026-11-03"
     },
     "cc10760": {
       "title": "Palmdale School District Board, Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/elsd-29580/ta-5",
       "election": "2026-11-03"
     },
     "cc10764": {
       "title": "Bellflower Unified School District Board, Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-4440/ta-2",
       "election": "2026-11-03"
     },
     "cc10765": {
       "title": "Bellflower Unified School District Board, Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-angeles-county",
+      "district": "us/ca/unsd-4440/ta-5",
       "election": "2026-11-03"
     },
     "cc10766": {
@@ -1487,6 +1570,7 @@
       "title": "Huntington Park City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/huntington-park",
+      "district": "us/ca/huntington-park/council-5",
       "election": "2026-11-03"
     }
   },

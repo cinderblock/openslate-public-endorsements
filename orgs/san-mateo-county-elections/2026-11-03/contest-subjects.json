@@ -22,6 +22,7 @@
       "title": "Cabrillo Unified School District Board, Trustee Area E",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/unsd-6780/ta-e",
       "election": "2026-11-03"
     },
     "South San Francisco Unified School District Member, Governing Board, Trustee Area C": {
@@ -58,18 +59,21 @@
       "title": "Sequoia Union High School District Board, Trustee Area D",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/scsd-36390/ta-d",
       "election": "2026-11-03"
     },
     "Brisbane School District Member, Governing Board": {
       "title": "Brisbane School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/elsd-6060",
       "election": "2026-11-03"
     },
     "Menlo Park City School District Member, Governing Board": {
       "title": "Menlo Park City School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/elsd-24570",
       "election": "2026-11-03"
     },
     "Pacifica School District Member, Governing Board (Full Term)": {
@@ -106,12 +110,14 @@
       "title": "Belmont City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/belmont",
+      "district": "us/ca/belmont/council-1",
       "election": "2026-11-03"
     },
     "City of Belmont Member, City Council, District 3": {
       "title": "Belmont City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/belmont",
+      "district": "us/ca/belmont/council-3",
       "election": "2026-11-03"
     },
     "City of Brisbane Member, City Council": {
@@ -124,6 +130,7 @@
       "title": "Burlingame City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/burlingame",
+      "district": "us/ca/burlingame/council-1",
       "election": "2026-11-03"
     },
     "City of Burlingame Member, City Council, District 3": {
@@ -136,6 +143,7 @@
       "title": "Burlingame City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/burlingame",
+      "district": "us/ca/burlingame/council-5",
       "election": "2026-11-03"
     },
     "Town of Colma Member, City Council": {
@@ -208,6 +216,7 @@
       "title": "Millbrae City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/millbrae",
+      "district": "us/ca/millbrae/council-2",
       "election": "2026-11-03"
     },
     "City of Millbrae Member, City Council, District 3 (Short Term)": {
@@ -232,6 +241,7 @@
       "title": "Pacifica City Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/pacifica",
+      "district": "us/ca/pacifica/council-3",
       "election": "2026-11-03"
     },
     "City of Pacifica Member, City Council, District 5": {
@@ -256,12 +266,14 @@
       "title": "Redwood City City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/redwood-city",
+      "district": "us/ca/redwood-city/council-5",
       "election": "2026-11-03"
     },
     "City of Redwood City Member, City Council, District 6": {
       "title": "Redwood City City Council, District 6",
       "kind": "race",
       "jurisdiction": "us/ca/redwood-city",
+      "district": "us/ca/redwood-city/council-6",
       "election": "2026-11-03"
     },
     "City of San Bruno Mayor": {
@@ -340,36 +352,42 @@
       "title": "Woodside Town Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/woodside",
+      "district": "us/ca/woodside/council-2",
       "election": "2026-11-03"
     },
     "Town of Woodside Member, Town Council, District 3": {
       "title": "Woodside Town Council, District 3",
       "kind": "race",
       "jurisdiction": "us/ca/woodside",
+      "district": "us/ca/woodside/council-3",
       "election": "2026-11-03"
     },
     "Coastside County Water District Member, Board of Directors, Zone 5": {
       "title": "Coastside County Water District Board, Zone 5",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/coastside-county-water-district/zone-5",
       "election": "2026-11-03"
     },
     "Coastside Fire Protection District Member, Board of Directors, District D": {
       "title": "Coastside Fire Protection District Board, District D",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/coastside-fire-protection-district/dist-d",
       "election": "2026-11-03"
     },
     "Coastside Fire Protection District Member, Board of Directors, District E": {
       "title": "Coastside Fire Protection District Board, District E",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/coastside-fire-protection-district/dist-e",
       "election": "2026-11-03"
     },
     "Granada Community Services District Member, Board of Directors": {
       "title": "Granada Community Services District Board",
       "kind": "race",
       "jurisdiction": "us/ca/san-mateo-county",
+      "district": "us/ca/granada-community-services-district",
       "election": "2026-11-03"
     }
   },

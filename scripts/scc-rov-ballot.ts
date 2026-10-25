@@ -21,6 +21,7 @@ import {
   type Built,
   knownSpelling,
   loadExisting,
+  loadOwn,
   slugify,
   subjectMatcher,
   titleCase,
@@ -223,6 +224,7 @@ function measureSubject(m: Measure): Built | undefined {
 // ---------------------------------------------------------------- build
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 const built = qualified.contests
   .filter((c) => c.onBallot)
   .map((contest) => ({ contest, built: contestSubject(contest) }))
@@ -230,6 +232,7 @@ const built = qualified.contests
 const nearby = new Set([COUNTY, "us/ca/bay-area", ...built.map((b) => b.built.jurisdiction)]);
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, b) => j === b.jurisdiction || nearby.has(j),
   problems,

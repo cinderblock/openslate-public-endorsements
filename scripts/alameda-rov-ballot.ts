@@ -20,6 +20,7 @@ import {
   type Built,
   knownSpelling,
   loadExisting,
+  loadOwn,
   nameCase,
   slugify,
   subjectMatcher,
@@ -302,6 +303,7 @@ const displayName = (listed: string) => nameCase(listed.replace(/\s+/g, " ").tri
 // ---------------------------------------------------------------- build
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 const built = races
   .filter((r) => r.status === "On Ballot")
   .map((race) => ({ race, built: raceSubject(race) }))
@@ -314,6 +316,7 @@ const nearby = new Set([
 ]);
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, b) => j === b.jurisdiction || nearby.has(j),
   problems,

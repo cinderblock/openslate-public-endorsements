@@ -22,6 +22,7 @@
       "title": "San José-Evergreen Community College District Board, Trustee Area 2",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/ccd-470/ta-2",
       "election": "2026-11-03"
     },
     "West Valley-Mission CCD, Trustee Area 3": {
@@ -40,6 +41,7 @@
       "title": "Yosemite Community College District Board, Trustee Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/ccd-590/ta-4",
       "election": "2026-11-03"
     },
     "Gilroy Unified SD, Trustee Area 3": {
@@ -106,6 +108,7 @@
       "title": "Santa Clara Unified School District Board, Trustee Area 1",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/unsd-35430/ta-1",
       "election": "2026-11-03"
     },
     "East Side Union HSD, TA 1, Short Term": {
@@ -166,6 +169,7 @@
       "title": "Cambrian School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/elsd-7140",
       "election": "2026-11-03"
     },
     "Campbell Union SD, TA 4": {
@@ -232,6 +236,7 @@
       "title": "Saratoga Union School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/elsd-35910",
       "election": "2026-11-03"
     },
     "Sunnyvale SD, Trustee Area 3": {
@@ -250,12 +255,14 @@
       "title": "Campbell City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/campbell",
+      "district": "us/ca/campbell/council-4",
       "election": "2026-11-03"
     },
     "City of Campbell Council, District 5": {
       "title": "Campbell City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/campbell",
+      "district": "us/ca/campbell/council-5",
       "election": "2026-11-03"
     },
     "City of Cupertino Council": {
@@ -292,6 +299,7 @@
       "title": "Los Altos City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-altos",
+      "district": "us/ca/los-altos/council-4",
       "election": "2026-11-03"
     },
     "Town of Los Altos Hills Council": {
@@ -430,6 +438,7 @@
       "title": "Cupertino Sanitary District Board",
       "kind": "race",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/cupertino-sanitary-district",
       "election": "2026-11-03"
     },
     "Midpeninsula Regional Open Space District Ward 1": {
@@ -558,6 +567,7 @@
       "title": "El Camino Healthcare District — Measure S",
       "kind": "measure",
       "jurisdiction": "us/ca/santa-clara-county",
+      "district": "us/ca/el-camino-healthcare-district",
       "election": "2026-11-03"
     }
   }

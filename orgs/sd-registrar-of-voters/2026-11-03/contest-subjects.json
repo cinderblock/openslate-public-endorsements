@@ -286,6 +286,7 @@
       "title": "Dehesa School District Board",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/elsd-10710",
       "election": "2026-11-03"
     },
     "DEL MAR UNION SCHOOL": {
@@ -346,6 +347,7 @@
       "title": "National School District Board, Trustee Area B",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/elsd-26670/ta-b",
       "election": "2026-11-03"
     },
     "NATIONAL SCHOOL - TRUSTEE AREA C": {
@@ -358,6 +360,7 @@
       "title": "National School District Board, Trustee Area E",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/elsd-26670/ta-e",
       "election": "2026-11-03"
     },
     "RANCHO SANTA FE SCHOOL": {
@@ -394,6 +397,7 @@
       "title": "Vallecitos School District Board, Trustee Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/elsd-40710/ta-4",
       "election": "2026-11-03"
     },
     "BOARD OF SUPERVISORS - DISTRICT NO. 4": {
@@ -718,6 +722,7 @@
       "title": "Canebrake County Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/canebrake-county-water-district",
       "election": "2026-11-03"
     },
     "DEER SPRINGS FIRE PROTECTION": {
@@ -730,6 +735,7 @@
       "title": "Fallbrook Public Utility District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/fallbrook-public-utility-district/div-2",
       "election": "2026-11-03"
     },
     "GROSSMONT HEALTHCARE - ZONE NO. 2": {
@@ -832,6 +838,7 @@
       "title": "San Miguel Consolidated Fire Protection District Board, Division 7",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/san-miguel-consolidated-fire-protection-district/div-7",
       "election": "2026-11-03"
     },
     "SWEETWATER COMM PLANNING GROUP": {
@@ -856,12 +863,14 @@
       "title": "Valley Center Fire Protection District Board, Division 3",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/valley-center-fire-protection-district/div-3",
       "election": "2026-11-03"
     },
     "VISTA IRRIGATION - DIV. NO. 2 (Short Term)": {
       "title": "Vista Irrigation District Board, Division 2 (Short Term)",
       "kind": "race",
       "jurisdiction": "us/ca/san-diego-county",
+      "district": "us/ca/vista-irrigation-district/div-2",
       "election": "2026-11-03"
     }
   },

@@ -58,6 +58,7 @@
       "title": "Brea Olinda Unified School District Board, Trustee Area 4",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/unsd-5880/ta-4",
       "election": "2026-11-03"
     },
     "3114": {
@@ -232,6 +233,7 @@
       "title": "Cypress School District Board, Trustee Area B",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/elsd-10440/ta-b",
       "election": "2026-11-03"
     },
     "3285": {
@@ -274,6 +276,7 @@
       "title": "Magnolia School District Board, Trustee Area 5",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/elsd-23430/ta-5",
       "election": "2026-11-03"
     },
     "3355": {
@@ -478,6 +481,7 @@
       "title": "Laguna Hills City Council, District 1",
       "kind": "race",
       "jurisdiction": "us/ca/laguna-hills",
+      "district": "us/ca/laguna-hills/council-1",
       "election": "2026-11-03"
     },
     "5120": {
@@ -526,18 +530,21 @@
       "title": "La Palma City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/la-palma",
+      "district": "us/ca/la-palma/council-4",
       "election": "2026-11-03"
     },
     "5154": {
       "title": "Los Alamitos City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/los-alamitos",
+      "district": "us/ca/los-alamitos/council-4",
       "election": "2026-11-03"
     },
     "5155": {
       "title": "Los Alamitos City Council, District 5",
       "kind": "race",
       "jurisdiction": "us/ca/los-alamitos",
+      "district": "us/ca/los-alamitos/council-5",
       "election": "2026-11-03"
     },
     "5161": {
@@ -610,6 +617,7 @@
       "title": "Orange City Council, District 4",
       "kind": "race",
       "jurisdiction": "us/ca/orange",
+      "district": "us/ca/orange/council-4",
       "election": "2026-11-03"
     },
     "5187": {
@@ -622,6 +630,7 @@
       "title": "Placentia City Council, District 2",
       "kind": "race",
       "jurisdiction": "us/ca/placentia",
+      "district": "us/ca/placentia/council-2",
       "election": "2026-11-03"
     },
     "5193": {
@@ -760,18 +769,21 @@
       "title": "Rossmoor Community Services District Board",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/rossmoor-community-services-district",
       "election": "2026-11-03"
     },
     "6064": {
       "title": "Serrano Water District Board, Division 4",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/serrano-water-district/div-4",
       "election": "2026-11-03"
     },
     "6081": {
       "title": "Silverado-Modjeska Recreation and Park District Board",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/silverado-modjeska-recreation-and-park-district",
       "election": "2026-11-03"
     },
     "6131": {
@@ -784,6 +796,7 @@
       "title": "El Toro Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/el-toro-water-district",
       "election": "2026-11-03"
     },
     "6168": {
@@ -814,6 +827,7 @@
       "title": "Trabuco Canyon Water District Board",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/trabuco-canyon-water-district",
       "election": "2026-11-03"
     },
     "6292": {
@@ -826,6 +840,7 @@
       "title": "Buena Park Library District Board, Division 2",
       "kind": "race",
       "jurisdiction": "us/ca/orange-county",
+      "district": "us/ca/buena-park-library-district/div-2",
       "election": "2026-11-03"
     }
   },

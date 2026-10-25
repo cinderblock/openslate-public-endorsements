@@ -22,6 +22,7 @@ import {
   type Built,
   knownSpelling,
   loadExisting,
+  loadOwn,
   nameCase,
   slugify,
   subjectMatcher,
@@ -343,6 +344,7 @@ function measureSubject(m: Measure): Built | undefined {
 // ---------------------------------------------------------------- build
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 const contests = readCandidateList().filter((c) => c.held);
 const built = contests
   .map((contest) => ({ contest, built: contestSubject(contest.heading) }))
@@ -352,6 +354,7 @@ const cityJurisdictions = new Set(
 );
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, b) => j === COUNTY || j === b.jurisdiction || cityJurisdictions.has(j),
   problems,

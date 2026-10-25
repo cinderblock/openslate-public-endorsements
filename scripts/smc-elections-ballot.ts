@@ -25,6 +25,7 @@ import {
   type Built,
   knownSpelling,
   loadExisting,
+  loadOwn,
   nameCase,
   slugify,
   subjectMatcher,
@@ -217,6 +218,7 @@ const transit = documents.find((d) => /^Regional Transit Measure - Impartial Ana
 if (!transit) problems.push("no impartial analysis of the Regional Transit Measure");
 
 const existing = await loadExisting(election, dir);
+const own = await loadOwn(dir);
 const built = roster.contests
   .filter((c) => c.onBallot)
   .map((contest) => ({ contest, built: contestSubject(contest) }))
@@ -229,6 +231,7 @@ const nearby = new Set([
 ]);
 const reuse = subjectMatcher({
   existing,
+  own,
   election,
   isLocal: (j, b) => j === b.jurisdiction || nearby.has(j),
   problems,

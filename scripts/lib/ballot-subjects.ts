@@ -4,6 +4,7 @@
 // the catalog already names takes that body's seat label; candidate names printed in capitals
 // keep a spelling some bundle already uses, or are title-cased with care.
 
+import { existsSync } from "node:fs";
 import { Glob } from "bun";
 import { homeCounty } from "./districts";
 import { localityProblem } from "./localities";
@@ -20,29 +21,55 @@ export interface Built {
   jurisdiction: string;
 }
 
-export type Existing = Map<string, { subject: Subject; choices: Set<string>; orgs: Set<string> }>;
+/** A subject some bundles name, the candidate spellings they give it, and which bundles. */
+export interface Named {
+  subject: Subject;
+  choices: Set<string>;
+  orgs: Set<string>;
+}
 
-/** Every subject the catalog's bundles use for an election, with the names they give each. */
+export type Existing = Map<string, Named>;
+
+/**
+ * Every subject the catalog's bundles use for an election, with the names they give each,
+ * leaving out the listing being built (`skipDir`): see `loadOwn` for its last build.
+ */
 export async function loadExisting(election: string, skipDir: string): Promise<Existing> {
   const existing: Existing = new Map();
   for await (const file of new Glob(`orgs/*/${election}/positions.json`).scan(".")) {
     if (file.replaceAll("\\", "/").startsWith(`${skipDir}/`)) continue;
-    const org = file.replaceAll("\\", "/").split("/")[1] ?? file;
-    const { positions } = (await Bun.file(file).json()) as {
-      positions: { subject: Subject; choice?: string }[];
-    };
-    for (const { subject, choice } of positions) {
-      const entry = existing.get(subject.title) ?? {
-        subject,
-        choices: new Set<string>(),
-        orgs: new Set<string>(),
-      };
-      entry.orgs.add(org);
-      if (choice && !/^(yes|no)$/i.test(choice)) entry.choices.add(choice);
-      existing.set(subject.title, entry);
-    }
+    await addBundle(existing, file);
   }
   return existing;
+}
+
+/**
+ * The subjects a listing's own last build used (`dir/positions.json`), so a rebuild keeps a
+ * contest's title, and with it its ids and every voter's marks, when no other bundle names the
+ * contest. Empty for a listing's first build.
+ */
+export async function loadOwn(dir: string): Promise<Existing> {
+  const own: Existing = new Map();
+  const file = `${dir}/positions.json`;
+  if (existsSync(file)) await addBundle(own, file);
+  return own;
+}
+
+async function addBundle(into: Existing, file: string): Promise<void> {
+  const org = file.replaceAll("\\", "/").split("/")[1] ?? file;
+  const { positions } = (await Bun.file(file).json()) as {
+    positions: { subject: Subject; choice?: string }[];
+  };
+  for (const { subject, choice } of positions) {
+    const entry = into.get(subject.title) ?? {
+      subject,
+      choices: new Set<string>(),
+      orgs: new Set<string>(),
+    };
+    entry.orgs.add(org);
+    if (choice && !/^(yes|no)$/i.test(choice)) entry.choices.add(choice);
+    into.set(subject.title, entry);
+  }
 }
 
 // ---------------------------------------------------------------- names and titles
@@ -169,26 +196,30 @@ const SEAT_LABEL =
  * Finds the catalog's own subject for a contest. `isLocal` says which jurisdictions can hold the
  * same contest (the county, its cities, and the contest's own). When bundles already name one
  * contest two ways, the name more bundles use wins and the others go to `duplicates` (if given,
- * else to problems), to be reconciled in those bundles.
+ * else to problems), to be reconciled in those bundles. A contest no other bundle names keeps
+ * the title the listing's own last build (`own`) gave it, so a rebuild never renames a race, and
+ * so its ids, that nobody decided to rename.
  */
 export function subjectMatcher(options: {
   existing: Existing;
+  own?: Existing;
   election: string;
   isLocal: (jurisdiction: string, built: Built) => boolean;
   problems: string[];
   duplicates?: string[];
 }) {
-  const { existing, election, isLocal, problems, duplicates } = options;
+  const { existing, own = new Map(), election, isLocal, problems, duplicates } = options;
 
   /**
    * A new seat of a body the catalog already names takes that body's seat label, so one board
-   * isn't "Area 4" in one title and "Trustee Area 1" in the next.
+   * isn't "Area 4" in one title and "Trustee Area 1" in the next. Other bundles' label first,
+   * then the listing's own.
    */
   function sameStyle(built: Built): string {
     const seatMatch = SEAT_LABEL.exec(built.title);
     if (!seatMatch) return built.title;
     const bodyTitle = built.title.slice(0, seatMatch.index);
-    const sibling = [...existing.values()]
+    const sibling = [...existing.values(), ...own.values()]
       .map((e) => e.subject)
       .find(
         (s) =>
@@ -205,15 +236,14 @@ export function subjectMatcher(options: {
     const built = { ...given, jurisdiction: homeCounty(given) ?? given.jurisdiction };
     const keyOf = kind === "measure" ? measureKey : titleKey;
     const key = keyOf(built.title);
+    const sameContest = ({ subject }: Named) =>
+      subject.kind === kind &&
+      isLocal(subject.jurisdiction, built) &&
+      // Not a county contest filed under a city's name: the listing's own path is right.
+      !localityProblem(subject) &&
+      keyOf(subject.title) === key;
     const matches = [...existing.values()]
-      .filter(
-        ({ subject }) =>
-          subject.kind === kind &&
-          isLocal(subject.jurisdiction, built) &&
-          // Not a county contest filed under a city's name: the listing's own path is right.
-          !localityProblem(subject) &&
-          keyOf(subject.title) === key,
-      )
+      .filter(sameContest)
       .sort((a, b) => b.orgs.size - a.orgs.size);
     if (matches.length > 1) {
       const list = matches.map((m) => `"${m.subject.title}" (${m.orgs.size})`).join(", ");
@@ -221,6 +251,9 @@ export function subjectMatcher(options: {
     }
     const found = matches[0]?.subject;
     if (found) return { ...found };
+    // Only this listing names it: its last build's title stays.
+    const kept = [...own.values()].find(sameContest)?.subject;
+    if (kept) return { ...kept };
     // A short or partial term the bundles named without saying so ("Encinitas Mayor" for the
     // registrar's "Encinitas Mayor (Short Term)"): the same race when it's the only one.
     const term = /\s*\(Short Term\)$|, Partial Term$/;
