@@ -4,6 +4,8 @@ Problems noticed while working on something else, for a fresh session to pick up
 
 ## Rebuilding LA's listing renames four seats
 
+_In progress — fix/la-listing-renames (2026-10-25)._
+
 `bun scripts/la-rrcc-ballot.ts 2026-11-03 --apply` on master (`7623d18`) changes
 four committed titles: "Bellflower Unified School District Board, Area 2" and
 "Area 5", "Long Beach Community College District Board, Area 5" and "Paramount
