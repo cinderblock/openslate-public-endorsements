@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { countyName, districtFor, schoolDistrict } from "./lib/districts";
+import { collegeDistrict, countyName, districtFor, schoolDistrict } from "./lib/districts";
 
 const OC = "us/ca/orange-county";
 const race = (title: string, jurisdiction = OC) => ({ title, kind: "race", jurisdiction });
@@ -35,7 +35,7 @@ describe("districtFor", () => {
       "us/ca/irvine-ranch-water-district/div-5",
     );
     expect(district("Coast Community College District Board, Trustee Area 3 (Short Term)")).toBe(
-      "us/ca/coast-community-college-district/ta-3",
+      "us/ca/ccd-830/ta-3",
     );
     expect(district("Moulton Niguel Water District Board (Short Term)")).toBe(
       "us/ca/moulton-niguel-water-district",
@@ -93,4 +93,12 @@ test("countyName", () => {
   expect(countyName("us/ca/orange-county")).toBe("Orange");
   expect(countyName("us/ca/san-diego")).toBe("San Diego");
   expect(countyName("us/ca/sf")).toBe("San Francisco");
+});
+
+test("collegeDistrict: listings' names match the Collaborative's", () => {
+  expect(collegeDistrict("Coast Community College District")).toBe("830");
+  expect(collegeDistrict("Foothill-De Anza Community College District")).toBe("420");
+  expect(collegeDistrict("San José-Evergreen Community College District")).toBe("470");
+  expect(collegeDistrict("Gavilan Joint Community College District")).toBe("440");
+  expect(collegeDistrict("Nowhere Community College District")).toBeUndefined();
 });

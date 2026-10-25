@@ -11,12 +11,16 @@
 //   us/ca/anaheim/council-3             a city council district
 //   us/ca/orange-county/coe-2           a county board of education's trustee area
 //   us/ca/elsd-18030/ta-4               a school district (Census LEA code) and trustee area
+//   us/ca/ccd-830/ta-1                  a community college district (Chancellor's Office code)
 //   us/ca/irvine-ranch-water-district/div-5   any other district, by name, and its division
 //
-// School districts are matched to the Census Bureau's (scripts/data/ca-school-districts.json, by
-// scripts/fetch-school-districts.ts), because the app finds those from a voter's address; the
-// rest are named, which the app can't find, so they're listed as might-be.
+// School and college districts are matched to the boundaries the app finds from a voter's
+// address: the Census Bureau's school districts (scripts/data/ca-school-districts.json, by
+// scripts/fetch-school-districts.ts) and the CCC GIS Collaborative's college districts
+// (scripts/data/ca-community-college-districts.json, by scripts/fetch-college-districts.ts).
+// The rest are named, which the app can't find, so they're listed as might-be.
 
+import collegeData from "../data/ca-community-college-districts.json";
 import schoolData from "../data/ca-school-districts.json";
 import { slugify, strip } from "./ballot-subjects";
 
@@ -78,6 +82,22 @@ export function schoolDistrict(name: string, county: string): SchoolDistrict | u
   return here.length === 1 ? here[0] : undefined;
 }
 
+/** Words college district names drop or spell differently ("Gavilan Joint" is "Gavilan"). */
+const COLLEGE_FILLER = new Set(["community", "college", "district", "joint"]);
+function collegeKey(name: string): string {
+  // Spaces go too: a listing's "Foothill-De Anza" is the Collaborative's "Foothill-DeAnza".
+  return strip(name)
+    .split(" ")
+    .filter((w) => !COLLEGE_FILLER.has(w))
+    .join("");
+}
+const COLLEGES = new Map(collegeData.districts.map((d) => [collegeKey(d.name), d.code]));
+
+/** A community college district's Chancellor's Office code, from a listing's name for it. */
+export function collegeDistrict(name: string): string | undefined {
+  return COLLEGES.get(collegeKey(name));
+}
+
 /** The county a listing covers, as Census names it, from its jurisdiction path. */
 export function countyName(jurisdiction: string): string {
   if (jurisdiction === "us/ca/sf") return "San Francisco";
@@ -115,7 +135,7 @@ function placePath(state: string, body: string): string {
 
 export interface DistrictResult {
   district?: string;
-  /** Why a school board got a named path instead of a Census one: worth a look. */
+  /** Why a school or college board got a named path instead of a mapped one: worth a look. */
   warning?: string;
 }
 
@@ -176,9 +196,14 @@ export function districtFor(
     const path = sub && SCHOOL_SUB_AREAS.has(sub) && subId ? `${base}/ta-${idOf(subId)}` : base;
     return warning ? { district: path, warning } : { district: path };
   }
+  if (/Community College District$/.test(body)) {
+    const code = collegeDistrict(body);
+    const base = code ? `${state}/ccd-${idOf(code)}` : placePath(state, body);
+    const warning = code ? undefined : `no college district matches "${body}"`;
+    const path = sub && SCHOOL_SUB_AREAS.has(sub) && subId ? `${base}/ta-${idOf(subId)}` : base;
+    return warning ? { district: path, warning } : { district: path };
+  }
   const base = placePath(state, body);
   if (!sub || sub === "seat" || !subId) return { district: base };
-  const family =
-    /Community College District$/.test(body) && SCHOOL_SUB_AREAS.has(sub) ? "ta" : SUB_AREAS[sub];
-  return { district: `${base}/${family}-${idOf(subId)}` };
+  return { district: `${base}/${SUB_AREAS[sub]}-${idOf(subId)}` };
 }

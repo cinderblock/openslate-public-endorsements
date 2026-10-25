@@ -1,0 +1,294 @@
+{
+  "source": "https://services3.arcgis.com/iUKM0a3Vouz02bg4/arcgis/rest/services/CCC_Boundaries/FeatureServer/0",
+  "fetchedAt": "2026-10-25",
+  "districts": [
+    {
+      "code": "610",
+      "name": "Allan Hancock"
+    },
+    {
+      "code": "620",
+      "name": "Antelope Valley"
+    },
+    {
+      "code": "910",
+      "name": "Barstow"
+    },
+    {
+      "code": "110",
+      "name": "Butte-Glenn"
+    },
+    {
+      "code": "410",
+      "name": "Cabrillo"
+    },
+    {
+      "code": "810",
+      "name": "Cerritos"
+    },
+    {
+      "code": "480",
+      "name": "Chabot-Las Positas"
+    },
+    {
+      "code": "920",
+      "name": "Chaffey"
+    },
+    {
+      "code": "820",
+      "name": "Citrus"
+    },
+    {
+      "code": "830",
+      "name": "Coast"
+    },
+    {
+      "code": "710",
+      "name": "Compton"
+    },
+    {
+      "code": "310",
+      "name": "Contra Costa"
+    },
+    {
+      "code": "970",
+      "name": "Copper Mountain"
+    },
+    {
+      "code": "930",
+      "name": "Desert"
+    },
+    {
+      "code": "720",
+      "name": "El Camino"
+    },
+    {
+      "code": "120",
+      "name": "Feather River"
+    },
+    {
+      "code": "420",
+      "name": "Foothill-DeAnza"
+    },
+    {
+      "code": "440",
+      "name": "Gavilan"
+    },
+    {
+      "code": "730",
+      "name": "Glendale"
+    },
+    {
+      "code": "20",
+      "name": "Grossmont-Cuyamaca"
+    },
+    {
+      "code": "450",
+      "name": "Hartnell"
+    },
+    {
+      "code": "30",
+      "name": "Imperial"
+    },
+    {
+      "code": "520",
+      "name": "Kern"
+    },
+    {
+      "code": "220",
+      "name": "Lake Tahoe"
+    },
+    {
+      "code": "130",
+      "name": "Lassen"
+    },
+    {
+      "code": "840",
+      "name": "Long Beach"
+    },
+    {
+      "code": "740",
+      "name": "Los Angeles"
+    },
+    {
+      "code": "230",
+      "name": "Los Rios"
+    },
+    {
+      "code": "330",
+      "name": "Marin"
+    },
+    {
+      "code": "140",
+      "name": "Mendocino-Lake"
+    },
+    {
+      "code": "530",
+      "name": "Merced"
+    },
+    {
+      "code": "50",
+      "name": "MiraCosta"
+    },
+    {
+      "code": "460",
+      "name": "Monterey Peninsula"
+    },
+    {
+      "code": "850",
+      "name": "Mt. San Antonio"
+    },
+    {
+      "code": "940",
+      "name": "Mt. San Jacinto"
+    },
+    {
+      "code": "240",
+      "name": "Napa Valley"
+    },
+    {
+      "code": "860",
+      "name": "North Orange County"
+    },
+    {
+      "code": "430",
+      "name": "Ohlone"
+    },
+    {
+      "code": "950",
+      "name": "Palo Verde"
+    },
+    {
+      "code": "60",
+      "name": "Palomar"
+    },
+    {
+      "code": "770",
+      "name": "Pasadena Area"
+    },
+    {
+      "code": "340",
+      "name": "Peralta"
+    },
+    {
+      "code": "870",
+      "name": "Rancho Santiago"
+    },
+    {
+      "code": "160",
+      "name": "Redwoods"
+    },
+    {
+      "code": "880",
+      "name": "Rio Hondo"
+    },
+    {
+      "code": "960",
+      "name": "Riverside"
+    },
+    {
+      "code": "980",
+      "name": "San Bernardino"
+    },
+    {
+      "code": "70",
+      "name": "San Diego"
+    },
+    {
+      "code": "360",
+      "name": "San Francisco"
+    },
+    {
+      "code": "550",
+      "name": "San Joaquin Delta"
+    },
+    {
+      "code": "470",
+      "name": "San Jose-Evergreen"
+    },
+    {
+      "code": "640",
+      "name": "San Luis Obispo County"
+    },
+    {
+      "code": "370",
+      "name": "San Mateo County"
+    },
+    {
+      "code": "650",
+      "name": "Santa Barbara"
+    },
+    {
+      "code": "660",
+      "name": "Santa Clarita"
+    },
+    {
+      "code": "780",
+      "name": "Santa Monica"
+    },
+    {
+      "code": "560",
+      "name": "Sequoias"
+    },
+    {
+      "code": "170",
+      "name": "Shasta-Tehama-Trinity"
+    },
+    {
+      "code": "270",
+      "name": "Sierra Joint"
+    },
+    {
+      "code": "180",
+      "name": "Siskiyou Joint"
+    },
+    {
+      "code": "280",
+      "name": "Solano"
+    },
+    {
+      "code": "260",
+      "name": "Sonoma County"
+    },
+    {
+      "code": "890",
+      "name": "South Orange County"
+    },
+    {
+      "code": "90",
+      "name": "Southwestern"
+    },
+    {
+      "code": "570",
+      "name": "State Center"
+    },
+    {
+      "code": "680",
+      "name": "Ventura County"
+    },
+    {
+      "code": "990",
+      "name": "Victor Valley"
+    },
+    {
+      "code": "580",
+      "name": "West Hills"
+    },
+    {
+      "code": "690",
+      "name": "West Kern"
+    },
+    {
+      "code": "490",
+      "name": "West Valley-Mission"
+    },
+    {
+      "code": "590",
+      "name": "Yosemite"
+    },
+    {
+      "code": "290",
+      "name": "Yuba"
+    }
+  ]
+}

@@ -211,7 +211,11 @@ address), and lists the rest as *Might be on your ballot*. After building an
 authority bundle, run `bun scripts/assign-districts.ts <election> --apply`; the
 rules are in `scripts/lib/districts.ts`. School boards are matched to the
 Census Bureau's districts in `scripts/data/ca-school-districts.json`
-(`bun scripts/fetch-school-districts.ts` rebuilds it from TIGERweb).
+(`bun scripts/fetch-school-districts.ts` rebuilds it from TIGERweb), and
+college boards to the Chancellor's Office district codes in
+`scripts/data/ca-community-college-districts.json` (`us/ca/ccd-830/ta-1`;
+`bun scripts/fetch-college-districts.ts`, from the CCC GIS Collaborative's
+boundaries, the ones the app looks up).
 
 CI enforces all of it. In any election and jurisdiction an authority bundle
 covers, `scripts/verify-positions.ts` fails a position whose race isn't on the
