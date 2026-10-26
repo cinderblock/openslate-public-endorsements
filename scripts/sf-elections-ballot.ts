@@ -6,6 +6,12 @@
 // lines) and writes positions.json with the catalog's subject titles. Dry run by default.
 //
 //   bun scripts/sf-elections-ballot.ts 2026-11-03 [--apply]
+//
+// How the ballot prints each contest goes in `subject.ballot` (OpenSlate SPEC §3.14): the
+// heading, how many to vote for (a board's seats), or for a ranked-choice office how many
+// choices a voter may rank; a measure's letter, title and type.
+
+import type { BallotContest } from "../.openslate/packages/core/src/index";
 
 const election = process.argv[2];
 if (!election) throw new Error("usage: sf-elections-ballot.ts <election> [--apply]");
@@ -14,28 +20,37 @@ const dir = `orgs/sf-department-of-elections/${election}`;
 const CANDIDATES_URL = "https://www.sf.gov/reports--candidates-nov-3-2026-general-election";
 const MEASURES_URL = "https://www.sf.gov/qualified-ballot-measures";
 
-/** Page heading → catalog title and jurisdiction. Seats become the statement. */
-function office(heading: string): { title: string; jurisdiction: string; seats?: number } {
-  const seats = heading.match(/\((\d+) seats\)/)?.[1];
+/**
+ * San Francisco elects its city officers (Mayor, City Attorney, District Attorney, Sheriff,
+ * Assessor-Recorder, Public Defender, Treasurer) and Supervisors by ranked choice, up to ten
+ * rankings (https://sf.gov/ranked-choice-voting). Its school and college boards and BART's
+ * board are elected by plurality.
+ */
+const RANKS = 10;
+
+/** Page heading → catalog title and jurisdiction, and how the ballot prints the contest. */
+function office(heading: string): { title: string; jurisdiction: string; ballot: BallotContest } {
+  const seats = Number(heading.match(/\((\d+) seats\)/)?.[1] ?? 1);
   const h = heading.replace(/\s*\(\d+ seats\)/, "").trim();
-  const sf = (title: string) => ({
+  const sf = (title: string, ranked = false) => ({
     title,
     jurisdiction: "us/ca/sf",
-    ...(seats ? { seats: Number(seats) } : {}),
+    ballot: ranked ? { heading: h, ranks: RANKS } : { heading: h, vote_for: seats },
   });
   const supervisor = h.match(/^Board of Supervisors, District (\d+)$/);
-  if (supervisor) return sf(`San Francisco Board of Supervisors, District ${supervisor[1]}`);
+  if (supervisor) return sf(`San Francisco Board of Supervisors, District ${supervisor[1]}`, true);
   const bart = h.match(/^BART Board, District (\d+)$/);
   if (bart)
     return {
       title: `BART Board of Directors, District ${bart[1]}`,
       jurisdiction: `us/ca/bart-${bart[1]}`,
+      ballot: { heading: h, vote_for: seats },
     };
   switch (h) {
     case "Assessor-Recorder":
-      return sf("San Francisco Assessor-Recorder");
+      return sf("San Francisco Assessor-Recorder", true);
     case "Public Defender":
-      return sf("San Francisco Public Defender");
+      return sf("San Francisco Public Defender", true);
     case "Board of Education":
       return sf("San Francisco Unified School District Board of Education");
     case "Community College Board":
@@ -47,10 +62,15 @@ function office(heading: string): { title: string; jurisdiction: string; seats?:
 }
 
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  subject: {
+    title: string;
+    kind: string;
+    jurisdiction: string;
+    election: string;
+    ballot: BallotContest;
+  };
   stance: "neutral";
   choice: string;
-  statement?: string;
   source: string;
 }
 const positions: Position[] = [];
@@ -60,10 +80,15 @@ for (const line of (await Bun.file(`${dir}/evidence/candidates.md`).text()).spli
   if (line.startsWith("## ")) current = office(line.slice(3));
   else if (line.startsWith("- ") && current) {
     positions.push({
-      subject: { title: current.title, kind: "race", jurisdiction: current.jurisdiction, election },
+      subject: {
+        title: current.title,
+        kind: "race",
+        jurisdiction: current.jurisdiction,
+        election,
+        ballot: current.ballot,
+      },
       stance: "neutral",
       choice: line.slice(2).trim(),
-      ...(current.seats ? { statement: `${current.seats} seats` } : {}),
       source: CANDIDATES_URL,
     });
   }
@@ -78,12 +103,17 @@ for (const m of measures.matchAll(/^- (\w+): "(.+?)" \((.+?)\)\s*$/gm)) {
   const subject = regional
     ? { title: `Bay Area — Regional Measure ${letter} (${title})`, jurisdiction: "us/ca/bay-area" }
     : { title: `San Francisco — Proposition ${letter} (${title})`, jurisdiction: "us/ca/sf" };
+  const ballot: BallotContest = {
+    heading: regional ? `Regional Measure ${letter}` : `Proposition ${letter}`,
+    ...(letter ? { number: letter } : {}),
+    ...(title ? { label: title } : {}),
+    ...(type ? { measure_type: type } : {}),
+  };
   for (const choice of ["Yes", "No"]) {
     positions.push({
-      subject: { ...subject, kind: "measure", election },
+      subject: { ...subject, kind: "measure", election, ballot },
       stance: "neutral",
       choice,
-      statement: type,
       source: MEASURES_URL,
     });
   }

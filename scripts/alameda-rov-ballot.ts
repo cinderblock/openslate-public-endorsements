@@ -16,6 +16,7 @@
 //   bun scripts/alameda-rov-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   knownSpelling,
@@ -323,15 +324,67 @@ const reuse = subjectMatcher({
   duplicates,
 });
 
+interface Subject {
+  title: string;
+  kind: string;
+  jurisdiction: string;
+  election: string;
+}
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: Subject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
+
+/**
+ * Albany, Berkeley, Oakland and San Leandro elect most city offices by ranked choice, up to
+ * five rankings (https://acvote.alamedacountyca.gov/voting/rcv): every Oakland contest
+ * (its school directors too); Berkeley's Mayor, Council and Auditor, not its Rent Board or
+ * school board; San Leandro's Mayor and Council; Albany's Council and Board of Education
+ * (several winners each).
+ */
+const RANKS = 5;
+function rankedChoice(listed: string): boolean {
+  if (/, Oakland\b/i.test(listed)) return true;
+  if (/, Berkeley$/i.test(listed))
+    return /^For (Mayor|Member Of City Council|Auditor)\b/i.test(listed);
+  if (/, San Leandro\b/i.test(listed)) return /^For (Mayor|Member Of City Council)\b/i.test(listed);
+  if (/, Albany$/i.test(listed)) return /City Council|Board Of Education/i.test(listed);
+  return false;
+}
+
+/** How the ballot prints a contest from the county's list. */
+function contestBallot(race: Race): BallotContest {
+  return rankedChoice(race.title)
+    ? { heading: race.title, ranks: RANKS }
+    : { heading: race.title, vote_for: race.voteFor };
+}
+
+/** How the ballot prints a candidate: party, ballot designation, incumbency. */
+function choiceBallot(candidate: Candidate): BallotChoice | undefined {
+  const printed: BallotChoice = {
+    ...(candidate.party ? { party: candidate.party } : {}),
+    ...(candidate.designation ? { designation: candidate.designation } : {}),
+    ...(candidate.incumbent ? { incumbent: true as const } : {}),
+  };
+  return Object.keys(printed).length > 0 ? printed : undefined;
+}
+
+/** A measure's heading as printed ("Bond Measure L"), its letter and type. */
+function measureBallot(m: Measure): BallotContest {
+  const letter = / ([A-Z]{1,3})$/.exec(m.name)?.[1];
+  const bond = / BOND MEASURE /.test(m.name);
+  return {
+    heading: letter ? `Measure ${letter}` : titleCase(m.name),
+    ...(letter ? { number: letter } : {}),
+    ...(bond ? { measure_type: "Bond Measure" } : {}),
+  };
+}
 const positions: Position[] = [];
-const contestSubjects: Record<string, Position["subject"]> = {};
+const contestSubjects: Record<string, Subject> = {};
 const used = new Map<string, string>();
 let reused = 0;
 let spelled = 0;
@@ -348,16 +401,17 @@ for (const { race, built: b } of built) {
     const printed = displayName(candidate.name);
     const known = knownSpelling(printed, spellings);
     if (known) spelled++;
+    const ballot = choiceBallot(candidate);
     positions.push({
-      subject,
+      subject: { ...subject, ballot: contestBallot(race) },
       stance: "neutral",
       choice: known ?? printed,
-      ...(candidate.designation ? { statement: candidate.designation } : {}),
+      ...(ballot ? { ballot } : {}),
       source: `${APP}/`,
     });
   }
 }
-const measureSubjects: Record<string, Position["subject"]> = {};
+const measureSubjects: Record<string, Subject> = {};
 for (const measure of measures) {
   const b = measureSubject(measure);
   if (!b) continue;
@@ -365,7 +419,12 @@ for (const measure of measures) {
   if (existing.has(subject.title)) reused++;
   measureSubjects[measure.name] = subject;
   for (const choice of ["Yes", "No"]) {
-    positions.push({ subject, stance: "neutral", choice, source: GUIDE });
+    positions.push({
+      subject: { ...subject, ballot: measureBallot(measure) },
+      stance: "neutral",
+      choice,
+      source: GUIDE,
+    });
   }
 }
 

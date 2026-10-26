@@ -21,6 +21,7 @@
 //   bun scripts/smc-elections-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   knownSpelling,
@@ -186,19 +187,24 @@ function contestSubject(contest: QualifiedContest): Built | undefined {
   }
   // Cities and towns: "City of Belmont Mayor", "Town of Portola Valley Member, Town Council",
   // "City of Millbrae Member, City Council, District 3 (Short Term)", "… City Clerk".
-  const place = /^(?:City|Town) of (.+?) (Mayor|Member, (?:City|Town) Council|City Clerk|City Treasurer)(.*)$/.exec(
-    t,
-  );
+  const place =
+    /^(?:City|Town) of (.+?) (Mayor|Member, (?:City|Town) Council|City Clerk|City Treasurer)(.*)$/.exec(
+      t,
+    );
   if (place) {
     const name = place[1] as string;
     const office = (place[2] as string).replace(/^Member, /, "");
-    return { title: `${name} ${office}${seatOf(place[3] as string)}`, jurisdiction: city(name).jurisdiction };
+    return {
+      title: `${name} ${office}${seatOf(place[3] as string)}`,
+      jurisdiction: city(name).jurisdiction,
+    };
   }
   // Districts: "<District> Member, Governing Board, Trustee Area C", "<District> Member, Board
   // of Directors, Zone 5", "Midcoast Community Council Councilmember".
-  const district = /^(.+?) (?:Member, (?:Governing Board|Board of Directors|Board of Commissioners)|Councilmember)(.*)$/.exec(
-    t,
-  );
+  const district =
+    /^(.+?) (?:Member, (?:Governing Board|Board of Directors|Board of Commissioners)|Councilmember)(.*)$/.exec(
+      t,
+    );
   if (district) return county(`${district[1]} Board${seatOf(district[2] as string)}`);
   problems.push(`can't read contest "${t}"`);
   return undefined;
@@ -211,10 +217,13 @@ const analysed = new Set(
   documents.flatMap((d) => /^Measure ([A-Z]{1,2}) - Impartial Analysis$/.exec(d.title)?.[1] ?? []),
 );
 for (const letter of Object.keys(MEASURES))
-  if (!analysed.has(letter)) problems.push(`Measure ${letter}: no impartial analysis among the documents`);
+  if (!analysed.has(letter))
+    problems.push(`Measure ${letter}: no impartial analysis among the documents`);
 for (const letter of analysed)
   if (!(letter in MEASURES)) problems.push(`Measure ${letter} has documents but isn't in MEASURES`);
-const transit = documents.find((d) => /^Regional Transit Measure - Impartial Analysis$/.test(d.title));
+const transit = documents.find((d) =>
+  /^Regional Transit Measure - Impartial Analysis$/.test(d.title),
+);
 if (!transit) problems.push("no impartial analysis of the Regional Transit Measure");
 
 const existing = await loadExisting(election, dir);
@@ -238,15 +247,31 @@ const reuse = subjectMatcher({
   duplicates,
 });
 
+interface ListedSubject {
+  title: string;
+  kind: string;
+  jurisdiction: string;
+  election: string;
+}
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: ListedSubject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
+/** A measure's heading as the ballot prints it ("Measure M"), its letter and short title. */
+function measureBallot(name: string, label?: string): BallotContest {
+  const letter = /MEASURE ([A-Z0-9]+)$/i.exec(name)?.[1];
+  return {
+    heading: letter ? `Measure ${letter}` : name,
+    ...(letter ? { number: letter } : {}),
+    ...(label ? { label } : {}),
+  };
+}
 const positions: Position[] = [];
-const contestSubjects: Record<string, Position["subject"]> = {};
+const contestSubjects: Record<string, ListedSubject> = {};
 const used = new Map<string, string>();
 let reused = 0;
 let spelled = 0;
@@ -268,15 +293,15 @@ for (const { contest, built: b } of built) {
       ? ""
       : candidate.designation;
     positions.push({
-      subject,
+      subject: { ...subject, ballot: { heading: contest.title, vote_for: contest.voteFor } },
       stance: "neutral",
       choice: known ?? printed,
-      ...(designation ? { statement: designation } : {}),
+      ...(designation ? { ballot: { designation: designation } } : {}),
       source: roster.url,
     });
   }
 }
-const measureSubjects: Record<string, Position["subject"]> = {};
+const measureSubjects: Record<string, ListedSubject> = {};
 const measures: [string, Built, string][] = [
   ...Object.entries(MEASURES).map(([letter, body]): [string, Built, string] => [
     `Measure ${letter}`,
@@ -293,7 +318,14 @@ for (const [name, b, source] of measures) {
   const subject = reuse(b, "measure");
   if (existing.has(subject.title)) reused++;
   measureSubjects[name] = subject;
-  for (const choice of ["Yes", "No"]) positions.push({ subject, stance: "neutral", choice, source });
+  for (const choice of ["Yes", "No"]) {
+    positions.push({
+      subject: { ...subject, ballot: measureBallot(name) },
+      stance: "neutral",
+      choice,
+      source,
+    });
+  }
 }
 
 const produced = new Set(positions.map((p) => p.subject.title));
@@ -308,7 +340,11 @@ const out = {
     election,
   },
   attribution: {
-    of: { name: "San Mateo County Elections", uri: `${SITE}/elections`, kind: "election-authority" },
+    of: {
+      name: "San Mateo County Elections",
+      uri: `${SITE}/elections`,
+      kind: "election-authority",
+    },
     mode: "scraped",
     retrieved_at,
     sources: [roster.url, CURRENT],

@@ -21,6 +21,7 @@
 //   bun scripts/la-rrcc-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   ORDINALS,
@@ -368,11 +369,32 @@ for (const { built } of [...races, ...props]) {
 }
 
 interface Position {
-  subject: Subject;
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: Subject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
+}
+
+/**
+ * How the ballot prints a contest: LA's own title for it. LA's data doesn't say how many to
+ * vote for, so that's left out rather than guessed.
+ */
+function contestBallot(contest: Contest): BallotContest {
+  return { heading: [contest.title, contest.title2].filter(Boolean).join(" — ") };
+}
+
+/** A measure's letter, and its question as the ballot asks it. */
+function measureBallot(m: Measure): BallotContest {
+  const letter = /MEASURE\s+([A-Z0-9]+)$/.exec(m.name)?.[1];
+  // LA's text runs on into who signed the arguments: "… adopted? Supporters: … Opponents: …".
+  const question = m.question.replace(/\s*Supporters:[\s\S]*$/, "").trim();
+  return {
+    heading: letter ? `Measure ${letter}` : m.name,
+    ...(letter ? { number: letter } : {}),
+    ...(question ? { label: question } : {}),
+  };
 }
 const positions: Position[] = [];
 const used = new Map<string, string>();
@@ -390,12 +412,12 @@ for (const { contest, built } of races) {
     const known = knownSpelling(candidate.name, spellings);
     if (known) renamed++;
     positions.push({
-      subject,
+      subject: { ...subject, ballot: contestBallot(contest) },
       stance: "neutral",
       // LA's data drops the period from a middle initial ("STEPHANIE A CAPPS"); its printed
       // statements keep it.
       choice: known ?? nameCase(candidate.name.replace(/(?<=\s)([A-Z])(?=\s)/g, "$1.")),
-      ...(candidate.occupation ? { statement: candidate.occupation } : {}),
+      ...(candidate.occupation ? { ballot: { designation: candidate.occupation } } : {}),
       source: CANDIDATES_PAGE,
     });
   }
@@ -408,7 +430,12 @@ for (const { measure, built } of props) {
   if (clash) problems.push(`"${measure.name}" and "${clash}" both become "${subject.title}"`);
   used.set(subject.title, measure.name);
   for (const choice of ["Yes", "No"]) {
-    positions.push({ subject, stance: "neutral", choice, source: SAMPLE_BALLOT_PAGE });
+    positions.push({
+      subject: { ...subject, ballot: measureBallot(measure) },
+      stance: "neutral",
+      choice,
+      source: SAMPLE_BALLOT_PAGE,
+    });
   }
 }
 
@@ -464,20 +491,28 @@ if (apply) {
   await Bun.write(`${dir}/positions.json`, `${JSON.stringify(out, null, 2)}\n`);
   // Which subject each of LA's contest IDs became, so the voter guide (built elsewhere from the
   // same LA data) files each statement and measure under the same race without re-deriving titles.
+  // The subject alone: how the ballot prints it is the listing's business, not the guide's.
+  const bare = (subject: Position["subject"] | undefined): Subject | undefined => {
+    if (!subject) return undefined;
+    const { ballot: _, ...rest } = subject;
+    return rest;
+  };
   const contestSubjects = {
     electionId: (await Bun.file(`${EVIDENCE}/contests.json`).json()).electionId,
     contests: Object.fromEntries(
       races.map(({ contest }) => [
         `cc${contest.contestId}`,
-        positions.find(
-          (p) => p.source === CANDIDATES_PAGE && used.get(p.subject.title) === contest.title,
-        )?.subject,
+        bare(
+          positions.find(
+            (p) => p.source === CANDIDATES_PAGE && used.get(p.subject.title) === contest.title,
+          )?.subject,
+        ),
       ]),
     ),
     measures: Object.fromEntries(
       props.map(({ measure }) => [
         measure.id,
-        positions.find((p) => used.get(p.subject.title) === measure.name)?.subject,
+        bare(positions.find((p) => used.get(p.subject.title) === measure.name)?.subject),
       ]),
     ),
   };

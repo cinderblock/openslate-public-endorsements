@@ -186,8 +186,20 @@ candidates and a county election office's list of qualified local candidates
 and measures, as `neutral` positions (one per candidate, `Yes`/`No` per
 measure) with `attribution.of.kind: "election-authority"`. The OpenSlate web
 app treats such a bundle as *ballot data*: it supplies each race's whole field
-in ballot order (the `statement` carries party and ballot designation) and is
-never a source to follow or count.
+in ballot order and is never a source to follow or count.
+
+How the ballot prints each contest and choice goes in `ballot` fields
+(OpenSlate SPEC §3.14), never in `statement`: the subject's `ballot` has the
+heading as the authority prints it, how many to vote for (`vote_for`) or, for a
+ranked-choice contest, how many choices to rank (`ranks`), and a measure's
+`number`, `label` (its question or short title) and `measure_type`; each
+candidate's `ballot` has `party`, `designation` and `incumbent`. A script only
+writes what its evidence says: LA's and San Diego's lists don't give a
+vote-for count, so their contests have none. Ranked choice isn't in any
+county's list either, so the scripts hold the rule with its source: San
+Francisco's city offices and Supervisors (up to 10 rankings), and in Alameda
+County every Oakland contest, Berkeley's Mayor, Council and Auditor, San
+Leandro's Mayor and Council, and Albany's Council and school board (up to 5).
 
 | Bundle | Covers | Built by |
 | --- | --- | --- |

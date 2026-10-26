@@ -17,6 +17,7 @@
 //   bun scripts/scc-rov-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   knownSpelling,
@@ -35,7 +36,7 @@ const fetchMode = process.argv.includes("--fetch");
 const apply = process.argv.includes("--apply");
 const argAfter = (flag: string) =>
   process.argv.includes(flag) ? process.argv[process.argv.indexOf(flag) + 1] : undefined;
-const dir =`orgs/santa-clara-registrar-of-voters/${election}`;
+const dir = `orgs/santa-clara-registrar-of-voters/${election}`;
 const EVIDENCE = `${dir}/evidence`;
 
 const SITE = "https://vote.santaclaracounty.gov";
@@ -70,9 +71,10 @@ async function get(url: string): Promise<Response> {
 /** The qualified list's URL, from the resources page. */
 async function qualifiedListUrl(): Promise<string> {
   const page = await (await get(RESOURCES)).text();
-  const url = /href="(https:\/\/files\.santaclaracounty\.gov\/[^"]*qualified-list-of-local-candidates[^"]*)"/
-    .exec(page)?.[1]
-    ?.replace(/&amp;/g, "&");
+  const url =
+    /href="(https:\/\/files\.santaclaracounty\.gov\/[^"]*qualified-list-of-local-candidates[^"]*)"/
+      .exec(page)?.[1]
+      ?.replace(/&amp;/g, "&");
   if (!url) throw new Error(`no qualified list linked from ${RESOURCES}`);
   return url;
 }
@@ -149,15 +151,17 @@ const duplicates: string[] = [];
 
 /** The list's abbreviations, spelled out. */
 function expand(body: string): string {
-  return body
-    .replace(/\bBOE\b/, "Board of Education")
-    .replace(/\bSCV\b/, "Santa Clara Valley")
-    .replace(/\bHSD\b/, "High School District")
-    .replace(/\bCCD\b/, "Community College District")
-    .replace(/\bSD\b/, "School District")
-    .replace(/^Santa Clara Valley Water$/, "Santa Clara Valley Water District")
-    // Its legal name; the catalog's bundles use it.
-    .replace(/^Alum Rock Union School District$/, "Alum Rock Union Elementary School District");
+  return (
+    body
+      .replace(/\bBOE\b/, "Board of Education")
+      .replace(/\bSCV\b/, "Santa Clara Valley")
+      .replace(/\bHSD\b/, "High School District")
+      .replace(/\bCCD\b/, "Community College District")
+      .replace(/\bSD\b/, "School District")
+      .replace(/^Santa Clara Valley Water$/, "Santa Clara Valley Water District")
+      // Its legal name; the catalog's bundles use it.
+      .replace(/^Alum Rock Union School District$/, "Alum Rock Union Elementary School District")
+  );
 }
 
 /** ", TA 3", ", Trustee Area 3", ", District 4", ", D2", " Ward 1", ", Short Term". */
@@ -165,8 +169,7 @@ function seatOf(rest: string): { seat?: string; short: boolean } {
   const short = /\bShort Term\b/i.test(rest);
   const m = /\b(TA|Trustee Area|District|D|Ward)\s*(\d+|[A-Z])\b/.exec(rest);
   if (!m) return { short };
-  const label =
-    m[1] === "TA" ? "Trustee Area" : m[1] === "D" ? "District" : (m[1] as string);
+  const label = m[1] === "TA" ? "Trustee Area" : m[1] === "D" ? "District" : (m[1] as string);
   return { seat: `${label} ${m[2]}`, short };
 }
 const suffixOf = ({ seat, short }: { seat?: string; short: boolean }) =>
@@ -239,15 +242,31 @@ const reuse = subjectMatcher({
   duplicates,
 });
 
+interface ListedSubject {
+  title: string;
+  kind: string;
+  jurisdiction: string;
+  election: string;
+}
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: ListedSubject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
+/** A measure's heading as the ballot prints it ("Measure M"), its letter and short title. */
+function measureBallot(name: string, label?: string): BallotContest {
+  const letter = /MEASURE ([A-Z0-9]+)$/i.exec(name)?.[1];
+  return {
+    heading: letter ? `Measure ${letter}` : name,
+    ...(letter ? { number: letter } : {}),
+    ...(label ? { label } : {}),
+  };
+}
 const positions: Position[] = [];
-const contestSubjects: Record<string, Position["subject"]> = {};
+const contestSubjects: Record<string, ListedSubject> = {};
 const used = new Map<string, string>();
 let reused = 0;
 let spelled = 0;
@@ -268,15 +287,15 @@ for (const { contest, built: b } of built) {
       ? ""
       : candidate.designation;
     positions.push({
-      subject,
+      subject: { ...subject, ballot: { heading: contest.title, vote_for: contest.voteFor } },
       stance: "neutral",
       choice: known ?? candidate.name,
-      ...(designation ? { statement: designation } : {}),
+      ...(designation ? { ballot: { designation: designation } } : {}),
       source: qualified.url,
     });
   }
 }
-const measureSubjects: Record<string, Position["subject"]> = {};
+const measureSubjects: Record<string, ListedSubject> = {};
 for (const measure of measures) {
   const b = measureSubject(measure);
   if (!b) continue;
@@ -284,7 +303,12 @@ for (const measure of measures) {
   if (existing.has(subject.title)) reused++;
   measureSubjects[measure.name] = subject;
   for (const choice of ["Yes", "No"]) {
-    positions.push({ subject, stance: "neutral", choice, source: LOOKUPS });
+    positions.push({
+      subject: { ...subject, ballot: measureBallot(measure.name) },
+      stance: "neutral",
+      choice,
+      source: LOOKUPS,
+    });
   }
 }
 

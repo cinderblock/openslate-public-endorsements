@@ -8,6 +8,11 @@
 // with the endorsement bundles. Dry run by default.
 //
 //   bun scripts/ca-sos-ballot.ts 2026-11-03 [--apply]
+//
+// How the ballot prints each contest and candidate goes in `ballot` (OpenSlate SPEC §3.14):
+// heading, measure number, label and type, how many to vote for; party, designation, incumbent.
+
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 
 const election = process.argv[2];
 if (!election) throw new Error("usage: ca-sos-ballot.ts <election> [--apply]");
@@ -75,26 +80,34 @@ const ORDINALS: Record<string, string> = {
 };
 
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  subject: {
+    title: string;
+    kind: string;
+    jurisdiction: string;
+    election: string;
+    ballot: BallotContest;
+  };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
 const positions: Position[] = [];
+/** One choice, with how the ballot prints its contest and it (OpenSlate SPEC §3.14). */
 const push = (
   title: string,
   kind: string,
   jurisdiction: string,
+  contest: BallotContest,
   choice: string,
-  statement: string | undefined,
+  printed: BallotChoice | undefined,
   source: string,
 ) =>
   positions.push({
-    subject: { title, kind, jurisdiction, election },
+    subject: { title, kind, jurisdiction, election, ballot: contest },
     stance: "neutral",
     choice,
-    ...(statement ? { statement } : {}),
+    ...(printed ? { ballot: printed } : {}),
     source,
   });
 
@@ -123,24 +136,37 @@ const judicialAt = lines.findIndex((l) => l.startsWith("Supreme Court"));
 if (start < 0 || judicialAt < 0)
   throw new Error("certified list text: can't find Governor / Supreme Court sections");
 
-let office: { title: string; jurisdiction: string } | null = null;
+let office: { title: string; jurisdiction: string; heading: string } | null = null;
 let pending: { name: string; party: string; incumbent: boolean } | null = null;
 let designation: string[] = [];
 const flush = () => {
   if (!pending || !office) return;
   const note = designation.join(" ");
-  const parts = [pending.party];
-  if (note && note !== "No Ballot Designation") parts.push(note);
-  if (pending.incumbent) parts.push("incumbent");
-  push(office.title, "race", office.jurisdiction, pending.name, parts.join(" · "), CERT_URL);
+  // Every office on the certified list fills one seat.
+  push(
+    office.title,
+    "race",
+    office.jurisdiction,
+    { heading: office.heading, vote_for: 1 },
+    pending.name,
+    {
+      party: pending.party,
+      ...(note && note !== "No Ballot Designation" ? { designation: note } : {}),
+      ...(pending.incumbent ? { incumbent: true as const } : {}),
+    },
+    CERT_URL,
+  );
   pending = null;
   designation = [];
 };
-const asOffice = (line: string): { title: string; jurisdiction: string } | null => {
-  if (STATEWIDE[line]) return { title: STATEWIDE[line], jurisdiction: "us/ca" };
+/** An office heading on the certified list: the catalog's subject, and the heading itself. */
+const asOffice = (
+  line: string,
+): { title: string; jurisdiction: string; heading: string } | null => {
+  if (STATEWIDE[line]) return { title: STATEWIDE[line], jurisdiction: "us/ca", heading: line };
   for (const [re, make] of DISTRICTS) {
     const m = line.match(re);
-    if (m?.[1]) return make(m[1]);
+    if (m?.[1]) return { ...make(m[1]), heading: line };
   }
   return null;
 };
@@ -187,8 +213,14 @@ for (const chunk of judicial.split("•").slice(1)) {
   const name = titleCase(words.slice(i).join(" "));
   if (!name) throw new Error(`certified list text: no name in "${m[2]}"`);
   const title = `${court.title} — Retain Justice ${name}`;
+  const question = chunk
+    .match(/Shall .+?\?/)?.[0]
+    .replace(/\s+/g, " ")
+    .trim();
+  if (!question) throw new Error(`certified list text: no question in "${chunk.slice(0, 80)}"`);
+  const contest = { heading: `For ${officeText}`, label: question };
   for (const choice of ["Yes", "No"])
-    push(title, "measure", court.jurisdiction, choice, officeText, CERT_URL);
+    push(title, "measure", court.jurisdiction, contest, choice, undefined, CERT_URL);
 }
 
 // --- Statewide measures from the qualified-measures page evidence. ---
@@ -200,13 +232,20 @@ for (const m of measures.matchAll(/^Proposition (\d+): "(.+?)"\s*(?:"(.+?)")?\s*
     typeOnly?.replace(/\.$/, "") ?? titleText?.match(TYPE)?.[0].trim().replace(/\.$/, "");
   // The catalog writes straight apostrophes ("Voters' Ability"), whatever the page uses.
   const title = (titleText ?? "").replace(TYPE, "").replace(/\.$/, "").replace(/[’‘]/g, "'");
+  const contest = {
+    heading: `Proposition ${number}`,
+    ...(number ? { number } : {}),
+    ...(title ? { label: title } : {}),
+    ...(type ? { measure_type: type } : {}),
+  };
   for (const choice of ["Yes", "No"]) {
     push(
       `California — Proposition ${number} (${title})`,
       "measure",
       "us/ca",
+      contest,
       choice,
-      type,
+      undefined,
       MEASURES_URL,
     );
   }

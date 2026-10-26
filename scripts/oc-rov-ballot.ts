@@ -16,6 +16,7 @@
 //   bun scripts/oc-rov-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   knownSpelling,
@@ -338,16 +339,23 @@ const reuse = subjectMatcher({
   problems,
 });
 
+interface ListedSubject {
+  title: string;
+  kind: string;
+  jurisdiction: string;
+  election: string;
+}
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: ListedSubject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
 const positions: Position[] = [];
 const used = new Map<string, string>();
-const contestSubjects: Record<string, Position["subject"]> = {};
+const contestSubjects: Record<string, ListedSubject> = {};
 let reused = 0;
 let spelled = 0;
 for (const contest of contests) {
@@ -367,21 +375,39 @@ for (const contest of contests) {
     const known = knownSpelling(candidate.name, spellings);
     if (known) spelled++;
     positions.push({
-      subject,
+      subject: {
+        ...subject,
+        ballot: {
+          heading: [contest.office, contest.seat].filter(Boolean).join(", "),
+          vote_for: contest.voteFor,
+        },
+      },
       stance: "neutral",
       choice: known ?? nameCase(candidate.name),
-      ...(candidate.designation ? { statement: candidate.designation } : {}),
+      ...(candidate.designation ? { ballot: { designation: candidate.designation } } : {}),
       source: FILING_LOG_PAGE,
     });
   }
 }
-const measureSubjects: Record<string, Position["subject"]> = {};
+const measureSubjects: Record<string, ListedSubject> = {};
 for (const measure of measures) {
   const subject = reuse(measureSubject(measure), "measure");
   if (existing.has(subject.title)) reused++;
   measureSubjects[measure.letter] = subject;
   for (const choice of ["Yes", "No"]) {
-    positions.push({ subject, stance: "neutral", choice, source: MEASURES_PAGE });
+    positions.push({
+      subject: {
+        ...subject,
+        ballot: {
+          heading: `Measure ${measure.letter}`,
+          number: measure.letter,
+          label: measure.title.replace(/\s+/g, " ").trim(),
+        },
+      },
+      stance: "neutral",
+      choice,
+      source: MEASURES_PAGE,
+    });
   }
 }
 

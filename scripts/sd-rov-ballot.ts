@@ -18,6 +18,7 @@
 //   bun scripts/sd-rov-ballot.ts 2026-11-03 [--apply]
 
 import { existsSync, mkdirSync } from "node:fs";
+import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 import {
   type Built,
   knownSpelling,
@@ -361,15 +362,31 @@ const reuse = subjectMatcher({
   duplicates,
 });
 
+interface ListedSubject {
+  title: string;
+  kind: string;
+  jurisdiction: string;
+  election: string;
+}
 interface Position {
-  subject: { title: string; kind: string; jurisdiction: string; election: string };
+  /** With how the ballot prints the contest (OpenSlate SPEC §3.14). */
+  subject: ListedSubject & { ballot: BallotContest };
   stance: "neutral";
   choice: string;
-  statement?: string;
+  ballot?: BallotChoice;
   source: string;
 }
+/** A measure's heading as the ballot prints it ("Measure M"), its letter and short title. */
+function measureBallot(name: string, label?: string): BallotContest {
+  const letter = /MEASURE ([A-Z0-9]+)$/i.exec(name)?.[1];
+  return {
+    heading: letter ? `Measure ${letter}` : name,
+    ...(letter ? { number: letter } : {}),
+    ...(label ? { label } : {}),
+  };
+}
 const positions: Position[] = [];
-const contestSubjects: Record<string, Position["subject"]> = {};
+const contestSubjects: Record<string, ListedSubject> = {};
 const used = new Map<string, string>();
 let reused = 0;
 let spelled = 0;
@@ -388,15 +405,15 @@ for (const { contest, built: b } of built) {
     const known = knownSpelling(printed, spellings);
     if (known) spelled++;
     positions.push({
-      subject,
+      subject: { ...subject, ballot: { heading: contest.heading } },
       stance: "neutral",
       choice: known ?? printed,
-      ...(candidate.designation ? { statement: candidate.designation } : {}),
+      ...(candidate.designation ? { ballot: { designation: candidate.designation } } : {}),
       source: CANDIDATE_LIST,
     });
   }
 }
-const measureSubjects: Record<string, Position["subject"]> = {};
+const measureSubjects: Record<string, ListedSubject> = {};
 for (const measure of measures) {
   const b = measureSubject(measure);
   if (!b) continue;
@@ -404,7 +421,12 @@ for (const measure of measures) {
   if (existing.has(subject.title)) reused++;
   measureSubjects[measure.name] = subject;
   for (const choice of ["Yes", "No"]) {
-    positions.push({ subject, stance: "neutral", choice, source: PAMPHLETS_PAGE });
+    positions.push({
+      subject: { ...subject, ballot: measureBallot(measure.name, measure.title) },
+      stance: "neutral",
+      choice,
+      source: PAMPHLETS_PAGE,
+    });
   }
 }
 
