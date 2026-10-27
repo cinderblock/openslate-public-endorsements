@@ -5,11 +5,13 @@ kind: election-authority
 logo: logo.ico
 logo_source: https://www.newportbeachca.gov/favicon.ico
 about: |
-  Newport Beach runs its own Special Municipal Election on November 3, 2026,
-  on a ballot separate from the Orange County Registrar's, for Measures P, Q
-  and R. This bundle is a ballot source, not an endorsement: those three
-  measures as neutral Yes / No positions, so the catalog knows they're on a
-  ballot. The city's General Municipal Election (council districts 1, 3, 4
-  and 6, Measure H) is on the county's ballot and in the Orange County
-  Registrar's bundle. Transcribed by hand from the city's elections page,
-  saved under evidence/. Titles reuse the catalog's existing subjects.
+  Newport Beach called a Special Municipal Election for November 3, 2026, on
+  a ballot of its own, for Measures P, Q and R. On October 27 the city said
+  it "will not take place on November 3, 2026", so this bundle no longer
+  lists them. It's a ballot source, not an endorsement: it now lists the
+  city's one measure on the Nov 3 ballot, Measure H, as neutral Yes / No
+  positions under the Orange County Registrar's subject and choice ids (the
+  registrar's bundle has the same race, and the city's council seats). It
+  stays in the catalog so that a voter who imported the P, Q and R listing
+  gets this one in its place. Transcribed by hand from the city's elections
+  page, saved under evidence/.

@@ -78,6 +78,10 @@
    Force)`. These three are on a separate city-run stand-alone ballot
    (not on the OC ROV list); parentheticals are descriptive, from the
    editorial and the Register's news story, not official labels.
+   **Removed 2026-10-27:** the city called that election off ("will not
+   take place on November 3, 2026"; see
+   `orgs/newport-beach-city-clerk/2026-11-03/evidence/NOTES.md`), so the
+   "No" on P, Q and R left the bundle. The "No" on H stays.
    `Santa Ana — Measure N (...)` and `Costa Mesa — Measure C (...)` use
    the OC ROV titles. `Ontario — Measure H (Sales Tax)` is descriptive
    (registrar title not checked). Also new: `Superior Court of Riverside
