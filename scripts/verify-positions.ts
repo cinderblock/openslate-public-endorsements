@@ -3,14 +3,15 @@
 // OpenSlate SlatePayload schema, then check each against the election authorities'
 // ballot listings (scripts/ballot.ts): races must be on the ballot, and each choice
 // must be a listed one, spelled as the ballot spells it and carrying its choice_id,
-// or marked write_in. A listing's contests must also say who votes on them when only part of
+// or marked write_in. Articles (SPEC §3.15) attach to ballot items the same way, so their races
+// and choices are checked like positions'. A listing's contests must also say who votes on them when only part of
 // their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
 // sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts).
 // PR-time and pre-sign check — no signing involved.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
-import { slatePayloadSchema } from "../.openslate/packages/core/src/index";
+import { type Article, slatePayloadSchema } from "../.openslate/packages/core/src/index";
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 import { districtFor } from "./lib/districts";
 import { localityProblem } from "./lib/localities";
@@ -46,7 +47,7 @@ interface Failure {
 
 let ok = 0;
 const failures: Failure[] = [];
-const valid: { path: string; bundle: Bundle }[] = [];
+const valid: { path: string; bundle: Bundle; articles: Article[] }[] = [];
 
 for (const slug of listDirs(ORGS_DIR)) {
   for (const election of listDirs(join(ORGS_DIR, slug))) {
@@ -69,6 +70,7 @@ for (const slug of listDirs(ORGS_DIR)) {
     let endorsedBy: unknown;
     let attribution: unknown;
     let context: unknown;
+    let articles: unknown;
     if (Array.isArray(raw)) {
       positions = raw;
     } else if (raw && typeof raw === "object") {
@@ -77,6 +79,7 @@ for (const slug of listDirs(ORGS_DIR)) {
       endorsedBy = obj.endorsed_by;
       attribution = obj.attribution;
       context = obj.context;
+      articles = obj.articles;
     }
 
     const placeholderPayload = {
@@ -91,16 +94,22 @@ for (const slug of listDirs(ORGS_DIR)) {
       ...(endorsedBy !== undefined ? { endorsed_by: endorsedBy } : {}),
       ...(attribution !== undefined ? { attribution } : {}),
       ...(context !== undefined ? { context } : {}),
+      ...(articles !== undefined ? { articles } : {}),
     };
 
     const result = slatePayloadSchema.safeParse(placeholderPayload);
     if (result.success) {
       ok++;
-      valid.push({ path: rel, bundle: result.data });
+      valid.push({ path: rel, bundle: result.data, articles: result.data.articles ?? [] });
       const attrNote = result.data.attribution
         ? `, attribution: ${result.data.attribution.of.name} (${result.data.attribution.mode})`
         : "";
-      console.log(`OK    ${rel}  (${result.data.positions.length} positions${attrNote})`);
+      const articleNote = result.data.articles?.length
+        ? `, ${result.data.articles.length} articles`
+        : "";
+      console.log(
+        `OK    ${rel}  (${result.data.positions.length} positions${articleNote}${attrNote})`,
+      );
     } else {
       failures.push({
         path: rel,
@@ -124,6 +133,34 @@ for (const { path, bundle } of valid) {
   ok--;
   for (const p of check.problems) kinds.add(p.kind);
   failures.push({ path, errors: check.problems.map(describe) });
+}
+
+// Articles: on the ballot like positions, or the app can't put them with the race they're about.
+let articlesChecked = 0;
+for (const { path, bundle, articles } of valid) {
+  if (!articles.length) continue;
+  const asPositions: Bundle = {
+    ...bundle,
+    positions: articles.map((a) => ({
+      subject: a.subject,
+      stance: "neutral" as const,
+      ...(a.choice !== undefined ? { choice: a.choice } : {}),
+      ...(a.choice_id !== undefined ? { choice_id: a.choice_id } : {}),
+    })),
+  };
+  const check = checkBundle(asPositions, ballot);
+  articlesChecked += check.checked;
+  for (const w of check.warnings)
+    warnings.push(`${path} ${describeWarning(w).replace(/^positions\[/, "articles[")}`);
+  if (!check.problems.length) continue;
+  for (const p of check.problems) kinds.add(p.kind);
+  const errors = check.problems.map((p) => describe(p).replace(/^positions\[/, "articles["));
+  const failed = failures.find((f) => f.path === path);
+  if (failed) failed.errors.push(...errors);
+  else {
+    ok--;
+    failures.push({ path, errors });
+  }
 }
 
 // Listings: each contest's district, as scripts/lib/districts.ts derives it.
@@ -167,7 +204,7 @@ for (const { path, bundle } of valid) {
 }
 
 console.log(
-  `\nBallot: ${checked} positions checked against an election authority's list, ${unchecked} in jurisdictions no authority covers yet`,
+  `\nBallot: ${checked} positions and ${articlesChecked} articles checked against an election authority's list, ${unchecked} positions in jurisdictions no authority covers yet`,
 );
 if (warnings.length) console.log(`\nWarnings:\n  ${warnings.join("\n  ")}`);
 if (kinds.has("listing-id"))
