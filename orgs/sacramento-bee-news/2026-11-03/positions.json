@@ -1,0 +1,349 @@
+{
+  "context": {
+    "title": "The Sacramento Bee — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Sacramento Bee",
+      "uri": "https://www.sacbee.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:55:42Z",
+    "sources": [
+      "https://www.sacbee.com/news/politics-government/election/",
+      "https://www.sacbee.com/news/politics-government/capitol-alert/",
+      "https://www.sacbee.com/search/"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317117857.html",
+      "title": "What is Proposition 1? Your guide to California’s proposed $11.25 billion bond",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-22T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117860.html",
+      "title": "What is the state’s ‘rainy day’ fund? Your guide to California’s Proposition 2",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-23T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article316966254.html",
+      "title": "Tax increase or tax cut? What California’s Prop. 3 may mean for education funding",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-08T05:00:00-07:00",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317036405.html",
+      "title": "California’s Prop. 3, Prop. 40 target wealthy taxpayers. Here’s the difference",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-21T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317016880.html",
+      "title": "What is Prop. 4? Measure allows public campaign financing in local elections",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-24T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article316600442.html",
+      "title": "How would Prop. 5 overhaul how California conducts recall elections?",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-07-24T14:04:52-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117877.html",
+      "title": "How would Prop. 5 change recall elections if approved by California voters?",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-18T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317117886.html",
+      "title": "Prop. 37 seeks to create down payment assistance program for California homebuyers",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-29T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117396.html",
+      "title": "Your guide to Prop. 38, an $8.4 billion bond measure for immunology research",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-25T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317528464.html",
+      "title": "Is Prop. 38 unconstitutional? Opponents take immunology bond fight to AG",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-10-08T05:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article316802432.html",
+      "title": "Will voter ID ballot measure make casting votes easier? Sacramento judge says no",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-08-07T10:40:24-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317005401.html",
+      "title": "What to know about Proposition 39, California’s voter ID measure",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-23T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317752294.html",
+      "title": "Gavin Newsom, Nancy Pelosi rally in San Francisco against voter ID ballot measure",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-10-23T14:47:40-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317036405.html",
+      "title": "California’s Prop. 3, Prop. 40 target wealthy taxpayers. Here’s the difference",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-21T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317075667.html",
+      "title": "What you need to know about Proposition 40, the one-time billionaire wealth tax",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-21T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317272374.html",
+      "title": "Who designed Prop. 40? Meet the academics behind California’s billionaire tax brawl",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-10-12T05:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317005690.html",
+      "title": "Your guide to California’s Proposition 41",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-24T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/article317007039.html",
+      "title": "Could Prop. 42 block new California wealth taxes? Your guide to the ballot measure",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-30T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/article316990490.html",
+      "title": "Should local taxes require two-thirds voter approval? Proposition 43 explained",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-17T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317016992.html",
+      "title": "Proposition 44 pits California clinics against union known for ballot battles",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-17T05:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/voter-guide/article317117912.html",
+      "title": "What is Prop. 44? Ballot measure to enact new community healthcare spending rules",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-29T04:30:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317638422.html",
+      "title": "A forgotten ballot measure? Union behind billionaire tax spends little on Prop. 44",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-10-19T05:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317108269.html",
+      "title": "Would CEQA changes apply to data centers under Prop. 45? Experts remain unsure",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-03T17:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/election/article317117913.html",
+      "title": "What to know about Proposition 45, a bid to streamline CEQA for many projects",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-09-28T05:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sacbee.com/news/politics-government/capitol-alert/article317563736.html",
+      "title": "County GOP dissent shows how Prop. 45’s CEQA reform challenges political lines",
+      "publisher": "The Sacramento Bee",
+      "published_at": "2026-10-12T04:30:00-07:00",
+      "kind": "news"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "context": {
+    "title": "The Associated Press — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Associated Press",
+      "uri": "https://apnews.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:56:25Z",
+    "sources": [
+      "https://apnews.com/hub/california",
+      "https://apnews.com/search",
+      "https://apnews.com/ap-sitemap.xml"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://apnews.com/article/california-billionaire-tax-ballot-healthcare-measure-9edd9fb1cb2e7f0717b5b1b620fd0e05",
+      "title": "California voters will consider a measure in November to raise taxes on billionaires",
+      "publisher": "The Associated Press",
+      "published_at": "2026-06-26T01:09:15Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://apnews.com/article/california-billionaire-tax-wealth-ballot-measure-8c07d6116bcd877586961741f2e0df16",
+      "title": "Top Democrats and allies join the wealthiest to fight a California billionaire tax",
+      "publisher": "The Associated Press",
+      "published_at": "2026-10-09T14:29:20Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://apnews.com/article/zuckerberg-california-billionaire-tax-meta-stock-shares-56be13ddd072b48578d14a8f9d7eb23f",
+      "title": "Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
+      "publisher": "The Associated Press",
+      "published_at": "2026-10-22T19:15:34Z",
+      "kind": "news"
+    }
+  ]
+}
