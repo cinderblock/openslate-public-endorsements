@@ -1,0 +1,8 @@
+name: San Francisco Chronicle
+slug: sf-chronicle-news
+uri: https://www.sfchronicle.com/
+kind: news_organization
+about: |
+  The San Francisco Chronicle newsroom: news and analysis on ballot measures, from its
+  Bay Area voter guide. The paper's editorial board is a separate org here
+  (sf-chronicle).

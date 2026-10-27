@@ -1,0 +1,87 @@
+{
+  "context": {
+    "title": "The Mercury News — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Mercury News",
+      "uri": "https://www.mercurynews.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:07:41Z",
+    "sources": [
+      "https://www.mercurynews.com/"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.mercurynews.com/2026/09/23/election-2026-california-billionaires-tax-two-competing-measures/",
+      "title": "Election 2026: California’s Proposition 40 wealth tax faces double threat from competing measures 41 and 42",
+      "publisher": "The Mercury News",
+      "published_at": "2026-09-23T11:00:00+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.mercurynews.com/2026/10/11/whos-donating-to-the-billionaire-backed-group-has-raised-almost-300-million-to-fight-the-wealth-tax/",
+      "title": "Who’s donating to the billionaire-backed group that has raised almost $300 million to fight the wealth tax?",
+      "publisher": "The Mercury News",
+      "published_at": "2026-10-11T11:00:39+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.mercurynews.com/2026/09/23/election-2026-california-billionaires-tax-two-competing-measures/",
+      "title": "Election 2026: California’s Proposition 40 wealth tax faces double threat from competing measures 41 and 42",
+      "publisher": "The Mercury News",
+      "published_at": "2026-09-23T11:00:00+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.mercurynews.com/2026/09/23/election-2026-california-billionaires-tax-two-competing-measures/",
+      "title": "Election 2026: California’s Proposition 40 wealth tax faces double threat from competing measures 41 and 42",
+      "publisher": "The Mercury News",
+      "published_at": "2026-09-23T11:00:00+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.mercurynews.com/2026/10/04/proposition-45-a-solution-to-build-more-housing-or-a-loophole-for-developers/",
+      "title": "Election 2026: Is Proposition 45 a housing solution or developer loophole?",
+      "publisher": "The Mercury News",
+      "published_at": "2026-10-04T12:00:55+00:00",
+      "kind": "explainer"
+    }
+  ]
+}

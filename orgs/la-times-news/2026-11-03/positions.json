@@ -1,0 +1,297 @@
+{
+  "context": {
+    "title": "Los Angeles Times — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles Times",
+      "uri": "https://www.latimes.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:07:41Z",
+    "sources": [
+      "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
+      "https://www.latimes.com/california",
+      "https://www.latimes.com/sitemaps/sitemap-202610.xml"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
+      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-2-rainy-day-fund-voter-guide",
+      "title": "Your guide to Proposition 2: Lets leaders fatten ‘rainy day’ fund, reduces likelihood of taxpayer rebates",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-3-high-income-tax-voter-guide",
+      "title": "Your guide to Proposition 3: Making a high-income tax extension permanent",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-4-public-campaign-financing-voter-guide",
+      "title": "Your guide to Proposition 4: Allowing public campaign financing in California",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-5-recall-changes-voter-guide",
+      "title": "Your guide to Proposition 5: Big changes to recall elections in California",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-37-loans-middle-class-homeowners-voter-guide",
+      "title": "Your guide to Proposition 37: Loans for middle-income homeowners",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
+      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here’s the catch",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-24T10:00:00.000Z",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-38-immunology-immunotherapy-funding-voter-guide",
+      "title": "Your guide to Proposition 38: Immunology and immunotherapy research funding",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-08-07/judge-rejects-challenge-to-california-attorney-generals-description-of-voter-id-measure",
+      "title": "Judge rejects challenge to California attorney general’s description of voter ID measure",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-08-07T20:16:49.879Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-39-voting-id-requirements-voter-guide",
+      "title": "Your guide to Proposition 39: Stricter voter ID requirements",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/voter-id-proponents-say-california-democrats-lying-about-trump-support",
+      "title": "Voter ID proponents accuse California Democrats of lying about Trump’s support for Prop. 39",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-02T00:19:44.315Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
+      "title": "Your guide to Proposition 40: California’s billionaire tax proposal",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-23T10:00:00.000Z",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
+      "title": "“A butter knife against a nuclear arsenal:” Tech billionaires vastly outspend wealth tax supporters",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-24T10:00:00.000Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-41-tax-audit-voter-guide",
+      "title": "Your guide to Proposition 41: Special tax audit proposal could block billionaire tax",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-42-tax-ban-retirement-savings-voter-guide",
+      "title": "Your guide to Proposition 42: Tax ban on retirement, personal savings",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-43-threshold-local-special-tax-voter-guide",
+      "title": "Your guide to Proposition 43: Voting thresholds for local special taxes",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-09-18/health-clinics-accuse-uhw-its-leader-of-racketeering-in-lawsuit",
+      "title": "California health clinics accuse influential union and its leader of racketeering in civil lawsuit",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-09-18T12:39:56.797Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-44-health-clinic-spending-voter-guide",
+      "title": "Your guide to Proposition 44: Federally funded health clinic spending",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-45-ceqa-housing-data-center-voter-guide",
+      "title": "Your guide to Proposition 45: Faster CEQA review for housing and infrastructure",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-01T10:00:00.000Z",
+      "kind": "guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.latimes.com/environment/story/2026-10-14/californias-prop-45-aims-to-speed-construction-projects-opponents-say-data-centers-will-benefit",
+      "title": "California’s Prop. 45 aims to speed construction projects. Opponents say data centers will benefit",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-10-14T20:37:26.775Z",
+      "kind": "news"
+    }
+  ]
+}

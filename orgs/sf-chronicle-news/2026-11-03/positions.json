@@ -1,0 +1,191 @@
+{
+  "context": {
+    "title": "San Francisco Chronicle — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Chronicle",
+      "uri": "https://www.sfchronicle.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:07:47Z",
+    "sources": [
+      "https://www.sfchronicle.com/projects/2026/california-sf-bay-area-voter-guide/"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/california/article/prop-37-home-loan-california-22383702.php",
+      "title": "Program on California ballot could cut home down payments to 3%. What’s the catch?",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-08-16T11:00:00Z",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/prop-38-ballot-california-22476943.php",
+      "title": "A California proposition to fund medical research is creating strange alliances on both sides",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-15T11:00:00Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/prop-39-voter-id-22435107.php",
+      "title": "California voters are most interested in this proposition. It’s not the billionaire tax",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-09-18T11:00:00Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/richard-uihlein-prop-39-22438880.php",
+      "title": "Meet the Illinois billionaire who’s poured $17M into Prop 39, California’s voter ID measure",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-09-21T19:48:05Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/prop-39-vote-counting-22468723.php",
+      "title": "Would Prop 39 speed up or slow down California’s vote-counting?",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-11T11:00:00Z",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/election/article/prop-40-41-42-california-22476000.php",
+      "title": "What does ‘yes’ or ‘no’ on Prop 40 really mean? It depends on your votes on two other props",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-17T11:00:00Z",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/california/article/billionaire-tax-analysis-22485993.php",
+      "title": "Billionaire tax could cost California $39 billion, Stanford economists say",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-22T01:05:57Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/election/article/prop-40-41-42-california-22476000.php",
+      "title": "What does ‘yes’ or ‘no’ on Prop 40 really mean? It depends on your votes on two other props",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-17T11:00:00Z",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/election/article/prop-40-41-42-california-22476000.php",
+      "title": "What does ‘yes’ or ‘no’ on Prop 40 really mean? It depends on your votes on two other props",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-17T11:00:00Z",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/california-proposition-43-22465350.php",
+      "title": "Bay Area officials are sounding the alarm over a lesser-known California ballot measure",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-12T11:00:00Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/article/prop-45-ceqa-california-22444826.php",
+      "title": "California’s Prop 45 may be the biggest reform to CEQA in decades. Critics say it goes too far",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-02T11:00:00Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/opinion/openforum/article/prop-45-ceqa-california-environment-housing-22463320.php",
+      "title": "Two Takes: Should California pass Prop 45 to limit CEQA reviews for ‘essential’ projects?",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-11T11:00:00Z",
+      "kind": "opinion"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/politics/joegarofoli/article/prop-45-ceqa-california-22486002.php",
+      "title": "Prop 45 would make major changes to CEQA. But many CEQA reformers don’t support it",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-21T11:00:00Z",
+      "kind": "analysis"
+    }
+  ]
+}

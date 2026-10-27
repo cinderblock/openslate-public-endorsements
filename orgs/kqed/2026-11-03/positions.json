@@ -1,0 +1,257 @@
+{
+  "context": {
+    "title": "KQED — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "KQED",
+      "uri": "https://www.kqed.org/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:07:41Z",
+    "sources": [
+      "https://www.kqed.org/propfest",
+      "https://www.kqed.org/news/tag/election-2026"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100622/proposition-1-authorizes-california-to-issue-a-11-25-billion-bond-to-fund-affordable-housing",
+      "title": "Prop 1: Authorizes California to Issue a $11.25 Billion Bond to Fund Affordable Housing",
+      "publisher": "KQED",
+      "published_at": "2026-09-28T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100604/proposition-2-would-let-california-boost-the-rainy-day-fund",
+      "title": "Prop 2: Strengthening California's Rainy Day Fund",
+      "publisher": "KQED",
+      "published_at": "2026-09-29T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100607/proposition-3-would-make-the-income-tax-rate-on-high-earners-permanent",
+      "title": "Prop 3: Making the Income Tax Rate on High Earners Permanent",
+      "publisher": "KQED",
+      "published_at": "2026-09-29T03:05:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101308/prop-4-allows-cities-to-create-public-campaign-financing-programs",
+      "title": "Prop 4: Allows Cities to Create Public Campaign Financing Programs",
+      "publisher": "KQED",
+      "published_at": "2026-09-30T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12105796/proposition-4-would-let-more-cities-fund-campaigns-in-oakland-thats-been-a-struggle",
+      "title": "Proposition 4 Would Let More Cities Fund Campaigns. In Oakland, That’s Been a Struggle",
+      "publisher": "KQED",
+      "published_at": "2026-10-23T07:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100623/proposition-5-would-change-the-state-recall-election-process",
+      "title": "Prop 5: Changes to the State Recall Election Process",
+      "publisher": "KQED",
+      "published_at": "2026-09-30T03:05:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101434/prop-37-creates-middle-income-homebuying-program",
+      "title": "Prop 37: Creates Middle-Income Homebuying Program",
+      "publisher": "KQED",
+      "published_at": "2026-10-01T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12102150/prop-38-borrows-8-4-billion-to-fund-immunology-research",
+      "title": "Prop 38: Borrows $8.4 Billion to Fund Immunology Research",
+      "publisher": "KQED",
+      "published_at": "2026-10-02T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101928/prop-39-require-identification-when-californians-cast-a-ballot",
+      "title": "Prop 39: Require Identification When Californians Cast A Ballot",
+      "publisher": "KQED",
+      "published_at": "2026-10-02T03:05:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100660/proposition-40-imposes-a-one-time-tax-on-billionaires-to-fund-healthcare-and-education",
+      "title": "Proposition 40: Imposes a One-Time Tax on Billionaires to Fund Healthcare and Education",
+      "publisher": "KQED",
+      "published_at": "2026-10-05T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12106033/the-political-calculus-behind-newsoms-opposition-to-californias-billionaire-tax",
+      "title": "The Political Calculus Behind Newsom’s Opposition to California’s Billionaire Tax",
+      "publisher": "KQED",
+      "published_at": "2026-10-26T12:07:50-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101275/prop-41-requires-new-audits-of-special-tax-programs",
+      "title": "Prop 41: Requires New Audits of Special Tax Programs",
+      "publisher": "KQED",
+      "published_at": "2026-10-06T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101418/prop-42-bans-new-state-taxes-on-personal-property",
+      "title": "Prop 42: Bans New State Taxes on Personal Property and Investments",
+      "publisher": "KQED",
+      "published_at": "2026-10-06T03:05:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12102140/prop-43-raises-voter-threshold-for-some-local-tax-measures",
+      "title": "Prop 43: Raises Voter Threshold for Some Local Tax Measures",
+      "publisher": "KQED",
+      "published_at": "2026-10-07T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12102004/prop-44-requires-health-clinics-to-spend-more-on-patient-care",
+      "title": "Prop 44: Requires Health Clinics to Spend More on Patient Care",
+      "publisher": "KQED",
+      "published_at": "2026-10-08T03:00:00-07:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12100915/housing-fix-or-data-center-loophole-this-ballot-measure-would-overhaul-ceqa",
+      "title": "Housing Fix or Data Center Loophole? This Ballot Measure Would Overhaul CEQA",
+      "publisher": "KQED",
+      "published_at": "2026-09-22T16:05:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12101722/will-prop-45-fix-californias-housing-crisis-or-roll-back-a-valuable-environmental-law",
+      "title": "Will Prop. 45 Fix California’s Housing Crisis or Roll Back a Valuable Environmental Law?",
+      "publisher": "KQED",
+      "published_at": "2026-09-29T16:05:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12102167/prop-45-faster-environmental-reviews-for-certain-projects",
+      "title": "Prop 45: Faster Environmental Reviews for Certain Projects",
+      "publisher": "KQED",
+      "published_at": "2026-10-09T03:00:00-07:00",
+      "kind": "explainer"
+    }
+  ]
+}

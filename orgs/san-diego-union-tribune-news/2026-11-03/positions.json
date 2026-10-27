@@ -1,0 +1,139 @@
+{
+  "context": {
+    "title": "The San Diego Union-Tribune — articles on the November 3, 2026 California ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The San Diego Union-Tribune",
+      "uri": "https://www.sandiegouniontribune.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:07:42Z",
+    "sources": [
+      "https://www.sandiegouniontribune.com/news/politics/"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/13/what-to-know-about-proposition-1-before-california-voters-in-the-2026-election/",
+      "title": "What to know about Proposition 1 before California voters in the 2026 election",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-13T19:37:43+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/17/a-nearly-12b-bond-measure-on-november-ballot-promises-help-for-affordable-housing-in-san-diego/",
+      "title": "A nearly $12B bond measure on November ballot promises help for affordable housing in San Diego",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-17T13:00:30+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/13/what-to-know-about-proposition-2-before-california-voters-in-the-2026-election/",
+      "title": "What to know about Proposition 2 before California voters in the 2026 election",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-13T19:41:49+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/13/what-to-know-about-proposition-3-before-california-voters-in-the-2026-election/",
+      "title": "What to know about Proposition 3 before California voters in the 2026 election",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-13T19:48:38+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/13/what-to-know-about-proposition-4-before-california-voters-in-the-2026-election/",
+      "title": "What to know about Proposition 4 before California voters in the 2026 election",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-13T19:54:22+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/13/what-to-know-about-proposition-5-before-california-voters-in-the-2026-election/",
+      "title": "What to know about Proposition 5 before California voters in the 2026 election",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-13T19:51:42+00:00",
+      "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/02/san-diego-research-institutions-arent-talking-about-prop-38-even-though-they-stand-to-receive-billions/",
+      "title": "San Diego research institutions aren’t talking about Prop. 38, even though they stand to receive billions",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-02T20:36:04+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/26/san-diego-leaders-make-final-push-for-and-against-prop-39-voter-id-measure/",
+      "title": "San Diego leaders make final push for and against Prop. 39 voter ID measure",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-26T14:16:39+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sandiegouniontribune.com/2026/10/25/prop-45-seeks-to-rewrite-state-environmental-law-heres-why-san-diegans-should-care/",
+      "title": "Prop. 45 seeks to rewrite state environmental law. Here’s why San Diegans should care",
+      "publisher": "The San Diego Union-Tribune",
+      "published_at": "2026-10-25T12:00:10+00:00",
+      "kind": "news"
+    }
+  ]
+}
