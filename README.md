@@ -427,12 +427,10 @@ You don't need to sign locally to contribute — CI handles signing. But to
 schema-check your edits before opening a PR:
 
 ```sh
-# Clone OpenSlate as a sibling, at the pinned ref
-git clone https://github.com/cinderblock/openslate.git ../openslate
-git -C ../openslate checkout "$(cat .openslate-version)"
-( cd ../openslate && bun install --frozen-lockfile )
+# Clone OpenSlate into .openslate/ at the pinned ref (or update it there)
+bun run fetch-openslate
 
-# Run the verify script (schema, then the ballot check)
+# Run the verify script (schema, as `openslate sign` checks it, then the ballot check)
 bun scripts/verify-positions.ts
 
 # Give an authority bundle's choices their ids (dry run; add --apply)
