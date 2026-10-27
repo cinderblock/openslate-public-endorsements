@@ -87,7 +87,7 @@ uploads), and when there isn't one, add `logo_background: dark` under
 `logo_source:` by hand so the app draws it on a dark tile.
 
 `scripts/build-site.ts` adds these fields to each `index.json` / `bundle.json`
-entry (`scripts/catalog-extras.ts`):
+entry (`scripts/catalog-extras.ts`, `scripts/evidence-page.ts`):
 
 - `logo`: the logo's site path, from `meta.yaml`.
 - `logo_background`: `"dark"` when `meta.yaml` says so; absent otherwise.
@@ -99,6 +99,11 @@ entry (`scripts/catalog-extras.ts`):
   (`kind: election-authority`). Positions adopted by reference count. It's
   arithmetic on the org's picks, not a judgement about the org; the app hides
   it below five sided subjects.
+- `evidence`: the site path of the bundle's evidence page
+  (`orgs/<slug>/<election>/evidence/`), when it has an `evidence/` folder. The
+  page lists what the slate was built from: when and where it was retrieved,
+  and each captured file with links to it, its rendered view and its git
+  history. The app links it from Sources as "what was captured".
 
 `openslate sign --batch` itself writes each entry's `scope` (the slate's
 `context.jurisdiction`), `jurisdictions` (races per position jurisdiction),
@@ -121,6 +126,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | `bundle.json` | Every `index.json` entry with its signed slate inline (`token`): the whole catalog in one request. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
+| `orgs/<slug>/<election>/evidence/` | What the slate was built from: an index page, the captured pages and `NOTES.md`. |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
 | `orgs/<slug>/logo.<ext>` | The org's logo, when `meta.yaml` has a `logo:` key. |
 | `keys/project-public.json` | The project's public signing key. |
