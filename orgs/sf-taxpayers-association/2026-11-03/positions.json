@@ -25,6 +25,13 @@
       "subject": {
         "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
         "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
         "kind": "measure",
         "election": "2026-11-03"
       },

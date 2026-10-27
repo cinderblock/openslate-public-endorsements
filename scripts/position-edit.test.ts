@@ -1,5 +1,11 @@
 import { describe, expect, test } from "bun:test";
-import { editPositionText, editPositions, removePositions } from "./position-edit";
+import {
+  editPositionText,
+  editPositions,
+  positionSpan,
+  removePositions,
+  setVotedInText,
+} from "./position-edit";
 
 const file = (nl: string) =>
   [
@@ -117,5 +123,55 @@ describe("removePositions", () => {
     );
     expect(JSON.parse(removePositions(three("\r\n"), [0, 2])).positions).toEqual([{ choice: "B" }]);
     expect(removePositions(three("\r\n"), [0])).not.toMatch(/[^\r]\n/);
+  });
+});
+
+describe("setVotedInText", () => {
+  const counties = ["us/ca/alameda-county", "us/ca/sf"];
+
+  test("spreads the list under a jurisdiction on its own line, keeping CRLF", () => {
+    const body = [
+      "{",
+      '      "subject": {',
+      '        "title": "RTM",',
+      '        "jurisdiction": "us/ca/bay-area",',
+      '        "kind": "measure"',
+      "      },",
+      '      "choice": "Yes"',
+      "    }",
+    ].join("\r\n");
+    const out = setVotedInText(body, counties) ?? "";
+    expect(out).toContain(
+      [
+        '        "jurisdiction": "us/ca/bay-area",',
+        '        "voted_in": [',
+        '          "us/ca/alameda-county",',
+        '          "us/ca/sf"',
+        "        ],",
+        '        "kind": "measure"',
+      ].join("\r\n"),
+    );
+    expect(out).not.toMatch(/[^\r]\n/);
+    expect(JSON.parse(out).subject.voted_in).toEqual(counties);
+  });
+
+  test("goes inline in a one-line position, and replaces or removes an old one", () => {
+    const body = '{"subject": {"title": "RTM", "jurisdiction": "us/ca/bay-area"}, "choice": "Yes"}';
+    const set = setVotedInText(body, counties) ?? "";
+    expect(set).toBe(
+      '{"subject": {"title": "RTM", "jurisdiction": "us/ca/bay-area", "voted_in": ["us/ca/alameda-county", "us/ca/sf"]}, "choice": "Yes"}',
+    );
+    expect(JSON.parse(setVotedInText(set, ["us/ca/sf"]) ?? "").subject.voted_in).toEqual([
+      "us/ca/sf",
+    ]);
+    expect(setVotedInText(set, undefined)).toBe(body);
+    expect(setVotedInText('{"subject": {"title": "RTM"}}', counties)).toBeUndefined();
+  });
+
+  test("positionSpan finds articles too", () => {
+    const text = '{"positions": [{"a": 1}], "articles": [{"b": 2}, {"c": [3]}]}';
+    const span = positionSpan(text, 1, "articles");
+    expect(span && text.slice(...span)).toBe('{"c": [3]}');
+    expect(positionSpan('{"positions": []}', 0, "articles")).toBeUndefined();
   });
 });

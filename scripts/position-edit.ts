@@ -14,9 +14,14 @@ export interface ChoiceEdit {
   writeIn?: boolean;
 }
 
-/** [start, end) of the index-th object in the file's top-level "positions" array. */
-export function positionSpan(text: string, index: number): [number, number] | undefined {
-  const m = /"positions"\s*:\s*\[/.exec(text);
+/** [start, end) of the index-th object in the file's top-level "positions" (or `array`) array. */
+export function positionSpan(
+  text: string,
+  index: number,
+  array: "positions" | "articles" = "positions",
+): [number, number] | undefined {
+  const m = new RegExp(`"${array}"\\s*:\\s*\\[`).exec(text);
+  if (!m && array !== "positions") return undefined;
   let i = m ? m.index + m[0].length : text.indexOf("[") + 1;
   if (i <= 0) return undefined;
   let n = -1;
@@ -105,6 +110,29 @@ export function editPositionText(body: string, edit: ChoiceEdit): string | undef
   if (edit.choiceId !== undefined)
     set("choice_id", edit.choiceId === null ? null : JSON.stringify(edit.choiceId), STRING);
   if (edit.writeIn !== undefined) set("write_in", edit.writeIn ? "true" : null, "true");
+  return out;
+}
+
+/**
+ * Set (or with `undefined`, remove) `subject.voted_in` in one position's or article's text.
+ * `jurisdiction` appears only in the subject, so it anchors the new property: on its own line
+ * with the same indent, the list spread one jurisdiction per line, when the jurisdiction has a
+ * line of its own; inline otherwise. Returns undefined when there's no jurisdiction to anchor on.
+ */
+export function setVotedInText(body: string, votedIn: string[] | undefined): string | undefined {
+  let out = body.replace(/,?\s*"voted_in"\s*:\s*\[[^\]]*\]/, "");
+  if (!votedIn) return out;
+  const m = new RegExp(`"jurisdiction"\\s*:\\s*${STRING}`).exec(out);
+  if (!m) return undefined;
+  const lineStart = out.lastIndexOf("\n", m.index) + 1;
+  const lead = out.slice(lineStart, m.index);
+  const newline = out[lineStart - 2] === "\r" ? "\r\n" : "\n";
+  const ownLine = /^\s*$/.test(lead);
+  const list = ownLine
+    ? `[${votedIn.map((path) => `${newline}${lead}  ${JSON.stringify(path)}`).join(",")}${newline}${lead}]`
+    : `[${votedIn.map((path) => JSON.stringify(path)).join(", ")}]`;
+  const at = m.index + m[0].length;
+  out = `${out.slice(0, at)}${ownLine ? `,${newline}${lead}` : ", "}"voted_in": ${list}${out.slice(at)}`;
   return out;
 }
 

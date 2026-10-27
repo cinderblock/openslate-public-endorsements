@@ -267,12 +267,24 @@ college boards to the Chancellor's Office district codes in
 `bun scripts/fetch-college-districts.ts`, from the CCC GIS Collaborative's
 boundaries, the ones the app looks up).
 
+A regional measure is filed under its region (`us/ca/bay-area`), a path that
+says nothing about whose ballot it's on, and the region's name doesn't settle
+it either: RTM is voted in five Bay Area counties, Regional Measure 3 (2018)
+was voted in nine. So every bundle that names one, listings and orgs alike,
+positions and articles, says which jurisdictions vote on it in
+`subject.voted_in` (OpenSlate SPEC §3.3), and the web app shows it to their
+voters. `scripts/lib/regions.ts` lists each regional contest's jurisdictions;
+after rebuilding a listing or adding a bundle that names one, run
+`bun scripts/assign-voted-in.ts <election> --apply`. A new contest under a
+region needs an entry there first.
+
 CI enforces all of it. In any election and jurisdiction an authority bundle
 covers, `scripts/verify-positions.ts` fails a position whose race isn't on the
 authority's list, or whose `choice` isn't one of that race's ballot names,
 spelled exactly as the ballot spells it and carrying its `choice_id`, and an
 authority bundle whose `district`s aren't the ones `assign-districts` gives,
-and any bundle with a county contest under a county's bare name. A
+any bundle with a county contest under a county's bare name, and any bundle
+whose regional contests' `voted_in` isn't the one `assign-voted-in` gives. A
 candidate who isn't printed on the ballot needs `"write_in": true` (§3.12);
 one the authority doesn't list as a certified write-in passes with a warning.
 The web app matches endorsements to the ballot by `choice_id` (and, for
@@ -429,6 +441,9 @@ bun scripts/normalize-choices.ts <election>
 
 # Say who votes on each authority bundle's contests (dry run; add --apply)
 bun scripts/assign-districts.ts <election>
+
+# Say which jurisdictions vote on each regional contest, in every bundle (dry run; add --apply)
+bun scripts/assign-voted-in.ts <election>
 
 # Move county contests filed under a county's bare name to the county (dry run; add --apply)
 bun scripts/refile-localities.ts

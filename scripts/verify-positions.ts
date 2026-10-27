@@ -6,7 +6,9 @@
 // or marked write_in. Articles (SPEC §3.15) attach to ballot items the same way, so their races
 // and choices are checked like positions'. A listing's contests must also say who votes on them when only part of
 // their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
-// sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts).
+// sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts). A
+// regional contest must say which jurisdictions vote on it (`subject.voted_in`,
+// scripts/lib/regions.ts), in every bundle.
 // PR-time and pre-sign check — no signing involved.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
@@ -15,6 +17,7 @@ import { type Article, slatePayloadSchema } from "../.openslate/packages/core/sr
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 import { districtFor } from "./lib/districts";
 import { localityProblem } from "./lib/localities";
+import { votedInProblem } from "./lib/regions";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -203,6 +206,25 @@ for (const { path, bundle } of valid) {
   }
 }
 
+// Every bundle: regional contests carry the jurisdictions that vote on them.
+let votedInWrong = false;
+for (const { path, bundle, articles } of valid) {
+  const election = path.split("/")[2] ?? "";
+  const errors = new Set<string>();
+  for (const { subject } of [...bundle.positions, ...articles]) {
+    const problem = votedInProblem(subject, election);
+    if (problem) errors.add(problem);
+  }
+  if (!errors.size) continue;
+  votedInWrong = true;
+  const failed = failures.find((f) => f.path === path);
+  if (failed) failed.errors.push(...errors);
+  else {
+    ok--;
+    failures.push({ path, errors: [...errors] });
+  }
+}
+
 console.log(
   `\nBallot: ${checked} positions and ${articlesChecked} articles checked against an election authority's list, ${unchecked} positions in jurisdictions no authority covers yet`,
 );
@@ -215,6 +237,10 @@ if (districtsWrong)
   console.log("Set listings' districts with: bun scripts/assign-districts.ts <election> --apply");
 if (localitiesWrong)
   console.log("Re-file county contests with: bun scripts/refile-localities.ts --apply");
+if (votedInWrong)
+  console.log(
+    "Set regional contests' voted_in with: bun scripts/assign-voted-in.ts <election> --apply",
+  );
 if (kinds.has("fix") || kinds.has("choice"))
   console.log("Fix names and ids with: bun scripts/normalize-choices.ts <election> --apply");
 
