@@ -14,6 +14,15 @@ so TypeScript treats them as one shared global scope. Nothing runs `tsc` today
 (CI only lints and verifies), so new type errors in any script go unnoticed.
 Noticed 2026-10-23 while adding the San Diego and Alameda ballot sources.
 
+## `bun run lint` fails on every file in a Windows (CRLF) checkout
+
+Seen 2026-10-26: in a checkout with `core.autocrlf=true`, `bun run lint`
+(Biome 1.9.4, `biome.json`) reports a `format` error on every `.ts` and `.json`
+file, `package.json` and all the `orgs/**/positions.json` included, because
+Biome's formatter expects LF. `biome check --line-ending=crlf <file>` passes.
+Matters because the check is useless on Windows, where the user works. OpenSlate
+fixed the same thing with Biome 2 and `"lineEnding": "auto"` (`e4b4d77`).
+
 ## A regional measure gets a different `choice_id` from each county's listing
 
 Regional Measure RTM ("Bay Area — Regional Measure RTM (Regional Transit
