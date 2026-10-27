@@ -170,6 +170,22 @@ export function homeCounty(subject: { title: string; jurisdiction?: string }): s
   return `${match[1]}/${slugify(home)}-county`;
 }
 
+/**
+ * Cities whose council members live in districts but are elected by the whole city. A
+ * registrar titles such a seat "City Council, District N" all the same, so the title can't tell
+ * it from a seat voted by district; a district tag would hide the race from every voter outside
+ * that district once the app knows the city's districts.
+ *
+ * Checked for 2026-11-03 (OpenSlate's plans/council-districts-lookup.md says how):
+ *   - Newport Beach: its council page says members are "elected by the voters at large to
+ *     represent their respective districts"; the 2026 ballot has no measure changing that.
+ * Seats that looked like this but are voted by district: Huntington Park's District 2 (LA's
+ * sample ballot data gives each ballot type in the city one of districts 2, 4 and 5) and San
+ * Leandro's District 2 (the City Clerk: Measure F moved districts 1, 2, 3 and 5 to district
+ * elections).
+ */
+const CITYWIDE_COUNCILS = new Set(["us/ca/newport-beach"]);
+
 export interface DistrictResult {
   district?: string;
   /** Why a school or college board got a named path instead of a mapped one: worth a look. */
@@ -203,7 +219,10 @@ export function districtFor(
   if (supervisors?.[1]) return { district: `${jurisdiction}/sup-${idOf(supervisors[1])}` };
 
   const council = /(?:City|Town) Council, (?:District|Ward) (\w+)$/.exec(title);
-  if (council?.[1]) return { district: `${jurisdiction}/council-${idOf(council[1])}` };
+  if (council?.[1]) {
+    if (CITYWIDE_COUNCILS.has(jurisdiction)) return {};
+    return { district: `${jurisdiction}/council-${idOf(council[1])}` };
+  }
 
   const education = /County Board of Education, (?:Trustee Area|Area|District) (\w+)$/.exec(title);
   if (education?.[1]) return { district: `${jurisdiction}/coe-${idOf(education[1])}` };

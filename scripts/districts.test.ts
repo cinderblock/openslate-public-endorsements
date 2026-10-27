@@ -62,6 +62,10 @@ describe("districtFor", () => {
       undefined,
     );
     expect(district("Huntington Beach City Council", "us/ca/huntington-beach")).toBeUndefined();
+    // Newport Beach's council districts are where members live; the whole city votes.
+    expect(district("Newport Beach City Council, District 3", "us/ca/newport-beach")).toBe(
+      undefined,
+    );
     // San Francisco's school and college boards are the city's own.
     const SF = "us/ca/sf";
     expect(district("San Francisco Unified School District Board of Education", SF, SF)).toBe(

@@ -261,7 +261,10 @@ code 18030), `us/ca/orange-county/sup-4`, `us/ca/anaheim/council-3`,
 voters it can place in that district (it finds school districts from an
 address), and lists the rest as *Might be on your ballot*. After building an
 authority bundle, run `bun scripts/assign-districts.ts <election> --apply`; the
-rules are in `scripts/lib/districts.ts`. School boards are matched to the
+rules are in `scripts/lib/districts.ts`. A council seat titled "District N"
+gets a district unless its city elects members citywide from residency
+districts (Newport Beach): those cities are listed in `CITYWIDE_COUNCILS`, and
+a city new to district elections should be checked there. School boards are matched to the
 Census Bureau's districts in `scripts/data/ca-school-districts.json`
 (`bun scripts/fetch-school-districts.ts` rebuilds it from TIGERweb), and
 college boards to the Chancellor's Office district codes in
