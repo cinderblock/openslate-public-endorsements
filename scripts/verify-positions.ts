@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
-// Schema-validate every orgs/<slug>/<election>/positions.json against the
-// OpenSlate SlatePayload schema, then check each against the election authorities'
-// ballot listings (scripts/ballot.ts): races must be on the ballot, and each choice
-// must be a listed one, spelled as the ballot spells it and carrying its choice_id,
+// Schema-validate every orgs/<slug>/<election>/positions.json against what `openslate sign`
+// takes (core's closed `signInputSchema`, so `adopts`, `labels` and a misspelt key are checked
+// too), then check each against the election authorities' ballot listings (scripts/ballot.ts):
+// races must be on the ballot, and each choice must be a listed one, spelled as the ballot spells it and carrying its choice_id,
 // or marked write_in. Articles (SPEC §3.15) attach to ballot items the same way, so their races
 // and choices are checked like positions'. A listing's contests must also say who votes on them when only part of
 // their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
@@ -13,7 +13,7 @@
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
-import { type Article, slatePayloadSchema } from "../.openslate/packages/core/src/index";
+import { type Article, signInputSchema } from "../.openslate/packages/core/src/index";
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 import { districtFor } from "./lib/districts";
 import { localityProblem } from "./lib/localities";
@@ -69,38 +69,7 @@ for (const slug of listDirs(ORGS_DIR)) {
       continue;
     }
 
-    let positions: unknown = [];
-    let endorsedBy: unknown;
-    let attribution: unknown;
-    let context: unknown;
-    let articles: unknown;
-    if (Array.isArray(raw)) {
-      positions = raw;
-    } else if (raw && typeof raw === "object") {
-      const obj = raw as Record<string, unknown>;
-      positions = obj.positions ?? [];
-      endorsedBy = obj.endorsed_by;
-      attribution = obj.attribution;
-      context = obj.context;
-      articles = obj.articles;
-    }
-
-    const placeholderPayload = {
-      v: 1 as const,
-      issuer: {
-        key: "ed25519:11111111111111111111111111111111",
-        name: "verify-positions placeholder",
-        kind: "researcher",
-      },
-      issued_at: "2026-01-01T00:00:00Z",
-      positions,
-      ...(endorsedBy !== undefined ? { endorsed_by: endorsedBy } : {}),
-      ...(attribution !== undefined ? { attribution } : {}),
-      ...(context !== undefined ? { context } : {}),
-      ...(articles !== undefined ? { articles } : {}),
-    };
-
-    const result = slatePayloadSchema.safeParse(placeholderPayload);
+    const result = signInputSchema.safeParse(raw);
     if (result.success) {
       ok++;
       valid.push({ path: rel, bundle: result.data, articles: result.data.articles ?? [] });
