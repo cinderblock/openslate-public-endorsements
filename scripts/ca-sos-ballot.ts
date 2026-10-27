@@ -10,7 +10,8 @@
 //   bun scripts/ca-sos-ballot.ts 2026-11-03 [--apply]
 //
 // How the ballot prints each contest and candidate goes in `ballot` (OpenSlate SPEC §3.14):
-// heading, measure number, label and type, how many to vote for; party, designation, incumbent.
+// heading, measure number, label and type, how many to vote for, a judge's retention question;
+// party, designation, incumbent.
 
 import type { BallotChoice, BallotContest } from "../.openslate/packages/core/src/index";
 
@@ -218,7 +219,8 @@ for (const chunk of judicial.split("•").slice(1)) {
     .replace(/\s+/g, " ")
     .trim();
   if (!question) throw new Error(`certified list text: no question in "${chunk.slice(0, 80)}"`);
-  const contest = { heading: `For ${officeText}`, label: question };
+  // A retention question: the ballot prints it with the offices, not the measures.
+  const contest: BallotContest = { heading: `For ${officeText}`, label: question, retention: true };
   for (const choice of ["Yes", "No"])
     push(title, "measure", court.jurisdiction, contest, choice, undefined, CERT_URL);
 }
