@@ -28,6 +28,16 @@ Recommendations are approved by a majority of the Chapter only".
   any candidate": `abstain`, no choice.
 - Prop 5, "We are neutral on this measure": `neutral`.
 
+Each position also carries the guide's own term as its `label` (SPEC §3.17),
+so readers see "Recommended", not the app's stance wording; the stance only
+decides how it counts. The slate's `labels` define "Endorsed" and
+"Recommended" with the foreword's quoted text. The labels are: Endorsed,
+Recommended, Cautious recommendation (Valley Water D7, Dailey), Gentle
+recommendation (Orchard SD, Tang and Eslao), Recommended against
+(Franklin-McKinley's Cooper and Borrayo, Orchard's Kasolas-Jacobson), Not
+recommended (Santa Clara USD TA 1, Canova), No recommendation, and Neutral
+(Prop 5).
+
 ## Extracted: 158 positions
 
 - 5 `endorse` (above).
