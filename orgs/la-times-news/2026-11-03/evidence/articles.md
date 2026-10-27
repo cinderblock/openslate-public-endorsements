@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Audrey McGlinchy
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 1.
 
 ### Your guide to Proposition 2: Lets leaders fatten ‘rainy day’ fund, reduces likelihood of taxpayer rebates
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Taryn Luna
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 2.
 
 ### Your guide to Proposition 3: Making a high-income tax extension permanent
@@ -34,7 +34,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Andrew Khouri
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 3.
 
 ### Your guide to Proposition 4: Allowing public campaign financing in California
@@ -45,7 +45,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Colleen Shalby
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 4.
 
 ### Your guide to Proposition 5: Big changes to recall elections in California
@@ -56,7 +56,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Colleen Shalby
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 5.
 
 ### Your guide to Proposition 37: Loans for middle-income homeowners
@@ -67,7 +67,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Audrey McGlinchy
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 37.
 
 ### Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here’s the catch
@@ -78,7 +78,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-24T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Audrey McGlinchy
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Explains Prop 37's down-payment help and its drawbacks.
 
 ### Your guide to Proposition 38: Immunology and immunotherapy research funding
@@ -89,7 +89,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Karen Garcia
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 38.
 
 ### Judge rejects challenge to California attorney general’s description of voter ID measure
@@ -100,7 +100,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-07T20:16:49.879Z (from JSON-LD datePublished)
 - **Byline**: Kevin Rector
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports a court ruling on the attorney general's summary of the voter ID measure.
 
 ### Your guide to Proposition 39: Stricter voter ID requirements
@@ -111,7 +111,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Kevin Rector
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 39.
 
 ### Voter ID proponents accuse California Democrats of lying about Trump’s support for Prop. 39
@@ -122,7 +122,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T00:19:44.315Z (from JSON-LD datePublished)
 - **Byline**: Dakota Smith
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on the Prop 39 campaign's dispute with Democrats over Trump's support.
 
 ### Your guide to Proposition 40: California’s billionaire tax proposal
@@ -133,7 +133,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Queenie Wong
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 40.
 
 ### The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth
@@ -144,7 +144,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-23T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Sandhya Kambhampati; Gabrielle LaMarr LeMee
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Data analysis of billionaire spending against Prop 40 as a share of wealth.
 
 ### “A butter knife against a nuclear arsenal:” Tech billionaires vastly outspend wealth tax supporters
@@ -155,7 +155,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-24T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Seema Mehta
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on campaign spending for and against Prop 40.
 
 ### Your guide to Proposition 41: Special tax audit proposal could block billionaire tax
@@ -166,7 +166,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Queenie Wong
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 41.
 
 ### Your guide to Proposition 42: Tax ban on retirement, personal savings
@@ -177,7 +177,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Queenie Wong
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 42.
 
 ### Your guide to Proposition 43: Voting thresholds for local special taxes
@@ -188,7 +188,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Dakota Smith
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 43.
 
 ### California health clinics accuse influential union and its leader of racketeering in civil lawsuit
@@ -199,7 +199,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-18T12:39:56.797Z (from JSON-LD datePublished)
 - **Byline**: Taryn Luna
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports a clinic association's lawsuit against the union behind the Prop 44 measure.
 
 ### Your guide to Proposition 44: Federally funded health clinic spending
@@ -210,7 +210,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Corinne Purtill
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 44.
 
 ### Your guide to Proposition 45: Faster CEQA review for housing and infrastructure
@@ -221,7 +221,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T10:00:00.000Z (from JSON-LD datePublished)
 - **Byline**: Lila Seidman
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Voter guide entry for Prop 45.
 
 ### California’s Prop. 45 aims to speed construction projects. Opponents say data centers will benefit
@@ -232,5 +232,5 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-14T20:37:26.775Z (from JSON-LD datePublished)
 - **Byline**: Lila Seidman
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on Prop 45's construction streamlining and the data-center dispute.

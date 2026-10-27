@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:02:26+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:37Z
+- **Fetched**: 2026-10-27T01:14:01Z
 - **Note**: Voter-guide page for Prop 1: what the housing bond does, supporters, opponents, money raised.
 
 ### There’s a $11.25 billion housing bond on the ballot this November. Here’s what you should know
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-16T12:00:00+00:00 (from article:published_time)
 - **Byline**: Marisa Kendall
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains the $11.25B housing bond and where the money would go.
 
 ### Why are so many bonds on the California ballot? Here’s what $44 billion would buy
@@ -34,7 +34,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-24T13:00:00+00:00 (from article:published_time)
 - **Byline**: Mikhail Zinshteyn
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains the three bond measures (Props 1, 37, 38) and what they would fund.
 
 ### Proposition 2: Rainy day fund
@@ -45,7 +45,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:04:50+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:37Z
+- **Fetched**: 2026-10-27T01:14:01Z
 - **Note**: Voter-guide page for Prop 2, the rainy day fund measure.
 
 ### California has more revenue than expected thanks to AI. Should the state save it?
@@ -56,7 +56,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-23T12:00:00+00:00 (from article:published_time)
 - **Byline**: Yue Stella Yu
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 2's larger rainy day fund deposits against a revenue windfall.
 
 ### Proposition 3 sustains California schools. Losing the high-income tax would be devastating
@@ -67,7 +67,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-18T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 3 (paired with an opposing piece).
 
 ### This high-income tax was pitched as ‘temporary.’ California voters can ensure it stays that way
@@ -78,7 +78,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-18T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 3 (paired with a supporting piece).
 
 ### Proposition 3: High-income tax
@@ -89,7 +89,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:07:50+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:37Z
+- **Fetched**: 2026-10-27T01:14:01Z
 - **Note**: Voter-guide page for Prop 3, the high-income tax extension.
 
 ### 5 tax measures are on the California ballot. Here’s how to make sense of them all
@@ -100,7 +100,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-05T12:00:00+00:00 (from article:published_time)
 - **Byline**: Ben Christopher
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Analysis of the five tax measures (Props 3, 40, 41, 42, 43) and how voters treat taxes.
 
 ### What to know about California’s other tax-the-rich measure: Prop. 3
@@ -111,7 +111,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-21T12:00:00+00:00 (from article:published_time)
 - **Byline**: Carolyn Jones
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 3, making the high-earner income tax rates permanent.
 
 ### Proposition 4: Public fundraising
@@ -122,7 +122,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:09:52+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 4, public financing of campaigns.
 
 ### Should California taxpayers chip in to fund political campaigns? Prop. 4 lets you decide
@@ -133,7 +133,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-15T12:00:00+00:00 (from article:published_time)
 - **Byline**: Yue Stella Yu
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 4, lifting the ban on public campaign financing.
 
 ### Proposition 5: Recall reform
@@ -144,7 +144,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:12:10+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 5, recall election changes.
 
 ### Democrats want to change the rules for recall elections. Voters get their say with Prop. 5
@@ -155,7 +155,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-05T12:00:00+00:00 (from article:published_time)
 - **Byline**: Kate Wolffe
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 5's changes to statewide recall elections.
 
 ### Proposition 37: Homebuyers loan
@@ -166,7 +166,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:14:15+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:37Z
+- **Fetched**: 2026-10-27T01:14:01Z
 - **Note**: Voter-guide page for Prop 37, the middle-income homebuyer loan program.
 
 ### Prop. 37 explained: Can a $25 billion bond make homeownership in California attainable?
@@ -177,7 +177,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-20T12:00:00+00:00 (from article:published_time)
 - **Byline**: Ben Christopher
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 37's $25B down-payment loan bond.
 
 ### This CA proposition will send $4 billion to a single nonprofit. Who’s behind it?
@@ -188,7 +188,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-07-31T12:00:00+00:00 (from article:published_time)
 - **Byline**: Mikhail Zinshteyn
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Reports on who is behind Prop 38 and the nonprofit it would fund.
 
 ### Proposition 38: Research bond
@@ -199,7 +199,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:15:57+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:37Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 38, the immunology research bond.
 
 ### This institute could get $4 billion from a ballot measure. With just three workers, is it ready?
@@ -210,7 +210,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-20T12:00:00+00:00 (from article:published_time)
 - **Byline**: Mikhail Zinshteyn
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Reports on the small research institute that would receive Prop 38 money.
 
 ### How a stronger voter ID law can alleviate doubts in California’s election system
@@ -221,7 +221,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-07T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 39 (paired with an opposing piece).
 
 ### California’s voter ID ballot measure would add unnecessary barriers to a secure system
@@ -232,7 +232,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-07T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 39 (paired with a supporting piece).
 
 ### Proposition 39: Voter ID
@@ -243,7 +243,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:18:18+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 39, voter ID.
 
 ### Why are out-of-state billionaires funding a California voter ID measure?
@@ -254,7 +254,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-07T12:00:00+00:00 (from article:published_time)
 - **Byline**: Nadia Lathan
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Reports on the out-of-state donors funding Prop 39.
 
 ### Healthcare costs are surging. Taxing billionaires will help Californians keep their coverage
@@ -265,7 +265,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-07-29T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 40 (paired with an opposing piece).
 
 ### California’s billionaire tax measure risks long-term growth for a sugar-high solution
@@ -276,7 +276,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-07-29T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 40 (paired with a supporting piece).
 
 ### The billionaire tax could be defeated by two other tax measures. Here’s how
@@ -287,7 +287,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-24T12:00:00+00:00 (from article:published_time)
 - **Byline**: Kristen Hwang
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains how Props 41 and 42 could block Prop 40 if they pass.
 
 ### Proposition 40: Billionaire tax
@@ -298,7 +298,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:20:39+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 40, the one-time billionaire tax.
 
 ### Billionaire tax explained: What you need to know about Prop. 40
@@ -309,7 +309,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T12:00:00+00:00 (from article:published_time)
 - **Byline**: Jeanne Kuang, Kristen Hwang
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains how Prop 40's one-time billionaire tax would work.
 
 ### Fact check: Could California lawmakers expand the billionaire tax to everyone?
@@ -320,7 +320,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T12:00:00+00:00 (from article:published_time)
 - **Byline**: Kristen Hwang
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Fact-checks a claim that lawmakers could widen Prop 40 to more taxpayers.
 
 ### Proposition 41: Tax audits
@@ -331,7 +331,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:22:14+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 41, special-tax audits and the spending limit.
 
 ### Proposition 42: Property taxes
@@ -342,7 +342,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:25:46+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 42, the ban on new state personal property taxes.
 
 ### California courts muddied tax rules set by voters. Proposition 43 cleans up their mistake
@@ -353,7 +353,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-11T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 43 (paired with an opposing piece).
 
 ### Minority rule in California? How Proposition 43 would tie the hands of local governments
@@ -364,7 +364,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-11T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 43 (paired with a supporting piece).
 
 ### Proposition 43: Tax threshold
@@ -375,7 +375,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:27:28+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 43, vote thresholds for local special taxes.
 
 ### Proposition 44 ensures California’s community clinics prioritize patients over executives
@@ -386,7 +386,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-21T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 44 (paired with an opposing piece).
 
 ### Proposition 44 wrongly squeezes politics between California patients and their healthcare
@@ -397,7 +397,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-21T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 44 (paired with a supporting piece).
 
 ### Proposition 44: Clinic funding
@@ -408,7 +408,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:29:50+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 44, community clinic spending rules.
 
 ### The same union supporting a billionaire tax wants voters to limit clinic spending. Here’s what to know about Prop. 44
@@ -419,7 +419,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-07T12:00:00+00:00 (from article:published_time)
 - **Byline**: Kristen Hwang
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 44's clinic spending rule and the union behind it.
 
 ### How California voters can reform misused environmental law to boost needed projects
@@ -430,7 +430,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-07-31T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary for Prop 45 (paired with an opposing piece).
 
 ### California needs to preserve clean air and public oversight. Why Prop. 45 must be stopped
@@ -441,7 +441,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-07-31T12:00:00+00:00 (from article:published_time)
 - **Byline**: Guest Commentary
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Guest commentary against Prop 45 (paired with a supporting piece).
 
 ### Proposition 45: Environmental review
@@ -452,7 +452,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page og:title
 - **Published**: 2026-10-01T00:31:04+00:00 (from article:published_time)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Voter-guide page for Prop 45, CEQA review deadlines.
 
 ### Prop 45 explained: CEQA overhaul could shift who holds power over building
@@ -463,7 +463,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-09T12:00:00+00:00 (from article:published_time)
 - **Byline**: Alejandra Reyes-Velarde
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Explains Prop 45's CEQA changes and who would gain power over projects.
 
 ### Why are pro-housing groups split on Proposition 45?
@@ -474,5 +474,5 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-26T12:00:00+00:00 (from article:published_time)
 - **Byline**: Ben Christopher
-- **Fetched**: 2026-10-27T01:07:38Z
+- **Fetched**: 2026-10-27T01:14:02Z
 - **Note**: Reports on the split among pro-housing groups over Prop 45.

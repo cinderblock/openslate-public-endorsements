@@ -1,0 +1,127 @@
+{
+  "context": {
+    "title": "The San Francisco Standard — articles on the November 3, 2026 San Francisco ballot",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The San Francisco Standard",
+      "uri": "https://sfstandard.com/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:14:03Z",
+    "sources": [
+      "https://sfstandard.com/politics/",
+      "https://sfstandard.com/sitemaps/sitemap-index.xml/"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/10/23/gavin-newsom-daniel-lurie-sf-election-charter-reform/",
+      "title": "Lurie’s $13.5M campaign to clean up City Hall adds Newsom to its corner",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-10-23T14:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/10/23/gavin-newsom-daniel-lurie-sf-election-charter-reform/",
+      "title": "Lurie’s $13.5M campaign to clean up City Hall adds Newsom to its corner",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-10-23T14:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/10/23/gavin-newsom-daniel-lurie-sf-election-charter-reform/",
+      "title": "Lurie’s $13.5M campaign to clean up City Hall adds Newsom to its corner",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-10-23T14:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/08/11/reopen-great-highway-traffic-cost-sf-controller/",
+      "title": "Reopening the Great Highway to cars could cost $20M over five years, controller finds",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-08-11T15:15:52-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/10/22/great-highway-prop-g-sunset-dunes-forever-war/",
+      "title": "San Francisco’s forever war: Sunset Dunes goes to the ballot for a 3rd time",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-10-22T06:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/09/16/sf-muni-parcel-tax-prop-h-economic-impact/",
+      "title": "Muni is giving voters a pricey would-you-rather: Pay the parcel tax, or pay for delays",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-09-16T04:00:00-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/08/13/sf-prop-i-affordable-housing-police-fire-unions-oppose/",
+      "title": "Affordable housing measure would deprive cops of funding, Lurie says",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-08-13T12:31:17-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "uri": "https://sfstandard.com/2026/07/02/bay-area-transit-tax-bart-suburban-voters/",
+      "title": "The people who don’t ride BART are key to deciding its fate in November",
+      "publisher": "The San Francisco Standard",
+      "published_at": "2026-07-02T12:00:00-07:00",
+      "kind": "news"
+    }
+  ]
+}

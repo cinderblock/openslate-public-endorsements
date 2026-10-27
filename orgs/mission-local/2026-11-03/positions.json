@@ -1,0 +1,139 @@
+{
+  "context": {
+    "title": "Mission Local — articles on the November 3, 2026 San Francisco ballot",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Mission Local",
+      "uri": "https://missionlocal.org/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:14:03Z",
+    "sources": [
+      "https://missionlocal.org/sitemap_index.xml"
+    ]
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/07/sf-public-bank-ballot-measure-election/",
+      "title": "San Francisco supervisors put public-bank measure on ballot",
+      "publisher": "Mission Local",
+      "published_at": "2026-07-08T01:29:55+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/10/san-francisco-election-ad-fact-check-propositions-charter-reform/",
+      "title": "Election ad fact-check: Will Props. D, E, and F really ‘Clean up City Hall’?",
+      "publisher": "Mission Local",
+      "published_at": "2026-10-23T11:00:00+00:00",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/10/san-francisco-election-ad-fact-check-propositions-charter-reform/",
+      "title": "Election ad fact-check: Will Props. D, E, and F really ‘Clean up City Hall’?",
+      "publisher": "Mission Local",
+      "published_at": "2026-10-23T11:00:00+00:00",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/10/san-francisco-election-ad-fact-check-propositions-charter-reform/",
+      "title": "Election ad fact-check: Will Props. D, E, and F really ‘Clean up City Hall’?",
+      "publisher": "Mission Local",
+      "published_at": "2026-10-23T11:00:00+00:00",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/08/sf-prop-g-great-highway-sunset-dunes-costs/",
+      "title": "Reopening Great Highway would cost $10M — and up to $2M more annually, city says",
+      "publisher": "Mission Local",
+      "published_at": "2026-08-11T22:13:36+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/08/sf-prop-g-great-highway-lawsuit/",
+      "title": "Prop. G, to return cars to Great Highway, will remain on the ballot, judge rules",
+      "publisher": "Mission Local",
+      "published_at": "2026-08-21T23:07:54+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/09/sf-sunset-prop-g-great-highway-campaign-finance/",
+      "title": "Sunset Dunes vs. Great Highway: Pro-park side outraising opponents 7-to-1",
+      "publisher": "Mission Local",
+      "published_at": "2026-09-07T12:00:00+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/09/san-francisco-muni-cuts-proposition-h-parcel-tax/",
+      "title": "S.F. economy will take a hit if Muni measure fails, controller warns",
+      "publisher": "Mission Local",
+      "published_at": "2026-09-16T11:00:00+00:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://missionlocal.org/2026/08/mayor-daniel-lurie-slush-fund-proposition-i-affordable-housing-social-housing-democratic-socialists-of-america-dsa/",
+      "title": "Mayor Lurie blasts Prop. I as a ‘slush fund.’ His office would control the money.",
+      "publisher": "Mission Local",
+      "published_at": "2026-08-17T11:00:00+00:00",
+      "kind": "news"
+    }
+  ]
+}

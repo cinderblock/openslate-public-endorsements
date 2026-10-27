@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-23T11:00:00+00:00 (from article:published_time)
 - **Byline**: Grace Hase
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Explains how Props 41 and 42 could block Prop 40.
 
 ### Who’s donating to the billionaire-backed group that has raised almost $300 million to fight the wealth tax?
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-11T11:00:39+00:00 (from article:published_time)
 - **Byline**: Grace Hase
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on donors to the main committee opposing Prop 40.
 
 ### Election 2026: Is Proposition 45 a housing solution or developer loophole?
@@ -34,5 +34,5 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-04T12:00:55+00:00 (from article:published_time)
 - **Byline**: Paul Rogers
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Explains the fight over Prop 45 between business and environmental groups.

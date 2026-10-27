@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-08-16T11:00:00Z (from article:published_time)
 - **Byline**: Christian Leonard
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Explains the Prop 37 down-payment program and its catch.
 
 ### A California proposition to fund medical research is creating strange alliances on both sides
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-15T11:00:00Z (from article:published_time)
 - **Byline**: Kathryn Palmer
-- **Fetched**: 2026-10-27T01:07:44Z
+- **Fetched**: 2026-10-27T01:14:10Z
 - **Note**: Reports on the unusual coalitions for and against Prop 38.
 
 ### California voters are most interested in this proposition. It’s not the billionaire tax
@@ -34,7 +34,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-18T11:00:00Z (from article:published_time)
 - **Byline**: Sara Libby, Raheem Hosseini
-- **Fetched**: 2026-10-27T01:07:45Z
+- **Fetched**: 2026-10-27T01:14:11Z
 - **Note**: Reports on voter interest in Prop 39.
 
 ### Meet the Illinois billionaire who’s poured $17M into Prop 39, California’s voter ID measure
@@ -45,7 +45,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-21T19:48:05Z (from article:published_time)
 - **Byline**: Sara DiNatale
-- **Fetched**: 2026-10-27T01:07:46Z
+- **Fetched**: 2026-10-27T01:14:11Z
 - **Note**: Profiles the Illinois donor funding Prop 39.
 
 ### Would Prop 39 speed up or slow down California’s vote-counting?
@@ -56,7 +56,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-11T11:00:00Z (from article:published_time)
 - **Byline**: Sara DiNatale
-- **Fetched**: 2026-10-27T01:07:45Z
+- **Fetched**: 2026-10-27T01:14:10Z
 - **Note**: Analyzes whether Prop 39 would speed or slow vote counting.
 
 ### What does ‘yes’ or ‘no’ on Prop 40 really mean? It depends on your votes on two other props
@@ -67,7 +67,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-17T11:00:00Z (from article:published_time)
 - **Byline**: Kathleen Pender
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:09Z
 - **Note**: Explains how votes on Props 40, 41 and 42 interact.
 
 ### Billionaire tax could cost California $39 billion, Stanford economists say
@@ -78,7 +78,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-22T01:05:57Z (from article:published_time)
 - **Byline**: Christian Leonard
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Reports a Stanford estimate of Prop 40's long-run revenue cost.
 
 ### Bay Area officials are sounding the alarm over a lesser-known California ballot measure
@@ -89,7 +89,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-12T11:00:00Z (from article:published_time)
 - **Byline**: Kathryn Palmer
-- **Fetched**: 2026-10-27T01:07:44Z
+- **Fetched**: 2026-10-27T01:14:09Z
 - **Note**: Reports Bay Area officials' concerns about Prop 43.
 
 ### California’s Prop 45 may be the biggest reform to CEQA in decades. Critics say it goes too far
@@ -100,7 +100,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T11:00:00Z (from article:published_time)
 - **Byline**: Kurtis Alexander
-- **Fetched**: 2026-10-27T01:07:46Z
+- **Fetched**: 2026-10-27T01:14:11Z
 - **Note**: Reports on the scope of Prop 45's CEQA changes and critics' objections.
 
 ### Two Takes: Should California pass Prop 45 to limit CEQA reviews for ‘essential’ projects?
@@ -111,7 +111,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-11T11:00:00Z (from article:published_time)
 - **Byline**: Alex Jackson, Benjamin Lu
-- **Fetched**: 2026-10-27T01:07:43Z
+- **Fetched**: 2026-10-27T01:14:09Z
 - **Note**: Open Forum "Two Takes": one writer for and one against Prop 45.
 
 ### Prop 45 would make major changes to CEQA. But many CEQA reformers don’t support it
@@ -122,5 +122,38 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-21T11:00:00Z (from article:published_time)
 - **Byline**: Joe Garofoli
-- **Fetched**: 2026-10-27T01:07:47Z
+- **Fetched**: 2026-10-27T01:14:12Z
 - **Note**: Analysis of why many CEQA reformers don't back Prop 45.
+
+### Daniel Lurie is asking S.F. voters for more power. Will they say yes in November?
+
+- **URL**: https://www.sfchronicle.com/sf/article/mayor-lurie-prop-f-san-francisco-22448168.php
+- **Ballot items**: SF Prop F
+- **Kind**: news
+- **Headline from**: page h1
+- **Published**: 2026-10-16T11:00:00Z (from article:published_time)
+- **Byline**: J.D. Morris
+- **Fetched**: 2026-10-27T01:14:13Z
+- **Note**: Reports on Prop F's expansion of mayoral power.
+
+### S.F. Mayor Lurie blasted a message to voters about police oversight. It was wrong
+
+- **URL**: https://www.sfchronicle.com/sf/article/prop-f-police-san-francisco-22480865.php
+- **Ballot items**: SF Prop F
+- **Kind**: analysis
+- **Headline from**: page h1
+- **Published**: 2026-10-21T11:00:00Z (from article:published_time)
+- **Byline**: Michael Barba
+- **Fetched**: 2026-10-27T01:14:13Z
+- **Note**: Fact-checks a mayoral message to voters about Prop F and police oversight.
+
+### San Francisco will soon decide on the Great Highway’s fate — again. How are voters feeling?
+
+- **URL**: https://www.sfchronicle.com/sf/article/prop-g-great-highway-vote-sunset-dunes-22480768.php
+- **Ballot items**: SF Prop G
+- **Kind**: news
+- **Headline from**: page h1
+- **Published**: 2026-10-26T11:00:00Z (from article:published_time)
+- **Byline**: Ko Lyn Cheang
+- **Fetched**: 2026-10-27T01:14:13Z
+- **Note**: Reports on how voters feel about Prop G and the Great Highway.

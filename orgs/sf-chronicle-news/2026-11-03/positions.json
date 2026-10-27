@@ -11,7 +11,7 @@
       "kind": "news_organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-27T01:07:47Z",
+    "retrieved_at": "2026-10-27T01:14:13Z",
     "sources": [
       "https://www.sfchronicle.com/projects/2026/california-sf-bay-area-voter-guide/"
     ]
@@ -186,6 +186,45 @@
       "publisher": "San Francisco Chronicle",
       "published_at": "2026-10-21T11:00:00Z",
       "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/sf/article/mayor-lurie-prop-f-san-francisco-22448168.php",
+      "title": "Daniel Lurie is asking S.F. voters for more power. Will they say yes in November?",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-16T11:00:00Z",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/sf/article/prop-f-police-san-francisco-22480865.php",
+      "title": "S.F. Mayor Lurie blasted a message to voters about police oversight. It was wrong",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-21T11:00:00Z",
+      "kind": "analysis"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.sfchronicle.com/sf/article/prop-g-great-highway-vote-sunset-dunes-22480768.php",
+      "title": "San Francisco will soon decide on the Great Highway’s fate — again. How are voters feeling?",
+      "publisher": "San Francisco Chronicle",
+      "published_at": "2026-10-26T11:00:00Z",
+      "kind": "news"
     }
   ]
 }

@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-13T19:37:43+00:00 (from article:published_time)
 - **Byline**: Linh Tat
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Short explainer on Prop 1.
 
 ### A nearly $12B bond measure on November ballot promises help for affordable housing in San Diego
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-17T13:00:30+00:00 (from article:published_time)
 - **Byline**: Lori Weisberg
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Reports what the Prop 1 housing bond could mean for San Diego.
 
 ### What to know about Proposition 2 before California voters in the 2026 election
@@ -34,7 +34,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-13T19:41:49+00:00 (from article:published_time)
 - **Byline**: Charlie Borla
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Short explainer on Prop 2.
 
 ### What to know about Proposition 3 before California voters in the 2026 election
@@ -45,7 +45,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-13T19:48:38+00:00 (from article:published_time)
 - **Byline**: Charlie Borla
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Short explainer on Prop 3.
 
 ### What to know about Proposition 4 before California voters in the 2026 election
@@ -56,7 +56,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-13T19:54:22+00:00 (from article:published_time)
 - **Byline**: Linh Tat
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Short explainer on Prop 4.
 
 ### What to know about Proposition 5 before California voters in the 2026 election
@@ -67,7 +67,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-13T19:51:42+00:00 (from article:published_time)
 - **Byline**: Kaitlyn Schallhorn
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Short explainer on Prop 5.
 
 ### San Diego research institutions aren’t talking about Prop. 38, even though they stand to receive billions
@@ -78,7 +78,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T20:36:04+00:00 (from article:published_time)
 - **Byline**: Noelle Harff
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on San Diego research institutions' silence on Prop 38.
 
 ### San Diego leaders make final push for and against Prop. 39 voter ID measure
@@ -89,7 +89,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-26T14:16:39+00:00 (from article:published_time)
 - **Byline**: Alex Riggins
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Reports on San Diego campaigning for and against Prop 39.
 
 ### Prop. 45 seeks to rewrite state environmental law. Here’s why San Diegans should care
@@ -100,5 +100,5 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-25T12:00:10+00:00 (from article:published_time)
 - **Byline**: Jennifer Van Grove
-- **Fetched**: 2026-10-27T01:07:42Z
+- **Fetched**: 2026-10-27T01:14:08Z
 - **Note**: Reports what Prop 45 would mean for San Diego.

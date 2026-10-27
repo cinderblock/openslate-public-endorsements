@@ -10,11 +10,24 @@
   is in `articles.md`.
 - Mode is `scraped`.
 
-## What's attached (18)
+## Statewide propositions (18)
 
 - The Prop Fest explainer for each of the 14 propositions (`explainer`).
 - News: Prop 4 (Oakland's public-financing program), Prop 40 (Newsom's opposition), and two
   on Prop 45 (the data-center dispute and the housing arguments).
+
+## San Francisco measures (3)
+
+- Found by web search restricted to kqed.org.
+- Prop B: "San Francisco Supervisors Put Public Bank Measure on November Ballot"
+  (2026-07-07).
+- Prop H: "San Francisco Will Vote on Muni's Future in November" (2026-06-17). It reports
+  the Muni parcel tax measure qualifying.
+- Prop G: street-safety groups disputing the Yes on G campaign's data (2026-09-16).
+- The B and H stories came before letters were assigned. They're attached because each
+  names the one November measure of that kind: the public bank, and the Muni parcel tax.
+- Left out: KQED's SF voter-guide pages (`/voterguide/sanfrancisco/proposition-X`, no
+  publish date), the RTM voter-guide page (same), and Forum radio segments.
 
 ## Judgment calls to review
 

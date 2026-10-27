@@ -12,7 +12,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-28T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:04Z
 - **Note**: Prop Fest explainer on the Prop 1 housing bond.
 
 ### Prop 2: Strengthening California's Rainy Day Fund
@@ -23,7 +23,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-29T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:04Z
 - **Note**: Prop Fest explainer on Prop 2's rainy day fund changes.
 
 ### Prop 3: Making the Income Tax Rate on High Earners Permanent
@@ -34,7 +34,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-29T03:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:04Z
 - **Note**: Prop Fest explainer on Prop 3's permanent high-earner tax rates.
 
 ### Prop 4: Allows Cities to Create Public Campaign Financing Programs
@@ -45,7 +45,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-30T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Prop Fest explainer on Prop 4's public campaign financing.
 
 ### Proposition 4 Would Let More Cities Fund Campaigns. In Oakland, That’s Been a Struggle
@@ -56,7 +56,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-23T07:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Reports on Oakland's stalled public financing program as context for Prop 4.
 
 ### Prop 5: Changes to the State Recall Election Process
@@ -67,7 +67,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-30T03:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:39Z
+- **Fetched**: 2026-10-27T01:14:04Z
 - **Note**: Prop Fest explainer on Prop 5's recall changes.
 
 ### Prop 37: Creates Middle-Income Homebuying Program
@@ -78,7 +78,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-01T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Prop Fest explainer on Prop 37's homebuying program.
 
 ### Prop 38: Borrows $8.4 Billion to Fund Immunology Research
@@ -89,7 +89,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Prop Fest explainer on the Prop 38 immunology research bond.
 
 ### Prop 39: Require Identification When Californians Cast A Ballot
@@ -100,7 +100,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-02T03:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Prop Fest explainer on Prop 39 voter ID.
 
 ### Proposition 40: Imposes a One-Time Tax on Billionaires to Fund Healthcare and Education
@@ -111,7 +111,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-05T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Prop Fest explainer on the Prop 40 billionaire tax.
 
 ### The Political Calculus Behind Newsom’s Opposition to California’s Billionaire Tax
@@ -122,7 +122,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-26T12:07:50-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:07Z
 - **Note**: Reports on why Gov. Newsom opposes Prop 40.
 
 ### Prop 41: Requires New Audits of Special Tax Programs
@@ -133,7 +133,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-06T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Prop Fest explainer on Prop 41's audit requirement.
 
 ### Prop 42: Bans New State Taxes on Personal Property and Investments
@@ -144,7 +144,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-06T03:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Prop Fest explainer on Prop 42's ban on personal property taxes.
 
 ### Prop 43: Raises Voter Threshold for Some Local Tax Measures
@@ -155,7 +155,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-07T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Prop Fest explainer on Prop 43's local tax vote threshold.
 
 ### Prop 44: Requires Health Clinics to Spend More on Patient Care
@@ -166,7 +166,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-08T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Prop Fest explainer on Prop 44's clinic spending rule.
 
 ### Housing Fix or Data Center Loophole? This Ballot Measure Would Overhaul CEQA
@@ -177,7 +177,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-22T16:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:05Z
 - **Note**: Reports on the dispute over whether Prop 45 would cover data centers.
 
 ### Will Prop. 45 Fix California’s Housing Crisis or Roll Back a Valuable Environmental Law?
@@ -188,7 +188,7 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-09-29T16:05:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:40Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Reports both sides' arguments on Prop 45 and housing.
 
 ### Prop 45: Faster Environmental Reviews for Certain Projects
@@ -199,5 +199,38 @@ kept here; the note on each is the researcher's own one-line description.
 - **Headline from**: page h1
 - **Published**: 2026-10-09T03:00:00-07:00 (from JSON-LD datePublished)
 - **Byline**: (none in page metadata)
-- **Fetched**: 2026-10-27T01:07:41Z
+- **Fetched**: 2026-10-27T01:14:06Z
 - **Note**: Prop Fest explainer on Prop 45's CEQA deadlines.
+
+### San Francisco Supervisors Put Public Bank Measure on November Ballot
+
+- **URL**: https://www.kqed.org/news/12089959/san-francisco-supervisors-to-vote-on-public-bank-measure-for-november-ballot
+- **Ballot items**: SF Prop B
+- **Kind**: news
+- **Headline from**: page h1
+- **Published**: 2026-07-07T09:46:58-07:00 (from JSON-LD datePublished)
+- **Byline**: (none in page metadata)
+- **Fetched**: 2026-10-27T01:14:04Z
+- **Note**: Reports supervisors placing the public bank measure (Prop B) on the ballot.
+
+### Street-Safety Advocates Accuse Yes on G Campaign of Pushing Bad Data
+
+- **URL**: https://www.kqed.org/news/12099969/street-safety-advocates-accuse-yes-on-g-campaign-of-pushing-bad-data
+- **Ballot items**: SF Prop G
+- **Kind**: news
+- **Headline from**: page h1
+- **Published**: 2026-09-16T13:21:59-07:00 (from JSON-LD datePublished)
+- **Byline**: (none in page metadata)
+- **Fetched**: 2026-10-27T01:14:04Z
+- **Note**: Reports street-safety groups disputing the Yes on G campaign's data.
+
+### San Francisco Will Vote on Muni’s Future in November
+
+- **URL**: https://www.kqed.org/news/12087755/san-francisco-voters-will-vote-on-munis-future-in-november
+- **Ballot items**: SF Prop H
+- **Kind**: news
+- **Headline from**: page h1
+- **Published**: 2026-06-17T04:00:09-07:00 (from JSON-LD datePublished)
+- **Byline**: (none in page metadata)
+- **Fetched**: 2026-10-27T01:14:03Z
+- **Note**: Reports the Muni parcel tax measure (Prop H) qualifying for the ballot.

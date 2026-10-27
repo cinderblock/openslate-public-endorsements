@@ -11,7 +11,7 @@
       "kind": "news_organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-27T01:07:41Z",
+    "retrieved_at": "2026-10-27T01:14:07Z",
     "sources": [
       "https://www.kqed.org/propfest",
       "https://www.kqed.org/news/tag/election-2026"
@@ -252,6 +252,45 @@
       "publisher": "KQED",
       "published_at": "2026-10-09T03:00:00-07:00",
       "kind": "explainer"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12089959/san-francisco-supervisors-to-vote-on-public-bank-measure-for-november-ballot",
+      "title": "San Francisco Supervisors Put Public Bank Measure on November Ballot",
+      "publisher": "KQED",
+      "published_at": "2026-07-07T09:46:58-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12099969/street-safety-advocates-accuse-yes-on-g-campaign-of-pushing-bad-data",
+      "title": "Street-Safety Advocates Accuse Yes on G Campaign of Pushing Bad Data",
+      "publisher": "KQED",
+      "published_at": "2026-09-16T13:21:59-07:00",
+      "kind": "news"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "uri": "https://www.kqed.org/news/12087755/san-francisco-voters-will-vote-on-munis-future-in-november",
+      "title": "San Francisco Will Vote on Muni’s Future in November",
+      "publisher": "KQED",
+      "published_at": "2026-06-17T04:00:09-07:00",
+      "kind": "news"
     }
   ]
 }

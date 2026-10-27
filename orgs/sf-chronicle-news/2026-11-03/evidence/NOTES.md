@@ -9,7 +9,7 @@
 - Mode is `scraped`.
 - This is the newsroom. The editorial board is the separate org `sf-chronicle`, untouched.
 
-## What's attached (13 attachments, 11 URLs)
+## Statewide propositions (13 attachments, 11 URLs)
 
 - Prop 37: explainer.
 - Prop 38: news.
@@ -39,4 +39,19 @@
   to keep Prop 40's list focused on substance. Other publishers already cover the spending.
 - "Here's how Gavin Newsom is voting on California's propositions" and the early all-14
   roundup: not about one measure.
-- SF local measures: see the separate SF pass (not in this file, which is statewide).
+## San Francisco measures (3)
+
+- From the voter guide's coverage links and web searches restricted to sfchronicle.com.
+- Prop G: how voters feel about the Great Highway (2026-10-26).
+- Prop F: two pieces.
+  - "Daniel Lurie is asking S.F. voters for more power…" (2026-10-16). Its URL slug and
+    headline are about Prop F. It mentions D, H and I in passing and isn't attached to
+    them.
+  - The fact-check of the mayor's message about Prop F and police oversight (2026-10-21),
+    labelled `analysis`.
+- Left out:
+  - SF editorials and endorsements (positions on `sf-chronicle`).
+  - The Prop C/G opinion column.
+  - The Chakrabarti donation story, which spans several measures.
+  - "Exclusive: Why the slowdown in S.F. housing construction is leading to a new tax
+    battle", from before the measure took its final form.
