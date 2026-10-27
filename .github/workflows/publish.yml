@@ -62,6 +62,11 @@ jobs:
       - name: Sign every slate
         run: bun .openslate/packages/cli/src/index.ts sign --batch . --key "$SIGNING_KEY_PATH" --force
 
+      # Signing stamps a fresh issued_at on every slate. Put back the published token of
+      # each slate that hasn't changed, so the app only re-downloads ones that did.
+      - name: Keep unchanged slates' published tokens
+        run: bun scripts/keep-unchanged.ts
+
       - name: Verify signed slates round-trip against project public key
         run: bun scripts/verify-signed.ts
 

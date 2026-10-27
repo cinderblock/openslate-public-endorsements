@@ -42,6 +42,11 @@ Women Voters) are usually a poor fit for this repo.
   machine.
 - Signed `.slate` files are published to GitHub Pages, where the main
   OpenSlate web app can import them by URL.
+- A slate's token only changes when its content does. Signing stamps a new
+  `issued_at` on every slate, so after signing, `scripts/keep-unchanged.ts`
+  puts back the published token of every slate that says the same thing as
+  before. The web app updates an imported slate when its catalog entry's
+  `issued_at` is newer, so it only downloads slates that really changed.
 
 ## Repository layout
 
