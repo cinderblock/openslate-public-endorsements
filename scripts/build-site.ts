@@ -1,11 +1,13 @@
 #!/usr/bin/env bun
 // Assemble dist/ for GitHub Pages from the source tree plus the artifacts
 // produced by `openslate sign --batch` (signed.slate + ./index.json). Each
-// catalog entry also gets the org's logo and lean (scripts/catalog-extras.ts).
+// catalog entry also gets the org's logo and lean (scripts/catalog-extras.ts),
+// and a page for what it was built from (scripts/evidence-page.ts).
 
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { catalogExtras } from "./catalog-extras";
+import { evidenceFiles, evidencePage } from "./evidence-page";
 
 const ROOT = process.cwd();
 const DIST = join(ROOT, "dist");
@@ -45,6 +47,8 @@ interface IndexEntry {
   logo_background?: "dark";
   /** Subjects where the org took the Democratic / Republican side. */
   lean?: { left: number; right: number };
+  /** Site path of the page listing what the slate was built from (its evidence/ folder). */
+  evidence?: string;
 }
 
 interface Catalog {
@@ -83,10 +87,21 @@ for (const entry of catalog.entries) {
 
 // Logos and lean, added to both the catalog and the bundle.
 const extras = catalogExtras(ROOT, bundleEntries);
-const withExtras = <T extends IndexEntry>(entry: T): T => ({
-  ...entry,
-  ...extras.get(`${entry.slug}/${entry.election}`),
-});
+// Each bundle's evidence/ (copied with orgs/ above) gets an index page.
+const evidence = new Map<string, string>();
+for (const entry of catalog.entries) {
+  const folder = join("orgs", entry.slug, entry.election, "evidence");
+  if (!existsSync(join(ROOT, folder))) continue;
+  const files = evidenceFiles(join(ROOT, folder));
+  if (files.length === 0 || files.some((f) => f.path === "index.html")) continue;
+  await Bun.write(join(DIST, folder, "index.html"), evidencePage(entry, files));
+  evidence.set(`${entry.slug}/${entry.election}`, `orgs/${entry.slug}/${entry.election}/evidence/`);
+}
+const withExtras = <T extends IndexEntry>(entry: T): T => {
+  const key = `${entry.slug}/${entry.election}`;
+  const page = evidence.get(key);
+  return { ...entry, ...extras.get(key), ...(page ? { evidence: page } : {}) };
+};
 catalog = { ...catalog, entries: catalog.entries.map(withExtras) };
 bundleEntries.splice(0, bundleEntries.length, ...bundleEntries.map(withExtras));
 const withLogo = catalog.entries.filter((e) => e.logo).length;
@@ -136,7 +151,7 @@ const rows = catalog.entries
         <td>${escape(e.election)}</td>
         <td>${e.positions}</td>
         <td>${attrCell}</td>
-        <td><a href="${slateUrl}">slate</a> &middot; <a href="${posUrl}">positions.json</a></td>
+        <td><a href="${slateUrl}">slate</a> &middot; <a href="${posUrl}">positions.json</a>${e.evidence ? ` &middot; <a href="${escape(e.evidence)}">evidence</a>` : ""}</td>
       </tr>`;
   })
   .join("\n");
@@ -228,5 +243,5 @@ ${tableBody}
 await Bun.write(join(DIST, "index.html"), html);
 
 console.log(
-  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline, ${withLogo} with a logo, ${withLean} with a lean`,
+  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline, ${withLogo} with a logo, ${withLean} with a lean, ${evidence.size} with evidence`,
 );
