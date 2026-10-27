@@ -59,7 +59,8 @@ against San Mateo County's Roster of Candidates (smcacre.gov,
 
 1. **Oak Grove SD**: the guide says "Victor Ramirez for District 1", but the
    ballot lists Victor A. Ramirez in Trustee Area 2 (there's no Area 1 race).
-   Recorded under Trustee Area 2.
+   Recorded under Trustee Area 2. Confirmed 2026-10-26 with the chapter: the
+   guide's "District 1" is a typo.
 2. **East Side UHSD TA 1 (Short Term)**: the guide's "Meredith 'Mer' Nunez" is
    "Mer Curry Nuñez" on the ballot.
 3. **Joint recommendations** (both candidates, one seat): Midpeninsula Open
