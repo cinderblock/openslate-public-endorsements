@@ -1,0 +1,2003 @@
+{
+  "context": {
+    "title": "Silicon Valley DSA — November 3, 2026 California general election voter guide",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Silicon Valley DSA",
+      "uri": "https://siliconvalleydsa.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T02:30:43Z",
+    "sources": [
+      "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub",
+      "https://siliconvalleydsa.org/voters-guide/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no candidate in this race.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation. Fiona Ma has served as a good treasurer\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "\"We recommend voting for Shirley Weber.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no candidate for Controller.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no candidate in this race. Eleni Kounalakis\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no candidate in this race. While Bonta\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "\"We recommend voting for Jane Kim.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "statement": "\"We recommend Sally Lieber.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "\"We recommend Richard Barrera.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "\"We recommend Aisha Wahab for a full House term.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We are not recommending anyone in this race.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no candidate in this race. Sam Liccardo is a corporate Democrat\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "statement": "\"We recommend Ro Khanna.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "\"We recommend Zoe Lofgren.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no one here.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation. Diane Papan is a centrist Democrat\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation. Marc Berman is a quintessential moderate\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alex Lee",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/alex-lee",
+      "statement": "\"We recommend sitting assembly member Alex Lee.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ash Kalra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-25/ash-kalra",
+      "statement": "\"We recommend sitting assemblymember Ash Kalra.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Patrick Ahrens",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-26/patrick-ahrens",
+      "statement": "\"We recommend the incumbent Patrick Ahrens.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gail Pellerin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-28/gail-pellerin",
+      "statement": "\"We recommend Gail Pellerin.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend anyone in this race. Scott Sakakihara is a moderate Democrat\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Craig Gleason",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/midpeninsula-regional-open-space-district-board-ward-1/craig-gleason",
+      "statement": "\"We are issuing a joint recommendation here for a rare reason: both candidates are really good.\"; \"Voters can do no wrong in voting for either candidate.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Midpeninsula Regional Open Space District Board, Ward 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tina Marie To",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/midpeninsula-regional-open-space-district-board-ward-1/tina-marie-to",
+      "statement": "\"We are issuing a joint recommendation here for a rare reason: both candidates are really good.\"; \"Voters can do no wrong in voting for either candidate.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara County Board of Education, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Raeena S. Lari",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-county-board-of-education-trustee-area-7/raeena-s-lari",
+      "statement": "\"We recommend Raeena Lari\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation. There is not much information available for either candidate\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Milan Balinton",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-6/milan-balinton",
+      "statement": "\"We recommend Balinton as he has laid out a platform that puts equity and access first.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Valley Water District Board, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pete Dailey",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-valley-water-district-board-district-7/pete-dailey",
+      "statement": "\"We will give a cautious recommendation to Pete Dailey though.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Joseph \"Joe\" Brenner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-city-council-district-3/joseph-joe-brenner",
+      "statement": "\"We recommend Joseph Brenner for this seat\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Campbell City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/campbell",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no one for this race.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "J.R. Fruen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/j-r-fruen",
+      "statement": "\"We recommend the slate of J.R. Fruen, John Tang, and Seema Lindskog.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Tang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/john-tang",
+      "statement": "\"We recommend the slate of J.R. Fruen, John Tang, and Seema Lindskog.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Seema Sharma Lindskog",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/seema-sharma-lindskog",
+      "statement": "\"We recommend the slate of J.R. Fruen, John Tang, and Seema Lindskog.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ruben Abrica",
+      "statement": "\"Ruben Abrica, the incumbent, has been a long term advocate for affordable housing.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ofelia Bello",
+      "statement": "\"We also recommend Ofelia Bello.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Desrie Campbell",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-2/desrie-campbell",
+      "statement": "\"We recommend Desrie Campbell.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kathy Kimberlin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-3/kathy-kimberlin",
+      "statement": "\"We recommend Kathy Kimberlin.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Aziz Akbari",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-4/aziz-akbari",
+      "statement": "\"We recommend Aziz Akbari.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. Fred Tovar\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. Tom Cline\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rebeca G. Armendáriz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-city-council-district-6/rebeca-g-armendariz",
+      "statement": "\"We recommend Rebeca Armendariz.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Altos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anky van Deursen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-city-council-district-2/anky-van-deursen",
+      "statement": "\"we recommend voters choose Anky van Deursen for the seat.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rob Moore",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/rob-moore",
+      "statement": "\"We recommend Rob Moore and Jeff Suzuki.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-gatos",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jeff Suzuki",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-town-council/jeff-suzuki",
+      "statement": "\"We recommend Rob Moore and Jeff Suzuki.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. Neither candidate has staked out positions\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. Neither candidate stands apart here.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Charlotte Reed",
+      "statement": "\"We recommend Charlotte Reed.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Hon Lien",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-mayor/hon-lien",
+      "statement": "\"We recommend Hon Lien.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Milpitas City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Seema Kanani",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-city-council/seema-kanani",
+      "statement": "\"We recommend only Seema Kanani in this race.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. Incumbent Mark Turner\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District B",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend any candidate in this race. The incumbent Yvonne Martinez Beltran\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill City Council, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/morgan-hill",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Dolores Alvarado",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-city-council-district-d/dolores-alvarado",
+      "statement": "\"We recommend Dolores Alvarado.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Erik Poicon",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/erik-poicon",
+      "statement": "\"We recommend Erik Poicon, IdaRose Sylvester, and James Kuszmaul.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "IdaRose Sylvester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/idarose-sylvester",
+      "statement": "\"We recommend Erik Poicon, IdaRose Sylvester, and James Kuszmaul.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "James Kuszmaul",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/james-kuszmaul",
+      "statement": "\"We recommend Erik Poicon, IdaRose Sylvester, and James Kuszmaul.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Newark City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Matthew Jorgens",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-city-council/matthew-jorgens",
+      "statement": "\"We recommend incumbent Matthew Jorgens.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Raymond Lee Goins",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/raymond-lee-goins",
+      "statement": "\"We recommend Raymond Goins.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Peter Ortiz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-5/peter-ortiz",
+      "statement": "\"We recommend Peter Ortiz.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend either candidate. Bien Doan and Van Le\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gordon Chester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-9/gordon-chester",
+      "statement": "\"We recommend Gordon Chester.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend a candidate in this race.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend either candidate. Yvonne Inciarte and Kimberley Williams\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend either candidate. Eric Crutchlow\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Victor Lopez Pulido",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-2/victor-lopez-pulido",
+      "statement": "\"We recommend Victor Pulido for this seat.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cheris Crocker-Root",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-3/cheris-crocker-root",
+      "statement": "\"We recommend Cheris Crocker-Root.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sarabjit Kaur Cheema",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-4/sarabjit-kaur-cheema",
+      "statement": "\"That leaves us to recommend teacher Sarabjit Cheema\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Foothill-De Anza Community College District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "William \"Bill\" Wilson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/foothill-de-anza-community-college-district-board-trustee-area-4/william-bill-wilson",
+      "statement": "\"We recommend Bill Wilson.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San José-Evergreen Community College District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We recommend no one for this race. Incumbent Karen Martinez\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anne J. Kepner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-3/anne-j-kepner",
+      "statement": "\"We are giving a joint recommendation here.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Colin Lee Elliott Glaves",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-3/colin-lee-elliott-glaves",
+      "statement": "\"We are giving a joint recommendation here.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "West Valley-Mission Community College District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Doug Robb",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/west-valley-mission-community-college-district-board-trustee-area-7/doug-robb",
+      "statement": "\"We recommend Doug Robb\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 1 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mer Curry Nuñez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-1-short-term/mer-curry-nunez",
+      "statement": "\"We recommend Meredith “Mer” Nunez.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Side Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lorena Chavez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/east-side-union-high-school-district-board-trustee-area-4/lorena-chavez",
+      "statement": "\"We recommend incumbent Lorena Chavez.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rosa Kim",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-3/rosa-kim",
+      "statement": "\"We recommend Rosa Kim.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Naomi Nakano-Matsumoto",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-4/naomi-nakano-matsumoto",
+      "statement": "\"We are going with a joint recommendation here.\"; \"Voters are lucky to have two solid candidates to choose from.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Fremont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ilanit Eliaz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/fremont-union-high-school-district-board-trustee-area-4/ilanit-eliaz",
+      "statement": "\"We are going with a joint recommendation here.\"; \"Voters are lucky to have two solid candidates to choose from.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Michelle Nelson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-3/michelle-nelson",
+      "statement": "\"We recommend incumbent Michelle Nelson.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jane Stevens",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-board-trustee-area-4/jane-stevens",
+      "statement": "\"We recommend Jane Stevens for this seat\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Milpitas Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chris Norwood",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-unified-school-district-board/chris-norwood",
+      "statement": "\"We recommend Chris Norwood.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nancy Altman-Palm",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-1/nancy-altman-palm",
+      "statement": "\"We recommend the four labor and teacher endorsed candidates in each district: Nancy Altman-Palm in the 1st, Gabriela Winter in the 2nd, Sarah Northrup Gadus in the 3rd, and Glen Webb in the 4th.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Gabriela \"Gabby\" Winter",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-2/gabriela-gabby-winter",
+      "statement": "\"We recommend the four labor and teacher endorsed candidates in each district: Nancy Altman-Palm in the 1st, Gabriela Winter in the 2nd, Sarah Northrup Gadus in the 3rd, and Glen Webb in the 4th.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sarah Northrup Gadus",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-3/sarah-northrup-gadus",
+      "statement": "\"We recommend the four labor and teacher endorsed candidates in each district: Nancy Altman-Palm in the 1st, Gabriela Winter in the 2nd, Sarah Northrup Gadus in the 3rd, and Glen Webb in the 4th.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Morgan Hill Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Glen R. Webb",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/morgan-hill-unified-school-district-board-trustee-area-4/glen-r-webb",
+      "statement": "\"We recommend the four labor and teacher endorsed candidates in each district: Nancy Altman-Palm in the 1st, Gabriela Winter in the 2nd, Sarah Northrup Gadus in the 3rd, and Glen Webb in the 4th.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View-Los Altos Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Thida Cornes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-los-altos-union-high-school-district-board-trustee-area-3/thida-cornes",
+      "statement": "\"We recommend Thida Cornes for the open 3rd District seat.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Linda Henigin",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-unified-school-district-board/linda-henigin",
+      "statement": "\"We recommend Linda Henigin.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tomara Hall",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-2/tomara-hall",
+      "statement": "\"We recommend Tomara Hall.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Michael Melillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/michael-melillo",
+      "statement": "\"We recommend Michael Melillo.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "choice": "Jim Canova",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-unified-school-district-board-trustee-area-1/jim-canova",
+      "statement": "\"We do not recommend Jim Canova.\"; \"the district should not have an AI lobbyist in its leadership ranks.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Sequoia Union High School District Board, Trustee Area A",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Amy Koo",
+      "statement": "\"We recommend the incumbent Amy Koo for District A.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Delia Oseguera",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-3/delia-oseguera",
+      "statement": "\"We recommend Delia Oseguera.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jenny Ludwig",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-board-trustee-area-5/jenny-ludwig",
+      "statement": "\"We recommend Jenny Ludwig.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shanna Brewer",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/shanna-brewer",
+      "statement": "\"We recommend Shanna Brewer and Jaria Jaug.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jaria Jaug",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/jaria-jaug",
+      "statement": "\"We recommend Shanna Brewer and Jaria Jaug.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"We do not recommend either candidate. Chris Miller\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Campbell Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Vartika Chandra",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/campbell-union-school-district-board-trustee-area-5/vartika-chandra",
+      "statement": "\"We recommend Vartika Chandra for this seat.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Johnny Ray Reyna",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/johnny-ray-reyna",
+      "statement": "\"We recommend Johnny Ray Reyna and Monte Wright.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Evergreen School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Monte Wright",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/evergreen-school-district-board/monte-wright",
+      "statement": "\"We recommend Johnny Ray Reyna and Monte Wright.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "choice": "Marc Cooper",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/marc-cooper",
+      "statement": "\"We recommend voting against Marc Cooper and Gilbert Borrayo.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Franklin-McKinley School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "choice": "Gilbert Borrayo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/franklin-mckinley-school-district-board/gilbert-borrayo",
+      "statement": "\"We recommend voting against Marc Cooper and Gilbert Borrayo.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Altos School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Poll",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-school-district-board/david-poll",
+      "statement": "\"we recommend David Poll\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jed Scolnick",
+      "statement": "\"We recommend Jed Scolnick, Maya Herstein, and Andrew Barnes for the open seats.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maya Herstein",
+      "statement": "\"We recommend Jed Scolnick, Maya Herstein, and Andrew Barnes for the open seats.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park City School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Andrew Barnes",
+      "statement": "\"We recommend Jed Scolnick, Maya Herstein, and Andrew Barnes for the open seats.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Devon Conley",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/devon-conley",
+      "statement": "\"We recommend Devon Conley and Sundar Subbarayan.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View Whisman School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sundar Subbarayan",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-whisman-school-district-board/sundar-subbarayan",
+      "statement": "\"We recommend Devon Conley and Sundar Subbarayan.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Victor A. Ramirez",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-2/victor-a-ramirez",
+      "statement": "\"We recommend Victor Ramirez for District 1\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sophie Freestone",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-3/sophie-freestone",
+      "statement": "\"Sophie Freestone for District 3\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Oak Grove School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Paul Chun",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/oak-grove-school-district-board-trustee-area-5/paul-chun",
+      "statement": "\"Paul Chun for District 5\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lyseria Evelyn Phillips",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/lyseria-evelyn-phillips",
+      "statement": "\"We recommend Lyseria Phillips\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "choice": "Katherine Kasolas-Jacobson",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/katherine-kasolas-jacobson",
+      "statement": "\"We also recommend against Katherine Kasolas-Jacobson\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jeff Tang",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/jeff-tang",
+      "statement": "\"we thus gently recommend Jeff Tang and Molly Eslao for the remaining 2 seats.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Molly Eslao",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-board/molly-eslao",
+      "statement": "\"we thus gently recommend Jeff Tang and Molly Eslao for the remaining 2 seats.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anna Goldberg",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/anna-goldberg",
+      "statement": "\"We recommend Anna Goldberg, Farnoush Drexel, and Vidya Vineet.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Farnoush Drexel",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/farnoush-drexel",
+      "statement": "\"We recommend Anna Goldberg, Farnoush Drexel, and Vidya Vineet.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Saratoga Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Vidya R. Vineet",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/saratoga-union-school-district-board/vidya-r-vineet",
+      "statement": "\"We recommend Anna Goldberg, Farnoush Drexel, and Vidya Vineet.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rommy Kushner",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-school-district-board-trustee-area-3/rommy-kushner",
+      "statement": "\"We recommend Rommy Kushner for District 3.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"We urge a Yes vote on Prop 1.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"We urge a Yes vote on this proposition.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"Silicon Valley DSA endorses a Yes vote on Prop 3.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"We urge voters to vote Yes on this measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"We are neutral on this measure.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "\"We recommend a No vote on this measure.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "\"While we like scientific research, we recommend a No vote on this measure.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"We recommend No on this measure.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"Silicon Valley DSA endorses a Yes vote on Prop 40.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"Silicon Valley DSA endorses a NO vote on Prop 41\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"Silicon Valley DSA also endorses a NO vote on Prop 42\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"We will be recommending No on this measure. Evolve California\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation. The nonprofit federally qualified health centers\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"We will be recommending No on this measure. The CEQA\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/gilroy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-measure-b/no",
+      "statement": "\"such a tax would hit these already struggling residents the hardest. We recommend voting No.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-measure-d-citizen-sponsored-initiative/no",
+      "statement": "\"YIMBY Law Group is threatening a future court case. We recommend voting No.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Silicon Valley DSA is proud to endorse Yes on Measure E.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Mountain View — Measure F (Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-measure-f-transient-occupancy-tax/yes",
+      "statement": "\"We recommend voting Yes on this measure.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto — Measure J (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-measure-j-transactions-and-use-tax/yes",
+      "statement": "\"the City has historically honored spending guidelines such as the one passed specifying the funds go to Cubberley. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure J (Charter Amendment Measure – Extension to Call a Special Election or Appoint)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"requires the board to conduct one public comment session prior to appointment. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Milpitas — Measure K",
+        "kind": "measure",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-measure-k/yes",
+      "statement": "\"Opposition to the measure is largely spearheaded by the anti-tax Silicon Valley Taxpayers Association. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cupertino — Measure L",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-measure-l/yes",
+      "statement": "\"This is overwhelmingly supported by ~70% of Cupertino residents surveyed in June. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure O (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"It is largely popular with residents. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "No",
+      "statement": "\"is not developed into parking structures with affordable housing on top. We recommend voting No.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "El Camino Healthcare District — Measure S",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/el-camino-healthcare-district-measure-s/yes",
+      "statement": "\"Currently there are no term limits. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"The independent commission would be elected by district. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "East Palo Alto — Measure CC (Term Limits Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/east-palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"with a partial term of 2+ years counting as a full term. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Newark — Measure DD (Newark Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-measure-dd-newark-essential-services-protection-measure/yes",
+      "statement": "\"claims the taxes will be passed on to residents through price increases. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Union City — Measure II (Union City Essential Services Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-measure-ii-union-city-essential-services-extension-measure/yes",
+      "statement": "\"The only opposition seems to come from Alameda County Taxpayers’ Association. We recommend voting Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "\"We recommend you vote Yes.\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-measure-m-school-bonds/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Los Gatos-Saratoga Union High School District — Measure N (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-gatos-saratoga-union-high-school-district-measure-n-school-bonds/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure O (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-o-parcel-tax/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Alum Rock Union Elementary School District — Measure P (General Obligation Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/alum-rock-union-elementary-school-district-measure-p-general-obligation-bond/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cambrian School District — Measure Q (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cambrian-school-district-measure-q-parcel-tax/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Orchard School District — Measure R (Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/orchard-school-district-measure-r-parcel-tax/yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Unified School District — Measure Z (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Jefferson Union High School District — Measure M (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "Pacifica School District — Measure T (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Carlos School District — Measure K (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    },
+    {
+      "subject": {
+        "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "statement": "\"These measures are for issuing bonds or renewing parcel taxes in school districts across Santa Clara and San Mateo Counties.\"; \"We recommend that everybody vote Yes on their local measure\"",
+      "source": "https://docs.google.com/document/d/e/2PACX-1vQAtAN3xtKSl7Pkx34nNpJyypPlm_Zga45PZHEYVk6jNpwxcp0GDBFrLsU9wjTjliya6ZP0OrMkljEt/pub"
+    }
+  ]
+}
