@@ -326,6 +326,242 @@
       "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/san-mateo/guide.jws",
       "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
       "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/contra-costa-county",
+      "covers": [
+        "us/ca/contra-costa-county",
+        "us/ca/concord",
+        "us/ca/richmond",
+        "us/ca/san-pablo",
+        "us/ca/walnut-creek"
+      ],
+      "title": "Contra Costa County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/contra-costa/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/fresno-county",
+      "covers": [
+        "us/ca/fresno-county",
+        "us/ca/coalinga",
+        "us/ca/firebaugh",
+        "us/ca/fowler",
+        "us/ca/fresno",
+        "us/ca/orange-cove",
+        "us/ca/sanger"
+      ],
+      "title": "Fresno County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/fresno/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/kern-county",
+      "covers": [
+        "us/ca/kern-county"
+      ],
+      "title": "Kern County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/kern/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/marin-county",
+      "covers": [
+        "us/ca/marin-county",
+        "us/ca/fairfax",
+        "us/ca/larkspur",
+        "us/ca/ross",
+        "us/ca/san-anselmo",
+        "us/ca/san-rafael",
+        "us/ca/sausalito"
+      ],
+      "title": "Marin County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/marin/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/monterey-county",
+      "covers": [
+        "us/ca/monterey-county",
+        "us/ca/carmel-by-the-sea",
+        "us/ca/king-city",
+        "us/ca/marina",
+        "us/ca/monterey",
+        "us/ca/pacific-grove",
+        "us/ca/salinas"
+      ],
+      "title": "Monterey County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/monterey/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/napa-county",
+      "covers": [
+        "us/ca/napa-county",
+        "us/ca/american-canyon"
+      ],
+      "title": "Napa County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/napa/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/placer-county",
+      "covers": [
+        "us/ca/placer-county",
+        "us/ca/colfax",
+        "us/ca/lincoln",
+        "us/ca/rocklin",
+        "us/ca/roseville"
+      ],
+      "title": "Placer County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/placer/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/riverside-county",
+      "covers": [
+        "us/ca/riverside-county"
+      ],
+      "title": "Riverside County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/riverside/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/sacramento-county",
+      "covers": [
+        "us/ca/sacramento-county",
+        "us/ca/folsom",
+        "us/ca/galt"
+      ],
+      "title": "Sacramento County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/sacramento/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/san-bernardino-county",
+      "covers": [
+        "us/ca/san-bernardino-county",
+        "us/ca/adelanto",
+        "us/ca/chino",
+        "us/ca/chino-hills",
+        "us/ca/colton",
+        "us/ca/grand-terrace",
+        "us/ca/highland",
+        "us/ca/needles",
+        "us/ca/ontario",
+        "us/ca/twentynine-palms",
+        "us/ca/upland"
+      ],
+      "title": "San Bernardino County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/san-bernardino/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/san-luis-obispo-county",
+      "covers": [
+        "us/ca/san-luis-obispo-county"
+      ],
+      "title": "San Luis Obispo County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/san-luis-obispo/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/santa-barbara-county",
+      "covers": [
+        "us/ca/santa-barbara-county",
+        "us/ca/carpinteria",
+        "us/ca/guadalupe"
+      ],
+      "title": "Santa Barbara County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/santa-barbara/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/santa-cruz-county",
+      "covers": [
+        "us/ca/santa-cruz-county",
+        "us/ca/scotts-valley"
+      ],
+      "title": "Santa Cruz County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/santa-cruz/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/sonoma-county",
+      "covers": [
+        "us/ca/sonoma-county",
+        "us/ca/rohnert-park",
+        "us/ca/santa-rosa",
+        "us/ca/windsor"
+      ],
+      "title": "Sonoma County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/sonoma/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/stanislaus-county",
+      "covers": [
+        "us/ca/stanislaus-county",
+        "us/ca/ceres",
+        "us/ca/riverbank",
+        "us/ca/waterford"
+      ],
+      "title": "Stanislaus County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/stanislaus/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/ventura-county",
+      "covers": [
+        "us/ca/oxnard"
+      ],
+      "title": "Ventura County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/ventura/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
+    },
+    {
+      "election": "2026-11-03",
+      "jurisdiction": "us/ca/yolo-county",
+      "covers": [
+        "us/ca/yolo-county",
+        "us/ca/woodland"
+      ],
+      "title": "Yolo County local measures' official documents: November 3, 2026 General Election",
+      "url": "https://cinderblock.github.io/openslate-ballot-ca-2026-11-03/county/yolo/guide.jws",
+      "key": "ed25519:CdNuyS5e7RAMhAa9kH6RSCNE3tracD4jSS9dr3Br3JQH",
+      "repo": "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03"
     }
   ]
 }
