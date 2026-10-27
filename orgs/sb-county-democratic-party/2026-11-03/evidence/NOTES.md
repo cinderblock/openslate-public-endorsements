@@ -90,4 +90,6 @@ appointed in lieu of election):
   reuses the existing title "Allan Hancock Joint Community College District —
   Measure H (Education and Economic Development Bond)" (`us/ca/santa-barbara`).
   The county's title for it is "Allan Hancock Joint Community College District
-  Affordable Higher Education".
+  Affordable Higher Education". On 2026-10-27 the catalog title became
+  "Allan Hancock Joint Community College District — Measure H (Affordable
+  Higher Education Bond)", after the county's, in every bundle that names it.
