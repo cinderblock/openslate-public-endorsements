@@ -101,8 +101,10 @@ entry (`scripts/catalog-extras.ts`):
   it below five sided subjects.
 
 `openslate sign --batch` itself writes each entry's `scope` (the slate's
-`context.jurisdiction`) and `jurisdictions` (races per position jurisdiction),
-so the app's setup wizard can match orgs to a voter's area and count their
+`context.jurisdiction`), `jurisdictions` (races per position jurisdiction),
+and `regions` (each region its contests are filed under, like `us/ca/bay-area`,
+with the `voted_in` jurisdictions they're voted in, so a regional outlet is
+listed with its readers' local sources), so the app's setup wizard can match orgs to a voter's area and count their
 races there without downloading every slate. `index.json` also names the
 bundle: `"bundle": { "path": "bundle.json", "bytes": <uncompressed size> }`,
 which the wizard's "download all" fetches in one request (the size drives its
