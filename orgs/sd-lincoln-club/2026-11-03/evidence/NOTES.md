@@ -31,3 +31,25 @@ Shared with the batch; see the SD County Democratic Party Nov NOTES.md.
 - The WordPress API shows the endorsement page was last modified 2026-10-14T17:37:47 (site time). That is before the 2026-10-15 capture, so the post-hearing results may simply not be posted yet. **Re-check again closer to Nov 3.**
 - `attribution.retrieved_at` updated to 2026-10-19T21:01:40Z. `attribution.sources` is unchanged.
 - The `meta.yaml` uri was already `https://sdlincolnclub.com/`. The DNS note under Sources is historical.
+
+## Refresh 2026-10-28
+
+- **Result: 58 → 77 positions (+19).** The club posted its ballot-measure picks from the Oct 14 hearing, plus three new candidates.
+- Re-fetched https://sdlincolnclub.com/endorsement-committee/ at 2026-10-28 9:06 AM PDT (16:06Z): `sdlincolnclub-endorsement-committee-2026-10-28.md`. WordPress reports it last modified 2026-10-22 10:37 AM PDT (17:37Z).
+- **Added: measures (16).** Each `statement` quotes the page's line. The page's new "Propositions and Initiatives" section reads:
+  - "NO on Prop 1", "NO on Prop 2", "NO on Prop 3", "NO on Prop 4", "NO on Prop 5", "NO on Prop 37", "NO on Prop 38", "NO on Prop 40", "NO on Prop 44" (`endorse` / `No`);
+  - "YES on Prop 41", "YES on Prop 42", "YES on Prop 43", "YES on Prop 45" (`endorse` / `Yes`);
+  - "NO on County Measure A" (San Diego County — Measure A) and "NO on County Measure B" (San Diego County — Measure B).
+  - "NO on City of San Diego Measure M". **Flag:** the ROV lists no City of San Diego measure, and the only Measure M on the San Diego County ballot is **San Diego Unified School District — Measure M** (the school repair bond), which city voters get. The pick is filed under that subject. The club's own wording stays in `statement`.
+- **Added: candidates (3).**
+  - North County Fire Protection District Board, Division 3: Christine Ibbotson. The page says "Division 3: Christine Ibbotson".
+  - Grossmont Union High School District Board, Trustee Area 4: Charissa "Chrissy" McCullough. The page says "Charissa McCullough (Area 4)"; the ballot name is used for `choice`.
+  - Escondido Union School District Board, Trustee Area 2: Chris Ranglas. The page says "Chris Ranglas (Area 2)".
+  - All three are in ROV contests on the ballot.
+- **Changed: Prop 39.** Still Yes. Its `statement` was "YES on the California Voter Identification and Voter List Maintenance Requirements Initiative (#25-0007)" and is now "YES on Prop 39", because the page reworded the line.
+- **Removed:** nothing. The rest of the candidate list is unchanged.
+- **Voter-guide PDF:** the page now links a new Google Drive file, `1e_b4fKKa0L0pSywFKOb4v291Obu1sbS_` (fetched 9:07 AM PDT, 16:07Z): `sdlincolnclub-voter-guide-pdf-2026-10-28.md`. It matches the HTML page, including the new measures and candidates, and lists "City of San Diego Measure M NO". It was added to `attribution.sources` as a cross-check. No position cites it, so `mode` stays `scraped`.
+- **KPBS** (updated October 20, 2026 at 10:42 AM PDT, fetched 9:07 AM PDT, 16:07Z) still shows only "Proposition 39 — YES" for the club, and still lists John Franklin for Supervisor D5. It is behind the club's page; not used.
+- The WordPress posts feed is unchanged: the newest post is 2026-05-05.
+- `attribution.retrieved_at` set to 2026-10-28T16:07:40Z.
+- **Still pending:** nothing announced.

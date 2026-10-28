@@ -11,9 +11,10 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:01:40Z",
+    "retrieved_at": "2026-10-28T16:07:40Z",
     "sources": [
-      "https://sdlincolnclub.com/endorsement-committee/"
+      "https://sdlincolnclub.com/endorsement-committee/",
+      "https://drive.google.com/file/d/1e_b4fKKa0L0pSywFKOb4v291Obu1sbS_/view?usp=sharing"
     ]
   },
   "positions": [
@@ -255,6 +256,19 @@
       "stance": "endorse",
       "choice": "Cole Marting",
       "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-2/cole-marting",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christine Ibbotson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-3/christine-ibbotson",
+      "statement": "Division 3: Christine Ibbotson",
       "source": "https://sdlincolnclub.com/endorsement-committee/"
     },
     {
@@ -667,6 +681,19 @@
     },
     {
       "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-4/charissa-chrissy-mccullough",
+      "statement": "Charissa McCullough (Area 4)",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
         "title": "Coronado Unified School District Board",
         "kind": "race",
         "jurisdiction": "us/ca/san-diego-county",
@@ -675,6 +702,19 @@
       "stance": "endorse",
       "choice": "Peggy Duncan",
       "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-unified-school-district-board/peggy-duncan",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ranglas",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-school-district-board-trustee-area-2/chris-ranglas",
+      "statement": "Chris Ranglas (Area 2)",
       "source": "https://sdlincolnclub.com/endorsement-committee/"
     },
     {
@@ -703,6 +743,97 @@
     },
     {
       "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/no",
+      "statement": "NO on Prop 1",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/no",
+      "statement": "NO on Prop 2",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
+      "statement": "NO on Prop 3",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
+      "statement": "NO on Prop 4",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "NO on Prop 5",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "NO on Prop 37",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "NO on Prop 38",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
         "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
         "kind": "measure",
         "jurisdiction": "us/ca",
@@ -711,7 +842,124 @@
       "stance": "endorse",
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/yes",
-      "statement": "YES on the California Voter Identification and Voter List Maintenance Requirements Initiative (#25-0007)",
+      "statement": "YES on Prop 39",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "NO on Prop 40",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "YES on Prop 41",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "YES on Prop 42",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
+      "statement": "YES on Prop 43",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "NO on Prop 44",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "YES on Prop 45",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-a-a-transparent-accountable-modern-county-government/no",
+      "statement": "NO on County Measure A",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-b-measure-to-fund-san-diego-county-health-safety-services/no",
+      "statement": "NO on County Measure B",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-unified-school-district-measure-m-san-diego-unified-school-district-repair-student-safety-no-tax-rate-increase-measure/no",
+      "statement": "NO on City of San Diego Measure M",
       "source": "https://sdlincolnclub.com/endorsement-committee/"
     }
   ]
