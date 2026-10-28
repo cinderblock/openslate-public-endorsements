@@ -10,6 +10,11 @@
 //     [--picks picks.txt] [--apply]
 //
 // A picks file holds one "<title>=<choice>" per line ("<title>=" for a choice-less stance).
+// A choice matches when it is the same person as the adopted bundle's (OpenSlate's samePerson:
+// the page's "Shirley Weber" is the ballot spelling "Shirley N. Weber" that normalize-choices
+// wrote), so a spelling fix in the adopted bundle doesn't break the check.
+
+import { samePerson } from "../.openslate/packages/core/src/index";
 
 const PAGES = "https://cinderblock.github.io/openslate-public-endorsements";
 const args = process.argv.slice(2);
@@ -49,7 +54,9 @@ for (const pick of picks) {
     (p: { subject: Subject; choice?: string }) => p.subject.title === title,
   );
   if (hits.length === 0) throw new Error(`${adopted} has no position titled "${title}"`);
-  if (!hits.some((p: { choice?: string }) => p.choice === choice)) {
+  const matches = (c?: string) =>
+    c === choice || (c !== undefined && choice !== undefined && samePerson(c, choice));
+  if (!hits.some((p: { choice?: string }) => matches(p.choice))) {
     const have = hits.map((p: { choice?: string }) => p.choice ?? "(none)").join(" / ");
     throw new Error(`${adopted} picks ${have} for "${title}", not ${choice ?? "(none)"}`);
   }

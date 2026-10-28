@@ -1,0 +1,210 @@
+{
+  "context": {
+    "title": "Sierra Club Santa Lucia Chapter — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-luis-obispo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sierra Club Santa Lucia Chapter",
+      "uri": "https://www.sierraclub.org/santa-lucia",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-28T16:20:00Z",
+    "sources": [
+      "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-19/jimmy-panetta",
+      "statement": "\"19th District (north SLO County): Jimmy Panetta\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "\"24th District (south SLO County): Salud Carbajal\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-30/dawn-addis",
+      "statement": "\"30th District (all of SLO County except Nipomo): Dawn Addis\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-37/gregg-hart",
+      "statement": "\"37th District (Nipomo Mesa): Gregg Hart\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pismo Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/pismo-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cynthia Replogle",
+      "statement": "\"Mayor, Pismo Beach: Cynthia Replogle\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Luis Obispo Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erica A. Stewart",
+      "statement": "\"Mayor, San Luis Obispo: Erica Stewart\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Luis Obispo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emily Francis",
+      "statement": "\"City Council, San Luis Obispo: Emily Francis\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Luis Obispo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Shoresman",
+      "statement": "\"City Council, San Luis Obispo: Michelle Shoresman\"",
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Sierra Club California",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/sierra-club-california/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California Secretary of State",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Insurance Commissioner",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Board of Equalization, District 2",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.sierraclub.org/santa-lucia/november-2026-general-election-endorsements"
+    }
+  ]
+}
