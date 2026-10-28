@@ -69,3 +69,12 @@
   rest is treated as the PD's own.
 
 **Adopted by reference (2026-10-19):** these republished picks are now in `positions.json` as an `adopts` entry (SPEC §3.10) pointing at the adopted bundle's published slate: 1 from Bay Area News Group editorial board (The Mercury News & East Bay Times). Created with `bun scripts/adopt.ts`, which checks every pick against the adopted bundle.
+
+## Check 2026-10-28: American Canyon Measure P title confirmed
+
+The provisional title `American Canyon — Measure P (City Services Sales Tax)` is the
+city's own name for it. Napa County's Local Measures page
+(https://www.napacounty.gov/2470/City-of-American-Canyon---Measure-P) defers to the city,
+whose Measure P page (https://www.americancanyon.gov/Work/Elections-Central/Measure-P),
+read in a real browser on 2026-10-28 10:00 AM PDT (17:00Z), calls it "a City Services
+Sales Tax Measure" (a 1% sales tax, about $3.7 million a year). No change needed.
