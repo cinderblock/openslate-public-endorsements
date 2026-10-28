@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:48:47Z",
+    "retrieved_at": "2026-10-28T16:05:21Z",
     "sources": [
       "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/",
       "https://www.mercurynews.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
@@ -143,9 +143,9 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Yes",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
-      "statement": "Prop. 37 — Yes",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "\"Prop. 37 — No\" … \"Instead of lowering construction costs, this merely helps California home buyers take on more debt in the form of second mortgages.\"",
       "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     },
     {
@@ -269,7 +269,7 @@
       "stance": "endorse",
       "choice": "No",
       "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/no",
-      "statement": "\"Measure RTM (aka Bay Area’s Regional Transit Measure) —  No\" … \"Bay Area voters, threatened with a transportation apocalypse if they don’t approve a billion-dollar-a-year sales tax increase for public transit, should just say no.\"",
+      "statement": "\"Measure RTM — No\" … \"Bay Area voters, threatened with a transportation apocalypse if they don’t approve a billion-dollar-a-year sales tax increase for public transit, should just say no.\"",
       "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     },
     {
@@ -339,6 +339,19 @@
     },
     {
       "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Melillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/michael-melillo",
+      "statement": "\"San Jose Unified School District\" … \"Area 4 — Michael Melillo\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
         "title": "Palo Alto — Measure J (Transactions and Use Tax)",
         "kind": "measure",
         "jurisdiction": "us/ca/palo-alto",
@@ -348,6 +361,32 @@
       "choice": "No",
       "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-measure-j-transactions-and-use-tax/no",
       "statement": "\"Palo Alto\" … \"Measure J — No\" … \"However, Measure J — a forever tax written to deceive voters into funding a project whose ultimate cost isn’t even known to its backers — is not the way to do it.\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Gilroy Unified School District — Measure M (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/gilroy-unified-school-district-measure-m-school-bonds/yes",
+      "statement": "\"Gilroy Unified School District\" … \"Measure M —Yes\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Nagales",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-supervisors-district-5-short-term/mark-nagales",
+      "statement": "\"Board of Supervisors, District 5 — Mark Nagales\" … \"South San Francisco Councilman Mark Nagales’ experience serving this 150-person district, his command of policy, his attention to detail and his ability to assemble a governing majority convince us he is voters’ best option to navigate San Mateo County’s challenges.\"",
       "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     },
     {
@@ -384,6 +423,58 @@
       "stance": "endorse",
       "choice": "Laura Nakamura",
       "statement": "\"Concord\" … \"City Council District 5 — Laura Nakamura\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/no",
+      "statement": "\"Measure EE — No\" … \"But Mayor Barbara Lee’s scheme would exacerbate the problems rather than fix them.\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Arielle Fleisher",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-2/arielle-fleisher",
+      "statement": "\"Oakland Unified School District\" … \"District 2 — Arielle Fleisher\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kathryn Camp",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/kathryn-camp",
+      "statement": "\"Oakland Unified School District\" … \"District 4 — Kathryn Camp\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra Williams",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/alexandra-williams",
+      "statement": "\"Oakland Unified School District\" … \"District 6 — Alexandra Williams\"",
       "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     }
   ]

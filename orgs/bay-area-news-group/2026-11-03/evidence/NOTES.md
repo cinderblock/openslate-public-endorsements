@@ -64,3 +64,66 @@ N1 bundles created. No titles were invented.
 - Marin IJ, a BANG paper, reruns these statewide editorials under its own
   masthead. Its bundle (`marin-independent-journal`) deliberately does not
   include them.
+
+## Refresh 2026-10-28
+
+Fetched at 2026-10-28 9:04–9:05 AM PDT (16:04–16:05Z) with Windows `curl.exe`
+and a browser User-Agent. Git Bash's `curl` failed on these hosts (exit 43, no
+bytes), but `curl.exe` worked.
+
+- Cheat sheet, East Bay Times copy:
+  `eastbaytimes-endorsement-cheat-sheet-2026-10-28.md`. The page now reads
+  "UPDATED: October 27, 2026 at 4:29 PM PDT".
+- Cheat sheet, Mercury News copy:
+  `mercurynews-endorsement-cheat-sheet-2026-10-28.md`. Its endorsement text is
+  identical to the East Bay Times copy; only the share buttons, sidebar and
+  one apostrophe in the subhead differ.
+- The 10-26 editorial "Endorsement: Reject Props. 1 and 37: Californians
+  can’t borrow their way out of our housing crisis."
+  (`eastbaytimes-endorsement-props-1-37-2026-10-28.md`). It was fetched only
+  to confirm the Prop 37 change, and is not a `source`.
+- Index pages, used for discovery only: https://www.mercurynews.com/opinion/endorsements/
+  and https://www.eastbaytimes.com/opinion/endorsements/. Every November
+  editorial on them through 10-27 is reflected in the cheat sheet: Nagales,
+  Prop 5, Props 40/41/42, Wahab, OUSD, Oakland EE, Props 1/37 and Prop 3.
+
+The intro now says "Here are our recommendations, so far" and adds "per
+company policy, we do not endorse in gubernatorial races". So Governor will
+never be filled.
+
+Positions: 28 → 35.
+
+- **Changed (1):**
+  - Prop 37: Yes → **No**. The cheat sheet now reads "Prop. 37 — No", with
+    "This measure looks great on the surface. But all that glitters isn’t
+    gold." The 10-26 editorial concludes "Reject Propositions 1 and 37."
+  - The 10-19 cheat sheet had "Prop. 37 — Yes" with no blurb, and no
+    standalone editorial on it. Either the board changed its pick, or the
+    10-19 line was an error that the full editorial corrected.
+  - `choice_id` was moved from `…/yes` to `…/no`.
+- **Restated (1):** the RTM list line changed from "Measure RTM (aka Bay
+  Area’s Regional Transit Measure) — No" to "Measure RTM — No". The pick is
+  unchanged. The statement now quotes the current wording.
+- **Added (7):**
+  - San Jose Unified School District, Area 4: Michael Melillo (`San Jose
+    Unified School District Board, Trustee Area 4`).
+  - Gilroy Unified School District Measure M: Yes (`Gilroy Unified School
+    District — Measure M (School Bonds)`).
+  - San Mateo County Board of Supervisors, District 5: Mark Nagales. The
+    ballot contest is `San Mateo County Board of Supervisors, District 5
+    (Short Term)`, which is the only D5 contest on the San Mateo listing.
+  - Oakland Measure EE: No.
+  - Oakland Unified School District D2: Arielle Fleisher.
+  - Oakland Unified School District D4: Kathryn Camp.
+  - Oakland Unified School District D6: Alexandra Williams.
+- **Removed:** none. Every other position's statement is still verbatim on
+  the 10-27 page.
+- **Still pending:** the page still says "so far" and "we will add new
+  endorsements between now and Nov. 3". Re-scrape around 11-01 if there is
+  time.
+- **Marin IJ reruns:** after 10-19, the Marin IJ ran BANG's Prop 43
+  (marinij.com 2026/10/21), Prop 5 and Prop 45 (both 2026/10/22) editorials,
+  plus its own roundup on 10-23. Those belong to the
+  `marin-independent-journal` bundle's owner. Nothing was copied here.
+- All titles reuse existing subjects. Concord D1/D3/D5 still have no
+  `choice_id`, because no Contra Costa listing is loaded.
