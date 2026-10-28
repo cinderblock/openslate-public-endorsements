@@ -66,3 +66,16 @@
   if it turns out to be a republished third-party list.
 - The statewide slate matches the CAGOP's picks, but the page presents it as
   the county party's own endorsements, so it is kept.
+
+## Refresh 2026-10-28: measure titles from the county's list
+
+The seven letter-only placeholder titles now say what each measure does, written from
+the questions in Placer County Elections' "Measures to Appear on Ballot" (saved as
+`placer-measures-to-appear-on-ballot-2026-10-28.md`; the county publishes no short
+titles): Roseville A (City Council Compensation Charter Amendment), Rocklin USD D (School
+Facilities Bond, $288M), Lincoln F (One-Cent Sales Tax for City Services), Placer County
+G (Charter Amendment: Board of Supervisors Vacancies), Placer County H (Charter
+Amendment: County Executive Officer Removal), Colfax I (Streets and Infrastructure Sales
+Tax), Tahoe Truckee USD P (School Parcel Tax Renewal). No other bundle used those
+subjects. The party's picks are unchanged. placerelections.gov returned a browser error
+page on 2026-10-28; the list is on placercountyelections.gov.
