@@ -30,3 +30,22 @@
   2026). Check https://www.nfib.com/state-news/california in a browser.
 - Once fetched, add those positions here (same bundle; NFIB CA PAC and
   NFIB FedPAC are both NFIB).
+
+## Refresh 2026-10-28 (coordinator, Chrome): legislative + congressional picks
+
+nfib.com sits behind a Cloudflare check that blocked every client on 2026-10-19. In a
+real browser (Claude in Chrome) on 2026-10-28 9:30 AM PDT (16:30Z) it cleared by itself
+after a few seconds, with no interaction. Two releases were found from the California
+news index (https://www.nfib.com/state-news/california/):
+
+- **NFIB CA PAC, Oct 15:** 7 State Senate + 23 Assembly endorsements
+  (`nfib-ca-pac-legislature-2026-10-28.md`).
+- **NFIB FedPAC, Sep 29:** 8 California US House endorsements
+  (`nfib-fedpac-california-congress-2026-10-28.md`).
+
+6 → 44 positions. The statements quote each list line as printed. `normalize-choices
+--apply` wrote the ballot spellings and `choice_id`s (e.g. "Ali Macedo" →
+"Alexandra (Ali) Macedo", "David Valadao" → "David G. Valadao"). Two were checked by hand
+before `--suggested`: the release's "Kristi Bruce-Lane" is the ballot's "Kristie
+Bruce-Lane" (the only Bruce-Lane in SD 40, a typo in the release), and "Joshua Hoover" is
+the AD 7 incumbent "Josh Hoover".

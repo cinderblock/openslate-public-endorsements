@@ -11,10 +11,12 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T22:52:00Z",
+    "retrieved_at": "2026-10-28T16:33:00Z",
     "sources": [
       "https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/",
-      "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+      "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/",
+      "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/",
+      "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
     ]
   },
   "positions": [
@@ -95,6 +97,500 @@
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
       "statement": "\"PROPOSITION 45: SUPPORT—Changes state environmental law to cut red tape, expedite building process.\"",
       "source": "https://web.archive.org/web/20261010195617/https://www.nfib.com/news/press-release/nfib-announces-california-ballot-proposition-choices/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Gallagher",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/james-gallagher",
+      "statement": "\"Rep. James Gallagher (CA-01)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-5/tom-mcclintock",
+      "statement": "\"Rep. Tom McClintock (CA-05)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Kiley",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/kevin-kiley",
+      "statement": "\"Rep. Kevin Kiley (CA-06)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Lincoln",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-13/kevin-lincoln",
+      "statement": "\"Kevin Lincoln (CA-13)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vince Fong",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-20/vince-fong",
+      "statement": "\"Rep. Vince Fong (CA-20)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David G. Valadao",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/david-g-valadao",
+      "statement": "\"Rep. David Valadao (CA-22)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-23/jay-obernolte",
+      "statement": "\"Rep. Jay Obernolte (CA-23)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Desmond",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/jim-desmond",
+      "statement": "\"Jim Desmond (CA-48)\"",
+      "source": "https://www.nfib.com/news/press-release/california-small-businesses-endorse-slate-of-candidates-for-election-to-congress/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roger Niello",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-6/roger-niello",
+      "statement": "\"Senate District 06: Roger Niello\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Magsig",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-12/nathan-magsig",
+      "statement": "\"SD 12: Nathan Magsig\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Guillermo Asuncion Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-16/guillermo-asuncion-gonzalez",
+      "statement": "\"SD 16: Guillermo Gonzalez\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Seyarto",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-32/kelly-seyarto",
+      "statement": "\"SD 32: Kelly Seyarto\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhonda Shader",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-34/rhonda-shader",
+      "statement": "\"SD 34: Rhonda Shader\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Strickland",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-36/tony-strickland",
+      "statement": "\"SD 36: Tony Strickland\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristie Bruce-Lane",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/kristie-bruce-lane",
+      "statement": "\"SD 40: Kristi Bruce-Lane\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-1/heather-hadwick",
+      "statement": "\"Assembly District 01: Heather Hadwick\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dom Belza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-3/dom-belza",
+      "statement": "\"AD 03: Dom Belza\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Patterson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-5/joe-patterson",
+      "statement": "\"AD 05: Joe Patterson\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Hoover",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-7/josh-hoover",
+      "statement": "\"AD 07: Joshua Hoover\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Jariustokaeutulelei Tangipa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-8/david-jariustokaeutulelei-tangipa",
+      "statement": "\"AD 08: David Tangipa\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heath Flora",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-9/heath-flora",
+      "statement": "\"AD 09: Heath Flora\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Alanis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-22/juan-alanis",
+      "statement": "\"AD 22: Juan Alanis\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Murphy",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-27/mike-murphy",
+      "statement": "\"AD 27: Mike Murphy\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Couch",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-32/david-couch",
+      "statement": "\"AD 32 David Couch\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra (Ali) Macedo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-33/alexandra-ali-macedo",
+      "statement": "\"AD 33: Ali Macedo\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Frederick Hughes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-34/charles-frederick-hughes",
+      "statement": "\"AD 34: Charles Hughes\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Saul Ayon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-35/saul-ayon",
+      "statement": "\"AD 35: Saul Ayon\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-36/jeff-gonzalez",
+      "statement": "\"AD 36: Jeff Gonzalez\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael MacDonald",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-38/michael-macdonald",
+      "statement": "\"AD 38: Michael MacDonald\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted Nordblum",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/ted-nordblum",
+      "statement": "\"AD 42: Ted Nordblum\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Wallis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-47/greg-wallis",
+      "statement": "\"AD 47: Greg Wallis\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leticia Castillo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-58/leticia-castillo",
+      "statement": "\"AD 58: Leticia Castillo\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ed Delgado",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-60/ed-delgado",
+      "statement": "\"AD 60: Ed Delgado\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tri Ta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-70/tri-ta",
+      "statement": "\"AD 70: Tri Ta\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kate Sanchez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-71/kate-sanchez",
+      "statement": "\"AD 71: Kate Sanchez\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gracey Van Der Mark",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/gracey-van-der-mark",
+      "statement": "\"AD 72: Gracey Van Der Mark\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Davies",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-74/laurie-davies",
+      "statement": "\"AD 74: Laurie Davies\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carl DeMaio",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-75/carl-demaio",
+      "statement": "\"AD 75: Carl DeMaio\"",
+      "source": "https://www.nfib.com/news/press-release/small-business-pac-endorses-30-candidates-for-the-california-legislature/"
     }
   ]
 }
