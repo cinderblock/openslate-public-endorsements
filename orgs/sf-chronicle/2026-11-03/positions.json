@@ -11,7 +11,7 @@
       "kind": "editorial_board"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:01:14Z",
+    "retrieved_at": "2026-10-28T16:02:35Z",
     "sources": [
       "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     ]
@@ -214,6 +214,19 @@
     },
     {
       "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "No one is coming to save us, and it won’t be the wealthy who suffer. California isn’t a lab rat. Voters shouldn’t allow our state to be treated like one.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
         "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
         "kind": "measure",
         "jurisdiction": "us/ca",
@@ -236,6 +249,17 @@
       "choice": "No",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
       "statement": "In reality, it’s just another poison-pill measure aimed at killing Prop 40, the billionaire wealth tax.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "We don’t support Prop 43 because it further cements California’s broken system. But ultimately, we won’t oppose it, either.",
       "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     },
     {
@@ -598,6 +622,97 @@
     },
     {
       "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "statement": "Ellington’s roots in the district and his experience and ability to work across economic, social and political lines make him the strongest choice.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/autumn-brown-garibay",
+      "statement": "Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/tim-tung",
+      "statement": "Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/monroe-lace",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/erwin-tam",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
         "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
         "kind": "measure",
         "jurisdiction": "us/ca/sf",
@@ -711,6 +826,32 @@
       "choice": "No",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/no",
       "statement": "Everyone wants affordable housing. But Prop I is a cocktail of poison pills that will actually make San Francisco’s housing crisis worse.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "The editorial board supports the measure with the expectation that the city treat the revenue stream it will generate as temporary — and pursue more targeted ways to get distressed properties back into productive use.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/yes",
+      "statement": "The reforms Measure EE is pursuing are all normal and essential components of a strong mayor system. It’s bizarre that Oakland doesn’t already have them.",
       "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
     }
   ]

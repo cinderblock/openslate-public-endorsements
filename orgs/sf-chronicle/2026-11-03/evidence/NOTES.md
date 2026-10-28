@@ -93,3 +93,44 @@ See `orgs/grow-sf/2026-11-03/evidence/NOTES.md`, which covers:
     every other pick, so it is recorded as `endorse`.
 - SF supervisor races have no June primary (ranked-choice in November), so the top-two
   filter does not apply.
+
+## Refresh 2026-10-28
+
+Fetched https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/
+at 2026-10-28 9:02 AM PDT (16:02Z) with `curl` and a browser User-Agent. The
+page header reads "Updated Oct. 26, 2026 6:00 a.m." and still says "Showing 65
+of 65 available races". Evidence:
+`sfchronicle-california-sf-election-endorsements-2026-2026-10-28.md`. The
+10-19 capture is kept.
+
+Positions: 53 → 64.
+
+- **Unchanged:** all 53 positions from 10-19 are still on the page with the
+  same picks, and every existing `statement` is still verbatim on it.
+- **Added (11):**
+  - Prop 40: No ("Proposition 40: No"; statement from its blurb).
+  - Prop 43: `abstain`. The page says "Proposition 43: No endorsement", and
+    the blurb says "We don’t support Prop 43 … But ultimately, we won’t
+    oppose it, either." That is "No Endorsement", so per the round-2b rules
+    it is `abstain` with no choice, not `neutral`.
+  - SF Supervisor D10: Theo Ellington ("San Francisco Board of Supervisors,
+    District 10: Theo Ellington").
+  - SF Board of Education (3 seats): Phil Kim, Autumn Brown Garibay and Tim
+    Tung. One position each, all quoting "Phil Kim, Autumn Brown Garibay and
+    Tim Tung are best suited for the job."
+  - SF Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin
+    Tam. One position each. The blurb doesn't name them, so the statement
+    quotes the list line. This is the full-term contest (`San Francisco
+    Community College Board`), not the partial term, which the page doesn't
+    cover.
+  - SF Prop J: Yes.
+  - Oakland Measure EE: Yes (`Oakland — Measure EE (Governance Structure)`,
+    `us/ca/oakland`).
+- **Removed:** none.
+- **Still "Coming Soon":** Governor only. A web search on 10-28 found the
+  board's May primary endorsement of Katie Porter (who did not advance) but
+  no November governor editorial.
+- **Still no pick:** State Board of Equalization D1 and D2 ("It's
+  complicated").
+- All titles reuse existing subjects. `normalize-choices --apply` added the
+  ballot `choice_id` to the 10 new positions with a choice.
