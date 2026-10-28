@@ -43,3 +43,15 @@
   Public Utility District Board; El Dorado County Board of Supervisors,
   District 4; South Lake Tahoe City Council and South Lake Tahoe City Clerk
   (us/ca/south-lake-tahoe).
+
+## Refresh 2026-10-28: local races checked against the county's list
+
+El Dorado County Elections' "Candidates on Ballot Report" (read through Chrome; saved as
+`eldorado-candidates-on-ballot-2026-10-28.md`) confirms every local race and candidate
+here is on the Nov 3 ballot, including BOS D4 (Gina Posey vs. Ted Gaines) and EDCOE
+Trustee Area 2 (Adam Clark), which NOTES flagged as unverified, with one exception:
+**Lake Tahoe Unified School District, Area 5 (Lauri Kemper) is not on the ballot** (the
+district isn't in the report; the seat was probably uncontested), so that position was
+removed. 20 → 19 positions. Spellings stay as the other bundles write them (no listing
+covers El Dorado County yet): the ballot prints "LORI GODSEY ANZINI", "JOHN G HENSILL",
+"GANTT W MILLER", "MICHELLE ELAINE DAVIS".
