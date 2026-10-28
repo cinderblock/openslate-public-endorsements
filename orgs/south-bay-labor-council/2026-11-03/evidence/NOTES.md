@@ -79,3 +79,20 @@
   J. Lieber.
 - The Evergreen SD at-large race lists three "Sole Endorsement" picks
   (Wright, Diener, Fernandez) for a 3-seat race; all three kept.
+
+## Refresh 2026-10-28: San Benito County picks added
+
+San Benito County's Candidate List on Ballot (read through Chrome; saved as
+`sanbenito-candidate-list-on-ballot-2026-10-28.md`) confirms three of the five San Benito
+entries the 10-19 pass left out, so they're added (88 → 91 positions):
+- Hollister City Council, District 2: Brian Chavez.
+- Hollister City Council, District 3: Dolores Morales, on the ballot as "Dolores
+  Hernandez Morales" (that spelling is the `choice`; the page's wording stays in the
+  statement).
+- San Benito County Board of Supervisors, District 5 (Short Term): John Williams (the only
+  candidate; the seat is vacant).
+Gavilan Joint CCD Trustee Areas 5 (Jeanie Wallace) and 7 (Irma Gonzalez) are still left
+out: San Benito's list doesn't include Gavilan at all, and Santa Clara's doesn't list
+those areas, so neither county shows them on the ballot. New titles: the two Hollister
+council seats (`us/ca/hollister`) and the San Benito supervisor seat
+(`us/ca/san-benito-county`); no listing covers San Benito County yet.

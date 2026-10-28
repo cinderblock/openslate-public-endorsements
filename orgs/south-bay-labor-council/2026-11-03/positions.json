@@ -13,7 +13,8 @@
     "mode": "scraped",
     "retrieved_at": "2026-10-19T21:09:48Z",
     "sources": [
-      "https://www.southbaylabor.org/2026_endorsements"
+      "https://www.southbaylabor.org/2026_endorsements",
+      "https://www.sanbenitocounty-ca-cre.gov/home/showpublisheddocument/16343/639237846936770000"
     ]
   },
   "positions": [
@@ -1166,6 +1167,42 @@
       "choice": "Yes",
       "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
       "statement": "\"2026 Regional Transportation Measure — YES\"",
+      "source": "https://www.southbaylabor.org/2026_endorsements"
+    },
+    {
+      "subject": {
+        "title": "Hollister City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/hollister",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Chavez",
+      "statement": "\"Hollister City Council — District 2\" / \"Brian Chavez — Sole Endorsement\"",
+      "source": "https://www.southbaylabor.org/2026_endorsements"
+    },
+    {
+      "subject": {
+        "title": "Hollister City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/hollister",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dolores Hernandez Morales",
+      "statement": "\"Hollister City Council — District 3\" / \"Dolores Morales — Sole Endorsement\"",
+      "source": "https://www.southbaylabor.org/2026_endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Benito County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-benito-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Williams",
+      "statement": "\"San Benito County Board of Supervisors — District 5, Short Term\" / \"John Williams — Sole Endorsement\"",
       "source": "https://www.southbaylabor.org/2026_endorsements"
     }
   ]
