@@ -97,3 +97,16 @@ The catalog's ballot check found these positions on seats no ballot carries: eac
 - Pasadena Area Community College District Board, Trustee Area 7: Alton Wang. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
 
 "South Gate — Measure UUT" is the ballot's Measure SG ("SOUTH GATE FISCAL EMERGENCY STREET MAINTENANCE, YOUTH PROGRAMS, PARKS FUNDING PROTECTION MEASURE", an 8% utility users tax; https://content.lavote.gov/docs/rrcc/documents/measures-appearing-on-the-ballot-7-31-2026-lira.pdf), South Gate's only measure on the county's list. Retitled to the ballot source's subject.
+
+## Refresh 2026-10-28
+
+- **Result: no change to positions (167 → 167). The "missing page 7" gap is closed: no page 7 exists.**
+- Re-fetched https://thelafed.org/resource/lalaborvoterguide/ at 2026-10-28 9:08 AM PDT (16:08Z): `thelafed-lalaborvoterguide-2026-10-28.md`. The page was edited 2026-10-22 1:49 PM PDT (20:49Z). The edit added a Google Drive link to an English PDF of the guide and a Spanish one ("BAJA LA GUÍA DE VOTACIONES EN ESPAÑOL AQUÍ"). The embedded images are the same nine files with the same `Last-Modified` dates as before.
+- **The PDFs settle page 7.** Both downloaded 9:10–9:11 AM PDT (16:10–16:11Z): `lafed-voter-guide-pdf-2026-10-28.md`.
+  - The English file is `LA Fed Midterm Election Voter Guide 2026_10.13.pdf`: 9 pages, image-only. Its pages match the nine embedded images one for one, with no differing region in a pixel comparison: the "CRITICAL UNION VOTES" card, then the guide pages 1, 2, 3-1, 4, 5, 6-1, 8 and 9.
+  - The upload names skip from 6 to 8, but the guide itself has no page between "Three Valleys" (6-1) and "Water Replenishment" (8). So nothing was untranscribed, and the T–W races guessed at on 10-19 (Torrance, Walnut and so on) aren't in the guide.
+  - The Spanish file is `[SPANISH] LA Fed Midterm Election Voter Guide 2026_10.22.pdf`, a translation in the same nine-page layout. The pages read in full (the federal and legislative page, and the statewide measures) carry the same picks. A transcribed excerpt is in the evidence file.
+- The English PDF's Drive URL was added to `attribution.sources`. No position cites it: positions keep their image-URL sources, and `mode` stays `transcribed`.
+- **Other probes:** `...-GUIDE-7*.jpg` variants and `-10.jpg` return 404, and WP media 4834/4837 still return 401. The two newest uploads (2026-10-22) are an MLK Day 2027 flyer and a "No Robo Bosses" rally photo, with no endorsements. HEAD requests to the uploads now return 404 even for files that exist, so use GET.
+- `attribution.retrieved_at` set to 2026-10-28T16:11:03Z.
+- **Still pending:** nothing. The printed-spelling flags above (Cynthina Romo, Chris Trunkey, Gustavo Camaco and the rest) still stand; the PDF prints the same names.

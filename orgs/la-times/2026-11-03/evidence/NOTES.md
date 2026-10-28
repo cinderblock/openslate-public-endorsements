@@ -27,3 +27,10 @@
    before Nov 3, this bundle needs a refresh.
 2. `context.jurisdiction` is `us/ca/los-angeles-county` (the paper's home
    market), though its one pick is statewide.
+
+## Refresh 2026-10-28
+
+- **Result: no change (1 → 1).** No Nov 2026 picks beyond No on Prop 40. `attribution.retrieved_at` updated to 2026-10-28T16:05:45Z.
+- Re-fetched https://www.latimes.com/topic/editorials at 2026-10-28 9:05 AM PDT (16:05Z): `latimes-topic-editorials-2026-10-28.md`. The "Latest" list is unchanged: the Sept 6 Prop. 40 editorial, then nothing newer than March 2025.
+- Also checked at the same time: https://www.latimes.com/opinion and https://www.latimes.com/topic/endorsements (the Opinion landing). Every 2026-10 opinion story linked there (Oct 16–28) is a column or op-ed. None is a "Times Editorial" or a ballot recommendation. A web search for Times editorial-board endorsements for November 2026 found nothing new.
+- **Still pending:** nothing announced. The paper isn't running a slate this year.

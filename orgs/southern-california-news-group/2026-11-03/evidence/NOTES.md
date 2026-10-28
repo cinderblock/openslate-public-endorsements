@@ -94,3 +94,11 @@
    counties.
 3. The roundup says "This list will be constantly updated." Refresh
    before Nov 3.
+
+## Refresh 2026-10-28
+
+- **Result: no change to positions (73 → 73).** Only `attribution.retrieved_at` moved, to 2026-10-28T16:04:38Z.
+- **Roundup** re-fetched 2026-10-28 9:02 AM PDT (16:02Z) with curl: `scng-endorsements-roundup-nov-3-2026-2026-10-28.md`. It now says "UPDATED: October 20, 2026 at 2:31 AM PDT" (`dateModified` 2026-10-20T09:31:04Z). The only change since the Oct 15 version is one added line, "68th Assembly District: David Penaloza", which the bundle already had from the Oct 4 editorial (its `source` stays that editorial). Nothing was removed. It still says "This list will be constantly updated" and "More will be published over the coming days."
+- **Proposition summary** (Oct 20, "2026 Election: California Ballot proposition endorsements from our opinion team could help make tough choices"), fetched 9:04 AM PDT (16:04Z): `scng-proposition-endorsements-summary-2026-10-28.md`. All 14 picks match the roundup. Supporting only, not cited.
+- **Newer editorials: none.** Checked 9:03–9:04 AM PDT (16:03–16:04Z) with curl: `/opinion/endorsements/` and `/page/2/` on ocregister.com, dailynews.com, presstelegram.com, sbsun.com, dailybulletin.com, dailybreeze.com, sgvtribune.com, whittierdailynews.com, pasadenastarnews.com and redlandsdailyfacts.com, plus `/page/3/` on ocregister.com and dailynews.com, and `/opinion/editorials/` on ocregister.com, dailynews.com, sbsun.com and presstelegram.com. The newest endorsement article on any of them is "Endorsement: Yes on Proposition 39" (Oct 15), apart from the Oct 20 prop summary. Editorials after Oct 15 (high-speed rail, the midterms, a dam report) make no ballot picks. pe.com returns 404 for `/opinion/endorsements/` and `/opinion/editorials/`; its pieces run on the sister sites above.
+- **Still pending:** the roundup still promises more endorsements. With six days left, a last check on Nov 1–2 could catch late additions.
