@@ -145,3 +145,10 @@ one addition, **Senate D10: Scott Sakakihara** (SOS-certified finalist vs.
 Linda R. Price). Senate D2 Damon Connolly only moved within the list. No other
 changes. The page still says it "will be updated as endorsements are finalized".
 83 → 84 positions.
+
+## Refresh 2026-10-28 (coordinator, Chrome)
+
+Re-read https://www.sierraclub.org/sfbay/2026-endorsements in a real browser on
+2026-10-28 9:15 AM PDT (16:15Z). The list is identical to the 2026-10-19 capture
+(`sc-sfbay-2026-endorsements-2026-10-19.md`), line for line; nothing added, changed
+or removed. The page still says it "will be updated as endorsements are finalized".
