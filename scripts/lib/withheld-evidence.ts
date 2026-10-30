@@ -91,7 +91,9 @@ export function lfBytes(bytes: Buffer): Buffer {
 export const sha256 = (bytes: Buffer) => createHash("sha256").update(bytes).digest("hex");
 
 function filesIn(dir: string, root = dir): string[] {
-  return readdirSync(dir, { withFileTypes: true }).flatMap((item) => {
+  const items = readdirSync(dir, { withFileTypes: true });
+  items.sort((x, y) => x.name.localeCompare(y.name));
+  return items.flatMap((item) => {
     const full = join(dir, item.name);
     return item.isDirectory() ? filesIn(full, root) : [relative(root, full).split(sep).join("/")];
   });
@@ -104,12 +106,12 @@ export interface Found {
   files: string[];
 }
 
-/** Every bundle's parsed positions.json, by "<slug>/<election>". */
+/** Every bundle's parsed positions.json, by "<slug>/<election>", sorted: file order varies by OS. */
 function readBundles(orgs: string): Map<string, Bundle> {
   const bundles = new Map<string, Bundle>();
-  for (const slug of readdirSync(orgs)) {
+  for (const slug of readdirSync(orgs).sort()) {
     if (!existsSync(join(orgs, slug, "meta.yaml"))) continue;
-    for (const election of readdirSync(join(orgs, slug))) {
+    for (const election of readdirSync(join(orgs, slug)).sort()) {
       const path = join(orgs, slug, election, "positions.json");
       if (existsSync(path)) {
         bundles.set(`${slug}/${election}`, JSON.parse(readFileSync(path, "utf8")) as Bundle);
