@@ -134,3 +134,12 @@ Positions: 53 → 64.
   complicated").
 - All titles reuse existing subjects. `normalize-choices --apply` added the
   ballot `choice_id` to the 10 new positions with a choice.
+
+## Refresh 2026-10-30
+
+Re-read the page in Chrome on 2026-10-30 9:40 AM PDT (16:40Z); header "Updated Oct. 28, 2026 2:16 p.m.".
+Compared race by race against the 10-28 capture: the only change is **Governor**, now Xavier
+Becerra (was "Coming Soon"), under "Why we're endorsing", so `endorse` even though the write-up
+is lukewarm. Full editorial: https://www.sfchronicle.com/opinion/editorials/article/endorsement-california-governor-race-22494871.php
+No pick still: State Board of Equalization D1 and D2 ("It's complicated"). No page text saved
+for this refresh; the record is this note and the quote in the position.
