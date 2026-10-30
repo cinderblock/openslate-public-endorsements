@@ -1,0 +1,456 @@
+{
+  "context": {
+    "title": "Santa Cruz Sentinel — November 3, 2026 general election endorsements",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Cruz Sentinel (editorial board)",
+      "uri": "https://www.santacruzsentinel.com/opinion/endorsements/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T16:46:30Z",
+    "sources": [
+      "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure D (Onshore Support Facilities for Offshore Oil, Gas and Deep-Sea Mining)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure D: Require Voter Approval for Deep-Sea Mining Land Use. Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure E (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure E: Levy Supplemental Sales and Use Tax ... Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley — Measure G (Transient Occupancy Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Scotts Valley Measure G ... Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Soquel Union Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ariel Gray",
+      "statement": "Trustee Area 4: Ariel Gray.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "San Lorenzo Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Levine",
+      "statement": "Trustee Area 4: Gail Levine.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Goldenkranz",
+      "statement": "Trustee Area 1: Andrew Goldenkranz.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Trustee Area 4: No choice.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alicia G Jiménez",
+      "statement": "Trustee Area 5: Alicia Jimenez.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Pajaro Valley Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Misty Navarro",
+      "statement": "Trustee Area 7: Misty Navarro.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Cogswell",
+      "statement": "Trustee Area 6: Karen Cogswell.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Coonerty",
+      "statement": "Santa Cruz Mayor: Ryan Coonerty.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Danny Reber",
+      "statement": "Danny Reber.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tory Del Favero",
+      "statement": "Tory Del Favero, TJ Welch and Cami Corvin.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Troy \"TJ\" Welch Jr",
+      "statement": "Tory Del Favero, TJ Welch and Cami Corvin.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cami Corvin",
+      "statement": "Tory Del Favero, TJ Welch and Cami Corvin.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Casey Clark",
+      "statement": "District 5: Casey Clark.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Bilicich",
+      "statement": "District 7: Nancy Bilicich.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "1: Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "2: Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "3: Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "5: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "37: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "38: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "39: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "40: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "41: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "42: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "43: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "44: No.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "45: Yes.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "4: Neutral.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-28/gail-pellerin",
+      "statement": "Assembly District 28: Gail Pellerin (D, incumbent).",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-29/robert-rivas",
+      "statement": "Assembly District 29: Robert Rivas (D, incumbent).",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-30/dawn-addis",
+      "statement": "Assembly District 30: Dawn Addis (D, incumbent).",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-19/jimmy-panetta",
+      "statement": "19th District: Jimmy Panetta.",
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    }
+  ]
+}
