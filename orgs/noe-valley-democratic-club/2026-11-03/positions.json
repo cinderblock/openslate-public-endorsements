@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:16:33Z",
+    "retrieved_at": "2026-10-30T17:18:02Z",
     "sources": [
       "https://www.noevalleydemocrats.org/endorsements"
     ]
@@ -39,6 +39,28 @@
       "stance": "endorse",
       "choice": "Matt Haney",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "source": "https://www.noevalleydemocrats.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"SFUSD Board of Education Commissioner\" … \"No Endorsement\"",
+      "source": "https://www.noevalleydemocrats.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"City College of San Francisco Trustee (Full Term)\" … \"No Endorsement\"",
       "source": "https://www.noevalleydemocrats.org/endorsements"
     },
     {
