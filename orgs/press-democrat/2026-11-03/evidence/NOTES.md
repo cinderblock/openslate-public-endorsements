@@ -78,3 +78,10 @@ city's own name for it. Napa County's Local Measures page
 whose Measure P page (https://www.americancanyon.gov/Work/Elections-Central/Measure-P),
 read in a real browser on 2026-10-28 10:00 AM PDT (17:00Z), calls it "a City Services
 Sales Tax Measure" (a 1% sales tax, about $3.7 million a year). No change needed.
+
+## Refresh 2026-10-30
+
+Re-fetched the roundup with curl on 2026-10-30 9:38 AM PDT (16:38Z). Its header still says updated
+Oct 13, but it now lists **Prop 45: No** (editorial 10-21:
+https://www.pressdemocrat.com/2026/10/21/endorsement-no-on-prop-45-leave-states-landmark-environmental-review-law-alone/).
+Everything else matches the bundle. No page text saved for this refresh.
