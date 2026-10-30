@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T22:12:28Z",
+    "retrieved_at": "2026-10-30T16:48:10Z",
     "sources": [
       "https://www.aclunorcal.org/vote/"
     ]
@@ -28,6 +28,136 @@
       "choice": "No",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
       "statement": "\"Prop 39 Fast Facts\" … \"Vote NO on Prop 39.\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"YES on PROP 1 — Authorizes bonds for housing affordability programs\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"YES on PROP 3 — Provides permanent funding for schools and healthcare by extending existing tax on high incomes.\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"YES on PROP 4 — Repeals prohibition against public funding of election campaigns\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"NO on PROP 41 — Prohibits new state taxes that exclude revenues from state spending limit. Requires audits for new state special taxes.\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"NO on PROP 42 — Prohibits new state personal property taxes and certain retroactive state taxes\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"NO on PROP 43 — Limits voters’ ability to raise revenue for local government services.\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "Los Altos — Measure D (Citizen-Sponsored Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-altos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/los-altos-measure-d-citizen-sponsored-initiative/no",
+      "statement": "\"NO on Los Altos Measure D\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-measure-p-citizen-initiative-to-amend-municipal-code/no",
+      "statement": "\"NO on Menlo Park Measure P\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "\"NO on San Francisco Measure F\"",
+      "source": "https://www.aclunorcal.org/vote/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County — Measure U (Charter Amendment Measure – Reapportionment of Supervisorial Districts)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-measure-u-charter-amendment-measure-reapportionment-of-supervisorial-districts/yes",
+      "statement": "\"YES on San Mateo County Measure U\"",
       "source": "https://www.aclunorcal.org/vote/"
     }
   ]
