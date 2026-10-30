@@ -38,3 +38,8 @@ All are on the general ballot in the listed district.
   recorded.
 - Statements quote the card's name and office label, case as on the page
   (e.g. "assembly district 16").
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.calfac.org/politics/endorsements/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `calfac-endorsements-2026-10-30.md`. Two additions: AD 70 Paula Swift and
+AD 72 Chris Kluwe. Everything else matches.
