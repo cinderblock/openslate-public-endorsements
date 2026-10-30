@@ -2,12 +2,14 @@
 // Assemble dist/ for GitHub Pages from the source tree plus the artifacts
 // produced by `openslate sign --batch` (signed.slate + ./index.json). Each
 // catalog entry also gets the org's logo and lean (scripts/catalog-extras.ts),
-// and a page for what it was built from (scripts/evidence-page.ts).
+// and a page for what it was built from (scripts/evidence-page.ts), with capture details when
+// the capture repo is reachable (scripts/lib/provenance.ts).
 
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { catalogExtras } from "./catalog-extras";
 import { evidenceFiles, evidencePage } from "./evidence-page";
+import { provenanceRoot, readProvenance } from "./lib/provenance";
 
 const ROOT = process.cwd();
 const DIST = join(ROOT, "dist");
@@ -89,12 +91,15 @@ for (const entry of catalog.entries) {
 const extras = catalogExtras(ROOT, bundleEntries);
 // Each bundle's evidence/ (copied with orgs/ above) gets an index page.
 const evidence = new Map<string, string>();
+const captures = await provenanceRoot();
+console.log(captures ? "capture details: found" : "capture details: not available, skipped");
 for (const entry of catalog.entries) {
   const folder = join("orgs", entry.slug, entry.election, "evidence");
   if (!existsSync(join(ROOT, folder))) continue;
   const files = evidenceFiles(join(ROOT, folder));
   if (files.length === 0 || files.some((f) => f.path === "index.html")) continue;
-  await Bun.write(join(DIST, folder, "index.html"), evidencePage(entry, files));
+  const provenance = captures ? readProvenance(captures, entry.slug, entry.election) : null;
+  await Bun.write(join(DIST, folder, "index.html"), evidencePage(entry, files, provenance));
   evidence.set(`${entry.slug}/${entry.election}`, `orgs/${entry.slug}/${entry.election}/evidence/`);
 }
 const withExtras = <T extends IndexEntry>(entry: T): T => {
