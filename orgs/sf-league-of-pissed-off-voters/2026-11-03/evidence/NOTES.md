@@ -93,3 +93,15 @@ See `orgs/grow-sf/2026-11-03/evidence/NOTES.md`, which covers:
 - RTM,
 - the sf.gov prop titles,
 - the SoS prop-title check, which found no discrepancies.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.theleaguesf.org/ on 2026-10-30 10:18 AM PDT (17:18Z). The guide's picks are unchanged, so the saved evidence still applies.
+
+- Added 16 `abstain` positions for the lines the "Skipped" section above left out under its old
+  named-picks-only rule: Governor, Lt Governor, Controller, Treasurer, Attorney General, CD-15, AD-17,
+  AD-19, Supervisor D2, D4 and D6, City College Partial Term, BART D8, SF Prop G, and Props 2 and 37.
+  Each `statement` is the guide's own line ("stablization" in Prop 2 is the guide's spelling).
+- This replaces "No position is recorded" in the Attorney General entry above.
+- The names flagged by the change sweep (Wiener, Dorsey, Ellington, Phil Kim, Tim Tung, Haney, Stefani,
+  Pimentel, Ma) appear only in the guide's write-ups, as candidates it doesn't endorse.

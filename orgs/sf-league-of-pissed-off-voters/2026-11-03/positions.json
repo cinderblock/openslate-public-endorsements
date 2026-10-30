@@ -11,13 +11,35 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:09:56Z",
+    "retrieved_at": "2026-10-30T17:18:02Z",
     "sources": [
       "https://www.theleaguesf.org/",
       "https://www.theleaguesf.org/november_2026_endorsements"
     ]
   },
   "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Governor: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Lieutenant Governor: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
     {
       "subject": {
         "title": "California Secretary of State",
@@ -28,6 +50,39 @@
       "stance": "endorse",
       "choice": "Shirley N. Weber",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "State Controller: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "State Treasurer: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Attorney General: No Endorsement",
       "source": "https://www.theleaguesf.org/"
     },
     {
@@ -80,6 +135,39 @@
     },
     {
       "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "US Congress, District 15: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "State Assembly, District 17: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "State Assembly, District 19: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
         "title": "San Francisco Public Defender",
         "kind": "race",
         "jurisdiction": "us/ca/sf",
@@ -100,6 +188,39 @@
       "stance": "endorse",
       "choice": "Joaquin Torres",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Supervisor, District 2: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Supervisor, District 4: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Supervisor, District 6: No Endorsement",
       "source": "https://www.theleaguesf.org/"
     },
     {
@@ -216,6 +337,28 @@
       "stance": "endorse",
       "choice": "Bunny McFadden",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/bunny-mcfadden",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "City College Board of Trustees Partial Term: No Endorsement",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "BART Board, District 8: No Endorsement",
       "source": "https://www.theleaguesf.org/"
     },
     {
@@ -467,6 +610,17 @@
     },
     {
       "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Prop G: Great Highway compromise: No Position",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
         "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
         "kind": "measure",
         "jurisdiction": "us/ca/sf",
@@ -539,6 +693,17 @@
     },
     {
       "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Prop 2: Budget stablization and expand rainy day fund: No position",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
         "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
         "kind": "measure",
         "jurisdiction": "us/ca",
@@ -574,6 +739,17 @@
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
       "statement": "Prop 5: State recall reform: Hell Yes!",
+      "source": "https://www.theleaguesf.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Prop 37: $25B bond for new home buyers: No position",
       "source": "https://www.theleaguesf.org/"
     },
     {
