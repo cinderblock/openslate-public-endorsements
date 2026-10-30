@@ -42,3 +42,12 @@ November 2026"), fetched 2026-10-15T01:07:05Z.
   Nguyen" is kept; the ballot name is Michael T. Nguyen.
 - The page's own labels for the state props (e.g. "Prop 43 – Local Special
   Taxes", "Prop 44 – Clinic Spending") are consistent with the SOS titles.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.milkclub.org/endorsements on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `milkclub-endorsements-2026-10-30.md`.
+
+- Added 3 positions that weren't on the page on Oct 15: Oakland Mayor Barbara Lee, Oakland City Council
+  D2 Charlene Wang, and "Yes on Z - Berkeley Public Bank Measure" (Berkeley Measure Z). They're outside
+  SF, so this bundle now covers two other cities.
+- Everything else matches the bundle.
