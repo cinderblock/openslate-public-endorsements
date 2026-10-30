@@ -452,5 +452,40 @@
       "statement": "19th District: Jimmy Panetta.",
       "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
     }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Bay Area News Group editorial board (The Mercury News & East Bay Times)",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/bay-area-news-group/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Lieutenant Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Insurance Commissioner",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.santacruzsentinel.com/2026/10/28/endorsements-editorial-board-recommendations-for-nov-3/"
+    }
   ]
 }
