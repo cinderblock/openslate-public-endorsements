@@ -146,8 +146,11 @@ ${known.map(({ label, says }) => `            <li>${label}: ${says}</li>`).join(
 function archivedLine(source: SourceProvenance): string {
   const archived = source.archived;
   if (!archived || !/^https?:\/\//i.test(archived.url)) return "";
+  const found = archived.statements
+    ? `: ${archived.statements.found} of ${archived.statements.of} statements found in it`
+    : "";
   return `
-          <p class="meta"><a href="${escape(archived.url)}">Internet Archive copy</a></p>`;
+          <p class="meta"><a href="${escape(archived.url)}">Internet Archive copy</a>${found}</p>`;
 }
 
 function sourceRow(source: SourceProvenance): string {
