@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:08:27Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://www.hrc.org/lets-get-free-house-elections",
       "https://www.hrc.org/lets-get-free-state-elections",
@@ -19,6 +19,19 @@
     ]
   },
   "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Mike McGuire (D-California-1)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
     {
       "subject": {
         "title": "US House of Representatives, California District 2",
@@ -277,6 +290,19 @@
       "choice": "Raul Ruiz",
       "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-25/raul-ruiz",
       "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Raul Ruiz (D-California-25)\".",
+      "source": "https://www.hrc.org/lets-get-free-house-elections"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-26/jacqui-irwin",
+      "statement": "Listed under \"Other Races in the 2026 Election\", U.S. House of Representatives: \"Jacqui Irwin (D-California-26)\".",
       "source": "https://www.hrc.org/lets-get-free-house-elections"
     },
     {

@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "transcribed",
-    "retrieved_at": "2026-10-19T21:43:26Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://orangecountydemocrats.com/oc-endorsements-2",
       "https://orangecountydemocrats.com/statewide-endorsements"
@@ -1043,6 +1043,19 @@
       "choice": "Sue Kempf",
       "choice_id": "oc-registrar-of-voters:2026-11-03/laguna-beach-city-council/sue-kempf",
       "statement": "\"Laguna Beach City Council\" — \"Sue Kempf\"",
+      "source": "https://orangecountydemocrats.com/oc-endorsements-2"
+    },
+    {
+      "subject": {
+        "title": "Laguna Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/laguna-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Orgill",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/laguna-beach-city-council/mark-orgill",
+      "statement": "\"Laguna Beach City Council\" — \"Mark Orgill\"",
       "source": "https://orangecountydemocrats.com/oc-endorsements-2"
     },
     {

@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:11:43Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://laforwardguide.org/",
       "https://laforwardguide.org/districts/burbank-usd",
@@ -71,7 +71,8 @@
       "https://laforwardguide.org/guide/statewide-offices",
       "https://laforwardguide.org/guide/the-city-of-huntington-park",
       "https://laforwardguide.org/guide/west-covina",
-      "https://laforwardguide.org/guide/west-hollywood"
+      "https://laforwardguide.org/guide/west-hollywood",
+      "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
     ]
   },
   "positions": [
@@ -1710,18 +1711,6 @@
     },
     {
       "subject": {
-        "title": "South Pasadena City Council, District 4",
-        "kind": "race",
-        "jurisdiction": "us/ca/south-pasadena",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Nevin Stanton-Trehan",
-      "choice_id": "la-county-registrar:2026-11-03/south-pasadena-city-council-district-4/nevin-stanton-trehan",
-      "source": "https://laforwardguide.org/guide/south-pasadena"
-    },
-    {
-      "subject": {
         "title": "California State Assembly, District 34",
         "kind": "race",
         "jurisdiction": "us/ca/ad-34",
@@ -2401,6 +2390,279 @@
       "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
       "statement": "We recommend you vote for her, along with Helen Krieger, and Stephen Post.",
       "source": "https://laforwardguide.org/guide/west-hollywood"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Colin D. Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/colin-d-hernandez",
+      "statement": "His campaign is a long shot but we’re far too disappointed with Zbur on a wide range of policy and political matters to let him get a pass.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Michelle C. Kim",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-michelle-c-kim/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Gregory J. Weingart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gregory-j-weingart/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Steve Goorvitch",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-steve-goorvitch/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Anne Richardson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-anne-richardson/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Rashida A. Adams",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-rashida-a-adams/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Mark Hanasono",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-mark-hanasono/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Helen Zukin",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-helen-zukin/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Audra M. Mori",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-audra-m-mori/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Nicholas Daum",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-nicholas-daum/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Armen Tamzarian",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-armen-tamzarian/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Brian M. Hoffstadt",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-brian-m-hoffstadt/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Tari L. Cody",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-tari-l-cody/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Kenneth R. Yegan",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-kenneth-r-yegan/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Gonzalo C. Martinez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gonzalo-c-martinez/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Natalie Stone",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-natalie-stone/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice John Wiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-john-wiley/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Matthew A. Scherb",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-matthew-a-scherb/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Victor G. Viramontes",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-victor-g-viramontes/yes",
+      "statement": "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
     }
   ]
 }

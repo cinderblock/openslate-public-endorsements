@@ -11,9 +11,10 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:26:16Z",
+    "retrieved_at": "2026-10-30T17:22:07Z",
     "sources": [
-      "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+      "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/",
+      "https://www.marinij.com/2026/10/30/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
     ]
   },
   "positions": [
@@ -415,6 +416,89 @@
       "choice": "Yes",
       "statement": "\"CC – Hospital tax: Yes\"",
       "source": "https://www.marinij.com/2026/10/16/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Bay Area News Group editorial board (The Mercury News & East Bay Times)",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/bay-area-news-group/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Insurance Commissioner",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.marinij.com/2026/10/30/marin-ij-editorial-board-endorsements-for-the-nov-3-election/"
     }
   ]
 }

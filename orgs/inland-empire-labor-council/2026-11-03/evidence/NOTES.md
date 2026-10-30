@@ -67,3 +67,9 @@
   Rabb".
 - Invented local titles are shared with the riverside-county-democratic-party
   and san-bernardino-county-democratic-party bundles.
+
+## Refresh 2026-10-30
+
+Re-fetched https://ielabor.org/cope/2026generalendorsements/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `ielabor-2026-general-endorsements-2026-10-30.md`. One addition:
+**Insurance Commissioner: Jane Kim** (the 10-19 page had no pick). Everything else matches; Kelvin Moore
+(West Valley Water) stays skipped.

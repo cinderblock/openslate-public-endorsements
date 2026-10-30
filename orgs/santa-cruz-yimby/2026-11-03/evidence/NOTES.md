@@ -40,3 +40,10 @@ https://yimbyaction.org/endorsements/november-2026-california-general)
 - No "Sacramento YIMBY" section exists in that guide (see the G2 final report).
 - Title `Capitola City Council` (us/ca/capitola) is shared with the Santa Cruz
   Dems and GOP bundles.
+
+## Refresh 2026-10-30
+
+Re-read the chapter page on 2026-10-30 9:48 AM PDT (16:48Z). Peter Wilk is unchanged and is still the only local pick. The
+chapter page now also lists Prop 45 "No consensus", the same YIMBY Action statewide line as the others in the
+republished list above, so it is not copied. The new `orgs/yimby-action/` bundle holds all of those picks, so they can be
+adopted from there.

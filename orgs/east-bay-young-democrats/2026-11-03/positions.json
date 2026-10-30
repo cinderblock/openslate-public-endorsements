@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:16:53Z",
+    "retrieved_at": "2026-10-30T16:48:10Z",
     "sources": [
       "https://www.ebyd.org/endorsements"
     ]
@@ -610,6 +610,26 @@
       "choice": "Yes",
       "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ff-transfer-tax-on-foreclosures/yes",
       "statement": "EBYD recommends a YES vote on all five of the following measures: ... YES on Measure FF",
+      "source": "https://www.ebyd.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Regional ... YES on Measure RTM",
       "source": "https://www.ebyd.org/endorsements"
     }
   ]

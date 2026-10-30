@@ -50,3 +50,24 @@
   endorsement sentence.
 - "Millbrae City Council, District 3" is the short-term contest on the ballot,
   recorded as `Millbrae City Council, District 3 (Short Term)`.
+
+## Refresh 2026-10-30
+
+Re-read the summary editorial and the editorials list on 2026-10-30 9:48-9:51 AM PDT (16:48-16:51Z). The
+summary is now dated Oct 28, 2026 and is much longer. Bodies are ROT47-encoded as before. No page text
+saved for this refresh.
+
+Added 30 positions, from the summary unless noted:
+
+- San Carlos City Council (3 seats): Sara McDowell, Adam Rak, Pranita Venkatesh.
+- Yes: Regional Transit Measure, San Mateo F and H, San Carlos G, San Bruno S, SMCCCD V,
+  San Mateo-Foster City SD W, County J and U.
+- No: San Bruno DD, County L and AA. AA's statement comes from
+  "Editorial: Yes on measures J and U, no on measures L and AA" (Oct 28).
+- Yes on Belmont Measure Y, from "Editorial: Yes on Measure Y" (Oct 28). It isn't in the summary list.
+- State props: Yes on 1, 2, 3, 37. No on 4, 5, 38, 39, 40, 41, 42, 43, 44, 45. This replaces the
+  "no proposition endorsements" line above.
+
+Earlier picks all stand. Half Moon Bay council picks are still only in their own Oct 2 editorial. The
+flagged names are not picks: Seema Patel, Jen Faber and Taso Zografos appear in headlines and letters
+about their races, and Ron Kies is the candidate running against Ruddock.

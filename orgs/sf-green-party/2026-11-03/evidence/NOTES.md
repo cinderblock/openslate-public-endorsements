@@ -34,3 +34,14 @@
 
 All candidates are on the SF Department of Elections qualified list
 (https://www.sf.gov/candidates-november-3-2026-general-election).
+
+## Refresh 2026-10-30
+
+Re-fetched https://sfgreenparty.org/endorsements/123-november-2026-endorsements on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `sfgreenparty-november-2026-endorsements-2026-10-30.md`.
+
+- The page now says "final endorsements", and the full Green Voter Guide is posted on it.
+- Added: Supervisor D6 "no endorsement", as `abstain`.
+- Reworded on the page, so the statements were updated with no change of stance: Congress no longer says
+  "(endorsed in the primary)", and G now says "no position" instead of "no endorsement".
+- All other picks match. Scott Wiener is named only as the opponent. The guide says of Laurance Lee "we
+  are not endorsing him this time".

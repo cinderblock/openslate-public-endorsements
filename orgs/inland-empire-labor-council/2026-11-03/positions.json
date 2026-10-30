@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:19:40Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://ielabor.org/cope/2026generalendorsements/"
     ]
@@ -93,6 +93,19 @@
       "choice": "Eleni Kounalakis",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
       "statement": "\"Eleni Kounalakis (D) — Treasurer\"",
+      "source": "https://ielabor.org/cope/2026generalendorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "\"Jane Kim\" — \"Insurance Commissioner\"",
       "source": "https://ielabor.org/cope/2026generalendorsements/"
     },
     {

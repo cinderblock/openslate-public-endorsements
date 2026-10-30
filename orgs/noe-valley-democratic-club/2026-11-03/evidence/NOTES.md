@@ -32,3 +32,12 @@ page closer to the election in case the club announces a D8 pick.
   the original listing is in the statement.
 - The SF measure and RTM titles follow the alice-b-toklas-club bundle (see
   its NOTES).
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.noevalleydemocrats.org/endorsements on 2026-10-30 10:18 AM PDT (17:18Z). The page is unchanged, so the saved evidence still applies.
+
+- Added 2 `abstain` positions for lines the "Skipped" section above left out: SFUSD Board of Education
+  and City College Trustee (Full Term), both "No Endorsement".
+- "Supervisor, District 8 — To Be Announced" is still not recorded: it isn't a decline, and the club
+  hasn't announced a pick.

@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-20T03:55:41Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://www.calfac.org/politics/endorsements/"
     ]
@@ -1328,6 +1328,32 @@
       "choice": "Josh Lowenthal",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-69/josh-lowenthal",
       "statement": "Listed under \"CALIFORNIA ASSEMBLY\": \"Josh Lowenthal\", \"Assembly district 69\".",
+      "source": "https://www.calfac.org/politics/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paula Swift",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-70/paula-swift",
+      "statement": "Listed under \"ENDORSED CANDIDATES\", \"CALIFORNIA ASSEMBLY\": \"Dr Paula Swift\", \"Assembly district 70\".",
+      "source": "https://www.calfac.org/politics/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/chris-kluwe",
+      "statement": "Listed under \"ENDORSED CANDIDATES\", \"CALIFORNIA ASSEMBLY\": \"Chris Kluwe\", \"Assembly district 72\".",
       "source": "https://www.calfac.org/politics/endorsements/"
     },
     {

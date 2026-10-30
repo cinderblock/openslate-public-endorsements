@@ -45,3 +45,12 @@ Sutherland").
 - "Tiburon council" -> Town of Tiburon Town Council; "Ross council" -> Town of
   Ross Town Council; "Corte Madera council" -> existing "Corte Madera Town
   Council"; "Fairfax council" -> Fairfax Town Council.
+
+## Refresh 2026-10-30
+
+The board reposted its roundup on Oct 30, 2026 (6:45 AM PDT); checked 2026-10-30 9:38 AM PDT (16:38Z). Its
+local picks match this bundle. The page points to Bay Area News Group for state picks, and the IJ ran 12 of
+BANG's editorials under BANG's byline (Treasurer, Insurance Commissioner, Superintendent, Props 1, 3, 5, 37,
+38, 39, 43, 44, 45), confirmed article by article, so those are adopted (SPEC §3.10). Two state editorials
+ran under the SCNG board's byline (Prop 4, Prop 40). Neither is adopted: BANG's and SCNG's are different
+boards, and the roundup points only to BANG. No page text saved for this refresh.

@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:39:47Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://ocbc.org/government-affairs/bizpac/"
     ]
@@ -41,6 +41,19 @@
       "choice": "Derek Tran",
       "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
       "statement": "\"Derek Tran\" — \"United States House of Representatives, 45th District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-46/lou-correa",
+      "statement": "\"Lou Correa\" — \"United States House of Representatives, 46th District\"",
       "source": "https://ocbc.org/government-affairs/bizpac/"
     },
     {
@@ -149,6 +162,19 @@
     },
     {
       "subject": {
+        "title": "Santa Ana City Council, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-ana",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Bacerra",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-city-council-ward-4/phil-bacerra",
+      "statement": "\"Phil Bacerra\" — \"Santa Ana City Council, 4th Ward\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
         "title": "Costa Mesa Mayor",
         "kind": "race",
         "jurisdiction": "us/ca/costa-mesa",
@@ -201,6 +227,19 @@
     },
     {
       "subject": {
+        "title": "Coast Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Austin Edsell",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/coast-community-college-district-board-trustee-area-1/austin-edsell",
+      "statement": "\"Austin Edsell\" — \"Coast Community College District, 1st Area\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
         "title": "Lake Forest City Council, District 3",
         "kind": "race",
         "jurisdiction": "us/ca/lake-forest",
@@ -236,6 +275,19 @@
       "choice": "Carlos Leon",
       "choice_id": "oc-registrar-of-voters:2026-11-03/anaheim-city-council-district-2/carlos-leon",
       "statement": "\"Carlos Leon\" — \"Anaheim City Council, 2nd District\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Anaheim City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/anaheim",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Natalie Rubalcava",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/anaheim-city-council-district-3/natalie-rubalcava",
+      "statement": "\"Natalie Rubalcava\" — \"Anaheim City Council, 3rd District\"",
       "source": "https://ocbc.org/government-affairs/bizpac/"
     },
     {
@@ -288,6 +340,19 @@
       "choice": "Taryn Palumbo",
       "choice_id": "oc-registrar-of-voters:2026-11-03/huntington-beach-city-council/taryn-palumbo",
       "statement": "\"Taryn Palumbo\" — \"Huntington Beach City Council\"",
+      "source": "https://ocbc.org/government-affairs/bizpac/"
+    },
+    {
+      "subject": {
+        "title": "Irvine City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/irvine",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Park",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/irvine-city-council-district-1/john-park",
+      "statement": "\"John Park\" — \"Irvine City Council\"",
       "source": "https://ocbc.org/government-affairs/bizpac/"
     },
     {

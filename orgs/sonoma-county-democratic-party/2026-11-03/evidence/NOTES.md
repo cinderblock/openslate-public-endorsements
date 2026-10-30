@@ -37,3 +37,20 @@
 - No other bundle has Sonoma County local titles yet, so these are new
   ("<City> City Council, District N", "<District> Board, Area N",
   "<Jurisdiction> — Measure X (<registrar title>)").
+
+## Refresh 2026-10-30
+
+Re-fetched https://sonomademocrats.org/2026-endorsements/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `sonomademocrats-2026-endorsements-2026-10-30.md`.
+
+- All local candidates and measures match the bundle.
+- The page has a new "Statewide Ballot Propositions" section. It says "we're sharing the California
+  Democratic Party's official positions" and "Statewide positions are attributed to the California
+  Democratic Party", so these are not copied.
+
+## Republished from California Democratic Party
+
+Yes on Props 1, 2, 3, 4, 5, 37, 38, 40. No on Props 39, 41, 42, 43, 44, 45. All 14 match the
+`ca-democratic-party` bundle; adopt them by reference.
+
+Adopted by reference 2026-10-30 (SPEC §3.10): the 14 props in the page's new proposition section, which is
+the state party's list, compared pick by pick with `ca-democratic-party` first.

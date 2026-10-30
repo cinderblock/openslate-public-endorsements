@@ -104,3 +104,14 @@ New titles (no existing match):
   which match the SOS list; the page's numbers were used.
 - **Pomona D2 and Monterey Park.** I did not check these November-only
   races against the LA County registrar's list.
+
+## Refresh 2026-10-30
+
+Re-fetched https://housingactioncoalition.org/2026-endorsements on 2026-10-30 9:48 AM PDT (16:48Z). Evidence:
+`housingactioncoalition-2026-endorsements-2026-10-30.md`.
+
+- Changed: Berkeley D1 ranks flipped. Was Daria Wrubel #1, Ross Bernet #2. Now "Ross Bernet (Rank #1),
+  Daria Wrubel (Rank #2)". Rank and weight swapped to match.
+- Added: Syrak Micael, Berkeley D7. New on the page since Oct 19.
+- Everything else matches. Arambula, Tordillos and Marfatia are still on the page and stay dropped as
+  not on the November ballot (see above).

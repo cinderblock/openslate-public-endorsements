@@ -1,0 +1,154 @@
+{
+  "context": {
+    "title": "Lookout Santa Cruz — November 3, 2026 general election endorsements",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Lookout Santa Cruz (editorial board)",
+      "uri": "https://lookout.co/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T17:48:47Z",
+    "sources": [
+      "https://lookout.co/author/lookout-editorial-board/",
+      "https://lookout.co/a-lookout-view-how-we-choose-our-2026-election-endorsements/story"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Santa Cruz Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Coonerty",
+      "statement": "A Lookout View: Ryan Coonerty for Santa Cruz mayor",
+      "source": "https://lookout.co/a-lookout-view-ryan-coonerty-for-santa-cruz-mayor-2/story"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Casey Clark",
+      "statement": "A Lookout View: Casey Clark and Nancy Bilicich for Watsonville City Council",
+      "source": "https://lookout.co/a-lookout-view-casey-clark-and-nancy-bilicich-for-watsonville-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Watsonville City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/watsonville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Bilicich",
+      "statement": "A Lookout View: Casey Clark and Nancy Bilicich for Watsonville City Council",
+      "source": "https://lookout.co/a-lookout-view-casey-clark-and-nancy-bilicich-for-watsonville-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Clarke",
+      "statement": "A Lookout View: Joe Clarke and Tory Del Favero for Capitola City Council",
+      "source": "https://lookout.co/a-lookout-view-joe-clarke-and-tory-del-favero-for-capitola-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tory Del Favero",
+      "statement": "A Lookout View: Joe Clarke and Tory Del Favero for Capitola City Council",
+      "source": "https://lookout.co/a-lookout-view-joe-clarke-and-tory-del-favero-for-capitola-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Zeller",
+      "statement": "A Lookout View: Michael Zeller and Danny Reber for Scotts Valley City Council",
+      "source": "https://lookout.co/a-lookout-view-michael-zeller-and-danny-reber-for-scotts-valley-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Danny Reber",
+      "statement": "A Lookout View: Michael Zeller and Danny Reber for Scotts Valley City Council",
+      "source": "https://lookout.co/a-lookout-view-michael-zeller-and-danny-reber-for-scotts-valley-city-council/story"
+    },
+    {
+      "subject": {
+        "title": "Cabrillo Community College District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Cogswell",
+      "statement": "A Lookout View: Karen Cogswell for Cabrillo College trustee",
+      "source": "https://lookout.co/a-lookout-view-karen-cogswell-for-cabrillo-college-trustee/story"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure D (Onshore Support Facilities for Offshore Oil, Gas and Deep-Sea Mining)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "A Lookout View: Yes on Measure D",
+      "source": "https://lookout.co/a-lookout-view-yes-on-measure-d/story"
+    },
+    {
+      "subject": {
+        "title": "Santa Cruz County — Measure E (Transactions and Use Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-cruz-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "A Lookout View: Yes on Measure E",
+      "source": "https://lookout.co/a-lookout-view-yes-on-measure-e/story"
+    },
+    {
+      "subject": {
+        "title": "Scotts Valley — Measure G (Transient Occupancy Tax Increase)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/scotts-valley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "A Lookout View: Yes on Scotts Valley's Measure G",
+      "source": "https://lookout.co/a-lookout-view-yes-on-scotts-valleys-measure-g/story"
+    }
+  ]
+}

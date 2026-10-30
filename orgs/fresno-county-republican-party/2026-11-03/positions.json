@@ -11,7 +11,7 @@
       "kind": "party"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:14:45Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://www.fresnogop.org/endorsements"
     ]
@@ -93,6 +93,32 @@
       "choice": "Jennifer Hawks",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/jennifer-hawks",
       "statement": "\"ENDORSED\" / \"Jennifer Hawks\" / \"California State Treasurer\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
+      "statement": "\"ENDORSED\" / \"Sonja Shaw\" / \"State Superintendent of Public Instruction\"",
+      "source": "https://www.fresnogop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/shannon-grove",
+      "statement": "\"ENDORSED\" / \"Shannon Grove\" / \"State Board of Equalization District 1\"",
       "source": "https://www.fresnogop.org/endorsements"
     },
     {

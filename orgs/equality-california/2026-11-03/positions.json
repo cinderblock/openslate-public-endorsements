@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:19:50Z",
+    "retrieved_at": "2026-10-30T17:06:23Z",
     "sources": [
       "https://www.eqca.org/elections/"
     ]
@@ -2404,6 +2404,503 @@
       "choice": "Yes",
       "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-b-measure-to-fund-san-diego-county-health-safety-services/yes",
       "statement": "\"San Diego County: Measure B (San Diego Health & Safety Act): YES\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Artesia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/artesia",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Rocha",
+      "choice_id": "la-county-registrar:2026-11-03/artesia-city-council/dan-rocha",
+      "statement": "\"Artesia City Council, At-Large: Dan Rocha\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Beaumont Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Garcia",
+      "statement": "\"Beaumont Unified School District, Area 4: Megan Garcia\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Buellton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Silva",
+      "statement": "\"Mayor, City of Buellton: David Silva\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Cathedral City City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cathedral-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Antonio Baciu",
+      "statement": "\"Cathedral City, District 5: Antonio Baciu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Coachella Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/coachella",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Figueroa",
+      "statement": "\"Mayor, City of Coachella: Frank Figueroa\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "\"Corte Madera Town Council, At-Large: Eli Beckman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Bayudan",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/tony-bayudan",
+      "statement": "\"Daly City Council, At-Large: Atanacio \"Tony\" Bayudan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Monte Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Florencio Briones",
+      "choice_id": "la-county-registrar:2026-11-03/el-monte-union-high-school-district-board-area-4/florencio-briones",
+      "statement": "\"El Monte Union High School District, Area 4: Florencio Briones\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Segundo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Pickhaver",
+      "choice_id": "la-county-registrar:2026-11-03/el-segundo-city-council/john-pickhaver",
+      "statement": "\"El Segundo City Council, At-Large: John Pickhaver\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Vargas",
+      "statement": "\"Elk Grove Unified School District Board of Trustees, District 2: Michael Vargas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Public Utility District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gerry Hoffman",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/fallbrook-public-utility-district-board-division-2/gerry-hoffman",
+      "statement": "\"Fallbrook Fire Protection District, Division 2: Gerald \"Gerry\" Hoffman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hieu Nguyen",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/garden-grove-city-council-district-4/hieu-nguyen",
+      "statement": "\"Garden Grove City Council, District 4: Hieu Nguyen\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Hacienda La Puente Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Johnathon Yoder",
+      "choice_id": "la-county-registrar:2026-11-03/hacienda-la-puente-unified-school-district-board-area-2/johnathon-yoder",
+      "statement": "\"Hacienda La Puente Unified School District Board, Area 2: Johnny Yoder\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Lucia Mar Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Kandel",
+      "statement": "\"Lucia Mar Unified School District Board of Trustees, Area 7: Donna Kandel\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Montebello City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/montebello",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Santana",
+      "choice_id": "la-county-registrar:2026-11-03/montebello-city-council-district-5/james-santana",
+      "statement": "\"Montebello City Council, District 5: James Santana\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Monterey Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tyller Williamson",
+      "statement": "\"Mayor, City of Monterey: Tyller Williamson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Wong",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-city-council-district-1/thomas-wong",
+      "statement": "\"Monterey Park City Council, At-Large: Thomas Wong\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Murrieta Valley Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Young",
+      "statement": "\"Murrieta Valley School Board, District 2: Nancy Young\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valarie Bachelor",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/valarie-bachelor",
+      "statement": "\"Oakland School Board, District 6: Valarie Bachelor\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Palm Desert City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-desert",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jonathon Polly",
+      "statement": "\"Palm Desert City Council, District 4: Jonathon Polly\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Palm Springs City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-springs",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeffrey Bernstein",
+      "statement": "\"Palm Springs City Council: Jeffrey Bernstein\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Redlands Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Schavrien",
+      "statement": "\"Redlands Unified School District, Area 2: Ryan Schavrien\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Sturken",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-2/chris-sturken",
+      "statement": "\"Redwood City Council, District 2: Chris Sturken\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"San Bernardino City Council, Ward 2: Christian Shaughnessy\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Aguilar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-2-short-term/james-aguilar",
+      "statement": "\"San Leandro City Council, District 2: James Aguilar\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Harris",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-3/diana-harris",
+      "statement": "\"San Mateo Union High School District, Area 3: Diana Harris\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hector Bustos",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-unified-school-district-board-trustee-area-5/hector-bustos",
+      "statement": "\"Santa Ana Unified School District Trustee, Area 5: Hector Bustos\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-paula",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pedro A. Chavez",
+      "statement": "\"Santa Paula City Council, At-Large: Pedro Chavez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aysha Dominguez Pamukcu",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-1/aysha-dominguez-pamukcu",
+      "statement": "\"South San Francisco City Council, District 1: Aysha Pamukcu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Stanislaus Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Casselberry",
+      "statement": "\"Stanislaus Union School District, Area 5: John Casselberry\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Tracy Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Arriola",
+      "statement": "\"Mayor, City of Tracy: Dan Arriola\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tara Beasley-Stansberry",
+      "statement": "\"Vallejo City Council, District 5: Tara Beasley-Stansberry\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Ventura Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amber Thompson",
+      "statement": "\"Ventura Unified School District, Area 4: Amber Thompson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Desert Healthcare District Board, Zone 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Kelly",
+      "statement": "\"Desert Healthcare District and Foundation Board, Zone 1: David \"Jax\" Kelly\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Neil Pople",
+      "statement": "\"Natomas Unified School District, Area 1: Neil Pople\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael DeSimone",
+      "statement": "\"Rohnert Park City Council, District 2: Michael DeSimone\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Luis Coastal Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Glavan",
+      "statement": "\"San Luis Coastal Unified School District, Area 2: Michael Glavan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Victorville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/victorville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Marshall",
+      "statement": "\"Victorville City Council, District 4: Derek Marshall\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julee Brooks",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-2/julee-brooks",
+      "statement": "\"William S. Hart Union High School District Board of Trustees, Area 2: Julee Brooks\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stacy Fortner",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
+      "statement": "\"William S. Hart Union High School Board of Trustees, Area 5: Stacy Fortner\"",
       "source": "https://www.eqca.org/elections/"
     }
   ]

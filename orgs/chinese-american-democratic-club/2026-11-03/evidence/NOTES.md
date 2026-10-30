@@ -51,3 +51,14 @@ own "CADC's Rationale" section.
   pick and its RTM position, but matches everything else.
 - The SF measure and RTM titles follow the alice-b-toklas-club bundle (see
   its NOTES).
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.sfcadc.org/cadc_11_2026_recommendations on 2026-10-30 10:18 AM PDT (17:18Z). The post is unchanged, so the saved evidence still applies.
+
+- Added 6 `abstain` positions for lines the "Skipped" section above left out: Secretary of State,
+  Insurance Commissioner, Supervisor D8, BART Board, Prop 1 and SF Prop C. Each `statement` is the
+  page's own line.
+- "BART Board" names no district. It's recorded as District 8, the only BART seat on the SF ballot.
+- The June and older lists on /endorsements (Haney, Stefani, Kounalakis, Mia Bonta, Barbara Lee, Mullin,
+  Albert Chow, Padilla) are past elections, not November picks.

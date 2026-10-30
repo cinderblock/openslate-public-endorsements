@@ -47,3 +47,9 @@
   "<District> — Measure X (...)". Jurisdictions: `us/ca/fresno-county` for
   county and special-district measures; city slugs for city measures.
   "Fresno County Superior Court Judge, Office No. 6" is new.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.fresnogop.org/endorsements on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `fresnogop-endorsements-2026-10-30.md`. Two additions: **Superintendent:
+Sonja Shaw** and **BOE District 1: Shannon Grove**. Props, measures and the Superior Court recommendation are
+unchanged. The page still says "This page will continue to be updated."

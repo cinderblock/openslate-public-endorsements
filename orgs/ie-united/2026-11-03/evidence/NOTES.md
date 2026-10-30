@@ -59,3 +59,10 @@
 - "Dr." dropped from Corey Jackson and Tiffanie Tate. Ron Alvarado's card
   appears under both the Riverside and the San Bernardino headings; it is one
   position (San Bernardino Ward 1).
+
+## Refresh 2026-10-30
+
+Re-fetched https://ieunited.org/2026-endorsements/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `ieunited-2026-endorsements-2026-10-30.md`. The page has a new
+"STATEWIDE PROPOSITION ENDORSEMENTS" section: YES on 1, 2, 3, 4, 5; NO on 39, 41, 42, 43, 44, 45 (11 added,
+supersedes "No statewide offices or propositions" above). Props 37, 38 and 40 aren't listed. Candidate cards
+are unchanged; Dr. Gwen Dowdy-Rodgers (Area D) stays skipped.

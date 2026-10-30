@@ -64,3 +64,10 @@ verified; they are taken as listed on the org's November page.
   (Inland Empire, Los Angeles, Sierra Nevada, Central Valley, Oct 8, 2026)
   were not fetched; they may carry additional local endorsements. Candidate
   for a follow-up pass.
+
+## Refresh 2026-10-30
+
+Re-fetched https://envirovoters.org/2026-endorsements/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `envirovoters-2026-endorsements-2026-10-30.md`. Added 7 picks the
+page didn't show on 10-15: Prop 1 Yes, Prop 5 Yes, Prop 41 No, Prop 42 No, CD 27 George Whitesides, LA City
+Council D3 Barri Worth Girvan, LA City Measure PRK Yes. Everything else on the page matches the bundle. The
+regional voter guides and cheat-sheet PDFs were still not read.

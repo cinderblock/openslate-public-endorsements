@@ -33,3 +33,10 @@
 - **Jurisdictions.** All local races reuse `us/ca/santa-barbara`, following the June bundle, which used it for both county and city contests. Lompoc, Buellton and Goleta use `us/ca/<city>`.
 - **Verification.** Becerra, Bonta, Kounalakis, Allen, Hart (AD 37) and Carbajal (CD 24) are all on the SoS Certified List of Candidates for Nov 3, 2026. The local races are from a November-specific editorial.
 - **June picks not carried forward.** The June endorsements for Capps (Supervisor D2), Slattery (Auditor-Controller), Greene (Clerk-Recorder-Assessor) and Steyer (Governor) are not in the November editorial, so none are carried forward. Presumably those races were decided in June, or the candidate did not advance (Steyer is not on the certified Nov ballot). The local cases were not checked further.
+
+## Refresh 2026-10-30
+
+Re-fetched the article on 2026-10-30 9:48 AM PDT (16:48Z); byline "October 8, 2026 Updated: October 14, 2026". One addition: **City College
+Board Area 5: Dominique Lujan**, in both the summary list and the body. The summary's Goleta and Supervisor D5
+"TBA" lines now show Reyes-Martin, Kyriaco and Valencia, matching the body, so that flag above is resolved. No
+page text saved for this refresh.

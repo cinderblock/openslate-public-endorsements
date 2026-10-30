@@ -38,3 +38,13 @@
   "Joseph Lawrence Trujillo" is on the ballot as Joseph Trujillo.
 - OUSD D6 ranks two candidates. Both are `endorse`; the rank order is only
   kept in the statement.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.ebyd.org/endorsements on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `ebyd-endorsements-2026-10-30.md`.
+
+- Added: Regional Measure RTM, Yes ("Regional" / "YES on Measure RTM"). It wasn't on the page on Oct 19.
+  The line above still says "all five of the following measures", but six are now listed.
+- Every other 2026 pick is unchanged. Livermore D1 (Evan Branning) stays skipped as "Not On Ballot".
+- The flagged names (Cohen, Wicks, Ortega, Wong, Barbara Lee, Ramachandran, Jenkins, Bowen) are all in
+  the page's historical 2022-2024 sections.
