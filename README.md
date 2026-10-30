@@ -47,6 +47,12 @@ Women Voters) are usually a poor fit for this repo.
   puts back the published token of every slate that says the same thing as
   before. The web app updates an imported slate when its catalog entry's
   `issued_at` is newer, so it only downloads slates that really changed.
+- Each slate's `attribution.capture` names the
+  [capture](https://github.com/cinderblock/openslate-source-captures) run
+  holding its sources, so the signature covers which record that is.
+  `scripts/pin-capture.ts` sets it mechanically, in `pin-capture.yml` after each
+  scheduled capture. A pointer only moves when its run no longer holds all of
+  a slate's sources, so a daily capture doesn't reissue anything.
 
 ## Repository layout
 
