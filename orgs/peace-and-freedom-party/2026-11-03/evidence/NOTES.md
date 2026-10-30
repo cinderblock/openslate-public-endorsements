@@ -65,3 +65,5 @@ The guide lists each candidate under the heading "Voting in Northern California"
 - Congress 24 and 37, State Senate 8, AD 17 (Wiedmaier, write-in) and AD 18: none of these candidates advanced, and none is in the November guide.
 - **The October 3 forum notice** lists Bay Area candidates and a "No on Prop. 45" speaker, co-sponsored with other groups, with the note "Organizations listed for identification purposes only". It is not a party endorsement, so no position came from it. The guide now gives No on 45 directly. Forum speakers Claudia Jimenez (Richmond Mayor), Mari Mendonca (Berkeley D8) and Majdi Gaith (Berkeley D4) are **not** in the November guide, so no positions for them.
 - The guide's "Register to vote" text and the Gann-limit explainer are not positions.
+
+Source moved (2026-10-30): the guide's old URL is dead; it now lives at https://peaceandfreedom.us/november-2026-voting-guide/. Picks unchanged.
