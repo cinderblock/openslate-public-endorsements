@@ -1,0 +1,64 @@
+# Points slates at the capture run holding their sources (scripts/pin-capture.ts), an hour and a
+# half after each scheduled capture in openslate-source-captures. A slate only changes when a run
+# newly covers it, so most days this commits nothing and publishes nothing.
+name: pin-capture
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 11 31 10 *"
+    - cron: "30 11 1-5 11 *"
+    - cron: "30 11 * * 1"
+
+concurrency:
+  group: pin-capture
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  pin:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      # A push from this token doesn't start `publish`, so it's asked for.
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      # Manifests and provenance only: the captured bytes run to gigabytes.
+      - uses: actions/checkout@v4
+        with:
+          repository: cinderblock/openslate-source-captures
+          path: .captures
+          persist-credentials: false
+          filter: blob:none
+          sparse-checkout: |
+            /provenance/
+            /runs/*/manifest.json
+            /runs/*/manifest.sigstore.json
+          sparse-checkout-cone-mode: false
+
+      - name: Pin
+        run: bun scripts/pin-capture.ts .captures
+
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git add orgs
+          if git diff --cached --quiet; then
+            echo "No slate moved."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet -m "Slates point at their capture run"
+          git pull --quiet --rebase origin "$GITHUB_REF_NAME"
+          git push --quiet origin "HEAD:$GITHUB_REF_NAME"
+          gh workflow run publish.yml --ref "$GITHUB_REF_NAME"
