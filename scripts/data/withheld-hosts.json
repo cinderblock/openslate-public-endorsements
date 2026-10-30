@@ -1,0 +1,17 @@
+{
+  "note": "News hosts no news_organization or editorial_board bundle cites, so the automatic rule can't see them. Starts from the `news` list of openslate-source-captures/withheld-hosts.json: add a host there too.",
+  "news": [
+    "agalert.com",
+    "bakersfield.com",
+    "dailynews.com",
+    "eastbaytimes.com",
+    "ebar.com",
+    "kpbs.org",
+    "marinij.com",
+    "montereycountynow.com",
+    "ocregister.com",
+    "pressdemocrat.com",
+    "santacruzsentinel.com",
+    "smdailyjournal.com"
+  ]
+}

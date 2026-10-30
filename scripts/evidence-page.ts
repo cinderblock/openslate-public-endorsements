@@ -1,7 +1,8 @@
 // What a slate was built from, published beside it: each bundle's evidence/
 // folder (the captured pages and NOTES.md) gets an index.html on Pages, so a
 // reader can see what was captured, when and from where, and check a position
-// against the text it came from. The catalog entry links it (`evidence`).
+// against the text it came from. The catalog entry links it (`evidence`). Saved news
+// pages stay private (scripts/lib/withheld-evidence.ts): the page lists them by link and hash.
 
 import { readdirSync, statSync } from "node:fs";
 import { join, relative, sep } from "node:path";
@@ -14,8 +15,10 @@ import {
   type SlateProvenance,
   type SourceProvenance,
 } from "./lib/provenance";
+import { MANIFEST, type WithheldFile } from "./lib/withheld-evidence";
 
 const REPO = "https://github.com/cinderblock/openslate-public-endorsements";
+export const TAKEDOWN = "https://github.com/cinderblock/openslate/issues/new?template=takedown.yml";
 
 export interface EvidenceFile {
   /** Path inside the evidence folder, `/`-separated. */
@@ -34,7 +37,7 @@ export interface EvidenceEntry {
   };
 }
 
-/** Every file under an evidence folder: NOTES.md first, then by path. */
+/** Every file under an evidence folder but the manifest: NOTES.md first, then by path. */
 export function evidenceFiles(dir: string): EvidenceFile[] {
   const out: EvidenceFile[] = [];
   const walk = (at: string) => {
@@ -42,7 +45,9 @@ export function evidenceFiles(dir: string): EvidenceFile[] {
       const full = join(at, name);
       const stat = statSync(full);
       if (stat.isDirectory()) walk(full);
-      else out.push({ path: relative(dir, full).split(sep).join("/"), bytes: stat.size });
+      else if (relative(dir, full) !== MANIFEST) {
+        out.push({ path: relative(dir, full).split(sep).join("/"), bytes: stat.size });
+      }
     }
   };
   walk(dir);
@@ -182,11 +187,34 @@ ${provenance.sources.map(sourceRow).join("\n")}
 `;
 }
 
+function withheldSection(files: WithheldFile[]): string {
+  const rows = files
+    .map(
+      (f) => `      <tr>
+        <td>${f.url ? httpLink(f.url) : escape(f.path)}</td>
+        <td>${size(f.bytes)}</td>
+        <td><code>${escape(f.sha256)}</code></td>
+      </tr>`,
+    )
+    .join("\n");
+  return `  <h2>Kept private</h2>
+  <p>News pages are their publishers' copyrighted work, so our saved copies aren't published here:
+  read each one at its source. A copy shared on request can be checked against its SHA-256 hash.</p>
+  <table>
+    <thead><tr><th>Source</th><th>Size</th><th>SHA-256</th></tr></thead>
+    <tbody>
+${rows}
+    </tbody>
+  </table>
+`;
+}
+
 /** The evidence/index.html for one bundle. `provenance` adds its capture details, when there are any. */
 export function evidencePage(
   entry: EvidenceEntry,
   files: EvidenceFile[],
   provenance: SlateProvenance | null = null,
+  withheld: WithheldFile[] = [],
 ): string {
   const folder = `orgs/${entry.slug}/${entry.election}/evidence`;
   const name = entry.attribution?.of.name ?? entry.slug;
@@ -240,13 +268,14 @@ ${a.sources.map((s) => `    <li>${httpLink(s)}</li>`).join("\n")}
     : ""
 }`
     : ""
-}${provenance ? provenanceSection(provenance) : ""}  <table>
+}${provenance ? provenanceSection(provenance) : ""}${withheld.length ? withheldSection(withheld) : ""}  <table>
     <thead><tr><th>File</th><th>Size</th><th>On GitHub</th></tr></thead>
     <tbody>
 ${rows}
     </tbody>
   </table>
   <p class="meta">Every change to this folder is in its <a href="${REPO}/commits/master/${escape(folder)}">git history</a>.</p>
+  <p class="meta">Something here that shouldn't be? <a href="${escape(TAKEDOWN)}">Ask for it to be taken down</a>.</p>
   <script>
     // Times in the reader's own zone, with UTC beside them.
     for (const el of document.querySelectorAll(".iso-time")) {

@@ -10,7 +10,8 @@
 // regional contest must say which jurisdictions vote on it (`subject.voted_in`,
 // scripts/lib/regions.ts), in every bundle. With a capture checkout in OPENSLATE_CAPTURES_DIR, each
 // statement is also looked for in the raw capture of its source (scripts/lib/anchor.ts): a miss is
-// a warning stating a fact, and the misses are listed in review/unanchored.md.
+// a warning stating a fact, and the misses are listed in review/unanchored.md. No saved news page
+// may sit in evidence/ (scripts/lib/withheld-evidence.ts): both workflows run this, so one can't publish.
 // PR-time and pre-sign check — no signing involved.
 
 import { existsSync, mkdirSync, readdirSync, statSync, writeFileSync } from "node:fs";
@@ -22,6 +23,7 @@ import { districtFor } from "./lib/districts";
 import { localityProblem } from "./lib/localities";
 import { readProvenance } from "./lib/provenance";
 import { votedInProblem } from "./lib/regions";
+import { findWithheld } from "./lib/withheld-evidence";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -262,6 +264,19 @@ if (votedInWrong)
   );
 if (kinds.has("fix") || kinds.has("choice"))
   console.log("Fix names and ids with: bun scripts/normalize-choices.ts <election> --apply");
+
+const leaked = findWithheld(ORGS_DIR);
+for (const { id, files } of leaked) {
+  failures.push({
+    path: `orgs/${id}/evidence`,
+    errors: files.map((file) => `saved news page must stay private: ${file}`),
+  });
+}
+if (leaked.length) {
+  console.log(
+    "Move saved news pages with: bun scripts/withhold-evidence.ts --apply --private <openslate-source-captures-private>",
+  );
+}
 
 console.log(`\n${ok} OK, ${failures.length} failed`);
 

@@ -9,6 +9,7 @@ describe("evidenceFiles", () => {
   test("lists every file, NOTES.md first, nested paths with /", () => {
     const dir = mkdtempSync(join(tmpdir(), "evidence-"));
     writeFileSync(join(dir, "b-capture.md"), "bb");
+    writeFileSync(join(dir, "withheld.json"), "{}");
     writeFileSync(join(dir, "NOTES.md"), "n");
     mkdirSync(join(dir, "pages"));
     writeFileSync(join(dir, "pages", "a.html"), "aaa");
@@ -51,6 +52,21 @@ describe("evidencePage", () => {
     expect(html).toContain("<code>javascript:alert(1)</code>");
     expect(html).not.toContain("<b>Org</b>");
     expect(html).toContain("&lt;b&gt;Org&lt;/b&gt;");
+  });
+
+  test("lists a withheld page by link and hash, never a link to our copy", () => {
+    const sha256 = "cd".repeat(32);
+    const html = evidencePage(entry, [{ path: "NOTES.md", bytes: 1 }], null, [
+      { path: "paper.md", url: "https://paper.example/endorsements", bytes: 2048, sha256 },
+    ]);
+    expect(html).toContain("Kept private");
+    expect(html).toContain('<a href="https://paper.example/endorsements">');
+    expect(html).toContain(sha256);
+    expect(html).not.toContain('href="paper.md"');
+  });
+
+  test("always offers a takedown request", () => {
+    expect(evidencePage(entry, [])).toContain("issues/new?template=takedown.yml");
   });
 
   describe("with capture details", () => {

@@ -8,8 +8,9 @@
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { catalogExtras } from "./catalog-extras";
-import { evidenceFiles, evidencePage } from "./evidence-page";
+import { evidenceFiles, evidencePage, TAKEDOWN } from "./evidence-page";
 import { provenanceRoot, readProvenance } from "./lib/provenance";
+import { readManifest } from "./lib/withheld-evidence";
 
 const ROOT = process.cwd();
 const DIST = join(ROOT, "dist");
@@ -97,9 +98,13 @@ for (const entry of catalog.entries) {
   const folder = join("orgs", entry.slug, entry.election, "evidence");
   if (!existsSync(join(ROOT, folder))) continue;
   const files = evidenceFiles(join(ROOT, folder));
-  if (files.length === 0 || files.some((f) => f.path === "index.html")) continue;
+  const withheld = readManifest(join(ROOT, folder))?.files ?? [];
+  if (files.length + withheld.length === 0 || files.some((f) => f.path === "index.html")) continue;
   const provenance = captures ? readProvenance(captures, entry.slug, entry.election) : null;
-  await Bun.write(join(DIST, folder, "index.html"), evidencePage(entry, files, provenance));
+  await Bun.write(
+    join(DIST, folder, "index.html"),
+    evidencePage(entry, files, provenance, withheld),
+  );
   evidence.set(`${entry.slug}/${entry.election}`, `orgs/${entry.slug}/${entry.election}/evidence/`);
 }
 const withExtras = <T extends IndexEntry>(entry: T): T => {
@@ -203,7 +208,8 @@ const html = `<!doctype html>
     <strong>Bundle (every signed slate inline, single fetch):</strong> <a href="bundle.json">bundle.json</a> &middot;
     Public key file: <a href="keys/project-public.json">keys/project-public.json</a> &middot;
     Well-known: <a href="well-known/openslate.json">well-known/openslate.json</a> &middot;
-    Source: <a href="https://github.com/cinderblock/openslate-public-endorsements">github.com/cinderblock/openslate-public-endorsements</a>
+    Source: <a href="https://github.com/cinderblock/openslate-public-endorsements">github.com/cinderblock/openslate-public-endorsements</a> &middot;
+    <a href="${escape(TAKEDOWN)}">Request a takedown</a>
   </p>
 
   <h2>Slates (${catalog.entries.length})</h2>

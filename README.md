@@ -132,7 +132,7 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 | `bundle.json` | Every `index.json` entry with its signed slate inline (`token`): the whole catalog in one request. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
-| `orgs/<slug>/<election>/evidence/` | What the slate was built from: an index page, the captured pages and `NOTES.md`. |
+| `orgs/<slug>/<election>/evidence/` | What the slate was built from: an index page, the captured pages and `NOTES.md`. Saved news pages aren't published: `withheld.json` lists each one's URL, size and hash (see below). |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
 | `orgs/<slug>/logo.<ext>` | The org's logo, when `meta.yaml` has a `logo:` key. |
 | `keys/project-public.json` | The project's public signing key. |
@@ -141,6 +141,32 @@ After GitHub Pages is enabled for this repo, the published site exposes:
 
 A consumer (such as the OpenSlate web app) only needs the URL of a single
 `signed.slate` to import and offline-verify it.
+
+### News pages stay private
+
+A saved news page is its publisher's copyrighted work, so its text isn't kept in this repo or on the
+site. It goes to the private `openslate-source-captures-private` repo under
+`evidence/<slug>/<election>/`, and the bundle's `evidence/withheld.json` keeps the URL, the size and
+the SHA-256 of its LF text, so a copy shared on request can be checked. The picks, and short quotes in
+a position's `statement`, stay in `positions.json`.
+
+The rule is mechanical and matches `openslate-source-captures`: a host is withheld if a
+`news_organization` or `editorial_board` bundle cites it, or it's in
+`scripts/data/withheld-hosts.json`. It's by host, so a party or union citing a paper is covered too.
+`NOTES.md` and `articles.md` (headlines and the researcher's own notes, no article text) stay public.
+
+After any scrape, run:
+
+```sh
+bun scripts/withhold-evidence.ts --apply --private ../openslate-source-captures-private
+```
+
+`bun scripts/verify-positions.ts` fails on a saved news page left in `evidence/`, and both workflows
+run it, so one can't publish. Commit the private repo first. Pages published before this rule are
+still in this repo's git history.
+
+To ask for something to be removed, use the
+[takedown form](https://github.com/cinderblock/openslate/issues/new?template=takedown.yml).
 
 ### Browse from the OpenSlate web app
 
