@@ -49,3 +49,9 @@ Connie Chan are D-vs-D; HRC backs Matsui and Wiener).
   (D-California-42)"). Positions use the House page.
 - **Names normalized to ballot names:** "Sydney Kamlager" ->
   "Sydney Kamlager-Dove"; "Nanette Barragan" -> "Nanette Barragán".
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.hrc.org/lets-get-free-house-elections and the state page on 2026-10-30 9:48 AM PDT (16:48Z). Evidence (California section of the list):
+`hrc-lets-get-free-house-elections-2026-10-30.md`. Added CD 1 Mike McGuire and CD 26 Jacqui Irwin. The state
+page still has only Becerra and Barrera for California.
