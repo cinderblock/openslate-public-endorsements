@@ -132,10 +132,14 @@ function captureCell(ref: CaptureRef): string {
   const manifest = `${CAPTURES_REPO}/blob/master/runs/${encodeURIComponent(ref.run)}/manifest.json`;
   const known = CLAIMS.filter(({ claim }) => ref.claims.includes(claim));
   const strongest = known.at(-1)?.label ?? "Reported";
+  const browser = ref.rendered
+    ? `
+          <p class="meta">A plain request doesn't get this page, so it was also loaded in a headless browser (HTTP ${escape(String(ref.rendered.status ?? "no response"))}). That copy is the browser's view, not the bytes as sent.</p>`
+    : "";
   return `<strong>${escape(strongest)}</strong>: ${outcome}, ${isoTime(ref.captured_at)}
           <ul class="claims">
 ${known.map(({ label, says }) => `            <li>${label}: ${says}</li>`).join("\n")}
-          </ul>
+          </ul>${browser}
           ${bytesLink(ref)} &middot; <a href="${manifest}">manifest</a>`;
 }
 
