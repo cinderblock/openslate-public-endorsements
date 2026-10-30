@@ -1,0 +1,1532 @@
+{
+  "context": {
+    "title": "Bay Area Reporter — November 3, 2026 general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Bay Area Reporter (editorial board)",
+      "uri": "https://www.ebar.com/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T16:46:30Z",
+    "sources": [
+      "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Governor: Xavier Becerra",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Lieutenant Governor: Fiona Ma",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "Secretary of State: Shirley Weber",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "Controller: Malia Cohen",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "Treasurer: Eleni Kounalakis",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "Attorney General: Rob Bonta",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "Insurance Commissioner: Jane Kim",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "Superintendent of Public Instruction: Richard Barrera",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-2/jared-huffman",
+      "statement": "Congress, Dist. 2: Jared Huffman",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-4/mike-thompson",
+      "statement": "Congress, Dist. 4: Mike Thompson",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-8/john-garamendi",
+      "statement": "Congress, Dist. 8: John Garamendi",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/josh-harder",
+      "statement": "Congress, Dist. 9: Josh Harder",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-10/mark-desaulnier",
+      "statement": "Congress, Dist. 10: Mark DeSaulnier",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "Congress, Dist. 11: Scott Wiener",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "statement": "Congress, Dist. 12: Lateefah Simon",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "Congress, Dist. 14: Aisha Wahab",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-15/kevin-mullin",
+      "statement": "Congress, Dist. 15: Kevin Mullin",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-16/sam-liccardo",
+      "statement": "Congress, Dist. 16: Sam Liccardo",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "statement": "Congress, Dist. 17: Ro Khanna",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "Congress, Dist. 18: Zoe Lofgren",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-12/jackie-elward",
+      "statement": "CA Assembly, Dist. 12: Jackie Elward",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-14/buffy-wicks",
+      "statement": "CA Assembly, Dist. 14: Buffy Wicks",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-16/rebecca-bauer-kahan",
+      "statement": "CA Assembly, Dist. 16: Rebecca Bauer-Kahan",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "statement": "CA Assembly, Dist. 17: Matt Haney",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-18/mia-bonta",
+      "statement": "CA Assembly, Dist. 18: Mia Bonta",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-19/catherine-stefani",
+      "statement": "CA Assembly, Dist. 19: Catherine Stefani",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-20/liz-ortega",
+      "statement": "CA Assembly, Dist. 20: Liz Ortega",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-21/diane-papan",
+      "statement": "CA Assembly, Dist. 21: Diane Papan",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/alex-lee",
+      "statement": "CA Assembly, Dist. 24: Alex Lee",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-25/ash-kalra",
+      "statement": "CA Assembly, Dist. 25: Ash Kalra",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-26/patrick-ahrens",
+      "statement": "CA Assembly, Dist. 26: Patrick Ahrens",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice of the Supreme Court",
+          "label": "Shall Associate Justice of the Supreme Court KELLI M. EVANS be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice of the Supreme Court",
+          "label": "Shall Associate Justice of the Supreme Court JOSHUA GROBAN be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division One",
+          "label": "Shall Associate Justice CHARLES A. SMILEY be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-charles-a-smiley/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division One",
+          "label": "Shall Associate Justice KATHLEEN M. BANKE be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-kathleen-m-banke/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division One",
+          "label": "Shall Associate Justice MONIQUE LANGHORNE WILSON be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-monique-langhorne-wilson/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Presiding Justice, Court of Appeal, First District, Division Two",
+          "label": "Shall Presiding Justice THERESE M. STEWART be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-therese-m-stewart/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Two",
+          "label": "Shall Associate Justice TARA M. DESAUTELS be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tara-m-desautels/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Three",
+          "label": "Shall Associate Justice IOANA PETROU be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-ioana-petrou/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Three",
+          "label": "Shall Associate Justice VICTOR A. RODRIGUEZ be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-victor-a-rodriguez/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Presiding Justice, Court of Appeal, First District, Division Four",
+          "label": "Shall Presiding Justice TRACIE L. BROWN be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tracie-l-brown/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Five",
+          "label": "Shall Associate Justice MARK SIMONS be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-mark-simons/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Five",
+          "label": "Shall Associate Justice DANNY Y. CHOU be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-danny-y-chou/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, First District, Division Five",
+          "label": "Shall Associate Justice GORDON BURNS be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-gordon-burns/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Daniel H. Bromberg",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, Sixth District",
+          "label": "Shall Associate Justice DANIEL H. BROMBERG be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-daniel-h-bromberg/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles E. Wilson II",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, Sixth District",
+          "label": "Shall Associate Justice CHARLES E. WILSON II be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-charles-e-wilson-ii/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles F. Adams",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, Sixth District",
+          "label": "Shall Associate Justice CHARLES F. ADAMS be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-charles-f-adams/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Frederick S. Chung",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, Sixth District",
+          "label": "Shall Superior Court Judge FREDERICK S. CHUNG be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-frederick-s-chung/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Allison Marston Danner",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Associate Justice, Court of Appeal, Sixth District",
+          "label": "Shall Associate Justice ALLISON MARSTON DANNER be elected to the office for the term provided by law?",
+          "retention": true
+        }
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-allison-marston-danner/yes",
+      "statement": "State Judicial Retentions: Retain all justices",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/stephen-sherrill",
+      "statement": "Dist. 2: Stephen Sherrill",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "statement": "Dist. 4: Alan Wong",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "statement": "Dist. 6: Matt Dorsey",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "rank": 1,
+      "weight": 1,
+      "statement": "Dist. 8: Gary McCoy, first choice",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael T. Nguyen",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/michael-t-nguyen",
+      "rank": 2,
+      "weight": 1,
+      "statement": "Michael Trung Nguyen, second choice",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "statement": "Dist. 10: Theo Ellington",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "SF Board of Education: Phil Kim",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/ryan-hazelton",
+      "statement": "SF Board of Education: Ryan Hazelton",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/alida-fisher",
+      "statement": "SF Board of Education: Alida Fisher",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board-partial-term/ruth-ferguson",
+      "statement": "Partial term: Ruth Ferguson",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "statement": "Full term: Elijah Ball, Monroe Lace, Erwin Tam",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/monroe-lace",
+      "statement": "Full term: Elijah Ball, Monroe Lace, Erwin Tam",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/erwin-tam",
+      "statement": "Full term: Elijah Ball, Monroe Lace, Erwin Tam",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "statement": "Assessor-Recorder: Joaquín Torres",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Manohar Raju",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-public-defender/manohar-raju",
+      "statement": "Public Defender: Mano Raju",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Putnam",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/sarah-putnam",
+      "statement": "Alameda School Board, full term: Sarah Putnam",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/barbara-lee",
+      "statement": "Oakland Mayor: Barbara Lee",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/charlene-wang",
+      "statement": "Oakland City Council, Dist. 2: Charlene Wang",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janani Ramachandran",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-4/janani-ramachandran",
+      "statement": "Oakland City Council, Dist. 4: Janani Ramachandran",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aidan Hill",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/aidan-hill",
+      "statement": "Berkeley City Council, Dist. 7: Aidan Hill",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Harris Mojadedi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/harris-mojadedi",
+      "statement": "Chabot Las Positas Community College Board: Harris Mojadedi",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robyn Kuslits",
+      "statement": "Concord City Council, Dist. 3: Robyn Kuslits",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "Corte Madera Town Council: Eli Beckman",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ava Fruin",
+      "statement": "Corte Madera Town Council: Ava Fruin",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Cupertino City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cupertino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Fruen",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/cupertino-city-council/j-r-fruen",
+      "statement": "Cupertino City Council: JR Fruen",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Bayudan",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/tony-bayudan",
+      "statement": "Daly City, City Council, at-large: Tony Bayudan",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Lorey",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-2/steve-lorey",
+      "statement": "Dublin City Council, Dist. 2: Steven Lorey",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Quinto",
+      "statement": "El Cerrito City Council: Gabe Quinto",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carolyn Wysinger",
+      "statement": "El Cerrito City Council: Carolyn Wysinger",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corry Frydlewicz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/corry-frydlewicz",
+      "statement": "Emeryville City Council: Corry Frydlewicz",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Sturken",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-2/chris-sturken",
+      "statement": "Redwood City, City Council, Dist. 2: Chris Sturken",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Aguilar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-2-short-term/james-aguilar",
+      "statement": "San Leandro City Council, Dist. 2: James Aguilar",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Sunnyvale City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/sunnyvale",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Mehlinger",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/sunnyvale-city-council-district-5/richard-mehlinger",
+      "statement": "Sunnyvale City Council, Dist. 5: Richard Mehlinger",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Arriola",
+      "statement": "Tracy Mayor: Dan Arriola",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tara Beasley-Stansberry",
+      "statement": "Vallejo City Council, Dist. 5: Tara Beasley-Stansberry",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "SAN FRANCISCO PROPS Yes on: A, C, D, E, H, I, J",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/no",
+      "statement": "SAN FRANCISCO PROPS No on: B, F, G",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "SAN FRANCISCO PROPS No on: B, F, G",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
+      "statement": "SAN FRANCISCO PROPS No on: B, F, G",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Regional Transit Measure: Yes",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "CALIFORNIA BALLOT PROPS Yes on: 1, 2, 3, 4, 5, 37",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "CALIFORNIA BALLOT PROPS No on: 38, 39, 40, 41, 42, 43, 44, 45",
+      "source": "https://www.ebar.com/story/170984/Opinion/Editorial/Quick%20guide%20to%20B.A.R.%20election%20endorsements"
+    }
+  ]
+}
