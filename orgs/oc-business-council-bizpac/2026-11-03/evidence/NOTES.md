@@ -48,3 +48,11 @@
   Penaloza.
 - The supervisor race reuses the existing `us/ca/orange` subject; see the
   oc-democratic-party NOTES about the slug clash.
+
+## Refresh 2026-10-30
+
+Re-fetched https://ocbc.org/government-affairs/bizpac/ on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `ocbc-bizpac-2026-10-30.md`. Four new cards: CD 46 Lou Correa, Santa Ana
+Ward 4 Phil Bacerra, Coast CCD Area 1 Austin Edsell, Anaheim D3 Natalie Rubalcava. The Strickland and Valencia
+cards now say State Senate, so the "wrong chamber" flag above is resolved. Also added **John Park, Irvine
+District 1**, skipped on 10-19: the card still gives no district, but the OC Registrar lists him only in
+District 1. The page still has "Announced Soon" and "To be written" placeholders.
