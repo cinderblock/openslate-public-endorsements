@@ -54,3 +54,8 @@ BANG's editorials under BANG's byline (Treasurer, Insurance Commissioner, Superi
 38, 39, 43, 44, 45), confirmed article by article, so those are adopted (SPEC §3.10). Two state editorials
 ran under the SCNG board's byline (Prop 4, Prop 40). Neither is adopted: BANG's and SCNG's are different
 boards, and the roundup points only to BANG. No page text saved for this refresh.
+
+## Adoption removed 2026-10-30
+
+The 12 adoptions from `bay-area-news-group` above are removed. The IJ reran those editorials under BANG's byline and its
+roundup links to BANG, which doesn't show the IJ board holds those positions. "Skipped" above stands: they're BANG's picks.
