@@ -111,3 +111,21 @@ registrar lists:
 The catalog's ballot check found these positions on seats no ballot carries: each was uncontested and is filled by appointment in lieu of election. They were removed, since a position here has to map to a ballot entry.
 
 - Pasadena Area Community College District Board, Trustee Area 7: Alton Wang. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
+
+## Refresh 2026-10-30
+
+Read the page with WebFetch on 2026-10-30 10:06 AM PDT (17:06Z) (curl and Bun get the connection closed). The list is the same as the 10-19
+evidence, so no new evidence file. Most of the 47 locals skipped above now have catalog or registrar titles, so
+**41 were added**. Mapped from the page's wording to the race the ballot or catalog has them in:
+Fallbrook "Fire Protection District" Division 2 → Fallbrook Public Utility District Division 2 (Gerry Hoffman's
+only race on the SD registrar's list); Monterey Park "At-Large" → District 1; Palm Springs → District 2; Santa
+Paula "At-Large" → District 3; "Johnny Yoder" → the ballot's Johnathon Yoder; "Lyseria Kursave" → the ballot's Lyseria Evelyn Phillips, the only Lyseria on the Orchard list (please check).
+Still skipped: Covina City Treasurer (Polzin), Covina D5 (Aleman), Eureka Ward 1 (Garcia), Goleta Union Area 1
+(Bowers) and San Jose D3 (Tordillos), which have no title in any bundle; and Ventura D7 (Eckley): the page says
+District 7, the catalog has him in District 6, and no authority settles it.
+
+Not added (coordinator, 2026-10-30): "Orchard School Board, At-Large: Lyseria Kursave". The ballot lists
+Lyseria Evelyn Phillips, the same uncommon first name with a different surname. It may be the same
+person, but nothing confirms it. Kept: Gerald "Gerry" Hoffman, printed "Fallbrook Fire Protection
+District, Division 2", under Fallbrook Public Utility District Division 2, the only race listing that
+name.
