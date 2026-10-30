@@ -77,3 +77,8 @@ Add these when someone can open sacbee.com in a browser.
 Read in Chrome on 2026-10-30 about 9:45 AM PDT (16:45Z). Added CD 7: the Oct 2 editorial restates
 the spring endorsement of Mai Vang over Doris Matsui for November. No page text saved for this
 refresh.
+
+Adopted by reference 2026-10-30 (SPEC §3.10): all 14 props from
+`mcclatchy-california-editorial-boards`. The Bee's list runs under the byline "McClatchy Media's California
+editorial boards". Nine were copies here (3, 4, 5, 37, 40, 42, 43, 44, 45), all the same pick; five are new
+(1, 2, 38, 39, 41).
