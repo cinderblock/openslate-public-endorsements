@@ -1,0 +1,1606 @@
+{
+  "context": {
+    "title": "YIMBY Action — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "YIMBY Action",
+      "uri": "https://yimbyaction.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T17:08:39Z",
+    "sources": [
+      "https://yimbyaction.org/endorsements/november-2026-california-general"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Xavier Becerra — Governor · Statewide — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Fiona Ma — Lieutenant Governor · California — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "Rob Bonta — Attorney General · CA Attorney General — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "Ben Allen — Insurance Commissioner · California — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "Prop 1 Bond For Affordable Housing - ballot measure — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "Prop 37 Downpayment assistance for new homes — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote no",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Prop 43 Supermajority vote for tax initatives — Vote no",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "label": "No consensus",
+      "statement": "Prop 45 Modify Environmental Review for Critical Infrastructure — No consensus",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "Mike McGuire — U.S. Representative District 1 · CA Congressional District 1 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Jared Huffman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-2/jared-huffman",
+      "statement": "Jared Huffman — U.S. Representative District 2 · US House of Representatives California District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "Scott Wiener — U.S. Representative District 11 · California Congressional District 11 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Laura Friedman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-30/laura-friedman",
+      "statement": "Laura Friedman — U.S. Representative District 30 · CA Congressional District 30 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-42/robert-garcia",
+      "statement": "Robert Garcia — U.S. Representative District 42 · CA Congressional District 42 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Scott Peters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-50/scott-peters",
+      "statement": "Scott Peters — U.S. Representative District 50 · CA Congressional District 50 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Scott Sakakihara",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-10/scott-sakakihara",
+      "statement": "Scott Sakakihara — State Senator District 10 · California Senate District 10 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "John Erickson — State Senator District 24 · CA Senate District 24, West LA — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "Sara Hernandez — State Senator District 26 · CA State Senate District 26 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Chris Rogers",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-2/chris-rogers",
+      "statement": "Chris Rogers — Assemblymember District 2 · CA State Assembly District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Cecilia M. Aguiar-Curry",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-4/cecilia-m-aguiar-curry",
+      "statement": "Cecilia Aguiar-Curry — Assemblymember District 4 · CA State Assembly District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Joe Patterson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-5/joe-patterson",
+      "statement": "Joe Patterson — Assemblymember District 5 · CA Assembly District 5 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Heath Flora",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-9/heath-flora",
+      "statement": "Heath Flora — Assemblymember District 9 · CA Assembly District 9 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Lori D Wilson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-11/lori-d-wilson",
+      "statement": "Lori Wilson — Assemblymember District 11 · CA Assembly District 11 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Eric Lucan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-12/eric-lucan",
+      "statement": "Eric Lucan — Assemblymember District 12 · California Assembly District 12 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Buffy Wicks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-14/buffy-wicks",
+      "statement": "Buffy Wicks — Assemblymember District 14 · CA Assembly District 14 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Matt Haney",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "statement": "Matt Haney — Assemblymember District 17 · California Assembly District 17 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mia Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-18/mia-bonta",
+      "statement": "Mia Bonta — Assemblymember District 18 · CA Assembly District 18 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Catherine Stefani",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-19/catherine-stefani",
+      "statement": "Catherine Stefani — Assemblymember District 19 · California Assembly District 19 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Marc Berman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-23/marc-berman",
+      "statement": "Marc Berman — Assemblymember District 23 · Assembly District 23 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Alex Lee",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/alex-lee",
+      "statement": "Alex Lee — Assemblymember District 24 · CA Assembly District 24 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Ash Kalra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-25/ash-kalra",
+      "statement": "Ash Kalra — Assemblymember District 25 · CA State Assembly District 25 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Patrick Ahrens",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-26/patrick-ahrens",
+      "statement": "Patrick Ahrens — Assemblymember District 26 · CA Assembly District 26 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-29/robert-rivas",
+      "statement": "Robert Rivas — Assemblymember District 29 · CA Assembly District 29 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "Pilar Schiavo — Assemblymember District 40 · CA Assembly District 40 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Jesse Gabriel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-46/jesse-gabriel",
+      "statement": "Jesse Gabriel — Assemblymember District 46 · CA State Assembly District 46 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-50/robert-garcia",
+      "statement": "Robert Garcia — Assemblymember District 50 · California Assembly District 50 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Jessica Caloza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-52/jessica-caloza",
+      "statement": "Jessica Caloza — Assemblymember District 52 · California Assembly District 52 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mark Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-54/mark-gonzalez",
+      "statement": "Mark Gonzalez — Assemblymember District 54 · California Assembly District 54 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Sade Elhawary",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/sade-elhawary",
+      "statement": "Sade Elhawary — Assemblymember District 57 · California Assembly District 57 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
+      "statement": "Tina McKinnor — Assemblymember District 61 · California Assembly District 61 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Chris Ward",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-78/chris-ward",
+      "statement": "Chris Ward — Assemblymember District 78 · California Assembly District 78 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "David A. Alvarez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-80/david-a-alvarez",
+      "statement": "David Alvarez — Assemblymember District 80 · California Assembly District 80 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Regional Transit Measure — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Malia Vella",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-mayor/malia-vella",
+      "statement": "Malia Vella — Mayor · Alameda Mayor — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Dual pick",
+      "choice": "Thushan Amarasiriwardena",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/thushan-amarasiriwardena",
+      "statement": "Thushan Amarasiriwardena — Councilmember · Alameda City Council — Dual pick",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Dual pick",
+      "choice": "Tyler Savage",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/tyler-savage",
+      "statement": "Tyler Savage — Councilmember · Alameda City Council — Dual pick",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Dual pick",
+      "choice": "Aaron Tiedemann",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/aaron-tiedemann",
+      "statement": "Aaron Tiedemann — Councilmember · Albany City Council — Dual pick",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Dual pick",
+      "choice": "Robin D. López",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/robin-d-lopez",
+      "statement": "Robin D. Lopez — Councilmember · Albany City Council — Dual pick",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "1st choice",
+      "choice": "Ross Bernet",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/ross-bernet",
+      "rank": 1,
+      "weight": 1,
+      "statement": "Ross Bernet — Councilmember District 1 · Berkeley City Council District 1 — 1st choice",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "2nd choice",
+      "choice": "Daria Wrubel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
+      "rank": 2,
+      "weight": 1,
+      "statement": "Daria Wrubel — Councilmember District 1 · Berkeley City Council District 1 — 2nd choice",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Igor A. Tregub",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-4/igor-a-tregub",
+      "statement": "Igor Tregub — Councilmember District 4 · Berkeley City Council District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mark Humbert",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/mark-humbert",
+      "statement": "Mark Humbert — Councilmember District 8 · Berkeley City Council District 8 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Corry Frydlewicz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/corry-frydlewicz",
+      "statement": "Corry Frydlewicz — Councilmember · Emeryville City Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "David Mourra",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/david-mourra",
+      "statement": "David Mourra — Councilmember · Emeryville City Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Charlene Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/charlene-wang",
+      "statement": "Charlene Wang — Councilmember District 2 · Oakland City Council District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Adriana Valencia",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/adriana-valencia",
+      "statement": "Adriana Valencia — Transit Board District 3 · AC Transit Ward 3 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Raburn",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bart-board-of-directors-district-4/robert-raburn",
+      "statement": "Robert Raburn — Transit Board District 4 · BART Board of Directors District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Moraga Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/moraga",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Kerry Hillis",
+      "statement": "Kerry Hillis — Mayor · Moraga Mayor — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Eddy Polon",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/eddy-polon",
+      "statement": "Eddy Polon — Councilmember · Burbank At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mike Van Gorder",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/mike-van-gorder",
+      "statement": "Mike Van Gorder — Councilmember · Burbank At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Freddy Puza",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/freddy-puza",
+      "statement": "Freddy Puza — Councilmember · Culver City At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Thomas Aujero Small",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/thomas-aujero-small",
+      "statement": "Thomas Small — Councilmember · Culver City At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Nithya Raman",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/nithya-raman",
+      "statement": "Nithya Raman — Mayor · Los Angeles City — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Marissa Roy",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/marissa-roy",
+      "statement": "Marissa Roy — City Attorney · Citywide — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Barri Worth Girvan",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/barri-worth-girvan",
+      "statement": "Barri Worth Girvan — Councilmember District 3 · Los Angeles Council District 3 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Jose Ugarte",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-9/jose-ugarte",
+      "statement": "Jose Ugarte — Councilmember District 9 · Los Angeles City Council District 9 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Caroline Torosis",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/caroline-torosis",
+      "statement": "Caroline Torosis — Councilmember · Santa Monica At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Doug Trussler",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/doug-trussler",
+      "statement": "Doug Trussler — Councilmember · Santa Monica At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Eli Gill",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/eli-gill",
+      "statement": "Eli Gill — Councilmember · Santa Monica At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
+      "statement": "Chelsea Byers — Councilmember · West Hollywood At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
+      "statement": "Helen Krieger — Councilmember · West Hollywood At Large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Ava Fruin",
+      "statement": "Ava Fruin — Councilmember · Corte Madera Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "David Bell",
+      "statement": "David Bell — Councilmember · Corte Madera Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Eli Beckman",
+      "statement": "Eli Beckman — Councilmember · Corte Madera Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Brian Jaffe",
+      "statement": "Brian Jaffe — Councilmember · Larkspur City Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Larkspur City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/larkspur",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Gareth Walter",
+      "statement": "Gareth Walter — Councilmember · Larkspur City Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Rachel Farac",
+      "statement": "Rachel Farac — Councilmember District 2 · Novato City Council, District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Novato City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/novato",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Pat Eklund",
+      "statement": "Pat Eklund — Councilmember District 4 · Novato City Council, District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Ross Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/ross",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Paul Roesler",
+      "statement": "Paul Roesler — Councilmember · Ross Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Ross Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/ross",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Herbst",
+      "statement": "Robert Herbst — Councilmember · Ross Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Anselmo Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-anselmo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Will Dittmar",
+      "statement": "Will Dittmar — Councilmember · San Anselmo Town Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Eli Hill",
+      "statement": "Eli Hill — Councilmember District 2 · San Rafael City Council District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Rafael City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-rafael",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Robert Sandoval",
+      "statement": "Robert Sandoval — Councilmember District 3 · San Rafael City Council District 3 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Stephen Sherrill",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/stephen-sherrill",
+      "statement": "Stephen Sherrill — County Board District 2 · San Francisco Board of Supervisors District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "statement": "Alan Wong — County Board District 4 · San Francisco Board of Supervisors District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "statement": "Matt Dorsey — County Board District 6 · San Francisco Board of Supervisors District 6 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "statement": "Gary McCoy — County Board District 8 · San Francisco Board of Supervisors District 8 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "statement": "Theo Ellington — County Board District 10 · San Francisco Board of Supervisors District 10 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Joaquin Torres",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "statement": "Joaquin Torres — Clerk/Recorder · San Francisco Country Assessor-Recorder — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Sara Barz",
+      "choice_id": "sf-department-of-elections:2026-11-03/bart-board-of-directors-district-8/sara-barz",
+      "statement": "Sara Barz — Transit Board District 8 · BART Board of Directors District 8 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "statement": "Prop A Charter Changes Affecting Various City Departments and Commissions — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "Prop C Housing Trust Fund — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/yes",
+      "statement": "Prop D Changes To Ballot Measure Thresholds — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/yes",
+      "statement": "Prop E City Administrator’s Authority and Changes to City Contracting — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/yes",
+      "statement": "Prop F Changes to Executive Branch Management — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote no",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
+      "statement": "Prop G Allowing Private Vehicles on the Great Highway in Sunset Dunes Park — Vote no",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "Prop H Parcel Tax to Fund Public Muni Operations — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote no",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/no",
+      "statement": "Prop I Changes to Real Property Transfer Tax — Vote no",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Supervisors, District 5 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mark Nagales",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-supervisors-district-5-short-term/mark-nagales",
+      "statement": "Mark Nagales — Supervisor · San Mateo County Supervisor District 5 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Phoebe Shin Venkat",
+      "choice_id": "san-mateo-county-elections:2026-11-03/foster-city-city-council-district-1/phoebe-shin-venkat",
+      "statement": "Phoebe Shin Venkat — Councilmember District 1 · Foster City District 1 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Menlo Park — Measure P (Citizen Initiative to Amend Municipal Code)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/menlo-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote no",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/menlo-park-measure-p-citizen-initiative-to-amend-municipal-code/no",
+      "statement": "Measure P Menlo Park Downtown Parking Lots — Vote no",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Chris Sturken",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-2/chris-sturken",
+      "statement": "Chris Sturken — Councilmember District 2 · Redwood City District 2 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Redwood City — Measure E (Rent Control and Eviction Limits Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote no",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-measure-e-rent-control-and-eviction-limits-initiative/no",
+      "statement": "Measure E Rent Control on Affordable Housing — Vote no",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Bruno City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Auros Harman",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-city-council-district-4/auros-harman",
+      "statement": "Auros Harman — Councilmember District 4 · San Bruno District 4 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Seema Patel",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-3/seema-patel",
+      "statement": "Seema Patel — Councilmember District 3 · San Mateo City Council District 3 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Mateo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Adam Loraine",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-city-council-district-5/adam-loraine",
+      "statement": "Adam Loraine — Councilmember District 5 · San Mateo City Council District 5 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "James Kuszmaul",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/james-kuszmaul",
+      "statement": "James Kuszmaul — Councilmember · Mountain View City Council — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Mountain View City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/mountain-view",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Erik Poicon",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/mountain-view-city-council/erik-poicon",
+      "statement": "Eric Poicon — Mountain View City Council · At-large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Vicki Veenker",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/vicki-veenker",
+      "statement": "Vicki Veenker — Palo Alto City Council · At-large — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Yu \"Yudy\" Deng",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/yu-yudy-deng",
+      "statement": "Yudy Deng — Palo Alto City Council · Citywide — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Gordon Chester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-9/gordon-chester",
+      "statement": "Gordon Chester — Councilmember District 9 · City of San Jose District 9 — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Peter Wilk",
+      "statement": "Peter Wilk — City of Capitola City Council Member · Citywide — Endorsed",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    },
+    {
+      "subject": {
+        "title": "Sausalito — Measure X (Arts, Industrial & Maritime Preservation and Improvement Initiative)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sausalito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Vote yes",
+      "choice": "Yes",
+      "statement": "Measure X Arts. Industrial & Maritime Preservation and Improvement Initiative — Vote yes",
+      "source": "https://yimbyaction.org/endorsements/november-2026-california-general"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Endorsed"
+    },
+    {
+      "label": "Dual pick"
+    },
+    {
+      "label": "1st choice"
+    },
+    {
+      "label": "2nd choice"
+    },
+    {
+      "label": "Vote yes"
+    },
+    {
+      "label": "Vote no"
+    },
+    {
+      "label": "No consensus"
+    }
+  ]
+}
