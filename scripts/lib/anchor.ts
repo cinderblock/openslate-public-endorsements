@@ -120,18 +120,24 @@ export async function anchorBundle(
     result.not_checkable[reason] = (result.not_checkable[reason] ?? 0) + 1;
   };
   const textOf = async (ref: CaptureRef): Promise<string | null> => {
-    const known = cache.get(ref.response_sha256);
+    // A browser's view where there's a good one: that's the page a plain GET couldn't see.
+    const dom = ref.rendered?.status === 200 ? ref.rendered.dom_sha256 : null;
+    const hash = dom ?? ref.response_sha256;
+    const known = cache.get(hash);
     if (known !== undefined) return known;
-    const raw = read(ref.response_sha256);
+    const raw = read(hash);
     if (!raw) return null;
     let text: string | null = null;
     try {
-      const { body, contentType } = responseBody(raw);
-      text = await comparableText(body, contentType);
+      if (dom) text = await comparableText(raw, "text/html");
+      else {
+        const { body, contentType } = responseBody(raw);
+        text = await comparableText(body, contentType);
+      }
     } catch {
       text = null;
     }
-    cache.set(ref.response_sha256, text);
+    cache.set(hash, text);
     return text;
   };
 

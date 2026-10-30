@@ -40,6 +40,8 @@ export interface CaptureRef {
   /** Where the bytes are: the capture repo, the private store, or the large-blobs release. */
   bytes: "public" | "withheld" | "release";
   claims: Claim[];
+  /** Headless Chrome's view, for hosts a plain GET can't see. Chrome's view, not socket bytes. */
+  rendered?: { status: number | null; dom_sha256: string | null };
 }
 
 export interface Archived {
