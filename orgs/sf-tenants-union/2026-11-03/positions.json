@@ -10,7 +10,12 @@
     "retrieved_at": "2026-10-15T01:06:40Z",
     "sources": [
       "https://sftu.org/endorsements/"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sf-tenants-union/2026-11-03.json"
+    }
   },
   "positions": [
     {"subject": {"title": "US House of Representatives, California District 11", "kind": "race", "jurisdiction": "us/ca/cd-11", "election": "2026-11-03"}, "stance": "endorse", "choice": "Connie Chan", "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan", "statement": "Listed as \"Connie Chan*\". Marked with an asterisk; the page notice reads: \"Appearance is paid for and authorized by each candidate and ballot measure which is designated by an *.\"", "source": "https://sftu.org/endorsements/"},

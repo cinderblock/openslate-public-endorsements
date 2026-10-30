@@ -8,7 +8,12 @@
     "of": { "name": "Sierra Club Angeles Chapter", "uri": "https://www.sierraclub.org/angeles", "kind": "organization" },
     "mode": "scraped",
     "retrieved_at": "2026-06-01T00:00:00Z",
-    "sources": [ "https://www.sierraclub.org/angeles/endorsements" ]
+    "sources": [ "https://www.sierraclub.org/angeles/endorsements" ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sierra-club-angeles/2026-06-02.json"
+    }
   },
   "positions": [
     { "subject": { "title": "Governor of California", "kind": "race", "jurisdiction": "us/ca", "election": "2026-06-02" }, "stance": "endorse", "choice": "Tom Steyer" },

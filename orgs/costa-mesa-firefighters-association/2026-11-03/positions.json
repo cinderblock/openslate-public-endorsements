@@ -13,7 +13,12 @@
     "retrieved_at": "2026-10-23T16:40:43Z",
     "sources": [
       "https://ocvote.gov/sites/default/files/2026-09/C-CMES%20-%20LAYOUT%20(1).pdf#page=4"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/costa-mesa-firefighters-association/2026-11-03.json"
+    }
   },
   "positions": [
     {

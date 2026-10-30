@@ -8,7 +8,12 @@
     "of": { "name": "LA Forward", "uri": "https://www.laforward.org/", "kind": "organization" },
     "mode": "scraped",
     "retrieved_at": "2026-06-01T00:00:00Z",
-    "sources": [ "https://www.laforward.org/voterguide" ]
+    "sources": [ "https://www.laforward.org/voterguide" ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/la-forward/2026-06-02.json"
+    }
   },
   "positions": [
     { "subject": { "title": "Los Angeles County — Measure ER (Healthcare Sales Tax)", "kind": "measure", "jurisdiction": "us/ca/los-angeles-county", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes" },

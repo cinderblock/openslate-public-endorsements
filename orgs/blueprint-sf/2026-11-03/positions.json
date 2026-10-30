@@ -15,7 +15,12 @@
     "sources": [
       "https://www.sfblueprint.org/advocacy/november-2026-voter-guide",
       "https://cdn.prod.website-files.com/6842b9b588e1dab9f1d01ce9/6aa496004ec0cd1a899d8a2b_BP-NovVoterGuide.pdf"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/blueprint-sf/2026-11-03.json"
+    }
   },
   "positions": [
     {

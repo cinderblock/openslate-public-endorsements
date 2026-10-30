@@ -21,7 +21,12 @@
       "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-369.pdf#page=87",
       "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-575.pdf#page=84",
       "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-603.pdf#page=80"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sd-county-taxpayers-association/2026-11-03.json"
+    }
   },
   "positions": [
     {

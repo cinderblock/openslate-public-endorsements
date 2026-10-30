@@ -17,7 +17,12 @@
       "https://irp.cdn-website.com/0af916fd/dms3rep/multi/opt/IMG_2317-1920w.PNG",
       "https://irp.cdn-website.com/0af916fd/dms3rep/multi/opt/positions-1920w.png",
       "https://irp.cdn-website.com/0af916fd/dms3rep/multi/opt/Local+Recommendations+-+Nov+2026-1e648819-1920w.png"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/contra-costa-county-republican-party/2026-11-03.json"
+    }
   },
   "positions": [
     {

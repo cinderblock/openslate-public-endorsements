@@ -16,7 +16,12 @@
       "https://ocvote.gov/elections/contests-qualified-for-the-ballot-for-the-2026-general-election",
       "https://ocvote.gov/candidates/candidate-filing-log-with-statements",
       "https://ocvote.gov/elections/2026-general-election-measures-on-the-ballot"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/oc-registrar-of-voters/2026-11-03.json"
+    }
   },
   "positions": [
     {
