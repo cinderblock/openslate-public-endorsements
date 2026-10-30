@@ -727,6 +727,25 @@ export const SIGNERS: Record<string, Target | null> = {
   "First Cubberley Citizens Advisory Committee": null,
   "GUSD Board": null,
   "Orchard School Board": null,
+
+  // San Mateo County: read from the county's scans by OCR, so a printed name can lose a letter,
+  // or be cut short by the form's own field ("Associati" is "Association"; the scan shows
+  // "EPA Greyhounds" where the OCR read "EPAGre hounds").
+  "Burlingame Chamber of Commerce": org(
+    "burlingame-chamber-of-commerce",
+    "Burlingame Chamber of Commerce",
+  ),
+  "Chamber San Mateo County": org("chamber-san-mateo-county", "Chamber San Mateo County"),
+  "EPAGre hounds": org("epa-greyhounds", "EPA Greyhounds"),
+  "San Bruno Police Associati": org("san-bruno-police-association", "San Bruno Police Association"),
+  "Silicon Valley Taxpayers Associ:": org(
+    "silicon-valley-taxpayers-association",
+    "Silicon Valley Taxpayers Association",
+  ),
+  "SMFC Education Foundation": org("smfc-education-foundation", "SMFC Education Foundation"),
+  // Government bodies: their officers sign as individuals.
+  "Menlo Park Planning Commission": null,
+  "San Mateo-Foster City School B": null,
 };
 
 /** Whether a signer's title makes them the organization's voice (not a board member, past officer, member or staff). */

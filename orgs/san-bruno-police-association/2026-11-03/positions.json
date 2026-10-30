@@ -1,0 +1,33 @@
+{
+  "context": {
+    "title": "San Bruno Police Association: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Bruno Police Association",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-25T05:43:34Z",
+    "sources": [
+      "https://smcacre.gov/system/files/2026-08/52-ENG-M304-Contest%20Code-6ArgAgainst-San%20Bruno%20Fireworks%20Ban_Redacted.pdf"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Bruno — Measure DD (Fireworks Ban Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-bruno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-bruno-measure-dd-fireworks-ban-measure/no",
+      "statement": "Daimhin Kirwan (Commander, San Bruno Police Associati) signed the argument against San Bruno Measure DD in the San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election voter guide.",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M304-Contest%20Code-6ArgAgainst-San%20Bruno%20Fireworks%20Ban_Redacted.pdf"
+    }
+  ]
+}

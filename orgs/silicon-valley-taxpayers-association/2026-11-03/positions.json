@@ -10,13 +10,15 @@
       "kind": "organization"
     },
     "mode": "inferred",
-    "retrieved_at": "2026-10-24T20:26:00Z",
+    "retrieved_at": "2026-10-25T05:43:43Z",
     "sources": [
       "https://ca.omniballot.us/published/06085/1968/vg/721_md.json",
       "https://ca.omniballot.us/published/06085/1968/vg/723_md.json",
       "https://ca.omniballot.us/published/06085/1968/vg/731_md.json",
       "https://ca.omniballot.us/published/06085/1968/vg/734_md.json",
-      "https://ca.omniballot.us/published/06085/1968/vg/735_md.json"
+      "https://ca.omniballot.us/published/06085/1968/vg/735_md.json",
+      "https://smcacre.gov/system/files/2026-08/52-ENG-M104-Contest%20Code-7ArgAgainst-City%20of%20San%20Carlos%20Use%20Tax_Redacted%20%281%29.pdf",
+      "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgInFavor-Belmont-Special-Tax_Redacted.pdf"
     ]
   },
   "positions": [
@@ -91,6 +93,32 @@
       "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-measure-j-transactions-and-use-tax/no",
       "statement": "Mark W.A. Hinkle (President, Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Palo Alto Measure J and the argument against Palo Alto Measure J in the Santa Clara County Voter Information Guide.",
       "source": "https://ca.omniballot.us/published/06085/1968/vg/731_md.json"
+    },
+    {
+      "subject": {
+        "title": "Belmont — Measure Y (Special Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/belmont",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/belmont-measure-y-special-tax-measure/no",
+      "statement": "Mark W.A. Hinkle (President: Silicon Valley Taxpayers Association) signed the rebuttal to the argument in favor of Belmont Measure Y in the San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election voter guide.",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-MY-RebutArgInFavor-Belmont-Special-Tax_Redacted.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Carlos — Measure G (Transactions and Use Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-carlos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-carlos-measure-g-transactions-and-use-tax-measure/no",
+      "statement": "Mark W.A. Hinkle (President, Silicon Valley Taxpayers Associ:) signed the argument against San Carlos Measure G in the San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election voter guide.",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M104-Contest%20Code-7ArgAgainst-City%20of%20San%20Carlos%20Use%20Tax_Redacted%20%281%29.pdf"
     }
   ]
 }
