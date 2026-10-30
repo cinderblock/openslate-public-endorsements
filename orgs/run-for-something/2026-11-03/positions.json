@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:32:52Z",
+    "retrieved_at": "2026-10-30T17:06:14Z",
     "sources": [
       "https://runforsomething.net/candidates/",
       "https://directory.runforsomething.net/candidates/CA/"
@@ -499,6 +499,30 @@
       "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/stephen-post",
       "statement": "\"Stephen Post\" — \"West Hollywood City Council, CA\" — \"2026 Endorsement\"",
       "source": "https://directory.runforsomething.net/candidate/be3ad9c0018071066eb48cf44daa6118/post-stephen/"
+    },
+    {
+      "subject": {
+        "title": "Riverside City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aram Ayra",
+      "statement": "\"Aram Ayra\" — \"Riverside City Council, Ward 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/a0b9acb16d44d9d21119861ecb0f4b62/ayra-aram/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"Christian Shaughnessy\" — \"San Bernardino City Council, Ward 2, CA\" — \"2026 Endorsement\"",
+      "source": "https://directory.runforsomething.net/candidate/0b0082d668cfec7ecb9994e2067139e7/shaughnessy-christian/"
     }
   ]
 }

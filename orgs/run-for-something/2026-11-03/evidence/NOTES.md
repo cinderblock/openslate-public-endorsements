@@ -87,3 +87,10 @@ California picks for the November 3, 2026 general election.
 - The directory's "electionOutcome" field is mostly "No Election Result
   Yet", even for candidates who have already advanced, so it was not used
   as proof.
+
+## Refresh 2026-10-30
+
+Re-read the directory JSON on 2026-10-30 9:51 AM PDT (16:51Z): the same 48 records with a 2026 general date, none new. The sweep's 23 names
+are alumni from earlier classes, not 2026 endorsements. Added back the two "runoff status unconfirmed" picks:
+**Aram Ayra** (Riverside Ward 2 runoff vs. Gracie Torres, per the ie-united and inland-empire-labor-council
+notes) and **Christian Shaughnessy** (San Bernardino Ward 2, on the county ROV candidate list per those notes).
