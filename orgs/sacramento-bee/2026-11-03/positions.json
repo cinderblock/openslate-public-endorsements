@@ -11,9 +11,10 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:52:41Z",
+    "retrieved_at": "2026-10-30T16:46:51Z",
     "sources": [
-      "https://www.sacbee.com/opinion/election-endorsements/"
+      "https://www.sacbee.com/opinion/election-endorsements/",
+      "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
     ]
   },
   "positions": [
@@ -306,6 +307,19 @@
       "choice": "Jeresia Ewell",
       "statement": "\"This is why The Sacramento Bee Editorial Board endorses Jeresia Ewell to be RJUHSD’s trustee for Area 2.\"",
       "source": "https://www.sacbee.com/opinion/election-endorsements/article317514817.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
+      "statement": "The Bee endorsed Sacramento City Councilmember Mai Vang over incumbent Doris Matsui",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
     }
   ]
 }

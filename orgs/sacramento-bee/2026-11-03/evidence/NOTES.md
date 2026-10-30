@@ -71,3 +71,9 @@ Add these when someone can open sacbee.com in a browser.
 - Local titles reuse the Sacramento County Democratic/Republican Party
   bundles byte-for-byte. "Roseville Joint Union High School District Board,
   Area 2" (`us/ca/placer-county`) is new.
+
+## Refresh 2026-10-30
+
+Read in Chrome on 2026-10-30 about 9:45 AM PDT (16:45Z). Added CD 7: the Oct 2 editorial restates
+the spring endorsement of Mai Vang over Doris Matsui for November. No page text saved for this
+refresh.
