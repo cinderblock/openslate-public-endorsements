@@ -107,3 +107,9 @@ uncontested and will be filled by appointment in lieu of election.
   races; and all OC measures. They follow existing patterns: "<City> City
   Council, District N", "<City> Mayor", "<District> Board, Trustee Area N",
   "<Body> — Measure X (<registrar title>)".
+
+## Refresh 2026-10-30
+
+Re-fetched https://orangecountydemocrats.com/oc-endorsements-2 and the statewide page on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `ocdemocrats-oc-endorsements-2026-10-30.md`. One
+addition: **Laguna Beach City Council: Mark Orgill**. The HTML page now also prints the picks that were only in
+the city JPGs on 10-19 (Dorn Parker, Lacko, Terry). Everything else matches.
