@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:18:58Z",
+    "retrieved_at": "2026-10-30T16:48:10Z",
     "sources": [
       "https://housingactioncoalition.org/2026-endorsements"
     ]
@@ -1202,11 +1202,11 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Daria Wrubel",
-      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
+      "choice": "Ross Bernet",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/ross-bernet",
       "rank": 1,
       "weight": 1,
-      "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
+      "statement": "\"Ross Bernet (Rank #1), Daria Wrubel (Rank #2)– Berkeley City Council, District 1\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
     {
@@ -1217,11 +1217,11 @@
         "election": "2026-11-03"
       },
       "stance": "endorse",
-      "choice": "Ross Bernet",
-      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/ross-bernet",
+      "choice": "Daria Wrubel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
       "rank": 2,
       "weight": 0.5,
-      "statement": "\"Daria Wrubel (Rank #1), Ross Bernet (Rank #2)– Berkeley City Council, District 1\"",
+      "statement": "\"Ross Bernet (Rank #1), Daria Wrubel (Rank #2)– Berkeley City Council, District 1\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
     {
@@ -1235,6 +1235,19 @@
       "choice": "Igor A. Tregub",
       "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-4/igor-a-tregub",
       "statement": "\"Igor Tregub – Berkeley City Council, District 4\"",
+      "source": "https://housingactioncoalition.org/2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Syrak Micael",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/syrak-micael",
+      "statement": "\"Syrak Micael – Berkeley City Council, District 7\"",
       "source": "https://housingactioncoalition.org/2026-endorsements"
     },
     {
