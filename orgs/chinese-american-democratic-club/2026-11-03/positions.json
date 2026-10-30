@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:16:29Z",
+    "retrieved_at": "2026-10-30T17:18:02Z",
     "sources": [
       "https://www.sfcadc.org/cadc_11_2026_recommendations",
       "https://www.sfcadc.org/endorsements"
@@ -64,6 +64,28 @@
       "stance": "endorse",
       "choice": "Rob Bonta",
       "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Secretary of State — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Insurance Commissioner — No Position",
       "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
     },
     {
@@ -137,6 +159,17 @@
       "stance": "endorse",
       "choice": "Matt Dorsey",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Board of Supervisors, District 8 — No Position",
       "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
     },
     {
@@ -232,6 +265,28 @@
       "choice": "Elijah Ball",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
       "statement": "\"City College Trustee — Jeremy Lee, Elijah Ball\" (term not specified; both are full-term candidates).",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "BART Board — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "1 — $11.2B Veterans and Affordable Housing Bond Act — NO POSITION",
       "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
     },
     {
@@ -447,6 +502,17 @@
       "choice": "No",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/no",
       "statement": "CADC opposes Prop. B because the measure creates the institutional framework without identifying a secure source for the substantial capitalization needed to establish the bank.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "C — Contribute bigger shares from General Funds to the Housing Trust Fund — NO POSITION",
       "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
     },
     {
