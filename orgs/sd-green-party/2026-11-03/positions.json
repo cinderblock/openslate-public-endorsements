@@ -1,0 +1,66 @@
+{
+  "context": {
+    "title": "Green Party of San Diego County — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Green Party of San Diego County",
+      "uri": "https://www.sdgreenparty.org/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T21:27:46Z",
+    "sources": [
+      "https://www.sdgreenparty.org/candidates",
+      "https://www.sdgreenparty.org/announcements",
+      "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexander Kraft",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-mayor/alexander-kraft",
+      "statement": "the General Membership endorsed Alexander Kraft, Peace and Freedom Party candidate for Mayor of El Cajon.",
+      "source": "https://www.sdgreenparty.org/announcements/feb-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove — Measure E (Bird Rescue-Only Sales Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lemon-grove-measure-e-bird-rescue-only-sales-measure/yes",
+      "statement": "Vote YES on Measure E and return your ballot by November 3.",
+      "source": "https://www.sdgreenparty.org/announcements/gpsd-gm-endorses-lemon-grove-bird-initiative-drop-the-jnf-and-gkn-out"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Green Party of California",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-green-party/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.sdgreenparty.org/announcements/gpca-endorses-the-billionaires-tax-prop-40"
+    }
+  ]
+}
