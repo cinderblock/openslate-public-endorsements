@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-28T16:05:21Z",
+    "retrieved_at": "2026-10-30T16:35:44Z",
     "sources": [
       "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/",
       "https://www.mercurynews.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
@@ -476,6 +476,19 @@
       "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/alexandra-williams",
       "statement": "\"Oakland Unified School District\" … \"District 6 — Alexandra Williams\"",
       "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Community College District — Measure V (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-measure-v-bond-measure/no",
+      "statement": "The $848 million ballot measure obscures nature of the tax increase",
+      "source": "https://www.mercurynews.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     }
   ]
 }

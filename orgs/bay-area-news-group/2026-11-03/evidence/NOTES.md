@@ -127,3 +127,12 @@ Positions: 28 → 35.
   `marin-independent-journal` bundle's owner. Nothing was copied here.
 - All titles reuse existing subjects. Concord D1/D3/D5 still have no
   `choice_id`, because no Contra Costa listing is loaded.
+
+## Refresh 2026-10-30
+
+Re-fetched the Mercury News roundup with curl on 2026-10-30 9:33 AM PDT (16:33Z); header "UPDATED:
+October 30, 2026 at 9:23 AM PDT". One addition: **San Mateo Community College District Measure V:
+No** (editorial 10-29: https://www.mercurynews.com/2026/10/29/endorsement-reject-san-mateo-community-college-districts-848-million-measure-v/).
+Everything else matches the bundle, including Michael Melillo and Gilroy Measure M. The page still
+says "so far". No page text saved for this refresh; the record is this note and the quote in the
+position.
