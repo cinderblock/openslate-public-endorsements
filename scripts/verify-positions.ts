@@ -8,15 +8,19 @@
 // their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
 // sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts). A
 // regional contest must say which jurisdictions vote on it (`subject.voted_in`,
-// scripts/lib/regions.ts), in every bundle.
+// scripts/lib/regions.ts), in every bundle. With a capture checkout in OPENSLATE_CAPTURES_DIR, each
+// statement is also looked for in the raw capture of its source (scripts/lib/anchor.ts): a miss is
+// a warning stating a fact, and the misses are listed in review/unanchored.md.
 // PR-time and pre-sign check — no signing involved.
 
-import { existsSync, readdirSync, statSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 import { type Article, signInputSchema } from "../.openslate/packages/core/src/index";
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
+import { type AnchorResult, anchorBundle, blobReader } from "./lib/anchor";
 import { districtFor } from "./lib/districts";
 import { localityProblem } from "./lib/localities";
+import { readProvenance } from "./lib/provenance";
 import { votedInProblem } from "./lib/regions";
 
 const ROOT = process.cwd();
@@ -194,9 +198,55 @@ for (const { path, bundle, articles } of valid) {
   }
 }
 
+// Every bundle with a capture: is each statement in the raw text? Facts for a person, never a failure.
+const capturesDir = process.env.OPENSLATE_CAPTURES_DIR;
+let anchoring = "Source anchoring: skipped, OPENSLATE_CAPTURES_DIR isn't set";
+if (capturesDir) {
+  const read = blobReader(capturesDir, process.env.OPENSLATE_CAPTURES_PRIVATE_DIR);
+  const texts = new Map<string, string | null>();
+  const total = { exact: 0, quoted_parts: 0, no_statement: 0, unanchored: 0, not_checkable: 0 };
+  const report: string[] = [];
+  let withCapture = 0;
+  for (const { path, bundle } of valid) {
+    const [, org = "", election = ""] = path.split("/");
+    const provenance = readProvenance(capturesDir, org, election);
+    if (!provenance) continue;
+    withCapture++;
+    const result: AnchorResult = await anchorBundle(bundle.positions, provenance, read, texts);
+    total.exact += result.exact;
+    total.quoted_parts += result.quoted_parts;
+    total.no_statement += result.no_statement;
+    total.unanchored += result.unanchored.length;
+    total.not_checkable += Object.values(result.not_checkable).reduce((a, b) => a + b, 0);
+    if (!result.unanchored.length) continue;
+    report.push(`\n## ${path}\n`);
+    for (const miss of result.unanchored) {
+      warnings.push(
+        `${path} positions[${miss.index}]: statement not found in capture ${miss.run} of ${miss.url}`,
+      );
+      report.push(`- positions[${miss.index}], ${miss.url} (run ${miss.run}): ${miss.statement}`);
+    }
+  }
+  anchoring =
+    `Source anchoring: bundles with captures ${withCapture}; ${total.exact} statements found, ` +
+    `${total.quoted_parts} found by their quoted parts, ${total.unanchored} not found, ` +
+    `${total.not_checkable} not checkable, ${total.no_statement} positions with no statement`;
+  mkdirSync("review", { recursive: true });
+  writeFileSync(
+    "review/unanchored.md",
+    `# Statements not found in the raw capture of their source
+
+This is a fact about the text, with no claim about why. Pages change, and a statement can be a fair
+description of what a page says.
+${report.join("\n")}
+`,
+  );
+}
+
 console.log(
   `\nBallot: ${checked} positions and ${articlesChecked} articles checked against an election authority's list, ${unchecked} positions in jurisdictions no authority covers yet`,
 );
+console.log(anchoring);
 if (warnings.length) console.log(`\nWarnings:\n  ${warnings.join("\n  ")}`);
 if (kinds.has("listing-id"))
   console.log(

@@ -304,6 +304,18 @@ to the ballot's "Donald P. (Don) Wagner" is one candidate, and anything it
 can't place is shown as *Not on the ballot*. Races in jurisdictions no
 authority covers yet aren't checked; the verify output counts them.
 
+Sources are captured verbatim in
+[openslate-source-captures](https://github.com/cinderblock/openslate-source-captures).
+With a checkout of it in `OPENSLATE_CAPTURES_DIR` (and the private store in
+`OPENSLATE_CAPTURES_PRIVATE_DIR`, if you have it), `scripts/verify-positions.ts`
+also looks for each `statement` in the raw capture of its `source`. A statement
+it can't find is a warning, never a failure, and all of them are listed in
+`review/unanchored.md`. It's a fact about the text and makes no claim about why.
+Without the checkout the check says it was skipped. `scripts/build-site.ts`
+fetches the capture repo's `provenance/` directory for the evidence pages, which
+show each source's capture, what proves it, its host and how many statements
+were found; if that repo is unreachable the pages render without it.
+
 To fix a failure, run `bun scripts/normalize-choices.ts <election>`. For a
 choice that is the same person as a ballot name (a nickname in the ballot's
 parentheses or quotes, a middle initial, accents, common short forms like
