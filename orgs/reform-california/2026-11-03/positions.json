@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:12:13Z",
+    "retrieved_at": "2026-10-30T17:08:40Z",
     "sources": [
       "https://www.reformcalifornia.org/voter-guides/california",
       "https://www.reformcalifornia.org/voter-guides/san-diego"
@@ -1919,6 +1919,2031 @@
       "choice": "No",
       "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-b-measure-to-fund-san-diego-county-health-safety-services/no",
       "statement": "Measure B (NO) San Diego County Sales Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cory Brown",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-board-of-education-district-3/cory-brown",
+      "statement": "County Board of Education: District 3: Cory Brown",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Education, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bianca Ragonesi-Lasche",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-board-of-education-district-5/bianca-ragonesi-lasche",
+      "statement": "County Board of Education: District 5: Bianca Ragonesi-Lasche",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Keith Blackburn",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-mayor/keith-blackburn",
+      "statement": "Carlsbad: Mayor: Keith Blackburn",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Burkholder",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-council-district-1/melanie-burkholder",
+      "statement": "Carlsbad: Council District 1: Melanie Burkholder",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sherry A. Freisinger",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-clerk/sherry-a-freisinger",
+      "statement": "Carlsbad: City Clerk: Sherry Freisinger",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Krouse",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-treasurer/thomas-krouse",
+      "statement": "Carlsbad: City Treasurer: Thomas Krouse",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricky Hoyt",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-city-council/ricky-hoyt",
+      "statement": "Coronado: Council (At-Large): Ricky Hoyt",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Purvis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-city-council/kelly-purvis",
+      "statement": "Coronado: Council (At-Large): Kelly Purvis",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Del Mar City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/del-mar",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Sturgis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/del-mar-city-council/jeff-sturgis",
+      "statement": "Del Mar: Council (At-Large): Jeffrey Sturgis",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Wells",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-mayor/bill-wells",
+      "statement": "El Cajon: Mayor: Bill Wells",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Kaye",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-city-council-district-1/chuck-kaye",
+      "statement": "El Cajon: Council District 1: Chuck Kaye",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bruce Ehlers",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-mayor/bruce-ehlers",
+      "statement": "Encinitas: Mayor: Bruce Ehlers",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ed Sprague",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-3/ed-sprague",
+      "statement": "Encinitas: Council District 3: Ed Sprague",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marco San Antonio",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-4/marco-san-antonio",
+      "statement": "Encinitas: Council District 4: Marco San Antonio",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dane White",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-mayor/dane-white",
+      "statement": "Escondido: Mayor: Dane White",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanner Horsley",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-city-council-district-1/tanner-horsley",
+      "statement": "Escondido: Council District 1: Tanner Horsley",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Garcia",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-city-council-district-2/joe-garcia",
+      "statement": "Escondido: Council District 2: Joe Garcia",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mitchell \"Mitch\" McKay",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/imperial-beach-mayor/mitchell-mitch-mckay",
+      "statement": "Imperial Beach: Mayor: Mitch McKay",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Berry",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/imperial-beach-city-council-district-1/steve-berry",
+      "statement": "Imperial Beach: Council District 1: Steve Berry",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mariko Nakawatase",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/imperial-beach-city-council-district-3/mariko-nakawatase",
+      "statement": "Imperial Beach: Council District 3: Mariko Nakawatase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Lothian",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-mayor/laura-lothian",
+      "statement": "La Mesa: Mayor: Laura Lothian",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Exeter",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-city-treasurer/bill-exeter",
+      "statement": "La Mesa: City Treasurer: Bill Exeter",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "National City Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/national-city",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Marcus Bush",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/national-city-mayor/marcus-bush",
+      "statement": "National City: Mayor: Least bad option is Marcus Bush",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Cline",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-1/michael-cline",
+      "statement": "Oceanside: Council District 1: Michael Cline",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Robinson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-2/richard-robinson",
+      "statement": "Oceanside: Council District 2: Richard (Rick) Robinson",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Vaus",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-mayor/steve-vaus",
+      "statement": "Poway: Mayor: Steve Vaus",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Pikus",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-city-council-district-1/chris-pikus",
+      "statement": "Poway: Council District 1: Chris Pikus",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter De Hoff",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-city-council-district-3/peter-de-hoff",
+      "statement": "Poway: Council District 3: Peter De Hoff",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Sannella",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-mayor/mike-sannella",
+      "statement": "San Marcos: Mayor: Mike Sannella",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Gabriele",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-city-council-district-1/thomas-gabriele",
+      "statement": "San Marcos: Council District 1: Thomas Gabriele",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lindsey Smith",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-city-council-district-2/lindsey-smith",
+      "statement": "San Marcos: Council District 2: Lindsey Smith",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ronn Hall",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-city-council-district-2/ronn-hall",
+      "statement": "Santee: Council District 2: Ronn Hall",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Green",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-mayor/joe-green",
+      "statement": "Vista: Mayor: Joe Green",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Nuñez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-city-council-district-1/frank-nunez",
+      "statement": "Vista: Council District 1: Frank Nunez",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Wray",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/alpine-union-school-district-board/eric-wray",
+      "statement": "Alpine Union School District: Trustee At-Large: Eric Wray",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Glenn Dickie",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/alpine-union-school-district-board/glenn-dickie",
+      "statement": "Alpine Union School District: Trustee At-Large: Glenn Dickie",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Alpine Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angela May",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/alpine-union-school-district-board/angela-may",
+      "statement": "Alpine Union School District: Trustee At-Large: Angela May",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Bonsall Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Gaddis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/bonsall-unified-school-district-board-trustee-area-b/michael-gaddis",
+      "statement": "Bonsall Unified School District: Trustee Area B: Michael Gaddis",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony Carnevale",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-1/anthony-carnevale",
+      "statement": "Cajon Valley Union School District: Trustee Area 1: Anthony Carnevale",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Covell",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-2/dana-covell",
+      "statement": "Cajon Valley Union School District: Trustee Area 2: Dana Covell",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lily Schworm",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-3/lily-schworm",
+      "statement": "Cajon Valley Union School District: Trustee Area 3: Lily Emily Schworm",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amber Martinez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-unified-school-district-board-trustee-area-1/amber-martinez",
+      "statement": "Carlsbad Unified School District: Trustee Area 1: Amber Martinez",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gretchen Vurbeff",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-unified-school-district-board-trustee-area-4/gretchen-vurbeff",
+      "statement": "Carlsbad Unified School District: Trustee Area 4: Gretchen Vurbeff",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joel Gutierrez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-unified-school-district-board-trustee-area-5/joel-gutierrez",
+      "statement": "Carlsbad Unified School District: Trustee Area 5: Joel Gutierrez",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jorge Balvaneda",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-1/jorge-balvaneda",
+      "statement": "Chula Vista Elementary School District: Trustee Seat 1: Jorge Balvaneda",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Toothman",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-3/norma-toothman",
+      "statement": "Chula Vista Elementary School District: Trustee Seat 3: Norma Toothman",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Delia Dominguez Cervantes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-5/delia-dominguez-cervantes",
+      "statement": "Chula Vista Elementary School District: Trustee Seat 5: Delia Dominguez Cervantes",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kaye Schneider",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-unified-school-district-board/kaye-schneider",
+      "statement": "Coronado Unified School District: Trustee At-Large: Kaye Schneider",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Dehesa School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Healy",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/dehesa-school-district-board/paul-healy",
+      "statement": "Dehesa School District: Trustee At-Large: Paul Healy",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Cochrane",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/del-mar-union-school-district-board/stephen-cochrane",
+      "statement": "Del Mar Union School District: Trustee At-Large: Stephen Cochrane",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Clark",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/michelle-clark",
+      "statement": "Encinitas Union School District: Trustee At-Large: Michelle Clark",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marika Dixon",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/marika-dixon",
+      "statement": "Encinitas Union School District: Trustee At-Lare: Marika Dixon",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Encinitas Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jorge Sanchez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-union-school-district-board-of-trustees/jorge-sanchez",
+      "statement": "Encinitas Union School District: Trustee At-Large: Jorge Sanchez",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Weller",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-high-school-district-board-trustee-area-1/bob-weller",
+      "statement": "Escondido Union High School District: Trustee Area 1: Bob Weller",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Hinrichs",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-high-school-district-board-trustee-area-2/joe-hinrichs",
+      "statement": "Escondido Union High School District: Trustee Area 2: Joe Hinrichs",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Vincent",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-high-school-district-board-trustee-area-5/david-vincent",
+      "statement": "Escondido Union High School District: Trustee Area 5: David Vincent",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ranglas",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-school-district-board-trustee-area-2/chris-ranglas",
+      "statement": "Escondido Union School District: Trustee Area 2: Christopher Ranglas",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zesty Harper",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-school-district-board-trustee-area-4/zesty-harper",
+      "statement": "Escondido Union School District: Trustee Area 4: Zesty Harper",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Huston",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-school-district-board-trustee-area-5/frank-huston",
+      "statement": "Escondido Union School District: Trustee Area 5: Frank Huston",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maria G. Moran",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/fallbrook-union-elementary-school-district-board-trustee-area-4/maria-g-moran",
+      "statement": "Fallbrook Union Elementary School District: Trustee Area 4: Maria Moran",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rosangela Cribbs",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-cuyamaca-community-college-district-board-trustee-area-5/rosangela-cribbs",
+      "statement": "Grossmont College: District 5: Rosangela Cribbs",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Woods",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-3/gary-woods",
+      "statement": "Grossmont Union High School District: Trustee Area 3: Dr. Gary Woods",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-4/charissa-chrissy-mccullough",
+      "statement": "Grossmont Union High School District: Trustee Area 4: Chrissy McCullough",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Kelly",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-5/jim-kelly",
+      "statement": "Grossmont Union High School District: Trustee Area 5: Jim Kelly",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Myriam S. Moody",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-spring-valley-school-district-board-trustee-area-2/myriam-s-moody",
+      "statement": "La Mesa-Spring Valley School District: Trustee Area 2: Myriam Moody",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Bethurum",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-unified-school-district-board-trustee-area-4/jason-bethurum",
+      "statement": "Oceanside Unified School District: Trustee Area 4: Jason Bethurum",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony Wiley",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-community-college-district-board-trustee-area-1/anthony-wiley",
+      "statement": "Palomar College: Area 1: Anthony Wiley",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Moore",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-community-college-district-board-trustee-area-5/michelle-moore",
+      "statement": "Palomar College: Area 5: Michelle Moore",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area B",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brett Davis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-unified-school-district-board-trustee-area-b/brett-davis",
+      "statement": "Poway Unified School District: Trustee Area B: Brett Davis",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Bennett",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-unified-school-district-board-trustee-area-c/jason-bennett",
+      "statement": "Poway Unified School District: Trustee Area C: Jason Bennett",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniela Darling",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-unified-school-district-board-trustee-area-d/daniela-darling",
+      "statement": "Poway Unified School District: Trustee Area D: Daniela Darling",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maya Phillips",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-unified-school-district-board-trustee-area-1/maya-phillips",
+      "statement": "Ramona Unified School District: Trustee Area 1: Maya Phillips",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Summers",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-unified-school-district-board-trustee-area-2/dan-summers",
+      "statement": "Ramona Unified School District: Trustee Area 2: Dan Summers",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jee Manghani",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/rancho-santa-fe-school-district-board/jee-manghani",
+      "statement": "Rancho Santa Fe School District: Trustee At-Large: Jee Manghani",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rancho Santa Fe School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bow Ruggeri",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/rancho-santa-fe-school-district-board/bow-ruggeri",
+      "statement": "Rancho Santa Fe School District: Trustee At-Large: Bow Ruggeri",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego Community College District Board, District C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Samantha Ely",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-community-college-district-board-district-c/samantha-ely",
+      "statement": "San Diego Community College District: District C: Sam Ely",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derrick Davis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-unified-school-district-board-trustee-area-e/derrick-davis",
+      "statement": "San Marcos Unified School District: Trustee Area E: Derrick Davis",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Miguel \"Mike\" Ochoa",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-ysidro-school-district-board/miguel-mike-ochoa",
+      "statement": "San Ysidro School District: Trustee At-Large: Mike Ochoa",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Ysidro School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brandon J Plascencia",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-ysidro-school-district-board/brandon-j-plascencia",
+      "statement": "San Ysidro School District: Trustee At-Large: Brandon Plascencia",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cindy Petretta",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-school-district-board-seat-1/cindy-petretta",
+      "statement": "Santee School District: Trustee Seat 1: Cindy Petretta",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven Dobesh",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-school-district-board-seat-5/steven-dobesh",
+      "statement": "Santee School District: Trustee Seat 5: Steven Dobesh",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "South Bay Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erika Lowery",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/south-bay-union-school-district-board-trustee-area-1/erika-lowery",
+      "statement": "South Bay Union School District: Trustee Area 1: Erika Lowery",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vallecitos School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Darnley",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vallecitos-school-district-board-trustee-area-4/michael-darnley",
+      "statement": "Vallecitos School District: Trustee Area 4: Michael Darnley",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Valley Center-Pauma Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Caputto",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/valley-center-pauma-unified-school-district-board-trustee-area-4/michael-caputto",
+      "statement": "Valley Center-Pauma Unified School District: Trustee Area 4: Michael Caputto",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jon Moffat",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-unified-school-district-board-trustee-area-3/jon-moffat",
+      "statement": "Vista Unified School District: Trustee Area 3: Jon Moffat",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Deer Springs Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James E Gordon",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/deer-springs-fire-protection-district-board/james-e-gordon",
+      "statement": "Deer Springs Fire Protection District: At-Large: James Gordon",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Public Utility District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth W. Endter",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/fallbrook-public-utility-district-board-division-2/kenneth-w-endter",
+      "statement": "Fallbrook Public Utility District: Division 2: Kenneth Endter",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Lenac",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-healthcare-district-board-zone-2/randy-lenac",
+      "statement": "Grossmont Healthcare District: Zone 2: Randolph Lenac",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggie T. Watkins",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-healthcare-district-board-zone-4/maggie-t-watkins",
+      "statement": "Grossmont Healthcare District: Zone 4: Maggie T Watkins",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lawrence Powers",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-2/lawrence-powers",
+      "statement": "Helix Water District: Division 2: Lawrence Powers",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kathleen Coates Hedberg",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-4/kathleen-coates-hedberg",
+      "statement": "Helix Water District: Division 4: Kathleen Hedberg",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sandra Deakins",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lakeside-community-planning-group/sandra-deakins",
+      "statement": "Lakeside Community Planning Group: Sandra Deakins",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ashley Carnevale",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lakeside-community-planning-group/ashley-carnevale",
+      "statement": "Lakeside Community Planning Group: Ashley Carnevale",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cole Marting",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-2/cole-marting",
+      "statement": "North County Fire Protection District: Division 2: Cole Marting",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth E. Munson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-3/kenneth-e-munson",
+      "statement": "North County Fire Protection District: Division 3: Kenneth Munson",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Otay Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary Croucher",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/otay-water-district-board-division-3/gary-croucher",
+      "statement": "Otay Water District: Division 3: Gary Croucher",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Padre Dam Municipal Water District Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Fordyce",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/padre-dam-municipal-water-district-board-division-1/brian-fordyce",
+      "statement": "Padre Dam Municipal Water District: Division 1: Brian Fordyce",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Clark",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-health-board-division-5/john-clark",
+      "statement": "Palomar Health: Division 5: John Clark",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ian Butler",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-health-board-division-7/ian-butler",
+      "statement": "Palomar Health: Division 7: Ian Butler",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rainbow Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Irvine",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/rainbow-municipal-water-district-board-division-3/greg-irvine",
+      "statement": "Rainbow Municipal Water District: Division 3: Greg Irvine",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lauren Elyse Welty",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-community-planning-group/lauren-elyse-welty",
+      "statement": "Ramona Community Planning Group: Lauren Welty",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Perfect",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-community-planning-group/dawn-perfect",
+      "statement": "Ramona Community Planning Group: Dawn Perfect",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robin Joy Maxson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-community-planning-group/robin-joy-maxson",
+      "statement": "Ramona Community Planning Group: Robin Maxson",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Hickle",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-municipal-water-district-board-division-2/jim-hickle",
+      "statement": "Ramona Municipal Water District: Division 2: Jim Hickle",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Rincon del Diablo Municipal Water District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth Hoving",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/rincon-del-diablo-municipal-water-district-board-division-3/kenneth-hoving",
+      "statement": "Rincon Del Diablo Water District: Division 3: Kenneth Hoving",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Craig Allen",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/craig-allen",
+      "statement": "Sweetwater Community Planning Group: At-Large: Craig Allen",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel Burow",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/daniel-burow",
+      "statement": "Sweetwater Community Planning Group: At-Large: Daniel Burow",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Hodge",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/donna-hodge",
+      "statement": "Sweetwater Community Planning Group: At-Large: Donna Hodge",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Heavilin",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/susan-heavilin",
+      "statement": "Sweetwater Community Planning Group: At-Large: Susan Heavilin",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luis Rafael De La Rosa",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/luis-rafael-de-la-rosa",
+      "statement": "Sweetwater Community Planning Group: At-Large: Luis De La Rosa",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carri Jo Fernandez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/carri-jo-fernandez",
+      "statement": "Sweetwater Community Planning Group: At-Large: Carri Jo Fernandez",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Sweetwater Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori Noe",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/sweetwater-community-planning-group/lori-noe",
+      "statement": "Sweetwater Community Planning Group: At-Large: Lori Noë",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Tri-City Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jerome Kern",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/tri-city-healthcare-district-board-zone-2/jerome-kern",
+      "statement": "Tri-City Healthcare District: Zone 2: Jerome Kern",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Garritson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/valley-center-community-planning-group/james-garritson",
+      "statement": "Valley Center Community Planning Group: James Garritson",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lavonne R. Norwood",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/valley-center-community-planning-group/lavonne-r-norwood",
+      "statement": "Valley Center Community Planning Group: Lavonne Norwood",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vlad Anthony Ciupitu",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/valley-center-community-planning-group/vlad-anthony-ciupitu",
+      "statement": "Valley Center Community Planning Group: Vlad Ciupitu",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Valley Center Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Yeager",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/valley-center-fire-protection-district-board-division-3/john-yeager",
+      "statement": "Valley Center Fire Protection District: Division 3: John Yeager",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Oceanside Unified School District: Trustee Area 3: No Endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Ramona Unified School District: Trustee Area 5: No Endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Dieguito Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "San Dieguito Union High School District: Trustee Area 3: No Endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "District 49: No Endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "District 52: No Endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "District 42: No endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/california"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Assembly District 31: No endorsement",
+      "source": "https://www.reformcalifornia.org/voter-guides/california"
+    },
+    {
+      "subject": {
+        "title": "Solana Beach — Measure C (Solana Beach Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/solana-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/solana-beach-measure-c-solana-beach-transient-occupancy-tax-measure/no",
+      "statement": "Measure C (NO) City of Solana Beach TOT",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Coronado — Measure D (R-4 Multiple-Family Development Height Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-measure-d-r-4-multiple-family-development-height-measure/no",
+      "statement": "Measure D (NO) City of Coronado Increase Height of Mutli-Family Developments",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove — Measure E (Bird Rescue-Only Sales Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lemon-grove-measure-e-bird-rescue-only-sales-measure/no",
+      "statement": "Measure E (NO) Lemon Grove Retail Bird Sale Ban",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Grossmont-Cuyamaca Community College District — Measure G (Fire Safety, Job Training, College Affordability, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-cuyamaca-community-college-district-measure-g-fire-safety-job-training-college-affordability-no-tax-rate-increase-measure/no",
+      "statement": "Measure G (NO) Grossmont-Cuyamaca Community College District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Jamul-Dulzura Union School District — Measure H (Jamul-Dulzura Union School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/jamul-dulzura-union-school-district-measure-h-jamul-dulzura-union-school-district-school-facilities-bond-measure/no",
+      "statement": "Measure H (NO) Jamul-Dulzura Union School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Julian Union High School District — Measure J (Julian Union High School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/julian-union-high-school-district-measure-j-julian-union-high-school-district-school-facilities-bond-measure/no",
+      "statement": "Measure J (NO) Julian Union High School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Union Elementary School District — Measure K (Fallbrook Union Elementary School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/fallbrook-union-elementary-school-district-measure-k-fallbrook-union-elementary-school-district-school-facilities-bond-measure/no",
+      "statement": "Measure K (NO) Fallbrook Union Elementary School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Mountain Empire Unified School District — Measure L (Mountain Empire Unified School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "Measure L (NEUTRAL) Mountain Empire Unified School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-unified-school-district-measure-m-san-diego-unified-school-district-repair-student-safety-no-tax-rate-increase-measure/no",
+      "statement": "Measure M (NO) San Diego Unified School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Vista Unified School District — Measure N (Vista Unified School District School Improvement Bond of 2026)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-unified-school-district-measure-n-vista-unified-school-district-school-improvement-bond-of-2026/no",
+      "statement": "Measure N (NO) Vista Unified School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Ramona Municipal Water District — Measure P (Amendment of Proposition 'NN' to Modernize the Ordinance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/ramona-municipal-water-district-measure-p-amendment-of-proposition-nn-to-modernize-the-ordinance/yes",
+      "statement": "Measure P (YES) Ramona Municipal Water District Modernization of Project Approval Rules",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 9B (Harris Annex) — Measure Q (Harris Annex Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/permanent-road-division-no-1000-zone-no-9b-harris-annex-measure-q-harris-annex-permanent-road-division-special-tax/no",
+      "statement": "Measure Q (NO) Harris Annex PRD Zone NO. 9B Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure R (Oceanside Charter — Prevailing Wage & Fair Competition Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-measure-r-oceanside-charter-prevailing-wage-fair-competition-measure/no",
+      "statement": "Measure R (NO) City of Oceanside Forces PLA Mandates on Contractors",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Oceanside — Measure S (Oceanside Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-measure-s-oceanside-local-services-infrastructure-sales-tax-measure/no",
+      "statement": "Measure S (NO) CIty of Oceanside Sales Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Permanent Road Division No. 1000, Zone No. 13A (Pala Mesa Zone A) — Measure T (Pala Mesa Zone A Permanent Road Division Special Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/permanent-road-division-no-1000-zone-no-13a-pala-mesa-zone-a-measure-t-pala-mesa-zone-a-permanent-road-division-special-tax/no",
+      "statement": "Measure T (NO) Pala Mesa Zone A PRD Zone 13A Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee — Measure Y (Santee Local Services & Infrastructure Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-measure-y-santee-local-services-infrastructure-sales-tax-measure/no",
+      "statement": "Measure Y (NO) City of Santee Sales Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District — Measure AA (La Mesa-Spring Valley School District Classroom Repair & Upgrade Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-spring-valley-school-district-measure-aa-la-mesa-spring-valley-school-district-classroom-repair-upgrade-extension-measure/no",
+      "statement": "Measure AA (NO) La Mesa-Spring Valley School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "Santee School District — Measure BB (Santee School District School Facilities Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-school-district-measure-bb-santee-school-district-school-facilities-bond-measure/no",
+      "statement": "Measure BB (NO) Santee School District Property Tax Increase",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Eran M. Bermudez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-eran-m-bermudez/no",
+      "statement": "Eran M. Bermudez (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Jose S. Castillo",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-jose-s-castillo/no",
+      "statement": "Jose S. Castillo (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice William S. Dato",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-william-s-dato/yes",
+      "statement": "William S. Dato (Associate Justice) - RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Thomas A. Delaney",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-thomas-a-delaney/no",
+      "statement": "Thomas A. Delaney (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Truc T. Do",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-truc-t-do/no",
+      "statement": "Truc T. Do (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Martha K. Gooding",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-martha-k-gooding/no",
+      "statement": "Martha K. Gooding (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Julia C. Kelety",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-julia-c-kelety/no",
+      "statement": "Julia C. Kelety (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Corey G. Lee",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-corey-g-lee/no",
+      "statement": "Corey G. Lee (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Juliet O. Macaulay",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-juliet-o-macaulay/no",
+      "statement": "Juliet O. Macaulay (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Joanne Motoike",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-joanne-motoike/no",
+      "statement": "Joanne Motoike (Presiding Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Michael J. Raphael",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-michael-j-raphael/no",
+      "statement": "Michael J. Raphael (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice David M. Rubin",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-david-m-rubin/no",
+      "statement": "David M. Rubin (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Nathan R. Scott",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-nathan-r-scott/no",
+      "statement": "Nathan R. Scott (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Deborah C. Servino",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-deborah-c-servino/no",
+      "statement": "Deborah C. Servino (Associate Justice) - DO NOT RETAIN",
+      "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Fourth District — Retain Justice Lisa Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-fourth-district-retain-justice-lisa-rodriguez/no",
+      "statement": "Lisa Rodriguez (Associate Justice) - DO NOT RETAIN",
       "source": "https://www.reformcalifornia.org/voter-guides/san-diego"
     }
   ]

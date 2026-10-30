@@ -55,3 +55,33 @@ Every state and federal candidate was checked against the SOS *Certified List of
   - "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)". The parenthetical is the ballot-label heading in the Registrar's notice. Press calls it the "San Diego County Health & Safety Act".
   - The Registrar's notice doesn't print letters. A = charter amendment (term limits / ethics commission) and B = half-cent sales tax come from Reform California's descriptions ("Extends Term Limits for Current Politicians"; "San Diego County Sales Tax Increase"), matched to KPBS coverage of "Measure B".
 - **Names**: the guide's fuller ballot-style names were kept ("David G. Valadao", "Chuong V. Vo", "Lydia A. Gutiérrez", ...). Collation that keys on `choice` may need fuzzy matching against other orgs' shorter forms.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.reformcalifornia.org/voter-guides/san-diego on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `reform-california-san-diego-county-voter-guide-2026-10-30.md`. The sweep's
+lead was Encinitas Mayor Bruce Ehlers, a line the 10-15 pass left out on purpose. The same section held the whole
+San Diego local list, so it's all in now, checked against the SD Registrar's listing:
+- 122 local candidates (cities, school boards, college boards, special districts, planning groups).
+- 18 local measures (C through BB). Measure L is printed "NEUTRAL", so `neutral` with no choice.
+- 15 4th District Court of Appeal justices on the SoS list ("RETAIN" Yes, "DO NOT RETAIN" No).
+- 7 races printed "No Endorsement", as `abstain`, including CD 42, CD 49, CD 52 and AD 31, which the
+  10-15 pass omitted.
+"Least bad option is Marcus Bush" (National City Mayor) is `lean_for`. Lines under "Strategic Voting: Only vote for
+these candidates - leave others blank" are plain `endorse`. "You are Doomed" stays omitted.
+
+Printed but not added (no matching race or name on the ballot listing, usually a seat that wasn't contested):
+- Bonsall Unified School District: Trustee Area D: Roger Merchat [no ballot title: Bonsall Unified School District Board, Trustee Area D]
+- Fallbrook Union Elementary School District: Trustee Area 5: Mary McBride [no ballot title: Fallbrook Union Elementary School District Board, Trustee Area 5]
+- Fallbrook Union High School District: Trustee Area 2: Paul Christensen [no ballot title: Fallbrook Union High School District Board, Trustee Area 2]
+- Julian Union High School District: Trustee At-Large: Katy Moretti [no ballot title: Julian Union High School District Board]
+- Julian Union High School District: Trustee At-Large: Nori Chandler [no ballot title: Julian Union High School District Board]
+- Santee School District: Trustee Seat 3: Dustin Burns [no ballot title: Santee School District Board, Seat 3]
+- South Bay Union School District: Trustee Area 4: Manuel Esparza [no ballot title: South Bay Union School District Board, Trustee Area 4]
+- Warner Unified School District: Trustee At-Large: Jeannean Rombal [no ballot title: Warner Unified School District Board]
+- Alpine Fire Protection District: At-Large: Baron Willis [no ballot title: Alpine Fire Protection District Board]
+- Olivenhain Municipal Water: District 1: Ebin Lanfried [no ballot title: Olivenhain Municipal Water Board, Trustee Area 1]
+- Olivenhain Municipal Water: District 4: Matthew Hahn [no ballot title: Olivenhain Municipal Water Board, Trustee Area 4]
+- Palomar Health: Division 1: Michael Pacheco [no ballot title: Palomar Health Board, Division 1]
+
+Justices the guide names who aren't on the SoS list: Marsha Amin, Martin N. Buchanan, Carol D. Codrington, Richard T. Fields, Judith McConnell, Art W. McKinster, Frank J. Menetrez, Douglas P. Miller, Eileen C. Moore, Terry B. O'Rourke, Manuel A. Ramirez, Maurice Sanchez.
+The other county guides on the site were not scraped.
