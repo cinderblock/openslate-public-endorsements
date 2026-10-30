@@ -19,201 +19,6 @@
   "positions": [
     {
       "subject": {
-        "title": "Governor of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Xavier Becerra",
-      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
-      "statement": "\"Xavier Becerra - Governor\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "Lieutenant Governor of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Fiona Ma",
-      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
-      "statement": "\"Fiona Ma - Lieutenant Governor\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California Treasurer",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Eleni Kounalakis",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
-      "statement": "\"Eleni Kounalakis - Treasurer\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California Superintendent of Public Instruction",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Richard Barrera",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
-      "statement": "\"Richard Barrera -Superintendent of Public Instruction\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California Secretary of State",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Shirley N. Weber",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
-      "statement": "\"Shirley Weber - Secretary of State *\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "Attorney General of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Rob Bonta",
-      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
-      "statement": "\"Rob Bonta Attorney General*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California Controller",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Malia M. Cohen",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
-      "statement": "\"Malia Cohen Controller*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California State Board of Equalization, District 2",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Sally J. Lieber",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
-      "statement": "\"Sally Lieber - Board of Equalization*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California Insurance Commissioner",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Ben Allen",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
-      "statement": "\"Ben Allen for Insurance Commissioner\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "US House of Representatives, California District 26",
-        "kind": "race",
-        "jurisdiction": "us/ca/cd-26",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Jacqui Irwin",
-      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-26/jacqui-irwin",
-      "statement": "\"Jacqui Irwin - Congress *\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "US House of Representatives, California District 24",
-        "kind": "race",
-        "jurisdiction": "us/ca/cd-24",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Salud Carbajal",
-      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
-      "statement": "\"Salud Carbajal - Congress*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "US House of Representatives, California District 32",
-        "kind": "race",
-        "jurisdiction": "us/ca/cd-32",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Brad Sherman",
-      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-32/brad-sherman",
-      "statement": "\"Brad Sherman - Congress*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California State Assembly, District 42",
-        "kind": "race",
-        "jurisdiction": "us/ca/ad-42",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Deborah Klein Lopez",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
-      "statement": "\"Deborah Klein Lopez - Assembly*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California State Assembly, District 38",
-        "kind": "race",
-        "jurisdiction": "us/ca/ad-38",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Steve Bennett",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-38/steve-bennett",
-      "statement": "\"Steve Bennett - Assembly*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
-        "title": "California State Assembly, District 46",
-        "kind": "race",
-        "jurisdiction": "us/ca/ad-46",
-        "election": "2026-11-03"
-      },
-      "stance": "lean_for",
-      "choice": "Jesse Gabriel",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-46/jesse-gabriel",
-      "statement": "\"Jesse Gabriel - Assembly*\"",
-      "source": "https://www.venturacountydemocrats.com/endorsements/"
-    },
-    {
-      "subject": {
         "title": "Ventura County Superintendent of Schools",
         "kind": "race",
         "jurisdiction": "us/ca/ventura-county",
@@ -1015,6 +820,107 @@
       "stance": "endorse",
       "choice": "Yes",
       "statement": "\"Measure H | Allan Hancock Joint Community College District | School Bond | Yes\"",
+      "source": "https://www.venturacountydemocrats.com/endorsements/"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Democratic Party",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-democratic-party/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Lieutenant Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Secretary of State",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Board of Equalization, District 2",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Insurance Commissioner",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 26",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-26",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 24",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-24",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "US House of Representatives, California District 32",
+          "kind": "race",
+          "jurisdiction": "us/ca/cd-32",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 42",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-42",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 38",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-38",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California State Assembly, District 46",
+          "kind": "race",
+          "jurisdiction": "us/ca/ad-46",
+          "election": "2026-11-03"
+        }
+      ],
       "source": "https://www.venturacountydemocrats.com/endorsements/"
     }
   ]

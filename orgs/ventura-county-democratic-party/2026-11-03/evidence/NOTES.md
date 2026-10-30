@@ -67,3 +67,9 @@
    jurisdiction `us/ca/santa-barbara`. That district is in northern Santa
    Barbara County, so it is odd for the Ventura party to list it; it is
    recorded as printed.
+
+## Adopted by reference (2026-10-30)
+
+The page footnote says these 15 state and federal races "are endorsed by the California Democratic Party, not by the Ventura County Democratic Party". They were stored here as `lean_for`; as adoptions they carry CADEM's own stance.
+
+These were copies; they are now one `adopts` entry (SPEC §3.10, 15 from California Democratic Party) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".

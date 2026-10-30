@@ -235,138 +235,6 @@
     },
     {
       "subject": {
-        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Yes",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Yes",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Yes",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "No",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "No",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
-        "kind": "measure",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "No",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "Attorney General of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Rob Bonta",
-      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California Secretary of State",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Shirley N. Weber",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California Treasurer",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Eleni Kounalakis",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California Controller",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Malia M. Cohen",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
-        "title": "California Insurance Commissioner",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Ben Allen",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
-      "source": "https://www.sierraclub.org/angeles/endorsements"
-    },
-    {
-      "subject": {
         "title": "California State Senate, District 20",
         "kind": "race",
         "jurisdiction": "us/ca/sd-20",
@@ -1215,6 +1083,83 @@
       "stance": "endorse",
       "choice": "Letitia Clark",
       "choice_id": "oc-registrar-of-voters:2026-11-03/tustin-mayor/letitia-clark",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "Sierra Club California",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/sierra-club-california/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Secretary of State",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Insurance Commissioner",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
       "source": "https://www.sierraclub.org/angeles/endorsements"
     }
   ]

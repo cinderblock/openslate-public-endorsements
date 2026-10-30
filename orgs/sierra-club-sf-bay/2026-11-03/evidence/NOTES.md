@@ -152,3 +152,9 @@ Re-read https://www.sierraclub.org/sfbay/2026-endorsements in a real browser on
 2026-10-28 9:15 AM PDT (16:15Z). The list is identical to the 2026-10-19 capture
 (`sc-sfbay-2026-endorsements-2026-10-19.md`), line for line; nothing added, changed
 or removed. The page still says it "will be updated as endorsements are finalized".
+
+## Adopted by reference (2026-10-30)
+
+Statewide offices and props are set by Sierra Club California (the page links to its "2026 state ballot endorsements", and San Gorgonio's article calls them "Endorsed by Sierra Club California"). The chapter's own federal, legislative, regional and local picks stay in `positions`.
+
+These were copies; they are now one `adopts` entry (SPEC §3.10, 12 from Sierra Club California) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".

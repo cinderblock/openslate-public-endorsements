@@ -87,3 +87,9 @@ Dueñas" → ballot name "Angélica María Dueñas".
    Trustees`, `Antelope Valley-East Kern Water Agency Board, Division 3`.
 5. Inglewood USD "Trustee Area 3" (tool) mapped to the existing title
    `Inglewood Unified School District Board, District 3`.
+
+## Adopted by reference (2026-10-30)
+
+The seven statewide picks are badged `endorsementSource: "CAGOP"` ("Officially endorsed by the California Republican Party") in LAGOP's tool, so they are the state party's. LAGOP's prop picks stay in `positions`: they carry its own wording, and it differs from CAGOP on Props 1 and 37.
+
+These were copies; they are now one `adopts` entry (SPEC §3.10, 7 from California Republican Party) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".

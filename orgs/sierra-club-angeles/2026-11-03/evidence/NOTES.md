@@ -59,3 +59,9 @@
   - The City of Orange uses `us/ca/city-of-orange` to avoid colliding with it.
   - Other cities use `us/ca/<city>`.
 - **The 2025 section** of the page (Prop 50, Redondo Beach and Irvine specials) is out of scope and was skipped.
+
+## Adopted by reference (2026-10-30)
+
+Statewide offices and props are set by Sierra Club California (San Gorgonio's article calls them "Endorsed by Sierra Club California"). The chapter's own federal, legislative and local picks stay in `positions`.
+
+These were copies; they are now one `adopts` entry (SPEC §3.10, 11 from Sierra Club California) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".

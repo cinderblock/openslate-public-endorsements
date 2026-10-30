@@ -71,3 +71,9 @@
   "endorse" verb. Frese, Tandon and Muga are therefore `lean_for`. Price,
   Rubay and Hsia also appear there but are `endorse` on the strength of the
   green ✓.
+
+## Adopted by reference (2026-10-30)
+
+The county's "Voter Guide - Statewide" is visibly the state party's template ("CountyName County"), reposted. These 18 picks come only from that template. The picks with the green check ("Endorsed by the Alameda County Republican Party Central Committee") stay in `positions` as the county's own, even where they match.
+
+These were copies; they are now one `adopts` entry (SPEC §3.10, 18 from California Republican Party) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".

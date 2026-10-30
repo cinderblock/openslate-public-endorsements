@@ -20,97 +20,6 @@
   "positions": [
     {
       "subject": {
-        "title": "Governor of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Steve Hilton",
-      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/steve-hilton",
-      "statement": "\"Steve Hilton\" | \"Governor\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "Lieutenant Governor of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Gloria Romero",
-      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/gloria-romero",
-      "statement": "\"Gloria Romero\" | \"Lieutenant Governor\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "Attorney General of California",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Michael E. Gates",
-      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/michael-e-gates",
-      "statement": "\"Michael E. Gates\" | \"Attorney General\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "California Secretary of State",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Donald P. (Don) Wagner",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner",
-      "statement": "\"Donald P. (Don) Wagner\" | \"Secretary of State\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "California Controller",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Herb W Morgan",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/herb-w-morgan",
-      "statement": "\"Herb W Morgan\" | \"Controller\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "California Treasurer",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Jennifer Hawks",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/jennifer-hawks",
-      "statement": "\"Jennifer Hawks\" | \"Treasurer\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
-        "title": "California Superintendent of Public Instruction",
-        "kind": "race",
-        "jurisdiction": "us/ca",
-        "election": "2026-11-03"
-      },
-      "stance": "endorse",
-      "choice": "Sonja Shaw",
-      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
-      "statement": "\"Sonja Shaw\" | \"Superintendent of Public Instruction\" | \"California\" | endorsementSource: \"CAGOP\"",
-      "source": "https://lagop-endorsement-lookup.vercel.app/"
-    },
-    {
-      "subject": {
         "title": "US House of Representatives, California District 23",
         "kind": "race",
         "jurisdiction": "us/ca/cd-23",
@@ -1823,6 +1732,59 @@
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
       "statement": "\"Vote YES\" \"Prop 45\" — \"Reduce Housing Costs by Cutting Red Tape\"",
+      "source": "https://lagop-endorsement-lookup.vercel.app/"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Republican Party",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-republican-party/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Lieutenant Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Secretary of State",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Treasurer",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
       "source": "https://lagop-endorsement-lookup.vercel.app/"
     }
   ]
