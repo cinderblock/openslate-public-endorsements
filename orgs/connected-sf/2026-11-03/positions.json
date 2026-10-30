@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:05:29Z",
+    "retrieved_at": "2026-10-30T16:48:10Z",
     "sources": [
       "https://www.connectedsf.com/2026-voter-guide"
     ]
@@ -112,6 +112,19 @@
       "choice": "Theo Ellington",
       "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
       "statement": "\"District 10 Supervisor - Theo Ellington\". \"In District 10 there is a clear choice.\"",
+      "source": "https://www.connectedsf.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "\"State Candidates\" … \"Insurance Commissioner - Ben Allen\"",
       "source": "https://www.connectedsf.com/2026-voter-guide"
     },
     {

@@ -45,3 +45,11 @@ Albert Chow (D4), are on the SF qualified-candidate list
   and were not extracted.
 - Cross-checked against sfendorsements.com (fetched 2026-10-19): all
   positions match.
+
+## Refresh 2026-10-30
+
+Re-fetched https://www.connectedsf.com/2026-voter-guide on 2026-10-30 9:48 AM PDT (16:48Z). Evidence: `connectedsf-2026-voter-guide-2026-10-30.md`.
+
+- Added: Insurance Commissioner Ben Allen. The cheat sheet has a new "State Candidates" heading, and the
+  guide has a new section for him.
+- All other picks match. This corrects the line above saying the guide has no statewide candidates.
