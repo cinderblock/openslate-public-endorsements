@@ -82,3 +82,17 @@ The catalog's ballot check found these positions on seats no ballot carries: eac
 - Centinela Valley Union High School District Board, Trustee Area 5: Estefany Castañeda. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
 - Garvey School District Board, Trustee Area 1: Andy Yam. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
 - Pasadena Area Community College District Board, Trustee Area 7: Alton Wang. Not on the ballot: the LA County Registrar's tentative list of canceled elections for Nov 3, 2026 ("APPOINTMENT IN LIEU OF ELECTION DUE TO INSUFFICIENCY OF CANDIDATES", https://content.lavote.gov/docs/rrcc/documents/canceled-elections-november-2026-tentative.pdf) lists the seat, and it isn't in the county's contest list.
+
+## Refresh 2026-10-30
+
+Re-crawled all 62 guide and district pages on 2026-10-30 9:53 AM PDT (16:53Z) and compared every rated row with the 10-15 evidence.
+- **AD 51: Colin D. Hernandez** (`lean_for`). The row was "No recommendation" and is now "Recommended".
+- **State Judicial page (new):** "We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot." Encoded as Yes (`lean_for`) on the 2 Supreme Court and 18 Second
+  District Court of Appeal justices on the SoS list. The page's own region list says "Nothing entered for this
+  region yet", so the sentence is the only source.
+- **Removed South Pasadena D4: Nevin Stanton-Trehan.** The rated row is gone; the page now shows only "District 4
+  Write-up coming soon".
+- Redondo Beach Measure ART is still "Write-up coming soon", so no position.
+Everything else matches. Evidence: `laforwardguide-guide-state-assembly-2026-10-30.md`,
+`laforwardguide-guide-associate-justices-court-of-appeal-2026-10-30.md`,
+`laforwardguide-guide-south-pasadena-2026-10-30.md`.
