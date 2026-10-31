@@ -1,0 +1,112 @@
+{
+  "context": {
+    "title": "MALDEF — November 3, 2026 California ballot recommendations",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "MALDEF (Mexican American Legal Defense and Educational Fund)",
+      "uri": "https://www.maldef.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-31T17:47:36Z",
+    "sources": [
+      "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    ]
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "MALDEF urges a “YES” vote on California Proposition 3.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
+      "statement": "MALDEF urges a “NO” vote on California Proposition 4.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "MALDEF urges a “YES” vote on California Proposition 5.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "MALDEF urges a “NO” vote on California Proposition 39.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "MALDEF urges a “NO” vote on California Proposition 41.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "MALDEF urges a “NO” vote on California Proposition 42.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "MALDEF urges a “NO” vote on California Proposition 43.",
+      "source": "https://www.maldef.org/resources/california-2026-ballot-recommendations/"
+    }
+  ]
+}
