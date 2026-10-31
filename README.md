@@ -435,8 +435,8 @@ tracks: an untracked bundle is someone's work in progress.
 
 - `attribution.mode`:
   - `scraped` — automated extraction from a public source.
-  - `transcribed` — manually recorded from speech, video, or written
-    material.
+  - `transcribed` — manually recorded from a non-machine-readable source:
+    a PDF, an image, video, speech (SPEC §3.9). Text on a web page is `scraped`.
   - `inferred` — researcher's interpretation of the entity's general
     positions; the most subjective option, and the one to flag clearly.
 - `attribution.sources` — at least one URL per position should be cited.
