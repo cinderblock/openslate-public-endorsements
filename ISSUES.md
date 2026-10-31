@@ -23,6 +23,21 @@ Biome's formatter expects LF. `biome check --line-ending=crlf <file>` passes.
 Matters because the check is useless on Windows, where the user works. OpenSlate
 fixed the same thing with Biome 2 and `"lineEnding": "auto"` (`e4b4d77`).
 
+## Transcribed slates' notes name documents the capture rule can't read
+
+`documentsIn` in `openslate-source-captures`' `src/sources.ts` only matches
+absolute URLs in `evidence/*.md`, so a file named by a relative path or a bare
+filename isn't captured unless a position also cites it. Riverside's GOP notes
+did that with its whole guide, until 2026-10-30. A filename scan that day finds
+names no URL in the slate carries in ten more transcribed slates:
+`santa-clara-county-republican-party` (22), `la-county-federation-of-labor` (18),
+`santa-cruz-county-democratic-party` (12), `courage-california` (4),
+`progressive-caucus-pac` (2), `san-mateo-county-republican-party` (2),
+`bernal-heights-democratic-club`, `lincoln-club-orange-county`,
+`oc-republican-party` and `riverside-county-democratic-party` (1 each). The scan
+is rough: some hits are shortened names, or files named another way. Matters
+because what a slate was read from is what capture is meant to keep.
+
 ## A regional measure gets a different `choice_id` from each county's listing
 
 Regional Measure RTM ("Bay Area — Regional Measure RTM (Regional Transit
