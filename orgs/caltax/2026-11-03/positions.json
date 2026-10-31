@@ -1,30 +1,49 @@
 {
   "context": {
-    "title": "California Taxpayers Association (CalTax): positions from signed ballot arguments, 2026-11-03 California general election",
+    "title": "California Taxpayers Association (CalTax) — November 3, 2026 ballot measure recommendations",
     "jurisdiction": "us/ca",
     "election": "2026-11-03"
   },
   "attribution": {
     "of": {
       "name": "California Taxpayers Association (CalTax)",
-      "kind": "organization"
+      "kind": "organization",
+      "uri": "https://caltax.org/"
     },
-    "mode": "inferred",
-    "retrieved_at": "2026-10-22T08:06:01Z",
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-31T17:48:10Z",
     "sources": [
-      "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
-      "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
-      "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
-      "https://voterguide.sos.ca.gov/propositions/41/arguments-rebuttals.htm",
-      "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm"
-    ],
-    "capture": {
-      "run": "2026-10-30T1747Z",
-      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
-      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/caltax/2026-11-03.json"
-    }
+      "https://caltax.org/",
+      "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    ]
   },
   "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/no",
+      "statement": "While CalTax supports the self-financed CalVet Home Loan Program, the remaining $10 billion allocation would add an unsustainable $580 million in annual, non-discretionary debt service to the General Fund.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/no",
+      "statement": "While the measure takes steps toward fiscal responsibility, it also raises concerns about future budget reserves and spending.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
     {
       "subject": {
         "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
@@ -35,8 +54,8 @@
       "stance": "endorse",
       "choice": "No",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
-      "statement": "Robert Gutierrez (President) signed the argument against Proposition 3 in the official voter guide.",
-      "source": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm"
+      "statement": "California already imposes the highest income taxes in the nation, and making this tax on individuals and small businesses permanent would continue the state’s dependence on a volatile source of revenue.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
     },
     {
       "subject": {
@@ -48,8 +67,57 @@
       "stance": "endorse",
       "choice": "No",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
-      "statement": "Robert Gutierrez (President) signed the rebuttal to the argument in favor of Proposition 4 in the official voter guide.",
-      "source": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm"
+      "statement": "CalTax opposes using public resources for political campaign activity.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "label": "No recommendation",
+      "statement": "The CalTax Board of Directors voted not to make any recommendation on Propositions 5, 37, 39 and 44.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "label": "No recommendation",
+      "statement": "The CalTax Board of Directors voted not to make any recommendation on Propositions 5, 37, 39 and 44.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "CalTax is opposed because bond proceeds would fund ongoing operational research rather than capital infrastructure.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "label": "No recommendation",
+      "statement": "The CalTax Board of Directors voted not to make any recommendation on Propositions 5, 37, 39 and 44.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
     },
     {
       "subject": {
@@ -61,8 +129,8 @@
       "stance": "endorse",
       "choice": "No",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
-      "statement": "Rob Gutierrez (President) signed the rebuttal to the argument in favor of Proposition 40 in the official voter guide.",
-      "source": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm"
+      "statement": "CalTax opposes the measure because it contains significant constitutional, valuation, residency, apportionment, and implementation problems, would likely generate years of litigation, and could create substantial refund liability for the state.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
     },
     {
       "subject": {
@@ -74,8 +142,21 @@
       "stance": "endorse",
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
-      "statement": "Robert Gutierrez (President) signed the argument in favor of Proposition 41 and the rebuttal to the argument against Proposition 41 in the official voter guide.",
-      "source": "https://voterguide.sos.ca.gov/propositions/41/arguments-rebuttals.htm"
+      "statement": "CalTax supports the measure because it increases transparency and accountability for future tax-funded ballot measures.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "CalTax supports the measure because it would stop future legislation that imposes retroactive taxation, such as SB 167 of 2024, which enacted Revenue and Taxation Code Section 25128.9, raising taxes by making retroactive changes to apportionment rules.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
     },
     {
       "subject": {
@@ -87,8 +168,46 @@
       "stance": "endorse",
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
-      "statement": "Robert Gutierrez (President) signed the argument in favor of Proposition 43 in the official voter guide.",
-      "source": "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm"
+      "statement": "CalTax believes local special taxes should be subject to the same constitutional voter protections regardless of how the measure is placed before voters, as was California law from 1978 through 2017.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "label": "No recommendation",
+      "statement": "The CalTax Board of Directors voted not to make any recommendation on Propositions 5, 37, 39 and 44.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "CalTax views the measure as a way to accelerate construction of critical infrastructure and housing projects that will address the housing shortfall while also increasing local property tax revenue under existing tax rates.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
+    },
+    {
+      "subject": {
+        "title": "South Gate — Measure SG (Fiscal Emergency Funding)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-gate",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/south-gate-measure-sg-fiscal-emergency-funding/no",
+      "statement": "If approved, this will be the first voter-approved tax on streaming platforms, setting a precedent for local governments to tax streaming products by defining the service as a utility.",
+      "source": "https://caltax.org/wp-content/uploads/2026/10/2026-CalTax-Voters-Guide-Letter-Detailed-scaled.png"
     }
   ]
 }
