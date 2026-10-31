@@ -10,14 +10,16 @@ so the title, `subject.ballot` and `choice_id`s are the Orange County
 Registrar's, as the update below says. Its bundle cites ocvote.gov's measures
 page for them.
 
-`attribution.mode` says `transcribed`. A person did enter it, but SPEC §3.9
-defines that mode by a non-machine-readable source (PDF, video, in-person
-notes), and the web app shows voters "transcribed from a non-machine-readable
-source". An HTML page isn't one. The mode stays as signed until that's decided:
-see `plans/signed-source-capture.md` in OpenSlate.
+`attribution.mode` said `transcribed` until 2026-10-30, and now says `scraped`.
+SPEC §3.9 defines `transcribed` by a non-machine-readable source (PDF, video,
+in-person notes), and the web app shows voters "transcribed from a
+non-machine-readable source". An HTML page isn't one. `scraped` is a looser fit
+than it is for a registrar's bundle, because a person entered this and SPEC has
+no mode for that, but "scraped from public sources" is true here. No position
+changed.
 
-Checked 2026-10-30, about 5:45 PM PDT (2026-10-31 00:45Z), against the page as saved
-in capture run `2026-10-31T0003Z`: all five quotes in the update below are
+Checked 2026-10-30, about 5:45 PM PDT (2026-10-31 00:45Z), against the page as
+saved in capture run `2026-10-31T0003Z`: all five quotes in the update below are
 there. The page's one PDF link is a council district map, which gave nothing
 here. The saved copies start on 2026-10-30, so the page as read on 2026-10-27
 isn't held anywhere: `evidence/` keeps the quotes below, not the page.
