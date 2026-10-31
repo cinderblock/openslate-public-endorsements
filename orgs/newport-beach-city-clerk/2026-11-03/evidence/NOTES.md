@@ -1,5 +1,27 @@
 # NOTES — City of Newport Beach, November 3 2026
 
+## What this was read from
+
+No image or PDF. Both Measure H positions come from the ordinary HTML text of
+the city's elections page, the one URL the slate cites. No script builds this
+bundle: it was entered by hand. The page says only "consider Measure H" and
+"including Measure H". It doesn't print the measure's title or ballot question,
+so the title, `subject.ballot` and `choice_id`s are the Orange County
+Registrar's, as the update below says. Its bundle cites ocvote.gov's measures
+page for them.
+
+`attribution.mode` says `transcribed`. A person did enter it, but SPEC §3.9
+defines that mode by a non-machine-readable source (PDF, video, in-person
+notes), and the web app shows voters "transcribed from a non-machine-readable
+source". An HTML page isn't one. The mode stays as signed until that's decided:
+see `plans/signed-source-capture.md` in OpenSlate.
+
+Checked 2026-10-30, about 5:45 PM PDT (2026-10-31 00:45Z), against the page as saved
+in capture run `2026-10-31T0003Z`: all five quotes in the update below are
+there. The page's one PDF link is a council district map, which gave nothing
+here. The saved copies start on 2026-10-30, so the page as read on 2026-10-27
+isn't held anywhere: `evidence/` keeps the quotes below, not the page.
+
 ## Update, 2026-10-27: Measures P, Q and R called off
 
 The city's elections page, read 2026-10-27 2:00 AM PDT (09:00Z), now says
