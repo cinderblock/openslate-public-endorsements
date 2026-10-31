@@ -35,7 +35,7 @@ as `source` and quote its one-line tagline as the statement.
 - Every "No Recommendation" entry: CD 7, 16, 20, 23, 40; SD 22; AD 1, 3, 5,
   8, 10, 14, 15, 23, 32, 33, 34, 48, 64, 68, 70, 75, 80.
 - Prop 38: "No Recommendation" in the PDF, and absent from the slate card.
-  Omitted rather than recorded as `neutral`.
+  Recorded as `neutral`, as other bundles record a measure's "No Recommendation".
 - Local endorsements (the "Search by county" and "Search by Labor Council"
   widgets point to local labor councils). These are out of scope for this
   statewide org bundle.
