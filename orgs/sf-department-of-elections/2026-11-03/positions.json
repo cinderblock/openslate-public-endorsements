@@ -10,11 +10,12 @@
       "uri": "https://www.sf.gov/departments--department-elections",
       "kind": "election-authority"
     },
-    "mode": "transcribed",
+    "mode": "scraped",
     "retrieved_at": "2026-10-20T05:16:44Z",
     "sources": [
       "https://www.sf.gov/reports--candidates-nov-3-2026-general-election",
-      "https://www.sf.gov/qualified-ballot-measures"
+      "https://www.sf.gov/qualified-ballot-measures",
+      "https://www.sf.gov/ranked-choice-voting"
     ],
     "capture": {
       "run": "2026-10-30T1747Z",

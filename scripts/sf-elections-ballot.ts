@@ -19,11 +19,12 @@ const apply = process.argv[3] === "--apply";
 const dir = `orgs/sf-department-of-elections/${election}`;
 const CANDIDATES_URL = "https://www.sf.gov/reports--candidates-nov-3-2026-general-election";
 const MEASURES_URL = "https://www.sf.gov/qualified-ballot-measures";
+const RANKED_CHOICE_URL = "https://www.sf.gov/ranked-choice-voting";
 
 /**
  * San Francisco elects its city officers (Mayor, City Attorney, District Attorney, Sheriff,
  * Assessor-Recorder, Public Defender, Treasurer) and Supervisors by ranked choice, up to ten
- * rankings (https://sf.gov/ranked-choice-voting). Its school and college boards and BART's
+ * rankings (RANKED_CHOICE_URL). Its school and college boards and BART's
  * board are elected by plurality.
  */
 const RANKS = 10;
@@ -131,9 +132,9 @@ const out = {
       uri: "https://www.sf.gov/departments--department-elections",
       kind: "election-authority",
     },
-    mode: "transcribed",
+    mode: "scraped",
     retrieved_at: new Date().toISOString().replace(/\.\d+Z$/, "Z"),
-    sources: [CANDIDATES_URL, MEASURES_URL],
+    sources: [CANDIDATES_URL, MEASURES_URL, RANKED_CHOICE_URL],
   },
   positions,
 };

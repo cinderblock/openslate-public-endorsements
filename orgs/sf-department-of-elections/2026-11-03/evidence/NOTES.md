@@ -17,22 +17,22 @@ text, ballot arguments), but every name, measure letter, title and type here is
 in the page text, and nothing in the evidence or the script reads a PDF.
 
 One value comes from neither page. `ballot.ranks` (10), and which offices are
-ranked, are constants in the script, whose comment cites
-https://sf.gov/ranked-choice-voting. That page says "a voter can rank up to 10
-candidates" (read 2026-10-30, 5:47 PM PDT, 2026-10-31 00:47Z). The slate doesn't
-cite it, so no capture holds it. Titles follow the catalog's conventions, and
-`choice_id`, `subject.district` and `voted_in` were added by later sweeps.
+ranked, are constants in the script, from
+https://www.sf.gov/ranked-choice-voting. That page says "a voter can rank up to
+10 candidates" (read 2026-10-30, 5:47 PM PDT, 2026-10-31 00:47Z). It's in
+`attribution.sources` since 2026-10-30, so capture keeps it. Titles follow the
+catalog's conventions, and `choice_id`, `subject.district` and `voted_in` were
+added by later sweeps.
 
-`attribution.mode` says `transcribed`, hard-coded in the script. SPEC §3.9
-defines that mode by a non-machine-readable source (PDF, video, in-person
-notes), and the web app shows voters "transcribed from a non-machine-readable
-source". These are web pages, and a script built the slate, which is what
-`scraped` means and what the county registrars' ballot sources say. The mode
-stays as signed until that's decided: see `plans/signed-source-capture.md` in
-OpenSlate.
+`attribution.mode` said `transcribed` until 2026-10-30, and now says `scraped`,
+as the script does. SPEC §3.9 defines `transcribed` by a non-machine-readable
+source (PDF, video, in-person notes), and the web app shows voters "transcribed
+from a non-machine-readable source". These are web pages, and a script built
+the slate, which is what `scraped` means and what the county registrars' ballot
+sources say. No position changed.
 
-Checked 2026-10-30, about 5:45 PM PDT (2026-10-31 00:45Z). All 65 values are in CI's
-Chrome capture of both pages (`2026-10-31T0003Z`) and in the home GET
+Checked 2026-10-30, about 5:45 PM PDT (2026-10-31 00:45Z). All 65 values are in
+CI's Chrome capture of both pages (`2026-10-31T0003Z`) and in the home GET
 (`2026-10-31T0024Z`). In the home copy, every name sits under the office shown
 in `candidates.md`, each measure has its letter and type, and write-ins are
 0. CI's plain GET gets a 202 challenge, so it doesn't hold the page. The saved
