@@ -1,0 +1,776 @@
+{
+  "context": {
+    "title": "Track AIPAC — November 3, 2026 California general election endorsements and ratings (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Track AIPAC",
+      "uri": "https://www.trackaipac.com/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-31T03:05:49Z",
+    "sources": [
+      "https://www.trackaipac.com/endorsements",
+      "https://www.trackaipac.com/candidates",
+      "https://www.trackaipac.com/congress",
+      "https://www.trackaipac.com/blog/updated-methodology"
+    ]
+  },
+  "labels": [
+    {
+      "label": "Endorsed",
+      "description": "We support candidates who: Reject support from AIPAC & their allies; Call for an immediate & permanent ceasefire; Support a total arms embargo & conditioning all aid to Israel; Support Palestinian rights & statehood; Oppose lobbying by unregistered foreign agents; Support overturning Citizens United"
+    },
+    {
+      "label": "Pro-Israel",
+      "description": "Red graphics are assigned when we evaluate a candidate’s policy as pro-Israel based on their voting record (if one exists), any published policy positions, any public statements, and any credible reporting verifying that the candidate is seeking AIPAC’s support"
+    }
+  ],
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "\"Pro-Israel candidates\": \"Mike McGuire\", \"Candidate for U.S. House\", \"CA-01 [D]\", \"Israel Lobby Total: $8,220\"",
+      "source": "https://www.trackaipac.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Jared Huffman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-2/jared-huffman",
+      "statement": "Red scorecard graphic: \"Jared Huffman\", \"CA-02 [D]\", \"Israel Lobby Total: $59,362\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Ami Bera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/ami-bera",
+      "statement": "Red scorecard graphic: \"Ami Bera\", \"CA-06 [D]\", \"Israel Lobby Total: $269,170\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Mike Thompson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-4/mike-thompson",
+      "statement": "Red scorecard graphic: \"Mike Thompson\", \"CA-04 [D]\", \"Israel Lobby Total: $42,865\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Tom McClintock",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-5/tom-mcclintock",
+      "statement": "Red scorecard graphic: \"Tom McClintock\", \"CA-05 [R]\", \"Israel Lobby Total: $45,548\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Kevin Kiley",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/kevin-kiley",
+      "statement": "Red scorecard graphic: \"Kevin Kiley\", \"CA-03 [R]\", \"Israel Lobby Total: $90,537\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Mai Vang",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
+      "statement": "\"Candidates Endorsed By\": \"Mai Vang\", \"Candidate for U.S. House\", \"CA-07 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Doris Matsui",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/doris-matsui",
+      "statement": "Red scorecard graphic: \"Doris Matsui\", \"CA-07 [D]\", \"Israel Lobby Total: $21,305\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "John Garamendi",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-8/john-garamendi",
+      "statement": "Red scorecard graphic: \"John Garamendi\", \"CA-08 [D]\", \"Israel Lobby Total: $65,867\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Josh Harder",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/josh-harder",
+      "statement": "Red scorecard graphic: \"Josh Harder\", \"CA-09 [D]\", \"Israel Lobby Total: $394,208\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "statement": "\"Candidates Endorsed By\": \"Connie Chan\", \"Candidate for U.S. House\", \"CA-11 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "\"Pro-Israel candidates\": \"Scott Wiener\", \"Candidate for U.S. House\", \"CA-11 [D]\", \"Israel Lobby Total: $107,748\", \"This candidate is pro-Israel.\"",
+      "source": "https://www.trackaipac.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "statement": "\"Our Endorsed Incumbents\": \"Lateefah Simon\", \"U.S. Representative\", \"CA-12\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Adam Gray",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-13/adam-gray",
+      "statement": "Red scorecard graphic: \"Adam Gray\", \"CA-13 [D]\", \"Israel Lobby Total: $60,523\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Melissa Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/melissa-hernandez",
+      "statement": "\"Pro-Israel candidates\": \"Melissa Hernandez\", \"Candidate for U.S. House\", \"CA-14 [D]\", \"Israel Lobby Total: $6,385,454\"",
+      "source": "https://www.trackaipac.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Kevin Mullin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-15/kevin-mullin",
+      "statement": "Red scorecard graphic: \"Kevin Mullin\", \"CA-15 [D]\", \"Israel Lobby Total: $733,366\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Sam Liccardo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-16/sam-liccardo",
+      "statement": "Red scorecard graphic: \"Sam Liccardo\", \"CA-16 [D]\", \"Israel Lobby Total: $52,780\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "statement": "\"Our Endorsed Incumbents\": \"Ro Khanna\", \"U.S. Representative\", \"CA-17\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "Red scorecard graphic: \"Zoe Lofgren\", \"CA-18 [D]\", \"Israel Lobby Total: $49,388\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Jimmy Panetta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-19/jimmy-panetta",
+      "statement": "Red scorecard graphic: \"Jimmy Panetta\", \"CA-19 [D]\", \"Israel Lobby Total: $540,047\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Vince Fong",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-20/vince-fong",
+      "statement": "Red scorecard graphic: \"Vince Fong\", \"CA-20 [R]\", \"Israel Lobby Total: $23,278\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Jim Costa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-21/jim-costa",
+      "statement": "Red scorecard graphic: \"Jim Costa\", \"CA-21 [D]\", \"Israel Lobby Total: $346,393\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "statement": "\"Candidates Endorsed By\": \"Randy Villegas\", \"Candidate for U.S. House\", \"CA-22 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "David G. Valadao",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/david-g-valadao",
+      "statement": "Red scorecard graphic: \"David Valadao\", \"CA-22 [R]\", \"Israel Lobby Total: $271,108\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Tessa Lynn Hodge",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-23/tessa-lynn-hodge",
+      "statement": "\"Candidates Endorsed By\": \"Tessa Lynn Hodge\", \"Candidate for U.S. House\", \"CA-23 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Jay Obernolte",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-23/jay-obernolte",
+      "statement": "Red scorecard graphic: \"Jay Obernolte\", \"CA-23 [R]\", \"Israel Lobby Total: $31,414\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "Red scorecard graphic: \"Salud Carbajal\", \"CA-24 [D]\", \"Israel Lobby Total: $50,945\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Raul Ruiz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-25/raul-ruiz",
+      "statement": "Red scorecard graphic: \"Raul Ruiz\", \"CA-25 [D]\", \"Israel Lobby Total: $220,069\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "George Whitesides",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-27/george-whitesides",
+      "statement": "Red scorecard graphic: \"George Whitesides\", \"CA-27 [D]\", \"Israel Lobby Total: $56,129\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Judy Chu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-28/judy-chu",
+      "statement": "Red scorecard graphic: \"Judy Chu\", \"CA-28 [D]\", \"Israel Lobby Total: $29,735\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Angélica María Dueñas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/angelica-maria-duenas",
+      "statement": "\"Candidates Endorsed By\": \"Angélica Dueñas\", \"Candidate for U.S. House\", \"CA-29 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Luz Maria Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/luz-maria-rivas",
+      "statement": "Red scorecard graphic: \"Luz Rivas\", \"CA-29 [D]\", \"Israel Lobby Total: $84,629\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Laura Friedman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-30/laura-friedman",
+      "statement": "Red scorecard graphic: \"Laura Friedman\", \"CA-30 [D]\", \"Israel Lobby Total: $44,717\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Gil Cisneros",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-31/gil-cisneros",
+      "statement": "Red scorecard graphic: \"Gil Cisneros\", \"CA-31 [D]\", \"Israel Lobby Total: $159,352\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Brad Sherman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-32/brad-sherman",
+      "statement": "Red scorecard graphic: \"Brad Sherman\", \"CA-32 [D]\", \"Israel Lobby Total: $1,024,183\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
+      "statement": "Red scorecard graphic: \"Pete Aguilar\", \"CA-33 [D]\", \"Israel Lobby Total: $1,534,149\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "label": "Endorsed",
+      "choice": "Angela Gonzales-Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/angela-gonzales-torres",
+      "statement": "\"Candidates Endorsed By\": \"Angela Gonzales-Torres\", \"Candidate for U.S. House\", \"CA-34 [D]\", \"General Election\", \"November 3, 2026\"",
+      "source": "https://www.trackaipac.com/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Jimmy Gomez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/jimmy-gomez",
+      "statement": "Red scorecard graphic: \"Jimmy Gomez\", \"CA-34 [D]\", \"Israel Lobby Total: $2,641,199\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Norma J. Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-35/norma-j-torres",
+      "statement": "Red scorecard graphic: \"Norma Torres\", \"CA-35 [D]\", \"Israel Lobby Total: $437,242\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Ted W. Lieu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-36/ted-w-lieu",
+      "statement": "Red scorecard graphic: \"Ted Lieu\", \"CA-36 [D]\", \"Israel Lobby Total: $919,240\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Sydney Kamlager-Dove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/sydney-kamlager-dove",
+      "statement": "Red scorecard graphic: \"Sydney Kamlager-Dove\", \"CA-37 [D]\", \"Israel Lobby Total: $154,718\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Hilda Solis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-38/hilda-solis",
+      "statement": "\"Pro-Israel candidates\": \"Hilda Solis\", \"Candidate for U.S. House\", \"CA-38 [D]\", \"Israel Lobby Total: $3,515\"",
+      "source": "https://www.trackaipac.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Young Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-40/young-kim",
+      "statement": "Red scorecard graphic: \"Young Kim\", \"CA-40 [R]\", \"Israel Lobby Total: $538,062\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Ken Calvert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-40/ken-calvert",
+      "statement": "Red scorecard graphic: \"Ken Calvert\", \"CA-41 [R]\", \"Israel Lobby Total: $1,115,690\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Linda Sánchez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-41/linda-sanchez",
+      "statement": "Red scorecard graphic: \"Linda Sanchez\", \"CA-38 [D]\", \"Israel Lobby Total: $135,571\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Nanette Diaz Barragan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-44/nanette-diaz-barragan",
+      "statement": "Red scorecard graphic: \"Nanette Barragan\", \"CA-44 [D]\", \"Israel Lobby Total: $94,404\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Derek Tran",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
+      "statement": "Red scorecard graphic: \"Derek Tran\", \"CA-45 [D]\", \"Israel Lobby Total: $198,745\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Lou Correa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-46/lou-correa",
+      "statement": "Red scorecard graphic: \"Lou Correa\", \"CA-46 [D]\", \"Israel Lobby Total: $79,966\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Dave Min",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-47/dave-min",
+      "statement": "Red scorecard graphic: \"Dave Min\", \"CA-47 [D]\", \"Israel Lobby Total: $78,336\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "\"Pro-Israel candidates\": \"Marni Von Wilpert\", \"Candidate for U.S. House\", \"CA-48 [D]\", \"Israel Lobby Total: $2,076,814\"",
+      "source": "https://www.trackaipac.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
+      "statement": "Red scorecard graphic: \"Mike Levin\", \"CA-49 [D]\", \"Israel Lobby Total: $512,590\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Scott Peters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-50/scott-peters",
+      "statement": "Red scorecard graphic: \"Scott Peters\", \"CA-50 [D]\", \"Israel Lobby Total: $163,497\"",
+      "source": "https://www.trackaipac.com/congress"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_against",
+      "label": "Pro-Israel",
+      "choice": "Juan Vargas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-52/juan-vargas",
+      "statement": "Red scorecard graphic: \"Juan Vargas\", \"CA-52 [D]\", \"Israel Lobby Total: $319,703\"",
+      "source": "https://www.trackaipac.com/congress"
+    }
+  ]
+}
