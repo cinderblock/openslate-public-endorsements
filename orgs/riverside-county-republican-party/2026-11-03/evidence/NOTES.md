@@ -9,6 +9,34 @@
   were transcribed from the JPEGs (mode `transcribed`); each position cites
   the specific image.
 
+### The files, by full URL
+
+Read for the positions, pages 02 to 09 of the guide:
+
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_02_Statewide_Voter_Guide.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_03_Congress_and_State_Senate.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_04_AD36_Jeff_Gonzalez.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_05_AD47_Greg_Wallis.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_06_AD58_Leticia_Castillo.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_07_AD60_Ed_Delgado.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_08_AD63_Natasha_Johnson.jpg
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_09_AD71_Kate_Sanchez.jpg
+
+The rest of the guide, which gave no position:
+
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_01_Cover.jpg
+  (page 01, a title page with no endorsements)
+- https://www.riversidecountygop.com/wp-content/uploads/2026/10/RPRC_2026_Voter_Guide.pdf
+  (the whole guide as one file, opened but not transcribed)
+
+Checked 2026-10-30, 5:44 PM PDT (2026-10-31 00:44Z), with one GET each of the
+cover and the PDF and the other eight as saved in capture run
+`2026-10-31T0003Z`. All ten are dated 2026-10-05 by the site, before this slate
+was read on 2026-10-19. The PDF has nine pages, no text layer and one image a
+page, each the size of the matching JPEG and under 1 of 255 grey levels from
+it on average, so it holds the same pages. Pages 02 to 09, read again by eye,
+match `rprc-voter-guide-images.md`.
+
 ## Extracted: 75 positions
 
 - Statewide: 8 (Governor, Lt. Governor, SoS, Treasurer, Controller, AG,
