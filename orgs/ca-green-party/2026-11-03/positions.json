@@ -14,7 +14,12 @@
     "retrieved_at": "2026-10-30T21:27:46Z",
     "sources": [
       "https://cagreens.org/green-party-california-state-voter-guide-nov-2026"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/ca-green-party/2026-11-03.json"
+    }
   },
   "positions": [
     {

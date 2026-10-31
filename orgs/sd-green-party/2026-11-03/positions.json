@@ -16,7 +16,12 @@
       "https://www.sdgreenparty.org/candidates",
       "https://www.sdgreenparty.org/announcements",
       "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
-    ]
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/sd-green-party/2026-11-03.json"
+    }
   },
   "positions": [
     {
