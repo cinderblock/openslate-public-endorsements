@@ -5,10 +5,11 @@
 //   bun scripts/pin-capture.ts <openslate-source-captures checkout>
 //
 // Mechanical, so no slate is treated differently from another. A slate takes the newest witnessed
-// run holding every source it cites, and a failed fetch counts: a 404 is part of the record. It
-// keeps its pointer while that run still holds them all, because a pointer is signed content and
-// moving one reissues the slate: without this, each daily capture would make every voter's app
-// download every slate. A slate citing something no run holds yet waits for the next capture.
+// run holding every source it cites and every document the capture repo lists for it, and a failed
+// fetch counts: a 404 is part of the record. It keeps its pointer while that run still holds them
+// all, because a pointer is signed content and moving one reissues the slate: without this, each
+// daily capture would make every voter's app download every slate. A slate citing something no run
+// holds yet waits for the next capture.
 //
 // The pointer says which record to look at, not what the record shows. Verifiers recompute that.
 
@@ -119,6 +120,19 @@ export const citedBy = ({ attribution, positions }: Bundle): string[] => [
   ]),
 ];
 
+/**
+ * What the capture list holds for each slate beyond its citations: the documents it was read from,
+ * and data found behind its pages. Those are its sources too, so its run has to hold them.
+ */
+export function listedFor(sources: { url: string; cited_by: string[]; origin: string }[]) {
+  const listed = new Map<string, string[]>();
+  for (const { url, cited_by, origin } of sources) {
+    if (origin === "cited") continue;
+    for (const id of cited_by) listed.set(id, [...(listed.get(id) ?? []), url]);
+  }
+  return listed;
+}
+
 /** Witnessed runs, newest first. A run's id sorts by time; only a CI run has an attestation. */
 function loadRuns(captures: string): Run[] {
   const root = join(captures, "runs");
@@ -141,6 +155,7 @@ if (import.meta.main) {
   const captures = process.argv[2];
   if (!captures) throw new Error("usage: pin-capture.ts <openslate-source-captures checkout>");
   const runs = loadRuns(captures);
+  const listed = listedFor(JSON.parse(readFileSync(join(captures, "sources.json"), "utf8")).sources);
   const commit = execFileSync("git", ["-C", captures, "rev-parse", "HEAD"]).toString().trim();
   const raw = CAPTURES_REPO.replace("github.com", "raw.githubusercontent.com");
 
@@ -158,7 +173,7 @@ if (import.meta.main) {
         continue;
       }
       const current = bundle.attribution.capture?.run;
-      const target = runToPin(sources, current, runs);
+      const target = runToPin([...sources, ...(listed.get(`${org}/${election}`) ?? [])], current, runs);
       if (target && target.id === current) {
         counts.kept++;
         continue;

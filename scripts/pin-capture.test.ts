@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { type Run, citedBy, runToPin, withCapture } from "./pin-capture";
+import { type Run, citedBy, listedFor, runToPin, withCapture } from "./pin-capture";
 
 const run = (id: string, ...urls: string[]): Run => ({
   id,
@@ -82,5 +82,22 @@ describe("withCapture", () => {
 
   test("a bundle with no attribution is an error, not a guess", () => {
     expect(() => withCapture(`{ "positions": [] }`, capture)).toThrow("no attribution");
+  });
+});
+
+describe("listedFor", () => {
+  test("gathers what a slate was read from, and leaves its citations out", () => {
+    const listed = listedFor([
+      { url: "https://a.org/page", cited_by: ["a/2026-11-03"], origin: "cited" },
+      { url: "https://cdn.org/card.png", cited_by: ["a/2026-11-03", "b/2026-11-03"], origin: "evidence" },
+      { url: "https://a.org/data", cited_by: ["a/2026-11-03"], origin: "discovered" },
+    ]);
+    expect(listed.get("a/2026-11-03")).toEqual(["https://cdn.org/card.png", "https://a.org/data"]);
+    expect(listed.get("b/2026-11-03")).toEqual(["https://cdn.org/card.png"]);
+  });
+
+  test("a slate moves off a run that lacks a document it was read from", () => {
+    const runs = [run("b", "page", "card"), run("a", "page")];
+    expect(runToPin(["page", "card"], "a", runs)?.id).toBe("b");
   });
 });
