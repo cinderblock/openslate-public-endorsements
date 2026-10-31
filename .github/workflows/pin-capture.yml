@@ -39,6 +39,7 @@ jobs:
           filter: blob:none
           sparse-checkout: |
             /provenance/
+            /sources.json
             /runs/*/manifest.json
             /runs/*/manifest.sigstore.json
           sparse-checkout-cone-mode: false
