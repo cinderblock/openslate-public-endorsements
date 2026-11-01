@@ -7,7 +7,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:09:00Z",
+    "retrieved_at": "2026-11-01T16:44:19Z",
     "sources": [
       "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"
     ],
@@ -72,6 +72,7 @@
     {"subject": {"title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "Yes", "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes", "source": "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"},
     {"subject": {"title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no", "source": "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"},
     {"subject": {"title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no", "source": "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"},
-    {"subject": {"title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no", "source": "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"}
+    {"subject": {"title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)", "kind": "measure", "jurisdiction": "us/ca", "election": "2026-11-03"}, "stance": "endorse", "choice": "No", "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no", "source": "https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"},
+    {"subject":{"title":"California State Senate, District 10","kind":"race","jurisdiction":"us/ca/sd-10","election":"2026-11-03"},"stance":"endorse","choice":"Scott Sakakihara","choice_id":"ca-secretary-of-state:2026-11-03/california-state-senate-district-10/scott-sakakihara","statement":"\"SD 10\" \"Scott Sakakihara\" \"Alameda\" \"SF Bay & Loma Prieta\"","source":"https://www.sierraclub.org/california/2026-endorsements-scc-political-committee"}
   ]
 }

@@ -44,3 +44,9 @@ Rascón), and EnviroVoters endorses Brian Goldsmith in SD 24.
   used by EnviroVoters, Courage and the ballot listing).
 - AD 42: page says "Deborah Klein-Lopez"; recorded as **Deborah Klein Lopez**
   (spelling used by EnviroVoters, Courage and Wikipedia).
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. 55 -> 56: added SD 10 Scott Sakakihara. The row is new on the page, with Result "TBD" like every
+other row. Evidence: `sc-ca-2026-endorsements-scc-political-committee-2026-11-01.md`, from the headless Chrome record of
+capture run 2026-11-01T1631Z. That run's plain GET was a 212-byte Incapsula stub, kept on record.
