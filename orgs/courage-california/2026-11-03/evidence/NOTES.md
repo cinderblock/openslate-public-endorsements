@@ -283,3 +283,11 @@ byte-for-byte, including the Orange County supervisor seats, which use
 The catalog's ballot check found this position on a seat no ballot carries: it was uncontested, so no election is held for it. It was removed, since a position here has to map to a ballot entry.
 
 - Foothill-De Anza Community College District Board, Trustee Area 2: Alexander Gvatua. Not on the ballot: Santa Clara County's Final Qualified List of Local Eligible Candidates (contest 3214, https://files.santaclaracounty.gov/exjcpb1296/2026-09/qualified-list-of-local-candidates-9-28-26.pdf) lists him as the seat's only qualified candidate, marked "On Ballot: No".
+
+## Refresh 2026-11-01
+
+Unread-sources pass after the scheduled re-scrape. 328 -> 329: added Costa Mesa City Council, District 4, Angely Andrade Vallarta.
+The Orange County guide page has her card in every capture run since 10-30. The statewide PDF has no Costa Mesa District 4 line, and
+the 10-19 evidence file has no Costa Mesa cards, so either the card came later or that read missed it. All 34 guide pages were then
+read card by card against this bundle, matching on last name: she was the only candidate with no position. Evidence: `progressivevotersguide-county-orange-2026-11-01.md`, from
+capture run 2026-11-01T1631Z.
