@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-30T17:06:23Z",
+    "retrieved_at": "2026-11-01T16:33:12Z",
     "sources": [
       "https://www.eqca.org/elections/"
     ],
@@ -2906,6 +2906,19 @@
       "choice": "Stacy Fortner",
       "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
       "statement": "\"William S. Hart Union High School Board of Trustees, Area 5: Stacy Fortner\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Harris Mojadedi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/harris-mojadedi",
+      "statement": "\"Chabot-Las Positas Community College Board: Harris Mojadedi\"",
       "source": "https://www.eqca.org/elections/"
     }
   ]

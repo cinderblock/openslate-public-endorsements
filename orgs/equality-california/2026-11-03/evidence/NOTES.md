@@ -129,3 +129,9 @@ Lyseria Evelyn Phillips, the same uncommon first name with a different surname. 
 person, but nothing confirms it. Kept: Gerald "Gerry" Hoffman, printed "Fallbrook Fire Protection
 District, Division 2", under Fallbrook Public Utility District Division 2, the only race listing that
 name.
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. 224 -> 225: added "Chabot-Las Positas Community College Board: Harris Mojadedi". The page gives no
+area; the Alameda registrar lists him in Area 3 only, so it's filed there. Evidence: `eqca-elections-2026-11-01.md`, from
+capture run 2026-11-01T1631Z.
