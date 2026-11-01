@@ -14,7 +14,12 @@
     "retrieved_at": "2026-10-31T04:26:34Z",
     "sources": [
       "https://img1.wsimg.com/blobby/go/338b2ff6-a307-4a2e-8213-b9357ccabaf1/downloads/c9ac7122-ab29-4729-b316-e22df0b32f7c/FCLCA%202026%20Ballot%20Recommendations.pdf"
-    ]
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/friends-committee-on-legislation-california/2026-11-03.json"
+    }
   },
   "positions": [
     {

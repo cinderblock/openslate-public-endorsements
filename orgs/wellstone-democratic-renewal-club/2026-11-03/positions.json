@@ -14,7 +14,12 @@
     "retrieved_at": "2026-10-31T17:47:36Z",
     "sources": [
       "https://www.wellstoneclub.org/endorsements.html"
-    ]
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/wellstone-democratic-renewal-club/2026-11-03.json"
+    }
   },
   "positions": [
     {

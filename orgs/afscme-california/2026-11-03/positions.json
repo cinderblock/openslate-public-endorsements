@@ -16,7 +16,12 @@
       "https://calafscme.org/afscme-california-people-endorsements",
       "https://calafscme.org/afscme-federal-election-endorsements",
       "https://calafscme.org/afscme-federal-election-endorsements/afscme-california-ballot-measure"
-    ]
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/afscme-california/2026-11-03.json"
+    }
   },
   "positions": [
     {

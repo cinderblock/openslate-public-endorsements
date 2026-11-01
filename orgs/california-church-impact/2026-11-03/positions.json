@@ -15,7 +15,12 @@
     "sources": [
       "https://churchimpact.org/wp-content/uploads/2026/09/CA-2026-Ballot-Guide.pdf",
       "https://churchimpact.org/index.php/2026/09/08/ca-church-impacts-recommendations-for-november-2026-ballot-propositions/"
-    ]
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/california-church-impact/2026-11-03.json"
+    }
   },
   "positions": [
     {

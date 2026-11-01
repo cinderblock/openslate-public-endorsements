@@ -14,7 +14,12 @@
     "retrieved_at": "2026-10-31T17:48:32Z",
     "sources": [
       "https://docs.google.com/spreadsheets/d/e/2PACX-1vS15A-gEKPgnzN2wk6CSMQ9iIlumuAkXhmC2QgiTc81I1_f7TsoM32LTKMxJu0QyzI8JiaecUg1q4mi/pubhtml?gid=51332860&single=true"
-    ]
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/bryans-oakland-voter-guide/2026-11-03.json"
+    }
   },
   "labels": [
     {
