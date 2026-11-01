@@ -68,3 +68,10 @@ California records.
   "Luz Reyes-Martin" -> "Luz Reyes-Martín" (existing bundles).
 - **Source.** Statements quote the API record fields, because the HTML
   page has no server-rendered candidate text.
+
+## Refresh 2026-11-01
+
+Unread-sources pass after the scheduled re-scrape. 33 -> 34: added Attorney General Rob Bonta. His state API record's
+`everytown_endorsement__c` went from "0" to "1" between capture runs 2026-10-30T1747Z and 2026-10-31T0003Z. The API now returns
+506 California 2026 records, 36 flagged. The other 35 are the ones listed above: 33 positions, plus Capps and Frerichs, still
+skipped. Evidence: `gunsensevoter-api-california-2026-11-01.md`, from capture run 2026-11-01T1631Z.

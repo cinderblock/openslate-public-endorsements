@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T21:15:04Z",
+    "retrieved_at": "2026-11-01T16:31:52Z",
     "sources": [
       "https://www.gunsensevoter.org/candidates/",
       "https://www.gunsensevoter.org/faq/",
@@ -142,6 +142,23 @@
       "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
       "statement": "API record: \"candidate name\":\"Mike Levin\",\"office sought\":\"US House\",\"district_display\":\"49th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
       "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Attorney General",
+          "vote_for": 1
+        }
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "API record: \"candidate name\":\"Rob Bonta\",\"office sought\":\"Attorney General\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
     },
     {
       "subject": {
