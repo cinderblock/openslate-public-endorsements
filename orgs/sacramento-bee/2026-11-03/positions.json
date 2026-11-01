@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-30T16:46:51Z",
+    "retrieved_at": "2026-11-01T17:00:00Z",
     "sources": [
       "https://www.sacbee.com/opinion/election-endorsements/",
       "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
@@ -208,6 +208,19 @@
       "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
       "statement": "The Bee endorsed Sacramento City Councilmember Mai Vang over incumbent Doris Matsui",
       "source": "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "\"The Sacramento Bee editorial board endorsed Dr. Richard Pan\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317856063.html"
     }
   ],
   "adopts": [

@@ -82,3 +82,10 @@ Adopted by reference 2026-10-30 (SPEC §3.10): all 14 props from
 `mcclatchy-california-editorial-boards`. The Bee's list runs under the byline "McClatchy Media's California
 editorial boards". Nine were copies here (3, 4, 5, 37, 40, 42, 43, 44, 45), all the same pick; five are new
 (1, 2, 38, 39, 41).
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. 15 -> 16 own positions: added CD 6 Richard Pan. A Nov 1 recap (article317856063) says the board endorsed
+Pan, and links the full endorsement, written before the June primary, over Kevin Kiley. The Oct 31 and Nov 1 recaps of Vang,
+Cofer and Becerra match the bundle. Read in Chrome 2026-11-01 about 9:20 AM PDT (16:20Z); the capture tool gets no response
+from this host. No page text saved.
