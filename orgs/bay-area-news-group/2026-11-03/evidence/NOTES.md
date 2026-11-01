@@ -136,3 +136,10 @@ No** (editorial 10-29: https://www.mercurynews.com/2026/10/29/endorsement-reject
 Everything else matches the bundle, including Michael Melillo and Gilroy Measure M. The page still
 says "so far". No page text saved for this refresh; the record is this note and the quote in the
 position.
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. The cheat sheet now reads "UPDATED: October 31, 2026 at 10:03 AM PDT". 36 -> 39: added Santa Clara
+Mayor David Kertes, Council D2 Yvonne Inciarte and Council D3 Eric Crutchlow. These are bare list lines with no
+editorial text, under a "Santa Clara" heading; the titles come from the Santa Clara registrar's list. Nothing else
+changed. Read 2026-11-01 about 9:00 AM PDT (16:00Z). No page text saved (news); run 2026-11-01T1631Z captured it.

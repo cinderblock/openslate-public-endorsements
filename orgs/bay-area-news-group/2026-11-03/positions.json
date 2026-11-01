@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-30T16:35:44Z",
+    "retrieved_at": "2026-11-01T16:32:00Z",
     "sources": [
       "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/",
       "https://www.mercurynews.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
@@ -494,6 +494,45 @@
       "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-community-college-district-measure-v-bond-measure/no",
       "statement": "The $848 million ballot measure obscures nature of the tax increase",
       "source": "https://www.mercurynews.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Kertes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-mayor/david-kertes",
+      "statement": "\"Santa Clara\" … \"Mayor — David Kertes\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yvonne Inciarte",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-2/yvonne-inciarte",
+      "statement": "\"Santa Clara\" … \"District 2 — Yvonne Inciarte\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Clara City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Crutchlow",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/santa-clara-city-council-district-3/eric-crutchlow",
+      "statement": "\"Santa Clara\" … \"District 3 — Eric Crutchlow\"",
+      "source": "https://www.eastbaytimes.com/2026/10/13/bay-area-news-group-california-election-endorsements-november-2026/"
     }
   ]
 }
