@@ -47,3 +47,8 @@ fetched 2026-10-19) and are November finalists.
   vote for" with no endorsed alternative.
 - AD 17: the page says Noris-Barrera ran as a write-in in June; he is on
   the SF qualified list for November.
+
+## Refresh 2026-11-01
+
+The page moved: https://sfgop.org/nov-2026-endorsements is now a 404, and https://sfgop.org/endorsements is the same page. Read on 2026-11-01 about 11:55 AM PST (19:55Z), its picks are
+the ones in `sfgop-nov-2026-endorsements.md`, so no position changed. Only the cited URL did. The next capture run picks up the new address.

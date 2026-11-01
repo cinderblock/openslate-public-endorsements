@@ -27,3 +27,8 @@
   not the shorter `oakland-rising`.
 - Each proposition is shown on the page as its number, YES/NO and a short
   blurb. The statements quote those three parts together.
+
+## Refresh 2026-11-01
+
+The page moved: https://oaklandrisingaction.org/homepage/2026-oakland-progressive-voter-guide/ is now a 404, and https://oaklandrisingaction.org/homepage/oakland-progressive-voter-guide/ is the same page. Read on 2026-11-01 about 11:55 AM PST (19:55Z), its picks are
+the ones in `ora-2026-voter-guide.md`, so no position changed. Only the cited URL did. The next capture run picks up the new address.
