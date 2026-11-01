@@ -24,3 +24,8 @@ KPBS lists Imperial Beach D1 "Carol Seabury (Not listed as a candidate.)", but t
 
 ## Conventions
 City, district, and measure titles follow the conventions in the SD County Democratic Party Nov NOTES.md, shared across this batch.
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. 163 -> 164: added Steve Robak to Lakeside Community Planning Group, on the guide and on the registrar's
+list. Evidence: `sandiegorepublicans-voter-guide-san-diego-2026-11-01.md`, from capture run 2026-11-01T1631Z.

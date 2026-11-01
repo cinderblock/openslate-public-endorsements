@@ -11,7 +11,7 @@
       "kind": "party"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:09:07Z",
+    "retrieved_at": "2026-11-01T16:32:22Z",
     "sources": [
       "https://sandiegorepublicans.org/voter-guides/san-diego",
       "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
@@ -2007,6 +2007,19 @@
       "choice": "Yes",
       "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
       "source": "https://www.kpbs.org/news/politics/2026/09/30/2026-general-election-guide-to-endorsements-from-san-diego-democrats-republicans-green-libertarian"
+    },
+    {
+      "subject": {
+        "title": "Lakeside Community Planning Group",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Robak",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lakeside-community-planning-group/steve-robak",
+      "statement": "\"Lakeside Community Planning Group\" … \"Steve Robak\"",
+      "source": "https://sandiegorepublicans.org/voter-guides/san-diego"
     }
   ]
 }
