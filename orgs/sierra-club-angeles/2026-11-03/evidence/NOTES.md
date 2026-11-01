@@ -65,3 +65,11 @@
 Statewide offices and props are set by Sierra Club California (San Gorgonio's article calls them "Endorsed by Sierra Club California"). The chapter's own federal, legislative and local picks stay in `positions`.
 
 These were copies; they are now one `adopts` entry (SPEC §3.10, 11 from Sierra Club California) pointing at the adopted bundle's published slate, written with `scripts/adopt.ts`, which checks each pick against that bundle. Every pick matched it. The web app shows them under this source, marked "Adopted from ...".
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. 89 -> 94 own positions: added LACCD Seat 2 Steven F. Veres (the page says "Steve Veres"), Foothill MWD
+Division 4 Amy Chen, Manhattan Beach Council Amy Howorth, Pasadena Area CCD Trustee Area 3 Steve Gibson ("Pasadena City
+College Board of Trustees" on the page) and South Pasadena Council D4 Michael Cacciotti. The registrar's titles and
+spellings are used. Lynwood only moved on the page. Evidence: `sierraclub-angeles-endorsements-2026-11-01.md`, from the
+headless Chrome record of capture run 2026-11-01T1631Z. That run's plain GET was a 212-byte Incapsula stub, kept on record.

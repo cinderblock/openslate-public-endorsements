@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-15T01:24:17Z",
+    "retrieved_at": "2026-11-01T16:44:10Z",
     "sources": [
       "https://www.sierraclub.org/angeles/endorsements"
     ],
@@ -1088,6 +1088,82 @@
       "stance": "endorse",
       "choice": "Letitia Clark",
       "choice_id": "oc-registrar-of-voters:2026-11-03/tustin-mayor/letitia-clark",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven F. Veres",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/steven-f-veres",
+      "statement": "\"Los Angeles Community College District 2 - Steve Veres\"",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Foothill Municipal Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "district": "us/ca/foothill-municipal-water-district/div-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "FOOTHILL MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 4"
+        }
+      },
+      "stance": "endorse",
+      "choice": "Amy Chen",
+      "choice_id": "la-county-registrar:2026-11-03/foothill-municipal-water-district-board-division-4/amy-chen",
+      "statement": "\"Foothill Municipal Water District Division 4 - Amy Chen\"",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manhattan Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/manhattan-beach",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "CITY OF MANHATTAN BEACH GENERAL MUNICIPAL ELECTION Member of the City Council"
+        }
+      },
+      "stance": "endorse",
+      "choice": "Amy Howorth",
+      "choice_id": "la-county-registrar:2026-11-03/manhattan-beach-city-council/amy-howorth",
+      "statement": "\"Manhattan Beach City Council\" \"Amy Howorth\"",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Pasadena Area Community College District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Gibson",
+      "choice_id": "la-county-registrar:2026-11-03/pasadena-area-community-college-district-board-trustee-area-3/steve-gibson",
+      "statement": "\"Pasadena City College Board of Trustees\" … \"District 3 - Steve Gibson\"",
+      "source": "https://www.sierraclub.org/angeles/endorsements"
+    },
+    {
+      "subject": {
+        "title": "South Pasadena City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-pasadena",
+        "district": "us/ca/south-pasadena/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "CITY OF SOUTH PASADENA GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District"
+        }
+      },
+      "stance": "endorse",
+      "choice": "Michael Cacciotti",
+      "choice_id": "la-county-registrar:2026-11-03/south-pasadena-city-council-district-4/michael-cacciotti",
+      "statement": "\"South Pasadena City Council\" \"District 4 - Michael Cacciotti\"",
       "source": "https://www.sierraclub.org/angeles/endorsements"
     }
   ],
