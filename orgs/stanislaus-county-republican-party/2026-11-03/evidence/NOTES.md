@@ -45,3 +45,12 @@
 - The statewide slate matches the CAGOP's picks, but this page presents it
   as the RPSC's own endorsements with no attribution to the state party, so
   it is kept.
+
+## Refresh 2026-11-01
+
+Scheduled re-scrape. https://stangop.org/voter-guide/ no longer matches https://stangop.org/endorsements/. It has four picks
+the endorsements page lacks: Patterson Mayor Michael Clauzel, Patterson Council D Carlos Roque, Riverbank Council D1
+Nai N. Sosongkham and a second Waterford seat, Todd Valdez. All four added (43 -> 47), citing the voter guide. Its Yosemite CCD
+picks aren't on the voter guide but remain on the endorsements page, so they stay. It also has an empty "Judicial
+Recommendations" heading. No county listing covers these races: Clauzel, Sosongkham and Valdez use Reform California's
+spellings, and Roque is as printed. Evidence: `stangop-voter-guide-2026-11-01.md`, from capture run 2026-11-01T1631Z.

@@ -11,7 +11,7 @@
       "kind": "organization"
     },
     "mode": "scraped",
-    "retrieved_at": "2026-10-19T22:47:27Z",
+    "retrieved_at": "2026-11-01T16:32:39Z",
     "sources": [
       "https://stangop.org/endorsements/",
       "https://stangop.org/voter-guide/"
@@ -563,6 +563,54 @@
       "choice": "No",
       "statement": "\"City of Riverbank — Measure M\" / \"VOTE NO\" / \"Riverbank Growth Limit Measure\"",
       "source": "https://stangop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Patterson Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/patterson",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael S. Clauzel",
+      "statement": "\"Patterson\" \"Michael Clauzel\" / \"Mayor\"",
+      "source": "https://stangop.org/voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Patterson City Council, District D",
+        "kind": "race",
+        "jurisdiction": "us/ca/patterson",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carlos Roque",
+      "statement": "\"Patterson\" … \"Carlos Roque\" / \"City Council — District D\"",
+      "source": "https://stangop.org/voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Riverbank City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nai N. Sosongkham",
+      "statement": "\"Riverbank\" \"Nai N. Sosongkham\" / \"City Council District 1\"",
+      "source": "https://stangop.org/voter-guide/"
+    },
+    {
+      "subject": {
+        "title": "Waterford City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/waterford",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Todd Valdez",
+      "statement": "\"Waterford City Council — At-Large\" … \"Todd Valdez\"",
+      "source": "https://stangop.org/voter-guide/"
     }
   ]
 }
