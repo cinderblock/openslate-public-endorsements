@@ -85,3 +85,9 @@ Re-fetched the roundup with curl on 2026-10-30 9:38 AM PDT (16:38Z). Its header 
 Oct 13, but it now lists **Prop 45: No** (editorial 10-21:
 https://www.pressdemocrat.com/2026/10/21/endorsement-no-on-prop-45-leave-states-landmark-environmental-review-law-alone/).
 Everything else matches the bundle. No page text saved for this refresh.
+
+## Adoption removed 2026-11-04
+
+The Prop 39 adoption from `bay-area-news-group` is removed. The PD ran BANG's editorial under BANG's byline, which
+doesn't show the PD board holds that position; it's the same case as the Marin IJ (removed 2026-10-30). The
+"Republished" note above stands: it's BANG's pick.
