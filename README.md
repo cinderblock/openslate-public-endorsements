@@ -361,6 +361,37 @@ authority covers, the script groups variant spellings of the same person
 across orgs and uses the most common one. Both scripts edit only files git
 tracks: an untracked bundle is someone's work in progress.
 
+## Statements quote whole passages
+
+A `statement` that gives a source's words gives all of them: the whole
+paragraph, list line or table cell they come from, not the first sentence of
+it. Where a passage really is too long to quote, every omission is marked with
+an ellipsis (`…`), at the start, the end or in the middle. Cutting a source short
+with nothing to show it changes what the source said, so it isn't allowed.
+Every statement also has a `source`, so the full text is a click away (the web
+app links it next to the statement).
+
+`scripts/verify-positions.ts` enforces this, and a failure here fails the
+build. Each quoted part of a statement (each span in quotation marks, or the
+whole statement if it has none) is looked up in the bundle's `evidence/*.md`
+(`scripts/lib/quote-bounds.ts`). It has to start and end where a passage does
+in that text, or mark the cut with `…`. Passage ends are a line break, a table
+cell, the source's own quotation marks around the words, or, in a short
+list-like line, a list separator such as `:`, `—` or `/`. A sentence's own
+punctuation doesn't end a passage: one sentence of a longer paragraph is a cut.
+Hard-wrapped markdown lines are joined back into their paragraph before the
+check, so a quote can't pass by stopping at a wrap. Saved news pages are in the
+private store, so their statements are checked only where
+`OPENSLATE_CAPTURES_PRIVATE_DIR` is set. A statement whose words aren't in the
+evidence at all isn't judged here; source anchoring (above) reports those.
+
+To fix a cut statement, `bun scripts/requote-statements.ts --private
+<openslate-source-captures-private>` (dry run; add `--apply`) widens each cut
+quote to its whole passage, verbatim from the evidence. Past 1,500 characters
+it widens to whole sentences and marks the rest `…`. A quote whose words
+appear in more than one passage is placed by the statement's other quotes. If
+nothing says which passage it means, it's listed for a person to fix.
+
 ## Contributing a new endorsement
 
 1. Pick or create an org slug (kebab-case): `orgs/<slug>/`.
@@ -443,7 +474,8 @@ tracks: an untracked bundle is someone's work in progress.
 - `attribution.retrieved_at` — the date the source was observed (RFC 3339
   with timezone).
 - Every `position.statement` should be a faithful paraphrase or a direct
-  quote, not a researcher opinion.
+  quote, not a researcher opinion. A quote is the whole passage, or marks
+  each omission with `…` (see "Statements quote whole passages" above).
 
 When an organization publishes their own firsthand slate, the slate here
 should be marked superseded (or removed) — a firsthand slate signed by the
@@ -500,6 +532,9 @@ bun scripts/assign-voted-in.ts <election>
 
 # Move county contests filed under a county's bare name to the county (dry run; add --apply)
 bun scripts/refile-localities.ts
+
+# Widen statements that cut their source short to whole passages (dry run; add --apply)
+bun scripts/requote-statements.ts --private ../openslate-source-captures-private
 
 # Unit tests for the ballot check and the text edits
 # (the name matcher's are in OpenSlate core)

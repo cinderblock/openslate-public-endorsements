@@ -8,7 +8,8 @@
 // their jurisdiction does (`subject.district`, scripts/lib/districts.ts). No county contest may
 // sit under a county's bare name, which is a city's or no one's (scripts/lib/localities.ts). A
 // regional contest must say which jurisdictions vote on it (`subject.voted_in`,
-// scripts/lib/regions.ts), in every bundle. With a capture checkout in OPENSLATE_CAPTURES_DIR, each
+// scripts/lib/regions.ts), in every bundle. Every statement in a bundle with evidence must have a
+// source, and must quote it whole or mark its cuts with "…" (scripts/lib/quote-bounds.ts). With a capture checkout in OPENSLATE_CAPTURES_DIR, each
 // statement is also looked for in the raw capture of its source (scripts/lib/anchor.ts): a miss is
 // a warning stating a fact, and the misses are listed in review/unanchored.md. No saved news page
 // may sit in evidence/ (scripts/lib/withheld-evidence.ts): both workflows run this, so one can't publish.
@@ -20,8 +21,10 @@ import { type Article, signInputSchema } from "../.openslate/packages/core/src/i
 import { type Bundle, ballotFrom, checkBundle, describe, describeWarning } from "./ballot";
 import { type AnchorResult, anchorBundle, blobReader } from "./lib/anchor";
 import { districtFor } from "./lib/districts";
+import { evidenceText } from "./lib/evidence-text";
 import { localityProblem } from "./lib/localities";
 import { readProvenance } from "./lib/provenance";
+import { indexed, quoteBounds } from "./lib/quote-bounds";
 import { votedInProblem } from "./lib/regions";
 import { findWithheld } from "./lib/withheld-evidence";
 
@@ -200,6 +203,51 @@ for (const { path, bundle, articles } of valid) {
   }
 }
 
+// Every bundle with evidence: does each statement quote its source whole, or mark its cuts with an
+// ellipsis (scripts/lib/quote-bounds.ts)? An unmarked cut fails: it changes what a source said by
+// leaving the rest out. So does a statement with no source to read it against. The saved news pages
+// are only in the private store, so their statements are checked where OPENSLATE_CAPTURES_PRIVATE_DIR
+// is set (any run that edits them) and skipped elsewhere.
+const privateCaptures = process.env.OPENSLATE_CAPTURES_PRIVATE_DIR || undefined;
+const quoting = { whole: 0, cut: 0, notFound: 0, noSource: 0 };
+for (const { path, bundle } of valid) {
+  const [, org = "", election = ""] = path.split("/");
+  const dir = join(ORGS_DIR, org, election);
+  if (!existsSync(join(dir, "evidence"))) continue;
+  const source = indexed(evidenceText(dir, org, election, privateCaptures));
+  const errors: string[] = [];
+  for (const [i, position] of bundle.positions.entries()) {
+    if (!position.statement) continue;
+    if (!position.source) {
+      quoting.noSource++;
+      errors.push(
+        `positions[${i}]: statement has no source; every statement links to where it came from`,
+      );
+    }
+    const bounds = quoteBounds(position.statement, source);
+    if (bounds.kind === "whole") quoting.whole++;
+    else if (bounds.kind === "not-found") quoting.notFound++;
+    else {
+      quoting.cut++;
+      const where = [bounds.start && "starts", bounds.end && "ends"].filter(Boolean).join(" and ");
+      errors.push(
+        `positions[${i}]: statement ${where} inside the source's passage with no "…" to say so: ${JSON.stringify(bounds.part)}`,
+      );
+    }
+  }
+  if (!errors.length) continue;
+  const failed = failures.find((f) => f.path === path);
+  if (failed) failed.errors.push(...errors);
+  else {
+    ok--;
+    failures.push({ path, errors });
+  }
+}
+const quotingLine =
+  `Quoting: ${quoting.whole} statements quote whole passages, ${quoting.cut} cut one short, ` +
+  `${quoting.notFound} not found in the evidence text${privateCaptures ? "" : " (saved news pages skipped: OPENSLATE_CAPTURES_PRIVATE_DIR isn't set)"}, ` +
+  `${quoting.noSource} with no source`;
+
 // Every bundle with a capture: is each statement in the raw text? Facts for a person, never a failure.
 const capturesDir = process.env.OPENSLATE_CAPTURES_DIR;
 let anchoring = "Source anchoring: skipped, OPENSLATE_CAPTURES_DIR isn't set";
@@ -248,6 +296,7 @@ ${report.join("\n")}
 console.log(
   `\nBallot: ${checked} positions and ${articlesChecked} articles checked against an election authority's list, ${unchecked} positions in jurisdictions no authority covers yet`,
 );
+console.log(quotingLine);
 console.log(anchoring);
 if (warnings.length) console.log(`\nWarnings:\n  ${warnings.join("\n  ")}`);
 if (kinds.has("listing-id"))
