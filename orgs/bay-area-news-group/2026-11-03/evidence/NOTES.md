@@ -143,3 +143,12 @@ Scheduled re-scrape. The cheat sheet now reads "UPDATED: October 31, 2026 at 10:
 Mayor David Kertes, Council D2 Yvonne Inciarte and Council D3 Eric Crutchlow. These are bare list lines with no
 editorial text, under a "Santa Clara" heading; the titles come from the Santa Clara registrar's list. Nothing else
 changed. Read 2026-11-01 about 9:00 AM PST (17:00Z). No page text saved (news); run 2026-11-01T1631Z captured it.
+
+## Statements quoted whole 2026-11-03
+
+Statements are now quoted whole (see the repo README, "Statements quote whole passages"). The
+Santa Clara picks were bare list lines on Nov 1. In capture run 2026-11-03T1300Z (5:02 AM PST,
+13:02Z) the section also has an editorial paragraph, so their statements quote the heading, the
+paragraph and their own list line. The section is saved as
+`eastbaytimes-endorsement-cheat-sheet-2026-11-03-santa-clara.md` (withheld: news). The paragraph opens
+"Jed York’s San Francisco 49ers — has spent", as the page prints it.
