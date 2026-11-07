@@ -5,7 +5,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  # write: the last step commits the site to the catalog-site branch.
+  contents: write
   pages: write
   id-token: write
 
@@ -84,3 +85,42 @@ jobs:
       - name: Deploy to Pages
         id: deploy
         uses: actions/deploy-pages@v4
+
+      # The same site, for https://catalog.openslate.us. Cloudflare Workers Builds
+      # deploys the catalog-site branch, so no Cloudflare credential lives here.
+      # Each run adds a commit (never a force-push) whose tree is
+      # catalog-site/wrangler.jsonc and README.md at the root, and dist/ plus
+      # catalog-site/_headers under site/. Skipped when nothing changed.
+      - name: Commit the site to the catalog-site branch
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -euo pipefail
+          stage="$RUNNER_TEMP/catalog-site"
+          rm -rf "$stage"
+          mkdir -p "$stage"
+          cp catalog-site/wrangler.jsonc catalog-site/README.md "$stage/"
+          cp -R dist "$stage/site"
+          cp catalog-site/_headers "$stage/site/_headers"
+
+          index="$RUNNER_TEMP/catalog-site.index"
+          rm -f "$index"
+          GIT_INDEX_FILE="$index" git --work-tree="$stage" add --all --force -- "$stage"
+          tree=$(GIT_INDEX_FILE="$index" git write-tree)
+
+          message="Site from ${GITHUB_SHA::7}"
+          if git ls-remote --exit-code --heads origin catalog-site >/dev/null; then
+            git fetch --quiet --depth=1 origin catalog-site
+            parent=$(git rev-parse FETCH_HEAD)
+            if [ "$(git rev-parse "$parent^{tree}")" = "$tree" ]; then
+              echo "catalog-site already has this site."
+              exit 0
+            fi
+            commit=$(git commit-tree "$tree" -p "$parent" -m "$message")
+          else
+            commit=$(git commit-tree "$tree" -m "$message")
+          fi
+          git push origin "$commit:refs/heads/catalog-site"

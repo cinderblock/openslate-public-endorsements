@@ -64,6 +64,7 @@ Women Voters) are usually a poor fit for this repo.
 │       ├── logo.<ext>                 # the org's site icon (png/svg/webp/ico/jpg/gif)
 │       └── <election-or-year>/
 │           └── positions.json         # source of truth — what we sign
+├── catalog-site/                     # wrangler.jsonc, _headers, README for the catalog-site branch
 ├── keys/
 │   └── project-public.json            # the project's public signing key
 ├── well-known/
@@ -123,7 +124,17 @@ progress bar, since Pages serves the file gzipped).
 
 ## Published URLs
 
-After GitHub Pages is enabled for this repo, the published site exposes:
+The same site is published in two places:
+
+- GitHub Pages: `https://cinderblock.github.io/openslate-public-endorsements/`
+- Cloudflare: `https://catalog.openslate.us/`. Each publish run also commits
+  the built site to the generated `catalog-site` branch (`site/`, plus
+  `wrangler.jsonc` and `_headers` from the `catalog-site/` folder here), and
+  Cloudflare Workers Builds deploys that branch. Signing stays in GitHub
+  Actions, and no Cloudflare credential lives in this repo. The worker and its
+  domain are provisioned in `github.com/cinderblock/ops`.
+
+Either one exposes:
 
 | URL | What it is |
 | --- | --- |
