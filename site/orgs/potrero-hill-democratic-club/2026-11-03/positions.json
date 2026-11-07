@@ -1,0 +1,784 @@
+{
+  "context": {
+    "title": "Potrero Hill Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Potrero Hill Democratic Club",
+      "uri": "https://phdemclub.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:08Z",
+    "sources": [
+      "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
+      "https://phdemclub.org/2026/09/08/tues-sept-15-more-endorsements/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/potrero-hill-democratic-club/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "\"California Governor XAVIER BECERRA\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "\"California Lieutenant Governor FIONA MA\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "\"California Secretary of State SHIRLEY WEBER\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "\"State Controller MALIA COHEN\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "\"California Attorney General ROB BONTA\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "\"California State Treasurer ELENI KOUNALAKIS\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "\"Insurance Commissioner JANE KIM\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "statement": "\"Board of Equalization Member, District 2 SALLY LIEBER\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "\"California Superintendent of Public Instruction RICHARD BARRERA\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "statement": "\"State Assembly, District 17 MATT HANEY\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "\"Member, U.S. Congress, District 11 SCOTT WIENER\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Eppler",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/j-r-eppler",
+      "statement": "\"San Francisco Supervisor, District 10 J.R. EPPLER sole endorsement\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "statement": "\"SF Assessor-Recorder JOAQUIN TORRES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Manohar Raju",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-public-defender/manohar-raju",
+      "statement": "\"SF Public Defender MANO RAJU\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/alida-fisher",
+      "statement": "\"SF Board of Education ALIDA FISHER, PHIL KIM, REINA TELLO\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "\"SF Board of Education ALIDA FISHER, PHIL KIM, REINA TELLO\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/reina-tello",
+      "statement": "\"SF Board of Education ALIDA FISHER, PHIL KIM, REINA TELLO\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/leah-lacroix",
+      "statement": "\"SF Community College Board – full term LEAH LACROIX, BUNNY MCFADDEN\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/bunny-mcfadden",
+      "statement": "\"SF Community College Board – full term LEAH LACROIX, BUNNY MCFADDEN\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ruth Ferguson",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board-partial-term/ruth-ferguson",
+      "statement": "\"CCSF Board of Trustees: full term – Leah LaCroix, Bunny McFadden; partial term – Ruth Ferguson.\"",
+      "source": "https://phdemclub.org/2026/09/08/tues-sept-15-more-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "\"Two Associate Justices of the Supreme Court YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "\"Two Associate Justices of the Supreme Court YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-monique-langhorne-wilson/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-charles-a-smiley/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-kathleen-m-banke/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-therese-m-stewart/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tara-m-desautels/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-ioana-petrou/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-victor-a-rodriguez/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tracie-l-brown/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-danny-y-chou/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-mark-simons/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-gordon-burns/yes",
+      "statement": "\"Eleven Associate Justices, Court of Appeal, First District YES\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"1 – YES!! Bonds for housing affordability\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"2 – YES!! Increases state’s rainy day fund\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"3 – YES!! Permanent funding for schools and healthcare by extending existing tax on high incomes\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"4 – YES!! Repeals prohibition against public funding of election campaigns\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "\"5 – YES. Changes recall election process for statewide officers\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "\"37 – YES. Loan program for middle-income buyers of qualified new homes\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "\"38 – NO. Authorizes bonds for immunology medical research\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"39 – NO!! Prohibits citizens from voting unless they present government-issued verification\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "\"40 – NO. Imposes one-time tax on certain taxpayers\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"41 – NO. Prohibits new state taxes that exclude revenues from state spending limit, requires audits for new state special taxes\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"42 – NO. Prohibits new state personal property taxes and certain retroactive state taxes\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"43 – NO!! Limits voters’ ability to raise revenues for local government services\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"44 – NO. Requires community health clinics spend 90% of revenue on program services\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"45 – NO. Modifies environmental review for certain projects\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"A – no position. Charter Changes Affecting Various City Departments and Commissions\" The page adds: \"No position = neither YES nor NO received the requisite 60% of votes.\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "statement": "\"B – YES. Establishing a Municipal Finance Corporation and a Public Bank\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "\"C – YES!! Contributions to the Housing Fund\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "\"D – NO. Changes to Ballot Measure Process\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"E – no position. City Administrator’s Authority and Changes to City Contracting\" The page adds: \"No position = neither YES nor NO received the requisite 60% of votes.\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "\"F – NO. Changes to Executive Branch Management\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
+      "statement": "\"G – NO!! Allowing Private Vehicles on the Great Highway in Sunset Dunes Park\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "\"H – YES!! Parcel Tax to Fund Public Muni Operations\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "statement": "\"I – YES. Changes to Real Property Transfer Tax\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "\"J – YES. Removal of Foreclosure Exemption for Real Property Transfer Tax\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "\"RTM – YES!! Regional Transit Measure\"",
+      "source": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "IAFF Local 1699: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "IAFF Local 1699",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-24T20:25:59Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/iaff-local-1699/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Milpitas — Measure K",
+        "kind": "measure",
+        "jurisdiction": "us/ca/milpitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/milpitas-measure-k/yes",
+      "statement": "Mario Bena (IAFF Local 1699 President) signed the argument in favor of Milpitas Measure K in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/732_md.json"
+    }
+  ]
+}

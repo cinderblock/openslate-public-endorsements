@@ -1,0 +1,52 @@
+# Evidence: LA Forward voter guide: guide/la-county-ballot-measures
+
+- **URL**: https://laforwardguide.org/guide/la-county-ballot-measures
+- **Fetched**: 2026-10-15T01:08:41Z–01:11:43Z (UTC). The whole guide was crawled in one pass between those times.
+- **Method**: HTTP GET of the server-rendered HTML (Next.js). Each race or measure accordion row was parsed: the label, the rating badge, and the reasoning paragraphs. The text below is verbatim. Navigation, the donate prompt, and the footer are omitted.
+- **Page title**: LA County Ballot Measures · LA Forward Voter Guide
+- **Rating legend** (from the guide): "Endorsed: We've vetted this candidate closely and back them without reservation." "Recommended: Lines up with our values and priorities. Worth your vote." "No recommendation: We looked at this race and didn't land on a position, and that's a rating too, not a skip." For measures: "Support: We think this measure should pass." "Oppose: We think this measure shouldn't pass."
+
+---
+
+## la-county-ballot-measures / Ballot measures
+
+### Measure A — Binding Arbitration for Labor Disputes [Oppose]
+
+This measure would amend the LA County Charter to change how certain labor disputes are handled with a range of “public safety employees,” among them sheriff’s deputies, firefighters, lifeguards, and medical examiners. For disputes involving “wages, hours, and other terms and conditions of employment,” a binding arbitration process would settle negotiations between unions and LA County that have reached an impasse. Specifically, each side would select an arbiter, these two arbiters would select a third, and this three-person panel would be empowered to reach binding decisions, issue-by-issue, by choosing between the last offers put forward by each party. LA Forward recommends voting “no.”
+
+An ordinance passed by the Board of Supervisors (with all but Supervisor Mitchell voting in favor), and sponsored by Supervisors Horvath and Solis, put this measure on the ballot. The passage of this ordinance paralleled a signature gathering campaign by the public safety unions to put their own, similar measure on the ballot. According to at least one supervisor, this move allowed the supervisors to take some ownership over the measure and its language. The public safety unions campaign now backs the County’s measure.
+
+To understand what would be changing if this passes, it’s important to know how labor negotiations with public safety unions work today. Currently, when a public safety union and the county are at an impasse, the county is empowered to enact its last, best, and final offer over the objections of the union. These unions, because of the safety functions of firefighters, sheriff’s deputies, and other safety personnel, aren’t allowed to strike under the law, so they are, in this scenario, forced to operate under the County’s terms. This very rarely happens, but it is a background context for negotiations.
+
+The measure, then, since it changes this system for certain labor disputes, instituting a binding arbitration system instead, is supported by the public safety unions because it constitutes a significant shift of power in their direction. The rationale for the change described in the Board of Supervisors motion adopting the ordinance is that the current system, because of the power imbalance, leads to delays, “acrimony,” and a heightened risk of litigation. The public “yes” campaign by the union focuses on fairness and “tak[ing] politics out of public safety pay decisions.”
+
+In addition to the four supporting supervisors and the public safety unions, this measure is supported by the LA/OC Building Trades union, DA Nathan Hochman, and Sheriff Robert Luna. Top funders include the Association for Los Angeles Deputy Sheriffs, the Los Angeles County Firefighters Local 1014, and the Los Angeles County Professional Peace Officers Association.
+
+Even though binding arbitration looks like a fair process with respect to the individual issues it would settle, there are many good reasons not to do this. This measure applies to many categories of public safety employees, but it’s worth considering with respect to the most controversial — sheriff’s deputies. The LA County Sheriff’s Department has found itself implicated in disturbing and contentious issues surrounding deputy gangs, the LA County jail system, allegations of excessive force, surveillance and Flock cameras, violent response to protests and deployment of “less lethal” munitions, and huge liability payouts bills for the county. The Sheriff’s Department also commands an annual multi-billion dollar budget, the vast majority of which goes toward salaries and benefits. How, and on what footing, the county negotiates with the Sheriff’s Department, will have major consequences for the region.
+
+Because it takes important bargaining chips off the table, instituting this new system of binding arbitration for wages and hours would give sheriff’s deputies not only more power with respect to wages and hours, but with respect to every aspect of their labor relationship with the county. The measure isn’t about disciplinary rules, for instance, but it creates a different, more favorable system around what might be an important piece of leverage in negotiating disciplinary rules with the union. By putting certain issues in a special category, it puts the county broadly on weaker footing with a controversial, huge, consequential department.
+
+The measure would also insulate the Sheriff’s Department from an important lever of democratic feedback. What the measure’s proponents term “politics,” something they want to remove from pay disputes, might also be described as democratic input. Sheriff’s deputies work for us, and if we want to increase their pay, this is something our elected leaders—whose job description includes the careful weighing of input from all stakeholders—should be able to negotiate, rather than unelected arbiters.
+
+Issues of bargaining power and democracy would apply to other public safety employees included in this measure as well and giving so much power to arbiters raises other, additional governance concerns. Decisions about public safety employees touch a vast constellation of crucial issues in the county — issues around the unhoused, alternative crisis response, mental health, competing county budget priorities, and more. Putting fundamental labor questions for public safety employees ultimately in the hands of unelected arbiters — not a governmental body tasked with a holistic assessment of the county’s needs and goals — runs the risk of hampering the ability of the county to govern itself. With respect to the budget in particular, the county CEO has warned of the budget consequences of the measure, which could include workforce reductions and a lowering of the county’s credit rating.
+
+For all these reasons, LA Forward recommends you vote NO.
+
+For additional analysis, check out Robert Greene’s perspective at Golden State Report.
+
+### Measure E — Ethics [Support]
+
+This measure proposes an amendment to the LA County charter to provide greater independence and structure to the Ethics Commission with regard to appointment processes, qualifications, term, duties and responsibilities.
+
+The amendments for greater independence come as a result of recommendations from the Governance Reform Task Force to safeguard the Ethics Commission's autonomy.
+
+The charter amendments set forth in this measure also include language that will ensure the County’s commitment to allocate 10% of general funds towards community investment and alternatives to incarceration continue uninterrupted, which voters previously approved in 2020 through Measure J.
+
+The County Board of Supervisors put this measure on the ballot to rectify an administrative error that occurred when County officials reported a discrepancy in language to charter amendments from 2 previous measures, Measure J and Measure G. In 2024 when Measure G was approved, it made significant changes to the County government structure in the charter, establishing an elected County Executive position, an independent ethics commission, and a nonpartisan legislative analyst position in an effort to advance ethics and provide greater accountability, transparency and representation in the County government. In 2025 County officials found that Measure J had never been written into the charter after its approval in 2020. As such, the version of the Charter that Measure G proposed did not include Measure J, so when voters approved Measure G, it rewrote the charter without the language from Measure J, effectively repealing Measure J through a clerical error.
+
+Now the board is seeking to rectify the error and ensure that the proposed amendments consolidate the language between the two measures. This new measure was coauthored by Supervisors Holly Mitchell and Lindsey Horvath, and the motion was passed with support of four supervisors and one abstention from Supervisor Barger.
+
+Since Measure J was first adopted the County has allocated 10% of general funds for community investments such as youth development programs, job training, housing assistance as well as alternatives to incarceration services that include restorative justice programs, mental health services, and substance use disorder services and treatment. Without Measure J in the County charter these services are at a risk of losing funding. In an effort to rectify the situation, The Board has established a budget that aligns with Measure J however that leaves a voter approved policy change at the discretion of the Board and could simply be reversed in future years by a new Board. A drafting error cannot wipe out years of work along with over 2 million votes for justice reinvestment in LA. The only way to ensure that funding for justice reinvestment programs is guaranteed in future year's budget allocation is through its inclusion in the County charter; without it, millions of dollars in funding for community investment are threatened. Passing this new measure will ensure that these programs continue to receive funding so that the services they provide can continue uninterrupted.
+
+We recommend a yes vote on charter amendments to give increased independence and structure to the Ethics Commission, AND to continue the County’s commitment for community investment and alternatives to incarceration.
+

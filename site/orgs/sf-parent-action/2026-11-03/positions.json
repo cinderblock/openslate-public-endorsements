@@ -1,0 +1,65 @@
+{
+  "context": {
+    "title": "SF Parents Action — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SF Parents Action",
+      "uri": "https://sfparentaction.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:08:19Z",
+    "sources": [
+      "https://sfparentaction.org/endorsements-2026-nov/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sf-parent-action/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/autumn-brown-garibay",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"AUTUMN BROWN GARIBAY\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"PHIL KIM\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/alida-fisher",
+      "statement": "We are thrilled to announce SF Parents Action’s endorsed candidates for the November 2026 S.F. School Board election: \"ALIDA FISHER\"",
+      "source": "https://sfparentaction.org/endorsements-2026-nov/"
+    }
+  ]
+}

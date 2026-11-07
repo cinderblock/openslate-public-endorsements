@@ -1,0 +1,348 @@
+{
+  "context": {
+    "title": "United Educators of San Francisco — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "United Educators of San Francisco",
+      "uri": "https://uesf.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:06:45Z",
+    "sources": [
+      "https://uesf.org/our-work/political-action/",
+      "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/uesf/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/reina-tello",
+      "statement": "\"Reina Tello, Virginia Cheung, and Ryan Hazelton for Board of Education\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/virginia-cheung",
+      "statement": "\"Reina Tello, Virginia Cheung, and Ryan Hazelton for Board of Education\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/ryan-hazelton",
+      "statement": "\"Reina Tello, Virginia Cheung, and Ryan Hazelton for Board of Education\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/bunny-mcfadden",
+      "statement": "\"Bunny McFadden, Leah LaCroix, and Jeremy Lee for City College of San Francisco Board of Trustees\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/leah-lacroix",
+      "statement": "\"Bunny McFadden, Leah LaCroix, and Jeremy Lee for City College of San Francisco Board of Trustees\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/jeremy-lee",
+      "statement": "\"Bunny McFadden, Leah LaCroix, and Jeremy Lee for City College of San Francisco Board of Trustees\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "statement": "\"Connie Chan for Congressional District 11\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "statement": "\"“Yes” on Prop I: San Francisco Affordable Housing Guarantee Act\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "statement": "\"“Yes” on Prop B: San Francisco Public Bank\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "\"“No” on Prop D: Changes to San Francisco Ballot Measure Process\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"“Yes” on Prop 3: Make income taxes on higher earners permanent to fund education and healthcare\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "statement": "\"Gary McCoy, Michael Nguyen, and Darshini Patel for San Francisco Board of Supervisors District Eight\" (no ranking given)",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael T. Nguyen",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/michael-t-nguyen",
+      "statement": "\"Gary McCoy, Michael Nguyen, and Darshini Patel for San Francisco Board of Supervisors District Eight\" (no ranking given)",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshini Patel",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/darshini-patel",
+      "statement": "\"Gary McCoy, Michael Nguyen, and Darshini Patel for San Francisco Board of Supervisors District Eight\" (no ranking given)",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dionjay (DJ) Brookter",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/dionjay-dj-brookter",
+      "rank": 1,
+      "weight": 1,
+      "statement": "Ranked first: \"Dion-Jay (DJ) Brookter (#1), J.R. Eppler (unranked), and Deandra (unranked) for San Francisco Board of Supervisors District Ten\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "J.R. Eppler",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/j-r-eppler",
+      "statement": "Endorsed but unranked: \"Dion-Jay (DJ) Brookter (#1), J.R. Eppler (unranked), and Deandra (unranked) for San Francisco Board of Supervisors District Ten\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deandra Bryant",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/deandra-bryant",
+      "statement": "Listed by first name only and unranked: \"Dion-Jay (DJ) Brookter (#1), J.R. Eppler (unranked), and Deandra (unranked) for San Francisco Board of Supervisors District Ten\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "\"Richard Barrera for State Superintendent\"",
+      "source": "https://uesf.org/our-work/political-action/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "\"YES on Prop H: Stronger Muni for All\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "\"YES on RTM: Regional Transit Measure (RTM) reimagines a system that serves today's riders\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"YES on Prop 40: Billionaires tax to protect healthcare\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"NO on Prop 41: Unnecessary hurdles for voter approved initiatives\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"NO on Prop 42: Tax free luxury assets for the wealthy\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"NO on Prop 43: Raise Vote threshold for funding public services\"",
+      "source": "https://uesf.org/wp-content/uploads/2026/10/UESF-Voter-Guide-PDF-FINAL.pdf"
+    }
+  ]
+}

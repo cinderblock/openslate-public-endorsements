@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "Coronado Republican Club: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-diego-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Coronado Republican Club",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:40:16Z",
+    "sources": [
+      "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf#page=76"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/coronado-republican-club/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Coronado — Measure D (R-4 Multiple-Family Development Height Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-measure-d-r-4-multiple-family-development-height-measure/no",
+      "statement": "Kevin Shaeffer (Co-Chair, Coronado Republican Club (CRC)) signed the argument against Coronado Measure D in the San Diego County Voter Information Pamphlets.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-318.pdf#page=76"
+    }
+  ]
+}

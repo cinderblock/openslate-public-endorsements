@@ -1,0 +1,876 @@
+{
+  "context": {
+    "title": "San Francisco Chronicle editorial board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Chronicle (editorial board)",
+      "uri": "https://www.sfchronicle.com/opinion/editorials/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T16:35:44Z",
+    "sources": [
+      "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sf-chronicle/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Steve Hilton — an ally of President Donald Trump — is no viable option.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Fiona Ma comes with significant baggage — which is why she wasn’t our first choice for the role in the June primary. But she has the competence and experience to smoothly assume the duties of the state’s No. 2 office. Given the ramblings of her opponent, we cautiously recommend Ma for lieutenant governor.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "California is no ocean of calm when it comes to elections. The need for steady and trustworthy leadership from our secretary of state cannot be understated. Shirley Weber’s breadth of experience, willingness to do the right thing and fierce advocacy for voting rights make her the strongest candidate.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "The State Controller’s Office is California’s internal auditor — empowered to investigate how state agencies and local governments are spending state funds. Overall, we think Cohen has made enough progress to merit another term. But Californians should stay watchful to ensure she keeps the positive momentum going.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "The California state treasurer is the main banker, financier and asset manager for the world’s fourth-largest economy. With her thorough grasp of the treasurer’s complex duties and the political gravitas to get things done, Eleni Kounalakis deserves your vote.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "In our endorsement interview, incumbent Rob Bonta’s calm, clear and concise grasp of the complexities and nuances of California law — honed through more than eight years in the state Assembly — surpassed that of most of the current gubernatorial candidates.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "The insurance market has began to show signs of recovery. Insurers are finally starting to write new policies in the state. Electing a rash insurance commissioner could reverse that progress and cause the market to implode. Ben Allen has what it takes to hold insurers accountable and regulate their market conduct while also fostering the conditions necessary to keep the market stable.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "Richard Barrera is an increasingly rare California progressive who brings all parties to the table, a skill that the new state superintendent of public instruction will need as the role of the office changes.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "Befitting the broad consensus on California’s affordability crisis, Prop 1 has no formal opposition. The measure is the product of years of legislative sausage-making and is unwieldy. But the need for more affordable housing is too desperate to wait — and Prop 1 is well-positioned to reap the benefits of the state’s new streamlining laws.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "If used to the fullest extent, Prop 2 could improve California’s budget stability, permitting the state to cover about 50% of funding shortfalls in the next 50 years. Voters should pass Prop 2 and hold lawmakers accountable to their promise to be more responsible stewards of taxpayer money.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "Amid a dystopian federal climate under Trump, California can’t afford to further reduce ongoing funds for schools and healthcare programs. Voters should support Prop 3 to sustain funding levels but also keep pressure on their politicians to work toward a fairer and more sustainable tax system.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
+      "statement": "All available research indicates that the effectiveness of a public campaign finance program depends on how it’s designed. Prop 4 has a fatal flaw that opens the door to limited taxpayer funds being wasted on efforts that don’t meaningfully move the needle — at a time of widespread budget deficits.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "Prop 5 would overhaul California’s process for recalling state-level officials. The process can certainly be improved, but the problem isn’t so dire that voters need to accept Prop 5’s glaring flaw.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "Prop 37 promises to make it easier for middle-class Californians to enter homeownership. Its scope is limited enough that we don’t think it will fundamentally change the state’s housing landscape. But given how dire our housing crisis is, any positive impact is better than none at all.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "Wouldn’t it feel great to vote for something everyone can agree will make a positive difference in the world? Prop 38 positions itself as such a balm. In fact, it’s one of the most noxious deposits on California’s political dung heap in years. It would give billions to an institute co-founded by billionaire Michael Milken, also known as the ‘junk bond king,’ who was pardoned by Trump in 2020.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "California could do more to assuage concerns about election integrity. But even if you think voter fraud is a problem in California, Prop 39 would turn our elections into a never-ending lawsuit.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "Ultimately, neither this editorial board nor anyone else has any idea what the full effect of Prop 40 will be. Even Emmanuel Saez, the French economist and an author of Prop 40, has conceded that his measure is an ‘experiment.’ If it backfires, California will have chased away its cash cows with no backup plan. No one is coming to save us, and it won’t be the wealthy who suffer. California isn’t a lab rat. Voters shouldn’t allow our state to be treated like one.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "Prop 41 would require new special taxes that raise money for specific purposes to adhere to state spending rules, while mandating regular audits of the programs they fund. But really it’s a cheap ruse to nullify Prop 40, the billionaire wealth tax.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "Is California coming for your retirement account? That’s what the backers of this measure would have you believe. In reality, it’s just another poison-pill measure aimed at killing Prop 40, the billionaire wealth tax. You don’t have to support the billionaire wealth tax to realize the potential collateral damage Prop 42 could cause.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Despite commanding far less attention than the billionaire tax, Prop 43 is almost as controversial. At the heart of both measures is a question reverberating throughout the nation: Who should pay for government services, and how should those taxes work? We don’t support Prop 43 because it further cements California’s broken system. But ultimately, we won’t oppose it, either. If the measure passes, perhaps it will finally force California to build the coherent system of taxation we so clearly need.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "On its surface, everything about Prop 44 on California’s November ballot looks appealing. But it creates a complex administrative and legal regime that will drain limited staff time and resources from nonprofit clinics while distracting from patient care.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Lawmakers need to craft more fundamental CEQA reforms, and some of those solutions are contained within Prop 45. But the measure as written would lock California into a regulatory regime that makes it easier to build the same environmentally ruinous projects that gave us CEQA in the first place.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "With Scott Wiener, San Franciscans would send the state’s most relentless and effective legislator to Washington to zero in on universal healthcare, humane immigration policies, protections for the LGBTQ community and preserving democracy from President Donald Trump. Connie Chan, meanwhile, has a policy agenda and legislative track record that’s as spotty as it is sparse.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "Congress in the age of Trump is no place to learn on the job. Wahab is the only candidate prepared for the gravity of the moment.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-charles-a-smiley/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-kathleen-m-banke/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-monique-langhorne-wilson/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-therese-m-stewart/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tara-m-desautels/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-ioana-petrou/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-victor-a-rodriguez/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tracie-l-brown/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-mark-simons/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-danny-y-chou/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-gordon-burns/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Daniel H. Bromberg",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-daniel-h-bromberg/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles E. Wilson II",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-charles-e-wilson-ii/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Charles F. Adams",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-charles-f-adams/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Frederick S. Chung",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-frederick-s-chung/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Sixth District — Retain Justice Allison Marston Danner",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-sixth-district-retain-justice-allison-marston-danner/yes",
+      "statement": "California has a thoughtful and thorough system in place for appointing judges. Every four years, voters are given the important yet perplexing job of deciding whether to retain a slate of judges who already serve. None of the justices up for retention in the November election have been cited for disciplinary matters on the Commission on Judicial Performance’s database, nor have our queries into their backgrounds turned up any red flags. We recommend a ‘yes’ vote on all of them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "The Bay Area does not work without consistent, reliable, well-functioning public transit. Critics of this measure are correct that that a sales tax is regressive and that BART, in particular, needs more accountability — this measure is not a substitute for the fundamental reforms and stable state funding that transit needs over the long term. But it is a necessary investment in keeping the region’s transit system functioning while those larger challenges are addressed.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/stephen-sherrill",
+      "statement": "Sherrill has worked diligently to support the Lurie administration on reforms to the City Charter and on greater accountability and transparency in public spending, from nonprofit contracts to departmental budgets. He has demonstrated a willingness to grapple with difficult questions of accountability and to support a more ambitious vision of San Francisco’s future. There’s no reason for District 2 voters to change course. We endorse him for a full term.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "statement": "The editorial board endorsed Wong in the special election to represent the Outer Sunset and Parkside, neighborhoods mired in political dissension over closing the Great Highway for the past two years. Wong’s opponents in November are two political novices with good intentions but without the government experience needed to effect change.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "statement": "San Francisco needs supervisors who take the city’s problems seriously and work with colleagues that might approach them differently. His X persona notwithstanding, Dorsey has shown he can do both on the board.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "statement": "While we don’t agree with all of McCoy’s policy positions, his years in government and his fluency with housing and behavioral health policy give him the broadest preparation for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "statement": "District 10 needs a supervisor who can press for housing and economic opportunity while looking out for residents who have too often borne the costs of bad city decisions. Ellington’s roots in the district and his experience and ability to work across economic, social and political lines make him the strongest choice.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "The next school board must help finalize and implement this new system, among its myriad other challenges. All eight candidates running are aware of the gravity of the tasks at hand. Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Autumn Brown Garibay",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/autumn-brown-garibay",
+      "statement": "The next school board must help finalize and implement this new system, among its myriad other challenges. All eight candidates running are aware of the gravity of the tasks at hand. Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tim Tung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/tim-tung",
+      "statement": "The next school board must help finalize and implement this new system, among its myriad other challenges. All eight candidates running are aware of the gravity of the tasks at hand. Phil Kim, Autumn Brown Garibay and Tim Tung are best suited for the job.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/monroe-lace",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/erwin-tam",
+      "statement": "San Francisco Community College Board (3 seats): Elijah Ball, Monroe Lace and Erwin Tam",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "statement": "The San Francisco City Charter has become an accumulation of commissions, reporting requirements and procedural rules for a San Francisco that no longer exists. Prop A would clean up San Francisco’s bloated charter to better serve city residents.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/no",
+      "statement": "Prop B would allow for the creation of a Municipal Finance Corp. — the first step toward starting a city-run public bank. The idea of a public bank designed to support social and economic justice is a noble one. But good intentions do not automatically make a good institution — and Prop B is set up to fail.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "Prop C will not solve San Francisco’s housing crisis, but it is part of a concerted and thoughtful city-directed effort to stem the bleeding. And it is the only measure on the November ballot that will provide something the city desperately needs: a predictable source of public investment at a time when the cost of building and preserving housing keeps rising.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/yes",
+      "statement": "Tired of S.F.’s interminably long ballot and the bad policies it produces? Prop D contains many essential fixes that voters will need to ratify one way or another. They should get the job done now with a yes vote.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/yes",
+      "statement": "Political oversight over contracting and procurement has resulted in a system in which the failures are abundantly clear. San Francisco has little to lose and much to gain by professionalizing the way it does business.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/yes",
+      "statement": "A charter is a city’s constitution; it should set broad roles and responsibilities. But San Francisco’s charter has accumulated too much organizational detail. Its inflexibility can blur responsibility and make essential changes needlessly difficult. Prop F gives the mayor tools to manage the executive branch while preserving review by the Board of Supervisors and the public.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
+      "statement": "Sunset Dunes has logged more than 1.7 million visits since opening in April 2025, according to the Recreation and Parks Department, and the park is popular and benefiting nearby businesses. Meanwhile, reopening the Great Highway would come with a cost: $9.8 million in one-time expenditures and up to $1.9 million annually, according to an estimate from the San Francisco Controller’s Office. Proponents of Prop G are billing it as a ‘compromise,’ but reopening the road would force the removal of park amenities. The editorial board endorsed a yes vote on Prop K in 2024, and we still believe that Sunset Dunes offers San Francisco the opportunity to build a transformative public space.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "Faced with a $307 million annual budget shortfall, Muni is considering eliminating 19 bus lines, making steep cuts to street and cable car service and drastically reducing the frequency of busy bus and Metro lines. The City Controller’s Office predicts these cuts would result in a potentially disastrous scenario that could dissuade people from working in the city — adding to staffing crises for both city departments and local businesses — and result in declining property values for homeowners. Proposition H would help stem the bleeding.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/no",
+      "statement": "Everyone wants affordable housing. But Prop I is a cocktail of poison pills that will actually make San Francisco’s housing crisis worse.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "Prop J is an in-the-weeds tax measure intended to close a loophole in San Francisco’s transfer tax policty. The editorial board supports the measure with the expectation that the city treat the revenue stream it will generate as temporary — and pursue more targeted ways to get distressed properties back into productive use.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/yes",
+      "statement": "Many people believe Oakland has a strong mayor system of governance, but it does not.The reforms Measure EE is pursuing are all normal and essential components of a strong mayor system. It’s bizarre that Oakland doesn’t already have them.",
+      "source": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+    }
+  ]
+}

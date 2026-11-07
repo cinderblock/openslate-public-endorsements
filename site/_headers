@@ -1,0 +1,4 @@
+# Any site may fetch the catalog, as from GitHub Pages. Only the Workers copy
+# gets this file: Pages adds the header itself.
+/*
+  Access-Control-Allow-Origin: *

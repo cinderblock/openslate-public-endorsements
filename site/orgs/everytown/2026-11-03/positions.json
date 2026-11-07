@@ -1,0 +1,470 @@
+{
+  "context": {
+    "title": "Everytown for Gun Safety Action Fund — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Everytown for Gun Safety Action Fund",
+      "uri": "https://www.everytown.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-11-01T16:31:52Z",
+    "sources": [
+      "https://www.gunsensevoter.org/candidates/",
+      "https://www.gunsensevoter.org/faq/",
+      "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100",
+      "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100",
+      "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/everytown/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-4/mike-thompson",
+      "statement": "API record: \"candidate name\":\"Mike Thompson\",\"office sought\":\"US House\",\"district_display\":\"4th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "API record: \"candidate name\":\"Aisha Wahab\",\"office sought\":\"US House\",\"district_display\":\"14th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-16/sam-liccardo",
+      "statement": "API record: \"candidate name\":\"Sam Liccardo\",\"office sought\":\"US House\",\"district_display\":\"16th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "API record: \"candidate name\":\"Salud Carbajal\",\"office sought\":\"US House\",\"district_display\":\"24th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-27/george-whitesides",
+      "statement": "API record: \"candidate name\":\"George Whitesides\",\"office sought\":\"US House\",\"district_display\":\"27th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
+      "statement": "API record: \"candidate name\":\"Pete Aguilar\",\"office sought\":\"US House\",\"district_display\":\"33rd\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma J. Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-35/norma-j-torres",
+      "statement": "API record: \"candidate name\":\"Norma J. Torres\",\"office sought\":\"US House\",\"district_display\":\"35th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted W. Lieu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-36/ted-w-lieu",
+      "statement": "API record: \"candidate name\":\"Ted Lieu\",\"office sought\":\"US House\",\"district_display\":\"36th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
+      "statement": "API record: \"candidate name\":\"Mike Levin\",\"office sought\":\"US House\",\"district_display\":\"49th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=federal&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Attorney General",
+          "vote_for": 1
+        }
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "API record: \"candidate name\":\"Rob Bonta\",\"office sought\":\"Attorney General\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Goldsmith",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/brian-goldsmith",
+      "statement": "API record: \"candidate name\":\"Brian Goldsmith\",\"office sought\":\"State Senate\",\"district_display\":\"24th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/mara-elliott",
+      "statement": "API record: \"candidate name\":\"Mara Elliott\",\"office sought\":\"State Senate\",\"district_display\":\"40th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-16/rebecca-bauer-kahan",
+      "statement": "API record: \"candidate name\":\"Rebecca Bauer-Kahan\",\"office sought\":\"State Assembly\",\"district_display\":\"16th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-19/catherine-stefani",
+      "statement": "API record: \"candidate name\":\"Catherine Stefani\",\"office sought\":\"State Assembly\",\"district_display\":\"19th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-28/gail-pellerin",
+      "statement": "API record: \"candidate name\":\"Gail Pellerin\",\"office sought\":\"State Assembly\",\"district_display\":\"28th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "API record: \"candidate name\":\"Pilar Schiavo\",\"office sought\":\"State Assembly\",\"district_display\":\"40th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-76/darshana-patel",
+      "statement": "API record: \"candidate name\":\"Darshana Patel\",\"office sought\":\"State Assembly\",\"district_display\":\"76th\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=state&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Priya Bhat-Patel",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-council-district-3/priya-bhat-patel",
+      "statement": "API record: \"candidate name\":\"Priya Bhat-Patel\",\"office sought\":\"Carlsbad City Council - District 3\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeannine Wisnosky Stehlin",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/jeannine-wisnosky-stehlin",
+      "statement": "API record: \"candidate name\":\"Jeannine Wisnosky Stehlin\",\"office sought\":\"Culver City Council\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Encinitas City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/encinitas",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Arielle Golden",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/encinitas-city-council-district-3/arielle-golden",
+      "statement": "API record: \"candidate name\":\"Arielle Golden\",\"office sought\":\"Encinitas City Council - District 3\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Foster City City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/foster-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phoebe Shin Venkat",
+      "choice_id": "san-mateo-county-elections:2026-11-03/foster-city-city-council-district-1/phoebe-shin-venkat",
+      "statement": "API record: \"candidate name\":\"Phoebe Shin Venkat\",\"office sought\":\"Foster City Council\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Reyes-Martín",
+      "statement": "API record: \"candidate name\":\"Luz Reyes-Martin\",\"office sought\":\"Goleta City Council - District 1\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Kyriaco",
+      "statement": "API record: \"candidate name\":\"James Kyriaco\",\"office sought\":\"Goleta City Council - District 2\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Huntington Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erin Spivey",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/huntington-beach-city-council/erin-spivey",
+      "statement": "API record: \"candidate name\":\"Erin Spivey\",\"office sought\":\"Huntington Beach City Council\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Joyce",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-1/eric-joyce",
+      "statement": "API record: \"candidate name\":\"Eric Joyce\",\"office sought\":\"Oceanside City Council - District 1\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Orange County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Katrina Foley",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/orange-county-board-of-supervisors-district-5/katrina-foley",
+      "statement": "API record: \"candidate name\":\"Katrina Foley\",\"office sought\":\"Orange County Board of Supervisors - District 5\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Poway Unified School District Board, Trustee Area C",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Plotzke",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-unified-school-district-board-trustee-area-c/heather-plotzke",
+      "statement": "API record: \"candidate name\":\"Heather Plotzke\",\"office sought\":\"Poway Unified School Board - Area C\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Melillo",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-4/michael-melillo",
+      "statement": "API record: \"candidate name\":\"Michael Melillo\",\"office sought\":\"San Jose Unified School Board - Area 4\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "San Ramon City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-ramon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marisol Rubio",
+      "statement": "API record: \"candidate name\":\"Marisol Rubio\",\"office sought\":\"San Ramon City Council - District 4\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Sonoma County Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sonoma-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joanna Paun",
+      "statement": "API record: \"candidate name\":\"Joanna Paun\",\"office sought\":\"Sonoma County Board of Supervisors - District 2\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Stockton Unified School District Board, Trustee Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sofia Colón",
+      "statement": "API record: \"candidate name\":\"Sofia Colón\",\"office sought\":\"Stockton Unified School Board - Area 6\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Walnut Creek City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/walnut-creek",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cherise Marie Khaund",
+      "statement": "API record: \"candidate name\":\"Cherise Marie Khaund\",\"office sought\":\"Walnut Creek City Council\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "Westside Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Curiel",
+      "choice_id": "la-county-registrar:2026-11-03/westside-union-school-district-board-of-trustees/john-curiel",
+      "statement": "API record: \"candidate name\":\"John Curiel\",\"office sought\":\"Westside Union School Board\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stacy Fortner",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
+      "statement": "API record: \"candidate name\":\"Stacy Fortner\",\"office sought\":\"William S. Hart Union High School Board - Area 5\",\"everytown_endorsement__c\":\"1\" (shown on gunsensevoter.org with the \"Everytown Endorsed\" badge).",
+      "source": "https://gunsensevoter.org/wp-json/heliotrope/v1/candidates/search?state=CA&year=2026&office_level=local&offset=0&limit=100"
+    }
+  ]
+}

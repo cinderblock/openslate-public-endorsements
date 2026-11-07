@@ -1,0 +1,17 @@
+{
+  // The catalog at https://catalog.openslate.us: the signed site in ./site served
+  // as Cloudflare Workers static assets, with no Worker script. This file is
+  // copied from master's catalog-site/ folder onto the `catalog-site` branch by
+  // .github/workflows/publish.yml, and Workers Builds deploys that branch. The
+  // worker and its custom domain belong to github.com/cinderblock/ops
+  // (cloudflare/config/projects/openslate.yaml); the name must match.
+  "name": "openslate-catalog",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./site",
+    "not_found_handling": "none"
+  },
+  // Answers only at catalog.openslate.us, not at a workers.dev duplicate.
+  "workers_dev": false,
+  "preview_urls": false
+}

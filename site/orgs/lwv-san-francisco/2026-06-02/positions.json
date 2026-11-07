@@ -1,0 +1,30 @@
+{
+  "context": {
+    "title": "League of Women Voters of San Francisco — June 2, 2026 ballot recommendations",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-06-02"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters of San Francisco",
+      "uri": "https://lwvsf.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-06-01T00:00:00Z",
+    "sources": [
+      "https://lwvsf.org/ballot-recommendations"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/lwv-san-francisco/2026-06-02.json"
+    }
+  },
+  "positions": [
+    { "subject": { "title": "San Francisco — Proposition A (Earthquake Safety and Emergency Response Bond)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "'Responsible, necessary' infrastructure investment with public oversight.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition B (Lifetime Term Limits for Mayor and Board of Supervisors)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "Opposes restricting voter choice; argues term limits reduce accountability.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition C (Decreases in Business Taxes)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "No", "statement": "Opposes given city's budget deficit and need for revenue to protect services.", "source": "https://lwvsf.org/ballot-recommendations" },
+    { "subject": { "title": "San Francisco — Proposition D (Increases to Business Tax Based on Executive Pay Comparison)", "kind": "measure", "jurisdiction": "us/ca/sf", "election": "2026-06-02" }, "stance": "endorse", "choice": "Yes", "statement": "Restores a 2020 voter-approved measure, expected to raise $250M-$350M annually.", "source": "https://lwvsf.org/ballot-recommendations" }
+  ]
+}

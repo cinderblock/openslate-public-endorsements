@@ -1,0 +1,47 @@
+{
+  "context": {
+    "title": "Local News Matters (Bay City News) — articles on the November 3, 2026 Bay Area ballot",
+    "jurisdiction": "us/ca/bay-area",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Local News Matters (Bay City News)",
+      "uri": "https://localnewsmatters.org/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-27T01:14:02Z",
+    "sources": [
+      "https://localnewsmatters.org/2026/10/22/regional-transit-measure-bay-area/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/local-news-matters/2026-11-03.json"
+    }
+  },
+  "positions": [],
+  "articles": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "uri": "https://localnewsmatters.org/2026/10/22/regional-transit-measure-bay-area/",
+      "title": "Fate of Bay Area public transit hinges on Regional Transit Measure",
+      "publisher": "Local News Matters (Bay City News)",
+      "published_at": "2026-10-22T14:00:00+00:00",
+      "kind": "news"
+    }
+  ]
+}

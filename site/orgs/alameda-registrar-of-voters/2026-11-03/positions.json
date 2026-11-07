@@ -1,0 +1,5494 @@
+{
+  "context": {
+    "title": "Alameda County Registrar of Voters — 2026-11-03 ballot: local candidates and measures",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Alameda County Registrar of Voters",
+      "uri": "https://acvote.alamedacountyca.gov/",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-23T17:30:40Z",
+    "sources": [
+      "https://alamedacountyca.gov/rov_app/candidatelist/",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/alameda-registrar-of-voters/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Ohlone Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-430/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Ohlone Community College District Trustee, Area 6",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Suzanne \"Sue\" Lee Chan",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ohlone-community-college-district-board-area-6/suzanne-sue-lee-chan",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Ohlone Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-430/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Ohlone Community College District Trustee, Area 6",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sonia Salwan",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ohlone-community-college-district-board-area-6/sonia-salwan",
+      "ballot": {
+        "designation": "Veterinarian/Nonprofit Founder"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Linda Granger",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-2/linda-granger",
+      "ballot": {
+        "designation": "Education Administrator",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Cindy Rocha",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-2/cindy-rocha",
+      "ballot": {
+        "designation": "San Leandro Unified School District Board Trustee Area 3"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mark Fay",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/mark-fay",
+      "ballot": {
+        "designation": "Airworthiness Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Wendy Huang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/wendy-huang",
+      "ballot": {
+        "designation": "Real Estate Investor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Harris Mojadedi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/harris-mojadedi",
+      "ballot": {
+        "designation": "Chabot-Las Positas Governing Board Member",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 6",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Hal G. Gin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-6/hal-g-gin",
+      "ballot": {
+        "designation": "Chabot-Las Positas College Trustee",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-480/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Chabot - Las Positas Community College District Trustee, Area 6",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joe Orlando Ramos",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-6/joe-orlando-ramos",
+      "ballot": {
+        "designation": "Author/Adult Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Peralta Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-340/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Peralta Community College District Trustee, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Cindi Reiss",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/peralta-community-college-district-board-area-5/cindi-reiss",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Peralta Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-340/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Peralta Community College District Trustee, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sandra Weese",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/peralta-community-college-district-board-area-5/sandra-weese",
+      "ballot": {
+        "designation": "Retired Labor Organizer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1770",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda Unified School District Governing Board Member, Full Term",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joyce Boyd",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/joyce-boyd",
+      "ballot": {
+        "designation": "Certified Public Accountant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1770",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda Unified School District Governing Board Member, Full Term",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Carrie Hahnel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/carrie-hahnel",
+      "ballot": {
+        "designation": "Appointed AUSD Board Member"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1770",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda Unified School District Governing Board Member, Full Term",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Gary Lym",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/gary-lym",
+      "ballot": {
+        "designation": "Alameda Unified School District Governing Board Member",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1770",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda Unified School District Governing Board Member, Full Term",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mike McMahon",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/mike-mcmahon",
+      "ballot": {
+        "designation": "Independent Contractor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1770",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda Unified School District Governing Board Member, Full Term",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sarah Putnam",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-unified-school-district-board/sarah-putnam",
+      "ballot": {
+        "designation": "Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 2, Short Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jesus Jacobo",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-2-short-term/jesus-jacobo",
+      "ballot": {
+        "designation": "Autopilot Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 2, Short Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Myla Long",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-2-short-term/myla-long",
+      "ballot": {
+        "designation": "Planning Manager/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 2, Short Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Frederick Regala",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-2-short-term/frederick-regala",
+      "ballot": {
+        "designation": "Construction Technology Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Dan Jacowitz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-3/dan-jacowitz",
+      "ballot": {
+        "designation": "Peace Officer/Father"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Eryka N Mathews-Cain",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-3/eryka-n-mathews-cain",
+      "ballot": {
+        "designation": "Financial Manager/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Glenn A. Miller",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-3/glenn-a-miller",
+      "ballot": {
+        "designation": "Certified Public Accountant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kara Wong",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-3/kara-wong",
+      "ballot": {
+        "designation": "Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Faith Carroll",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-4/faith-carroll",
+      "ballot": {
+        "designation": "Classified Substitute/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brian A. Foster",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-4/brian-a-foster",
+      "ballot": {
+        "designation": "Retired Teacher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-7800/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-unified-school-district-board-area-4/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District Board, Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Dublin Unified School District Governing Board Members, Area 3, Short Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Shalini Bhandari",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-board-area-3-short-term/shalini-bhandari",
+      "ballot": {
+        "designation": "Energy Sustainability Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District Board, Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Dublin Unified School District Governing Board Members, Area 3, Short Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tanner Frye",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-board-area-3-short-term/tanner-frye",
+      "ballot": {
+        "designation": "Energy Compliance Inspector"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Dublin Unified School District Governing Board Members, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Seema Badar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-board-area-5/seema-badar",
+      "ballot": {
+        "designation": "Community Volunteer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Dublin Unified School District Governing Board Members, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Dan Cherrier",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-board-area-5/dan-cherrier",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emery Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-12630",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Emery Unified School District Governing Board Members",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Christopher Keith Allen",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emery-unified-school-district-board/christopher-keith-allen",
+      "ballot": {
+        "designation": "Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emery Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-12630",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Emery Unified School District Governing Board Members",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Regina Chagolla",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emery-unified-school-district-board/regina-chagolla",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emery Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-12630",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Emery Unified School District Governing Board Members",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brian Donahue",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emery-unified-school-district-board/brian-donahue",
+      "ballot": {
+        "designation": "Businessman/Journalist/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emery Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-12630",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Emery Unified School District Governing Board Members",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "David Ridlehuber",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emery-unified-school-district-board/david-ridlehuber",
+      "ballot": {
+        "designation": "Parent/Contractor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emery Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-12630",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Emery Unified School District Governing Board Members",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kimberly Solis",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emery-unified-school-district-board/kimberly-solis",
+      "ballot": {
+        "designation": "Student"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-16740/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Unified School District Governing Board Member, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joann Guzman",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-unified-school-district-board-area-2/joann-guzman",
+      "ballot": {
+        "designation": "Community Volunteer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-16740/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Unified School District Governing Board Member, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joe Orlando Ramos",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-unified-school-district-board-area-2/joe-orlando-ramos",
+      "ballot": {
+        "designation": "Author/Adult Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-16740/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michelle Fernelius",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-unified-school-district-board-area-4/michelle-fernelius",
+      "ballot": {
+        "designation": "Parent/Research Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-16740/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Maria Araceli Orozco",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-unified-school-district-board-area-4/maria-araceli-orozco",
+      "ballot": {
+        "designation": "Parent/Caregiver/Student"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tara Boyce",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-2/tara-boyce",
+      "ballot": {
+        "designation": "Parent/Finance Consultant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Stephen R Orgain",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-2/stephen-r-orgain",
+      "ballot": {
+        "designation": "Regional Sales Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Angela M. Brady",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-3/angela-m-brady",
+      "ballot": {
+        "designation": "Parent/Data Analyst"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Deborah Gibson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-3/deborah-gibson",
+      "ballot": {
+        "designation": "Retired Teacher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Deena Kaplanis",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-5/deena-kaplanis",
+      "ballot": {
+        "designation": "Livermore Valley Joint Unified School District Board Member"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sam Phelps",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-5/sam-phelps",
+      "ballot": {
+        "designation": "Father"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Valley Joint Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-22110/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Valley Joint Unified School District Governing Board Member, Area #5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Christiaan VandenHeuvel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-valley-joint-unified-school-district-board-area-5/christiaan-vandenheuvel",
+      "ballot": {
+        "designation": "Member, Board of Education, Livermore Valley Joint Unified School District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "New Haven Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-26910/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "New Haven Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Shruti Kumar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/new-haven-unified-school-district-board-area-4/shruti-kumar",
+      "ballot": {
+        "designation": "Professor/School Trustee",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "New Haven Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-26910/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "New Haven Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Charandeep Singh Tatlah",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/new-haven-unified-school-district-board-area-4/charandeep-singh-tatlah",
+      "ballot": {
+        "designation": "Entrepreneur/IT Professional"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "New Haven Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-26910/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "New Haven Unified School District Governing Board Member, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kashif Wasim",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/new-haven-unified-school-district-board-area-4/kashif-wasim",
+      "ballot": {
+        "designation": "Software Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "New Haven Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-26910/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "New Haven Unified School District Governing Board Member, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Deepti Garg",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/new-haven-unified-school-district-board-area-5/deepti-garg",
+      "ballot": {
+        "designation": "Mother/Program Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "New Haven Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-26910/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "New Haven Unified School District Governing Board Member, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Francis Rojas",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/new-haven-unified-school-district-board-area-5/francis-rojas",
+      "ballot": {
+        "designation": "Educational Consultant/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-20/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Pleasanton Unified School District Governing Board Member, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Thomas Choi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-unified-school-district-board-area-5/thomas-choi",
+      "ballot": {
+        "designation": "Attorney/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-20/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Pleasanton Unified School District Governing Board Member, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Karen Fletcher",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-unified-school-district-board-area-5/karen-fletcher",
+      "ballot": {
+        "designation": "Teacher/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-20/ta-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Pleasanton Unified School District Governing Board Member, Area 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brett Gerald Martinez",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-unified-school-district-board-area-5/brett-gerald-martinez",
+      "ballot": {
+        "designation": "Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Sunol Glen Unified School District Governing Board Member",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Gagan Bassi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-board/gagan-bassi",
+      "ballot": {
+        "designation": "Parent/Cybersecurity Professional"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Sunol Glen Unified School District Governing Board Member",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Kavouniaris",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-board/jennifer-kavouniaris",
+      "ballot": {
+        "designation": "Businesswoman/Grandmother"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Sunol Glen Unified School District Governing Board Member",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Karen Ruth Newcomb",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-board/karen-ruth-newcomb",
+      "ballot": {
+        "designation": "Retired Investment Strategist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Sunol Glen Unified School District Governing Board Member",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "René Turnbull",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-board/rene-turnbull",
+      "ballot": {
+        "designation": "Retired College Dean"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Alameda",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tony Daysog",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-mayor/tony-daysog",
+      "ballot": {
+        "designation": "Councilmember/Urban Planner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Alameda",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tracy Jensen",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-mayor/tracy-jensen",
+      "ballot": {
+        "designation": "Councilmember/Nonprofit Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Alameda",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Malia Vella",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-mayor/malia-vella",
+      "ballot": {
+        "designation": "Businesswoman/Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Thushan Amarasiriwardena",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/thushan-amarasiriwardena",
+      "ballot": {
+        "designation": "Software Product Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Maria L. Bondonno",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/maria-l-bondonno",
+      "ballot": {
+        "designation": "Public Service Attorney"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Marcie Johnson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/marcie-johnson",
+      "ballot": {
+        "designation": "Social Worker"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tyler Savage",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/tyler-savage",
+      "ballot": {
+        "designation": "Technology Partner Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Steve Slauson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/steve-slauson",
+      "ballot": {
+        "designation": "Small Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Alameda",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Amos White",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-city-council/amos-white",
+      "ballot": {
+        "designation": "Environmental Nonprofit Executive"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Avery Arbaugh",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/avery-arbaugh",
+      "ballot": {
+        "designation": "Tenant Union Organizer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Carole Marasovic",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/carole-marasovic",
+      "ballot": {
+        "designation": "Attorney/City Commissioner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ida Martinac",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/ida-martinac",
+      "ballot": {
+        "designation": "Rent Stabilization Board Commissioner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Nathan Mizell",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/nathan-mizell",
+      "ballot": {
+        "designation": "Rent Stabilization Board Commissioner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Vylma Ortiz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/vylma-ortiz",
+      "ballot": {
+        "designation": "Attorney/Meditation Teacher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Rent Stabilization Board Commissioners, Berkeley",
+          "vote_for": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Derek Rodriguez",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/derek-rodriguez",
+      "ballot": {
+        "designation": "Student/National Guardsman"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Directors, Berkeley",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ka'Dijah A. Brown",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/kadijah-a-brown",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Directors, Berkeley",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Reichi Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/reichi-lee",
+      "ballot": {
+        "designation": "Write-in Candidate"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Directors, Berkeley",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sandy Park",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/sandy-park",
+      "ballot": {
+        "designation": "Education Consultant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Directors, Berkeley",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Shanoski",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/jennifer-shanoski",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sherry Hu",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-mayor/sherry-hu",
+      "ballot": {
+        "designation": "Mayor/Entrepreneur/Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael McCorriston",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-mayor/michael-mccorriston",
+      "ballot": {
+        "designation": "Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kiran Mohammad",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-mayor/kiran-mohammad",
+      "ballot": {
+        "designation": "Author"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #2, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Daniel Hor",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-2/daniel-hor",
+      "ballot": {
+        "designation": "Researcher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #2, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Steve Lorey",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-2/steve-lorey",
+      "ballot": {
+        "designation": "Intelligence Analyst"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #2, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tejpreet Singh",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-2/tejpreet-singh",
+      "ballot": {
+        "designation": "Investor/Father"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #2, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Richard Thornbury",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-2/richard-thornbury",
+      "ballot": {
+        "designation": "Principal Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #4, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kashef Qaadri",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-4/kashef-qaadri",
+      "ballot": {
+        "designation": "City Councilmember/Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Dublin City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/dublin",
+        "district": "us/ca/dublin/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #4, Dublin",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Shivraj Singh",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-city-council-district-4/shivraj-singh",
+      "ballot": {
+        "designation": "Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Emeryville",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Corry Frydlewicz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/corry-frydlewicz",
+      "ballot": {
+        "designation": "Web Developer/Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Emeryville",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "David Mourra",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/david-mourra",
+      "ballot": {
+        "designation": "Emeryville City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Emeryville",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kalimah Atreyu Priforce",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/kalimah-atreyu-priforce",
+      "ballot": {
+        "designation": "City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Emeryville City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Emeryville",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brandon Soublet",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-city-council/brandon-soublet",
+      "ballot": {
+        "designation": "No Ballot Designation"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Desrie Campbell",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-2/desrie-campbell",
+      "ballot": {
+        "designation": "Councilmember/Healthcare Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Keith Parker",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-2/keith-parker",
+      "ballot": {
+        "designation": "Marketing Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kathy Kimberlin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-3/kathy-kimberlin",
+      "ballot": {
+        "designation": "County Field Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Vipin Sharma",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-3/vipin-sharma",
+      "ballot": {
+        "designation": "Senior Engineering Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Aziz Akbari",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-4/aziz-akbari",
+      "ballot": {
+        "designation": "Director, Alameda County Water District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ying Min Li",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-4/ying-min-li",
+      "ballot": {
+        "designation": "Small Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Anurag Mishra",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-4/anurag-mishra",
+      "ballot": {
+        "designation": "Technical Leader"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/fremont",
+        "district": "us/ca/fremont/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Fremont",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Manisha Pathak",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fremont-city-council-district-4/manisha-pathak",
+      "ballot": {
+        "designation": "Educator/Nonprofit Executive"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Hayward",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mark Salinas",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-mayor/mark-salinas",
+      "ballot": {
+        "designation": "Mayor/College Instructor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Hayward",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tom Wong",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-mayor/tom-wong",
+      "ballot": {
+        "designation": "Businessman"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "district": "us/ca/hayward/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council District #1, Hayward",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brian M. Schott",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-city-council-district-1/brian-m-schott",
+      "ballot": {
+        "designation": "Small Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "district": "us/ca/hayward/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council District #1, Hayward",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "George Syrop",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-city-council-district-1/george-syrop",
+      "ballot": {
+        "designation": "Council Member"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/hayward",
+        "district": "us/ca/hayward/council-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council District #6, Hayward",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Julie Roche",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-city-council-district-6/julie-roche",
+      "ballot": {
+        "designation": "Hayward City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/livermore",
+        "district": "us/ca/livermore/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Livermore",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ben Barrientos",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-city-council-district-2/ben-barrientos",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/livermore",
+        "district": "us/ca/livermore/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Livermore",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Narayan Tadimeti",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-city-council-district-2/narayan-tadimeti",
+      "ballot": {
+        "designation": "Physician"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Newark Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Newark",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael K. Hannon",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-mayor/michael-k-hannon",
+      "ballot": {
+        "designation": "Mayor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Newark City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Newark",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tonya Connolly",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-city-council/tonya-connolly",
+      "ballot": {
+        "designation": "Retired Maintenance Superintendent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Newark City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Newark",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Noah Patrick Grushkin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-city-council/noah-patrick-grushkin",
+      "ballot": {
+        "designation": "No Ballot Designation"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Newark City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Newark",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Matthew Jorgens",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-city-council/matthew-jorgens",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Newark City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Newark",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Eve Marie Little",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-city-council/eve-marie-little",
+      "ballot": {
+        "designation": "Councilmember/College Professor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Piedmont City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Piedmont",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Nancy Beninati",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-city-council/nancy-beninati",
+      "ballot": {
+        "designation": "Supervising Deputy Attorney-General"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Piedmont City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Piedmont",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sunny Bostrom-Fleming",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-city-council/sunny-bostrom-fleming",
+      "ballot": {
+        "designation": "No Ballot Designation"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Piedmont City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Piedmont",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Adam Hundt",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-city-council/adam-hundt",
+      "ballot": {
+        "designation": "Businessman"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Piedmont City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Piedmont",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tom Ramsey",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-city-council/tom-ramsey",
+      "ballot": {
+        "designation": "Architect/City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Piedmont City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members of City Council, Piedmont",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Bill Reichle",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-city-council/bill-reichle",
+      "ballot": {
+        "designation": "Retired University Administrator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jack Balch",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-mayor/jack-balch",
+      "ballot": {
+        "designation": "Mayor/CPA"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Julie Testa",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-mayor/julie-testa",
+      "ballot": {
+        "designation": "Councilmember, City of Pleasanton"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "district": "us/ca/pleasanton/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #1, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Vin Kruttiventi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-city-council-district-1/vin-kruttiventi",
+      "ballot": {
+        "designation": "Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "district": "us/ca/pleasanton/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #1, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kathy Narum",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-city-council-district-1/kathy-narum",
+      "ballot": {
+        "designation": "Businesswoman"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "district": "us/ca/pleasanton/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #3, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Reena Gupta",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-city-council-district-3/reena-gupta",
+      "ballot": {
+        "designation": "Local Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/pleasanton",
+        "district": "us/ca/pleasanton/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council #3, Pleasanton",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jamie Yee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-city-council-district-3/jamie-yee",
+      "ballot": {
+        "designation": "Communications Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Juan González III",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-mayor/juan-gonzalez-iii",
+      "ballot": {
+        "designation": "Mayor, City of San Leandro"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "James Maes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-mayor/james-maes",
+      "ballot": {
+        "designation": "Business Operations Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "district": "us/ca/san-leandro/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #1, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sbeydeh Viveros-Walton",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-1/sbeydeh-viveros-walton",
+      "ballot": {
+        "designation": "San Leandro Councilwoman"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "district": "us/ca/san-leandro/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, San Leandro - Short Term",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "James Aguilar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-2-short-term/james-aguilar",
+      "ballot": {
+        "designation": "Appointed City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "district": "us/ca/san-leandro/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Lee Thomas",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-3/lee-thomas",
+      "ballot": {
+        "designation": "Nonprofit Executive Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "district": "us/ca/san-leandro/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Trujillo",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-3/joseph-trujillo",
+      "ballot": {
+        "designation": "Chief Plant Operator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "district": "us/ca/san-leandro/council-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #5, San Leandro",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Xouhoa Bowen",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-5/xouhoa-bowen",
+      "ballot": {
+        "designation": "San Leandro Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Victor Lopez Pulido",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-2/victor-lopez-pulido",
+      "ballot": {
+        "designation": "Legal Advocate/Translator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #2, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jaime Patino",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-2/jaime-patino",
+      "ballot": {
+        "designation": "Councilmember/Finance Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Cheris Crocker-Root",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-3/cheris-crocker-root",
+      "ballot": {
+        "designation": "Financial Asset Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #3, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jeff Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-3/jeff-wang",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Vipan S. Bajwa",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-4/vipan-s-bajwa",
+      "ballot": {
+        "designation": "City Commissioner/Accountant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sarabjit Kaur Cheema",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-4/sarabjit-kaur-cheema",
+      "ballot": {
+        "designation": "High School Teacher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Qasim Lodhi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-4/qasim-lodhi",
+      "ballot": {
+        "designation": "Software Engineer/Father"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "district": "us/ca/union-city/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council #4, Union City",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ann Yap-Jequinto",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-4/ann-yap-jequinto",
+      "ballot": {
+        "designation": "Planning Commissioner/Caregiver"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Adriana Valencia",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/adriana-valencia",
+      "ballot": {
+        "designation": "Product Manager/Mother"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joel B. Young",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/joel-b-young",
+      "ballot": {
+        "designation": "AC Transit District Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Gabriel Morales",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-4/gabriel-morales",
+      "ballot": {
+        "designation": "Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sarah Syed",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-4/sarah-syed",
+      "ballot": {
+        "designation": "AC Transit Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-5/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Murphy McCalley",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-5/murphy-mccalley",
+      "ballot": {
+        "designation": "AC Transit District Board Member"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "AC Transit District Director, Ward 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Luis Reynoso",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-5/luis-reynoso",
+      "ballot": {
+        "designation": "University Business Professor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda County Water District Board, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/alameda-county-water-district/ward-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda County Water District Director, Ward 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Judy C. Huang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-county-water-district-board-ward-2/judy-c-huang",
+      "ballot": {
+        "designation": "Director, Alameda County Water District, Ward 2",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda County Water District Board, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/alameda-county-water-district/ward-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda County Water District Director, Ward 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jason Miguel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-county-water-district-board-ward-2/jason-miguel",
+      "ballot": {
+        "designation": "Water District Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda County Water District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/alameda-county-water-district/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda County Water District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Paul Sethy",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-county-water-district-board-ward-3/paul-sethy",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Alameda County Water District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/alameda-county-water-district/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Alameda County Water District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yang Shao",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-county-water-district-board-ward-3/yang-shao",
+      "ballot": {
+        "designation": "Councilmember, City of Fremont"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "BART Director, District 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Robert Raburn",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bart-board-of-directors-district-4/robert-raburn",
+      "ballot": {
+        "designation": "BART Director",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "BART Director, District 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Luis Reynoso",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bart-board-of-directors-district-4/luis-reynoso",
+      "ballot": {
+        "designation": "University Business Professor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/castro-valley-sanitary-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Sanitary District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kristy (Dooman) Woerz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-sanitary-district-board/kristy-dooman-woerz",
+      "ballot": {
+        "designation": "Castro Valley Sanitary District Director",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/castro-valley-sanitary-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Sanitary District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-sanitary-district-board/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/castro-valley-sanitary-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Sanitary District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ralph Johnson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-sanitary-district-board/ralph-johnson",
+      "ballot": {
+        "designation": "Board Member Castro Valley Sanitary District",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/castro-valley-sanitary-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Sanitary District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ken Owen",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-sanitary-district-board/ken-owen",
+      "ballot": {
+        "designation": "Sewer Contractor/Attorney"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Castro Valley Sanitary District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/castro-valley-sanitary-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Castro Valley Sanitary District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Darshan Saini",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/castro-valley-sanitary-district-board/darshan-saini",
+      "ballot": {
+        "designation": "Organization Change Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Don Gray",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-3/don-gray",
+      "ballot": {
+        "designation": "Retired Wastewater Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Marguerite Young",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-3/marguerite-young",
+      "ballot": {
+        "designation": "EBMUD Director Ward 3",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 7",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "April Chan",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-7/april-chan",
+      "ballot": {
+        "designation": "Director, East Bay Municipal Utility District, Ward 7",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 7",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-7/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 7",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Luis Reynoso",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-7/luis-reynoso",
+      "ballot": {
+        "designation": "University Business Professor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "EBMUD Director, Ward 7",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Gary Wolff",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-7/gary-wolff",
+      "ballot": {
+        "designation": "Licensed Civil Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/east-bay-regional-park-district/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "East Bay Regional Park District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/east-bay-regional-park-district-board-ward-3/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/east-bay-regional-park-district/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "East Bay Regional Park District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Rebecca Lewington",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/east-bay-regional-park-district-board-ward-3/rebecca-lewington",
+      "ballot": {
+        "designation": "Retired Brand Strategist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/east-bay-regional-park-district/ward-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "East Bay Regional Park District Director, Ward 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "William Yragui",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/east-bay-regional-park-district-board-ward-3/william-yragui",
+      "ballot": {
+        "designation": "Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/east-bay-regional-park-district/ward-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "East Bay Regional Park District Director, Ward 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Bruce Henry",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/east-bay-regional-park-district-board-ward-5/bruce-henry",
+      "ballot": {
+        "designation": "Retired Sales Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "East Bay Regional Park District Board, Ward 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/east-bay-regional-park-district/ward-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "East Bay Regional Park District Director, Ward 5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Olivia Sanwong",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/east-bay-regional-park-district-board-ward-5/olivia-sanwong",
+      "ballot": {
+        "designation": "Director, East Bay Regional Park District Ward 5",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Eden Township Healthcare District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/eden-township-healthcare-district/area-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Eden Township Healthcare District Director, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Narges Dillon",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/eden-township-healthcare-district-board-area-3/narges-dillon",
+      "ballot": {
+        "designation": "Nonprofit Director/Therapist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Eden Township Healthcare District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/eden-township-healthcare-district/area-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Eden Township Healthcare District Director, Area 3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph Grcar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/eden-township-healthcare-district-board-area-3/joseph-grcar",
+      "ballot": {
+        "designation": "Retired Laboratory Scientist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fairview Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/fairview-fire-protection-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Fairview Fire Protection District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michelle Biche",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fairview-fire-protection-district-board/michelle-biche",
+      "ballot": {
+        "designation": "Paralegal/Goat Farmer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fairview Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/fairview-fire-protection-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Fairview Fire Protection District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Vandana Singh Gautam",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fairview-fire-protection-district-board/vandana-singh-gautam",
+      "ballot": {
+        "designation": "Nonprofit Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Fairview Fire Protection District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/fairview-fire-protection-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Fairview Fire Protection District Directors",
+          "vote_for": 2
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael D. Justice",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/fairview-fire-protection-district-board/michael-d-justice",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Area Recreation & Park District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/hayward-area-recreation-and-park-district/area-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Area Recreation & Park District Director, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Amanda Alysia Daniels",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-area-recreation-park-district-board-area-2/amanda-alysia-daniels",
+      "ballot": {
+        "designation": "Law Student/Analyst"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Area Recreation & Park District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/hayward-area-recreation-and-park-district/area-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Area Recreation & Park District Director, Area 2",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sara Lamnin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-area-recreation-park-district-board-area-2/sara-lamnin",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Area Recreation & Park District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/hayward-area-recreation-and-park-district/area-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Area Recreation & Park District Director, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joseph \"Joe\" Giltner",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-area-recreation-park-district-board-area-4/joseph-joe-giltner",
+      "ballot": {
+        "designation": "Community Advocate"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Hayward Area Recreation & Park District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/hayward-area-recreation-and-park-district/area-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Hayward Area Recreation & Park District Director, Area 4",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Paul W. Hodges, Jr.",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-area-recreation-park-district-board-area-4/paul-w-hodges-jr",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Timothy Barry",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/timothy-barry",
+      "ballot": {
+        "designation": "Retired General Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Larry Bird",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/larry-bird",
+      "ballot": {
+        "designation": "Retired Police Sergeant"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Matt Bogdanowicz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/matt-bogdanowicz",
+      "ballot": {
+        "designation": "Recreation Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Maryalice Summers Faltings",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/maryalice-summers-faltings",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Philip Pierpont",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/philip-pierpont",
+      "ballot": {
+        "designation": "Incumbent",
+        "incumbent": true
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mike Ralph",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/mike-ralph",
+      "ballot": {
+        "designation": "Bike Shop Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Livermore Area Recreation & Park District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/livermore-area-recreation-and-park-district",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Livermore Area Recreation & Park District Directors",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Laureen Turner",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/livermore-area-recreation-park-district-board/laureen-turner",
+      "ballot": {
+        "designation": "Nursing Professor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #1",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tiare Peña",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-1/tiare-pena",
+      "ballot": {
+        "designation": "Land Use Planner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #1",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Shelia Young",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-1/shelia-young",
+      "ballot": {
+        "designation": "Director, Oro Loma Sanitary District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Benny Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-3/benny-lee",
+      "ballot": {
+        "designation": "Director, Oro Loma Sanitary District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-3",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #3",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Fred Simon",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-3/fred-simon",
+      "ballot": {
+        "designation": "Director, Oro Loma Sanitary District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Rita Duncan",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-5/rita-duncan",
+      "ballot": {
+        "designation": "Board Director Oro Loma Sanitary District"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oro Loma Sanitary District Board of Directors, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/oro-loma-sanitary-district/area-5",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Member, Board Of Director, Oro Loma Sanitary Dist #5",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Koroush \"Cyrus\" Farsaei",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oro-loma-sanitary-district-board-of-directors-area-5/koroush-cyrus-farsaei",
+      "ballot": {
+        "designation": "Plant Operator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jon Destin",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/jon-destin",
+      "ballot": {
+        "designation": "Albany Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Katherine Enos",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/katherine-enos",
+      "ballot": {
+        "designation": "Small Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Robin D. López",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/robin-d-lopez",
+      "ballot": {
+        "designation": "Incumbent/Ecologist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Chris McDaniels",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/chris-mcdaniels",
+      "ballot": {
+        "designation": "Public Works Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Members Of City Council, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Aaron Tiedemann",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-city-council/aaron-tiedemann",
+      "ballot": {
+        "designation": "Housing Policy Analyst"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1860",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Members Of The Board Of Education, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Margaret Allen",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-unified-school-district-board/margaret-allen",
+      "ballot": {
+        "designation": "Finance Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1860",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Members Of The Board Of Education, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Melissa Boyd",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-unified-school-district-board/melissa-boyd",
+      "ballot": {
+        "designation": "Appointed Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1860",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Members Of The Board Of Education, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Becky Hopwood",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-unified-school-district-board/becky-hopwood",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1860",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Members Of The Board Of Education, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Josh Mahoney",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-unified-school-district-board/josh-mahoney",
+      "ballot": {
+        "designation": "Appointed Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Albany Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-1860",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Members Of The Board Of Education, Albany",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "David McKinney",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-unified-school-district-board/david-mckinney",
+      "ballot": {
+        "designation": "Education Researcher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #1, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Laura Babitt",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/laura-babitt",
+      "ballot": {
+        "designation": "Auditor/Operations Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #1, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ross Bernet",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/ross-bernet",
+      "ballot": {
+        "designation": "Environmental Program Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #1, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Moni Gangopadhyay",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/moni-gangopadhyay",
+      "ballot": {
+        "designation": "Consumer Protection Investigator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #1, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Steve Kromer",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/steve-kromer",
+      "ballot": {
+        "designation": "Energy Efficiency Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #1, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Daria Wrubel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
+      "ballot": {
+        "designation": "Youth Therapist"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #4, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Majdi \"Gaith\" Abuhamdieh",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-4/majdi-gaith-abuhamdieh",
+      "ballot": {
+        "designation": "Entrepreneur/Technologist/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #4, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Igor A. Tregub",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-4/igor-a-tregub",
+      "ballot": {
+        "designation": "Berkeley City Councilmember, District 4"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-7",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #7, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Aidan Hill",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/aidan-hill",
+      "ballot": {
+        "designation": "Medical Case Manager"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-7",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #7, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Syrak Micael",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/syrak-micael",
+      "ballot": {
+        "designation": "Community Engagement Liaison"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #8, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Fred M. Feller",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/fred-m-feller",
+      "ballot": {
+        "designation": "Attorney"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #8, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mark Humbert",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/mark-humbert",
+      "ballot": {
+        "designation": "City Councilmember"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #8, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mari Mendonca",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/mari-mendonca",
+      "ballot": {
+        "designation": "No Ballot Designation"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Member Of City Council District #8, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael Wallman",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/michael-wallman",
+      "ballot": {
+        "designation": "Systems Engineer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Auditor",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Auditor, Berkeley",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jenny Wong",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-auditor/jenny-wong",
+      "ballot": {
+        "designation": "City Auditor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Brenda F. Grisham",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/brenda-f-grisham",
+      "ballot": {
+        "designation": "Business Owner"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Barbara Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/barbara-lee",
+      "ballot": {
+        "designation": "Mayor, City of Oakland"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mindy Ruth Pechenuk",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/mindy-ruth-pechenuk",
+      "ballot": {
+        "designation": "Educator/Researcher"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Mayor, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Julius Robinson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/julius-robinson",
+      "ballot": {
+        "designation": "Community Investment Executive"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "district": "us/ca/oakland/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Councilmember, District No. 2, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Nate Adams",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/nate-adams",
+      "ballot": {
+        "designation": "Community Organizer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "district": "us/ca/oakland/council-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Councilmember, District No. 2, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Charlene Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/charlene-wang",
+      "ballot": {
+        "designation": "City Councilmember, District 2"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "district": "us/ca/oakland/council-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Councilmember, District No. 4, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Janani Ramachandran",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-4/janani-ramachandran",
+      "ballot": {
+        "designation": "Councilmember/Attorney/Mother"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "district": "us/ca/oakland/council-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Councilmember, District No. 6, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kevin E. Jenkins",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-6/kevin-e-jenkins",
+      "ballot": {
+        "designation": "City Council President"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "district": "us/ca/oakland/council-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Councilmember, District No. 6, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Nancy S. Sidebotham",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-6/nancy-s-sidebotham",
+      "ballot": {
+        "designation": "Tax Preparer"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Auditor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For Auditor, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael C. Houston",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-auditor/michael-c-houston",
+      "ballot": {
+        "designation": "Oakland City Auditor"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 2, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jennifer Brouhard",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-2/jennifer-brouhard",
+      "ballot": {
+        "designation": "Retired Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 2, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Arielle Fleisher",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-2/arielle-fleisher",
+      "ballot": {
+        "designation": "Parent/Policy Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 4, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Kathryn Camp",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/kathryn-camp",
+      "ballot": {
+        "designation": "Public Policy Professional"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 4, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mike Hutchinson",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/mike-hutchinson",
+      "ballot": {
+        "designation": "Incumbent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 4, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sylvia Pfeiffer Williams",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/sylvia-pfeiffer-williams",
+      "ballot": {
+        "designation": "Adult Educator"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 6, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Valarie Bachelor",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/valarie-bachelor",
+      "ballot": {
+        "designation": "School Board Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 6, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Leana Powell",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/leana-powell",
+      "ballot": {
+        "designation": "Family Advocate/Parent"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "For School Director, District No. 6, Oakland",
+          "ranks": 5
+        }
+      },
+      "stance": "neutral",
+      "choice": "Alexandra Williams",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/alexandra-williams",
+      "ballot": {
+        "designation": "Teacher/Program Director"
+      },
+      "source": "https://alamedacountyca.gov/rov_app/candidatelist/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure RTM",
+          "number": "RTM"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure RTM",
+          "number": "RTM"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District — Measure I (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure I",
+          "number": "I"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-measure-i-parcel-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Dublin Unified School District — Measure I (Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-19",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure I",
+          "number": "I"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/dublin-unified-school-district-measure-i-parcel-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Lorenzo Unified School District — Measure J (Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-34710",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure J",
+          "number": "J"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-lorenzo-unified-school-district-measure-j-education-parcel-tax/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "San Lorenzo Unified School District — Measure J (Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-34710",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure J",
+          "number": "J"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-lorenzo-unified-school-district-measure-j-education-parcel-tax/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District — Measure K (GO Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure K",
+          "number": "K",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-measure-k-go-bond-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Sunol Glen Unified School District — Measure K (GO Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-21",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure K",
+          "number": "K",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/sunol-glen-unified-school-district-measure-k-go-bond-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure L (SAFER Alameda Act)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure L",
+          "number": "L",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-l-safer-alameda-act/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure L (SAFER Alameda Act)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure L",
+          "number": "L",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-l-safer-alameda-act/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure M (Charter Amendment - Amend and Repeal Outdated Provisions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure M",
+          "number": "M"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-m-charter-amendment-amend-and-repeal-outdated-provisions/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure M (Charter Amendment - Amend and Repeal Outdated Provisions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure M",
+          "number": "M"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-m-charter-amendment-amend-and-repeal-outdated-provisions/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure N (Charter Amendment - Leases and Sales of Real Property Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure N",
+          "number": "N"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-n-charter-amendment-leases-and-sales-of-real-property-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Alameda — Measure N (Charter Amendment - Leases and Sales of Real Property Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/city-of-alameda",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure N",
+          "number": "N"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/alameda-measure-n-charter-amendment-leases-and-sales-of-real-property-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure O (Requirement to Zoning Changes Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure O",
+          "number": "O"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-o-requirement-to-zoning-changes-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure O (Requirement to Zoning Changes Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure O",
+          "number": "O"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-o-requirement-to-zoning-changes-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure P (Street Paving and Storm Drain Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure P",
+          "number": "P"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-p-street-paving-and-storm-drain-parcel-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure P (Street Paving and Storm Drain Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure P",
+          "number": "P"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-p-street-paving-and-storm-drain-parcel-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure Q (EMS, ALS, Fire Protection Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Q",
+          "number": "Q"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-q-ems-als-fire-protection-parcel-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure Q (EMS, ALS, Fire Protection Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Q",
+          "number": "Q"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-q-ems-als-fire-protection-parcel-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure R (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure R",
+          "number": "R"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-r-business-license-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure R (Business License Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure R",
+          "number": "R"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-r-business-license-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure S (Real Property Transfer Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure S",
+          "number": "S"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-s-real-property-transfer-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure S (Real Property Transfer Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure S",
+          "number": "S"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-s-real-property-transfer-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure T (Street Trees & Streetlighting Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure T",
+          "number": "T"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-t-street-trees-streetlighting-parcel-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Albany — Measure T (Street Trees & Streetlighting Parcel Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/albany",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure T",
+          "number": "T"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/albany-measure-t-street-trees-streetlighting-parcel-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure U (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure U",
+          "number": "U",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-u-bond-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure U (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure U",
+          "number": "U",
+          "measure_type": "Bond Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-u-bond-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure V (Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure V",
+          "number": "V"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-v-sales-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure V (Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure V",
+          "number": "V"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-v-sales-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure W (Charter Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure W",
+          "number": "W"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-w-charter-amendment-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure W (Charter Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure W",
+          "number": "W"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-w-charter-amendment-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure X (Rent Ordinance Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure X",
+          "number": "X"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-x-rent-ordinance-amendment-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure X (Rent Ordinance Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure X",
+          "number": "X"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-x-rent-ordinance-amendment-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Y (Arts Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Y",
+          "number": "Y"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-y-arts-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Y (Arts Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Y",
+          "number": "Y"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-y-arts-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Z (Parcel Tax to Fund a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Z",
+          "number": "Z"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-z-parcel-tax-to-fund-a-public-bank/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Z (Parcel Tax to Fund a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure Z",
+          "number": "Z"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-z-parcel-tax-to-fund-a-public-bank/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure AA (Soda Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure AA",
+          "number": "AA"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-aa-soda-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure AA (Soda Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure AA",
+          "number": "AA"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-aa-soda-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Emeryville — Measure BB (Business Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure BB",
+          "number": "BB"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-measure-bb-business-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Emeryville — Measure BB (Business Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/emeryville",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure BB",
+          "number": "BB"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/emeryville-measure-bb-business-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Hayward — Measure CC (Business Tax Ordinance Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure CC",
+          "number": "CC"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-measure-cc-business-tax-ordinance-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Hayward — Measure CC (Business Tax Ordinance Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hayward",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure CC",
+          "number": "CC"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/hayward-measure-cc-business-tax-ordinance-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Newark — Measure DD (Newark Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure DD",
+          "number": "DD"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-measure-dd-newark-essential-services-protection-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Newark — Measure DD (Newark Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure DD",
+          "number": "DD"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-measure-dd-newark-essential-services-protection-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure EE",
+          "number": "EE"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure EE",
+          "number": "EE"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure FF",
+          "number": "FF"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ff-transfer-tax-on-foreclosures/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure FF",
+          "number": "FF"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ff-transfer-tax-on-foreclosures/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Piedmont — Measure GG (Real Property Conveyance Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure GG",
+          "number": "GG"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-measure-gg-real-property-conveyance-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Piedmont — Measure GG (Real Property Conveyance Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/piedmont",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure GG",
+          "number": "GG"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/piedmont-measure-gg-real-property-conveyance-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton — Measure HH (Uniform Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure HH",
+          "number": "HH"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-measure-hh-uniform-transient-occupancy-tax-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Pleasanton — Measure HH (Uniform Transient Occupancy Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pleasanton",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure HH",
+          "number": "HH"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/pleasanton-measure-hh-uniform-transient-occupancy-tax-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Union City — Measure II (Union City Essential Services Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure II",
+          "number": "II"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-measure-ii-union-city-essential-services-extension-measure/yes",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    },
+    {
+      "subject": {
+        "title": "Union City — Measure II (Union City Essential Services Extension Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Measure II",
+          "number": "II"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-measure-ii-union-city-essential-services-extension-measure/no",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf"
+    }
+  ]
+}

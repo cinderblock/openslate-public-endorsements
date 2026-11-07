@@ -1,0 +1,40 @@
+{
+  "context": {
+    "title": "Sunrise Movement — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Sunrise Movement",
+      "uri": "https://www.sunrisemovement.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:07:47Z",
+    "sources": [
+      "https://www.sunrisemovement.org/endorsements/",
+      "https://www.sunrisemovement.org/endorsement/we-proudly-endorse-mai-vang/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sunrise-movement/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
+      "statement": "\"We Proudly Endorse Mai Vang\" — \"As an educator, organizer, and Sacramento City Councilmember, Mai Vang has shown what it looks like to fight for working families, immigrant communities, and young people, not corporate donors and lobbyists.\"",
+      "source": "https://www.sunrisemovement.org/endorsement/we-proudly-endorse-mai-vang/"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "context": {
+    "title": "Congressional Progressive Caucus PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Congressional Progressive Caucus PAC",
+      "uri": "https://weareprogressives.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:18:04Z",
+    "sources": [
+      "https://weareprogressives.org/"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/progressive-caucus-pac/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — MIKE McGUIRE — U.S. CONGRESS CALIFORNIA’S 1ST DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — AISHA WAHAB — U.S. CONGRESS CALIFORNIA’S 14TH DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — RANDY VILLEGAS — U.S. CONGRESS CALIFORNIA’S 22ND DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-38/hilda-solis",
+      "statement": "Endorsement graphic (transcribed): \"PROGRESSIVE CAUCUS — ENDORSEMENT — HILDA SOLIS — U.S. CONGRESS CALIFORNIA’S 38TH DISTRICT\".",
+      "source": "https://weareprogressives.org/"
+    }
+  ]
+}

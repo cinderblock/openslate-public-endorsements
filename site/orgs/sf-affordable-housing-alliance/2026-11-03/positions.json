@@ -1,0 +1,618 @@
+{
+  "context": {
+    "title": "San Francisco Affordable Housing Alliance — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Affordable Housing Alliance",
+      "uri": "https://www.sfaffordablehousingalliance.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T03:52:05Z",
+    "sources": [
+      "https://www.sfaffordablehousingalliance.org/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sf-affordable-housing-alliance/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "statement": "Under \"US Congress\": \"District 11Connie Chan¹\" (¹ \"¹ Paid for by SF For All (www.sfforall.com) and not authorized by any candidate or candidate’s committee.\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Under \"State Offices\": \"Governor\" \"Xavier Becerra\" (\"GovernorXavier Becerra\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Under \"State Offices\": \"Lt. Governor\" \"Fiona Ma\" (\"Lt. GovernorFiona Ma\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "Under \"State Offices\": \"Secretary of State\" \"Shirley Weber\" (\"Secretary of StateShirley Weber\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "Under \"State Offices\": \"Controller\" \"Malia Cohen\" (\"ControllerMalia Cohen\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "Under \"State Offices\": \"Treasurer\" \"Eleni Kounalakis\" (\"TreasurerEleni Kounalakis\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "Under \"State Offices\": \"Attorney General\" \"Rob Bonta\" (\"Attorney GeneralRob Bonta\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "Under \"State Offices\": \"Insurance Commissioner\" \"Jane Kim\" (\"Insurance CommissionerJane Kim\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "statement": "Under \"State Offices\": \"Board of Equalization District 2\" \"Sally Lieber\" (\"Board of Equalization District 2Sally Lieber\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "statement": "Under \"State Offices\": \"State Assembly District 17\" \"Matt Haney\" (\"State Assembly District 17Matt Haney\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "Under \"State Offices\": \"Superintendent of Public Instruction\" \"Richard Barrera\" (\"Superintendent of Public InstructionRichard Barrera\")",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Reina Tello",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/reina-tello",
+      "statement": "Under \"Board of Education\": \"Reina Tello*\"; \"Teachers’ Choice for School Board\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/ryan-hazelton",
+      "statement": "Under \"Board of Education\": \"Ryan Hazelton*\"; \"Teachers’ Choice for School Board\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/virginia-cheung",
+      "statement": "Under \"Board of Education\": \"Virginia Cheung*\"; \"Teachers’ Choice for School Board\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/leah-lacroix",
+      "statement": "Under \"Community College Board\": \"Leah LaCroix\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bunny McFadden",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/bunny-mcfadden",
+      "statement": "Under \"Community College Board\": \"Bunny Mcfadden\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/jeremy-lee",
+      "statement": "Under \"Community College Board\": \"Jeremy Lee\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "statement": "Under \"Board of Supervisors\": \"District 4Alan Wong*\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "statement": "Under \"Board of Supervisors\": \"District 6Matt Dorsey*\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "statement": "Under \"Board of Supervisors\": \"District 8Gary McCoy*\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dionjay (DJ) Brookter",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/dionjay-dj-brookter",
+      "statement": "Under \"Board of Supervisors\": \"District 10Dion-Jay (DJ) Brookter*\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "statement": "\"Proposition AYES*\" — \"Charter Reform\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "statement": "\"Proposition BYES*\" — \"Establishing a Public Bank\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "\"Proposition CYES*\" — \"Housing Trust Fund Renewal\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "\"Proposition DNO*\" — \"Restricts Voter Initiatives\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/no",
+      "statement": "\"Proposition ENO\" — \"City Administrator’s Authority\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "\"Proposition FNO\" — \"Mayor’s Power Expansion\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "\"Proposition HYES\" — \"Parcel Tax to Fund Muni\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "statement": "\"Proposition IYES*\" — \"Affordable Housing Guarantee\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "\"Proposition JYES*\" — \"Close Transfer Tax Loophole\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"Proposition 1YES*\" — \"Affordable Housing Bond\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"Proposition 2YES\" — \"Increase Rainy Day Fund\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"Proposition 3YES\" — \"Keep Tax on High Incomes\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"Proposition 4YES\" — \"Public Campaign Financing\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "\"Proposition 5YES\" — \"State Recall Reform\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "\"Proposition 37YES\" — \"Homebuyer Assistance\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/yes",
+      "statement": "\"Proposition 38YES\" — \"Immunology Research\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"Proposition 39NO\" — \"MAGA Voting Restrictions\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"Proposition 40YES\" — \"Billionaire Tax for Healthcare\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"Proposition 41NO\" — \"Blocks Billionaire Tax\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"Proposition 42NO\" — \"Prohibits Billionaire Tax\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"Proposition 43NO\" — \"Restricts Local Citizen Initiatives\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"Proposition 44NO\" — \"Restricts Community Clinics\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"Proposition 45NO\" — \"Weakens Environmental Review\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Under \"Regional Measure\": \"RTMYES\" — \"Regional Transit Measure\"",
+      "source": "https://www.sfaffordablehousingalliance.org/"
+    }
+  ]
+}

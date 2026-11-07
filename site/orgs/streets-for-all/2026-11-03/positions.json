@@ -1,0 +1,325 @@
+{
+  "context": {
+    "title": "Streets For All — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Streets For All",
+      "uri": "https://www.streetsforall.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:49:48Z",
+    "sources": [
+      "https://www.streetsforall.org/2026"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/streets-for-all/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Aujero Small",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/thomas-aujero-small",
+      "statement": "\"Thomas Small, Freddy Puza\" — \"Culver City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Freddy Puza",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/freddy-puza",
+      "statement": "\"Thomas Small, Freddy Puza\" — \"Culver City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
+      "statement": "\"Safe street design has become a political lightning rod in West Hollywood. Common sense improvements along Fountain Ave to widen sidewalks, improve ADA accessibility, and protect cyclists have become issues to campaign for or against. Zooming out, efforts to accelerate critical regional transportation solutions like K Line North could also be put at risk with the wrong council members in office. We are proud to endorse Chelsea, Helen, and Stephen for City Council. Three candidates who show strong conviction for safe, multimodal streets both in their answers and in previous advocacy.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
+      "statement": "\"Safe street design has become a political lightning rod in West Hollywood. Common sense improvements along Fountain Ave to widen sidewalks, improve ADA accessibility, and protect cyclists have become issues to campaign for or against. Zooming out, efforts to accelerate critical regional transportation solutions like K Line North could also be put at risk with the wrong council members in office. We are proud to endorse Chelsea, Helen, and Stephen for City Council. Three candidates who show strong conviction for safe, multimodal streets both in their answers and in previous advocacy.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Post",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/stephen-post",
+      "statement": "\"Safe street design has become a political lightning rod in West Hollywood. Common sense improvements along Fountain Ave to widen sidewalks, improve ADA accessibility, and protect cyclists have become issues to campaign for or against. Zooming out, efforts to accelerate critical regional transportation solutions like K Line North could also be put at risk with the wrong council members in office. We are proud to endorse Chelsea, Helen, and Stephen for City Council. Three candidates who show strong conviction for safe, multimodal streets both in their answers and in previous advocacy.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/yes",
+      "statement": "\"YES ON MEASURE LA, MEASURE PRK\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes",
+      "statement": "\"YES ON MEASURE LA, MEASURE PRK\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"That's why we oppose Proposition 45.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"California voters should reject Proposition 43.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "El Segundo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Pickhaver",
+      "choice_id": "la-county-registrar:2026-11-03/el-segundo-city-council/john-pickhaver",
+      "statement": "\"John Pickhaver\" — \"El Segundo City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mishaun Watkins",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/mishaun-watkins",
+      "statement": "\"Mishaun Watkins, Juan Muñoz-Guevara\" — \"Lynwood City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Muñoz-Guevara",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/juan-munoz-guevara",
+      "statement": "\"Mishaun Watkins, Juan Muñoz-Guevara\" — \"Lynwood City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eddy Polon",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/eddy-polon",
+      "statement": "\"Eddy Polon, Nolan Southerland, Mike Van Gorder\" — \"Burbank City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nolan Southerland",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nolan-southerland",
+      "statement": "\"Eddy Polon, Nolan Southerland, Mike Van Gorder\" — \"Burbank City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Van Gorder",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/mike-van-gorder",
+      "statement": "\"Eddy Polon, Nolan Southerland, Mike Van Gorder\" — \"Burbank City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel Ivanov",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/daniel-ivanov",
+      "statement": "\"Danny Ivanov, Brett Morrow, and Caroline Torosis\" — \"Santa Monica City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brett Morrow",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/brett-morrow",
+      "statement": "\"Danny Ivanov, Brett Morrow, and Caroline Torosis\" — \"Santa Monica City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Torosis",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/caroline-torosis",
+      "statement": "\"Danny Ivanov, Brett Morrow, and Caroline Torosis\" — \"Santa Monica City Council\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barri Worth Girvan",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/barri-worth-girvan",
+      "statement": "\"Barri Worth Girvan\" — \"LA City Council District 3\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nithya Raman",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/nithya-raman",
+      "statement": "\"We are delighted to endorse Nithya Raman for Mayor. As one of the first candidates endorsed by Streets for All before being elected in a 'political earthquake' in 2019, she has since led with passion and pragmatism while fighting for a Los Angeles that works for everyone.\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "\"John Erickson\" — \"24th Senate District\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/marissa-roy",
+      "statement": "\"Marissa Roy\" — \"LA City Attorney\"",
+      "source": "https://www.streetsforall.org/2026"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "\"Sara Hernandez\" — \"26th Senate District\"",
+      "source": "https://www.streetsforall.org/2026"
+    }
+  ]
+}

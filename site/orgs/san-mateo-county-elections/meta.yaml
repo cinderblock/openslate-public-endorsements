@@ -1,0 +1,16 @@
+name: San Mateo County Elections
+slug: san-mateo-county-elections
+uri: https://www.smcacre.gov/elections
+kind: election-authority
+logo: logo.png
+logo_source: https://smcacre.gov/sites/default/files/favicon.png
+about: |
+  San Mateo County's election office, part of the Assessor-County
+  Clerk-Recorder & Elections department. This bundle is a ballot source, not
+  an endorsement: every qualified local candidate and local measure on the
+  county's ballot as a neutral position, so a voter's ballot shows the whole
+  field. Built by scripts/smc-elections-ballot.ts from San Mateo's Roster of
+  Candidates and the measure documents on its current-election page, saved
+  under evidence/. Titles reuse the catalog's existing subjects where a
+  bundle already names the contest. Federal and state offices come from the
+  Secretary of State's bundle.

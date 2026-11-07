@@ -1,0 +1,39 @@
+{
+  "context": {
+    "title": "Newark Chamber of Commerce: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Newark Chamber of Commerce",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T17:52:48Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=922",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=923"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/newark-chamber-of-commerce/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Newark — Measure DD (Newark Essential Services Protection Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/newark",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/newark-measure-dd-newark-essential-services-protection-measure/yes",
+      "statement": "Lily Mei (Newark Chamber of Commerce, President & CEO) and Lily Mei (President & CEO of Newark Chamber of Commerce) signed the argument in favor of Newark Measure DD and the rebuttal to the argument against Newark Measure DD in the Alameda County Voter Information Guide.",
+      "source": "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=922"
+    }
+  ]
+}

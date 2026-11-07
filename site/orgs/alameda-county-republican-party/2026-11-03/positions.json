@@ -1,0 +1,290 @@
+{
+  "context": {
+    "title": "Alameda County Republican Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Alameda County Republican Party",
+      "uri": "https://www.alamedagop.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:16:13Z",
+    "sources": [
+      "https://www.alamedagop.org/candidates",
+      "https://www.alamedagop.org/posts/2026-10-11-voter-guide-statewide",
+      "https://www.alamedagop.org/posts/2026-10-11-county-voter-guide"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/alameda-county-republican-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"Secretary of State — ✓✓Donald P. “Don” Wagner\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/jennifer-hawks",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"Treasurer ✓✓Jennifer Hawks; David Serpa\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/michael-e-gates",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"Attorney General — ✓✓Michael E. Gates\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda R. Price",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-10/linda-r-price",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"10th State Senate District — ✓✓Linda R. Price\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joseph A. Rubay",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-16/joseph-a-rubay",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"16th Assembly District — ✓✓Joseph A. Rubay\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Max Hsia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/max-hsia",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"24th Assembly District — ✓✓Max Hsia\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeff Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-3/jeff-wang",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"City Council - Union City — ✓Jeff Wang (Election is Nov. 3)\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "Union City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/union-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaime Patino",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/union-city-city-council-district-2/jaime-patino",
+      "statement": "Green check (\"✓= Endorsed by the Alameda County Republican Party Central Committee\"): \"City Council - Union City — ✓Jaime Patino (Election is Nov. 3)\"",
+      "source": "https://www.alamedagop.org/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jeff Frese",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-10/jeff-frese",
+      "statement": "County voter guide graphic \"Alameda County Candidates\": \"Congressional District 10 -Jeff Frese\"",
+      "source": "https://www.alamedagop.org/posts/2026-10-11-county-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ritesh Tandon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ritesh-tandon",
+      "statement": "County voter guide graphic \"Alameda County Candidates\": \"Congressional District 17 - Ritesh Tandon\"",
+      "source": "https://www.alamedagop.org/posts/2026-10-11-county-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Patricia Muga",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-20/patricia-muga",
+      "statement": "County voter guide graphic \"Alameda County Candidates\": \"State Assembly 20 - Patricia Muga\"",
+      "source": "https://www.alamedagop.org/posts/2026-10-11-county-voter-guide"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "California Republican Party",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/ca-republican-party/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Lieutenant Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Controller",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California Superintendent of Public Instruction",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.alamedagop.org/posts/2026-10-11-voter-guide-statewide"
+    }
+  ]
+}

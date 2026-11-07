@@ -1,0 +1,39 @@
+{
+  "context": {
+    "title": "Americans for Prosperity Action — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Americans for Prosperity Action",
+      "uri": "https://afpaction.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:13:32Z",
+    "sources": [
+      "https://afpaction.com/endorsements/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/afp-action/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Young Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-40/young-kim",
+      "statement": "Listed under \"2026 Endorsements\", House: \"Young Kim\" / \"CA-40\" / \"California\".",
+      "source": "https://afpaction.com/endorsements/"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "context": {
+    "title": "San Joaquin County Republican Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-joaquin-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Joaquin County Republican Party",
+      "uri": "https://www.sjgop.org/",
+      "kind": "party"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T22:11:59Z",
+    "sources": [
+      "https://www.sjgop.org/endorsements"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/san-joaquin-county-republican-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/steve-hilton",
+      "statement": "Card: \"01. STEVE HILTON\" / \"Governor\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/gloria-romero",
+      "statement": "Card: \"02. GLORIA ROMERO\" / \"Lieutenant Governor\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/jennifer-hawks",
+      "statement": "Card: \"03. JENNIFER HAWKS\" / \"State Treasurer\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/michael-e-gates",
+      "statement": "Card: \"04. MICHAEL GATES\" / \"State Attorney General\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/herb-w-morgan",
+      "statement": "Card: \"05. HERB MORGAN\" / \"State Controller\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
+      "statement": "Card: \"06. SONJA SHAW\" / \"State Superintendent\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner",
+      "statement": "Card: \"07. DON WAGNER\" / \"Secretary of State\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/shannon-grove",
+      "statement": "Card: \"08. SHANNON GROVE\" / \"State Board of Equalization District 1\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom McClintock",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-5/tom-mcclintock",
+      "statement": "Card: \"09. TOM McCLINTOCK\" / \"Congressional District 5\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rudy Recile",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-8/rudy-recile",
+      "statement": "Card: \"10. RUDY RECILE\" / \"Congressional District 8\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McBride",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/john-mcbride",
+      "statement": "Card: \"11. JOHN McBRIDE\" / \"Congressional District 9\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Lincoln",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-13/kevin-lincoln",
+      "statement": "Card: \"12. KEVIN LINCOLN\" / \"Congressional District 13\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Patti",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-13/tom-patti",
+      "statement": "Card: \"13. TOM PATTI\" / \"State Assembly District 13\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jass Sangha",
+      "statement": "Card: \"14. JASS SANGHA\" / \"Tracy City Council District 1\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/stockton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Blower",
+      "statement": "Card: \"15. MICHAEL BLOWER\" / \"Stockton City Council District 3\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manteca Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/manteca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacob Naven",
+      "statement": "Card: \"16. JACOB NAVEN\" / \"Manteca Mayor\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manteca City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/manteca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Breitenbucher",
+      "statement": "Card: \"17. DAVID BREITENBUCHER\" / \"Manteca City Council District 3\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Manteca City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/manteca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dani Bettencourt",
+      "statement": "Card: \"18. DANI BETTENCOURT\" / \"Manteca City Council District 4\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lodi City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/lodi",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Carouba",
+      "statement": "Card: \"19. MICHAEL CAROUBA\" / \"Lodi City Council District 1\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "South San Joaquin Irrigation District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Glenn Spyksma",
+      "statement": "Card: \"20. GLENN SPYKSMA\" / \"South San Joaquin Irrigation District Division 2\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Stockton East Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrew Watkins",
+      "statement": "Card: \"21. ANDREW WATKINS\" / \"Stockton East Water District Division 2\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Tracy Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alicia Corrales",
+      "statement": "Card: \"22. ALICIA CORRALES\" / \"Tracy Unified School District Area 4\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    },
+    {
+      "subject": {
+        "title": "Lodi Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-joaquin-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ron Heberle",
+      "statement": "Card: \"23. RON HEBERLE\" / \"Lodi Unified School District Area 5\" / \"ENDORSED\"",
+      "source": "https://www.sjgop.org/endorsements"
+    }
+  ]
+}

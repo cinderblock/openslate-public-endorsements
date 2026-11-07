@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "OpenSlate Public Endorsements",
+  "kind": "researcher",
+  "uri": "https://cinderblock.github.io/openslate-public-endorsements/",
+  "publicKey": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+  "createdAt": "2026-06-01T00:33:30.959Z",
+  "notes": "This is the public half of the project signing keypair. The private half lives only as the OPENSLATE_SIGNING_KEY GitHub Actions secret on this repository and is used by the publish workflow to sign every slate in orgs/."
+}

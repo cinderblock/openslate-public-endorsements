@@ -1,0 +1,429 @@
+{
+  "context": {
+    "title": "J Street PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "JStreetPAC",
+      "uri": "https://jstreetpac.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:50:16Z",
+    "sources": [
+      "https://jstreetpac.org/candidates/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/j-street-pac/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "\"Endorsed\" / \"1st District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-mcguire/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-2/jared-huffman",
+      "statement": "\"Endorsed\" / \"2nd District, california\"",
+      "source": "https://jstreetpac.org/candidate/jared-huffman/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/ami-bera",
+      "statement": "\"Endorsed\" / \"3rd District, california\"",
+      "source": "https://jstreetpac.org/candidate/ami-bera/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-4/mike-thompson",
+      "statement": "\"Endorsed\" / \"4th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-thompson/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "\"Endorsed\" / \"CA-06, california\"",
+      "source": "https://jstreetpac.org/candidate/richard-pan/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-8/john-garamendi",
+      "statement": "\"Endorsed\" / \"8th District, california\"",
+      "source": "https://jstreetpac.org/candidate/john-garamendi/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/josh-harder",
+      "statement": "\"Endorsed\" / \"9th District, california\"",
+      "source": "https://jstreetpac.org/candidate/josh-harder/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-10/mark-desaulnier",
+      "statement": "\"Endorsed\" / \"10th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mark-desaulnier/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "\"Endorsed\" / \"11th District, california\"",
+      "source": "https://jstreetpac.org/candidate/scott-wiener/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "statement": "\"Endorsed\" / \"12th District, california\"",
+      "source": "https://jstreetpac.org/candidate/lateefah-simon/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "\"Endorsed\" / \"CA-14, california\"",
+      "source": "https://jstreetpac.org/candidate/aisha-wahab/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-15/kevin-mullin",
+      "statement": "\"Endorsed\" / \"15th District, california\"",
+      "source": "https://jstreetpac.org/candidate/kevin-mullin/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-16/sam-liccardo",
+      "statement": "\"Endorsed\" / \"16th District , california\"",
+      "source": "https://jstreetpac.org/candidate/sam-liccardo/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "statement": "\"Endorsed\" / \"17th District, california\"",
+      "source": "https://jstreetpac.org/candidate/ro-khanna/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "\"Endorsed\" / \"18th District, california\"",
+      "source": "https://jstreetpac.org/candidate/zoe-lofgren/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "\"Endorsed\" / \"24th District, california\"",
+      "source": "https://jstreetpac.org/candidate/salud-carbajal/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-25/raul-ruiz",
+      "statement": "\"Endorsed\" / \"25th District, california\"",
+      "source": "https://jstreetpac.org/candidate/raul-ruiz/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-28/judy-chu",
+      "statement": "\"Endorsed\" / \"28th District, california\"",
+      "source": "https://jstreetpac.org/candidate/judy-chu/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-30/laura-friedman",
+      "statement": "\"Endorsed\" / \"30th District, california\"",
+      "source": "https://jstreetpac.org/candidate/laura-friedman/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-31/gil-cisneros",
+      "statement": "\"Endorsed\" / \"31st District, california\"",
+      "source": "https://jstreetpac.org/candidate/gil-cisneros/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
+      "statement": "\"Endorsed\" / \"33rd District, california\"",
+      "source": "https://jstreetpac.org/candidate/pete-aguilar/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/sydney-kamlager-dove",
+      "statement": "\"Endorsed\" / \"37th District, california\"",
+      "source": "https://jstreetpac.org/candidate/sydney-kamlager/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-39/mark-takano",
+      "statement": "\"Endorsed\" / \"39th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mark-takano/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sánchez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-41/linda-sanchez",
+      "statement": "\"Endorsed\" / \"41st District, california\"",
+      "source": "https://jstreetpac.org/candidate/linda-sanchez/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-42/robert-garcia",
+      "statement": "\"Endorsed\" / \"42nd District, california\"",
+      "source": "https://jstreetpac.org/candidate/robert-garcia/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
+      "statement": "\"Endorsed\" / \"45th District , california\"",
+      "source": "https://jstreetpac.org/candidate/derek-tran/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-47/dave-min",
+      "statement": "\"Endorsed\" / \"47th District, california\"",
+      "source": "https://jstreetpac.org/candidate/dave-min/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "\"Endorsed\" / \"48th District, california\"",
+      "source": "https://jstreetpac.org/candidate/marni-von-wilpert/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
+      "statement": "\"Endorsed\" / \"49th District, california\"",
+      "source": "https://jstreetpac.org/candidate/mike-levin/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-50/scott-peters",
+      "statement": "\"Endorsed\" / \"50th District, california\"",
+      "source": "https://jstreetpac.org/candidate/scott-peters/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-51/sara-jacobs",
+      "statement": "\"Endorsed\" / \"51th District, california\"",
+      "source": "https://jstreetpac.org/candidate/sara-jacobs/"
+    }
+  ]
+}

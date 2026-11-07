@@ -1,0 +1,310 @@
+{
+  "context": {
+    "title": "Peace and Freedom Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Peace and Freedom Party",
+      "uri": "https://www.peaceandfreedom.us/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:03:36Z",
+    "sources": [
+      "https://peaceandfreedom.us/november-2026-voting-guide/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/peace-and-freedom-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Rendon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-14/mark-rendon",
+      "statement": "Mark Rendón for State Assembly, District 14:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 59",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-59",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Victor Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-59/victor-hernandez",
+      "statement": "Victor Hernandez for State Assembly District 59:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 63",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-63",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Akin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-63/kevin-akin",
+      "statement": "Kevin Akin for State Assembly: District 63, Riverside County",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco Unified School District Board, Trustee Area E",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Lara",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-unified-school-district-board-trustee-area-e/frank-lara",
+      "statement": "Frank Lara for South San Francisco Unified School Board Trustee Area E:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aidan Hill",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/aidan-hill",
+      "statement": "Aidan Hill for Berkeley City Council District 7:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "Palo Alto City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/palo-alto",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raymond Lee Goins",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/palo-alto-city-council/raymond-lee-goins",
+      "statement": "Raymond Goins for Palo Alto City Council:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "Montebello Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aaron Reveles",
+      "choice_id": "la-county-registrar:2026-11-03/montebello-unified-school-district-board-trustee-area-2/aaron-reveles",
+      "statement": "Aaron Reveles for Montebello Unified School Board Trustee: Area #2",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexander Kraft",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-mayor/alexander-kraft",
+      "statement": "Alexander Kraft for Mayor of El Cajon:",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Prop 1 - No Recommendation - would issue $11.25 billion in bonds to fund the Multifamily Housing Program, CalVet Home Loan Program, youth housing, and housing for homeless people. … We leave it up to you to decide.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "Prop 2 - YES - would increase the Budget Stabilization Account (BSA) (the Rainy Day Fund) cap from 10% of general fund revenue to 20% and exclude deposits into the BSA from the Gann limit.* We need a mechanism to even out revenue for state funded programs in years that rich people’s incomes from investments is lower because of stock market fluctuations. And sheltering deposits into the rainy day fund from the Gann limit is a step in the right direction.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "Tax the Rich for Human Need:  Vote YES on Propositions 3 and 40!",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "Proposition 4 - YES - would allow the state and local governments to create programs that provide candidates with public funds under spending limits and eligibility rules. It repeals the ban on public financing of campaigns, enacted in 1988. Proposition 5 - YES - would change the way recalled state officers are replaced. The office would be left vacant until it is filled according to state law, in the same way other vacancies are filled: by succession, by appointment or by a later special election, depending on the office.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "Proposition 4 - YES - would allow the state and local governments to create programs that provide candidates with public funds under spending limits and eligibility rules. It repeals the ban on public financing of campaigns, enacted in 1988. Proposition 5 - YES - would change the way recalled state officers are replaced. The office would be left vacant until it is filled according to state law, in the same way other vacancies are filled: by succession, by appointment or by a later special election, depending on the office.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "Proposition 37 - NO - Bonds for second mortgages - would establish a second mortgage homebuyer program for some homebuyers on newly constructed homes only and issue $25 billion in bonds to fund the program. These bonds would be paid off by the homebuyers, not the taxpayers. We are opposed because new home construction often promotes suburban sprawl, impacting the environment in several ways, including using up open space and necessitating longer commutes. Prop 37 does not limit the cost of the new homes.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "Proposition 38 - NO - would issue bonds to establish an Immunology and Immunotherapy Research Institute affiliated with the University of California. The bonds would be paid off by taxpayers and the research used by drug companies to develop therapies with high price tags. We need a progressive way to fund the research, public ownership of pharmaceutical production, and universal free health care.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "Proposition 39 - NO - would require voters to present government-issued identification and require election officials to use government data to confirm voter citizenship and report verification rates. There is little to no evidence that non-citizens vote. The ‘government data’ is full of errors and will be used to keep working class and minority citizens from voting.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "Tax the Rich for Human Need:  Vote YES on Propositions 3 and 40!",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "Vote NO on Propositions 41 and 42. Placed on the ballot by billionaires, these measures would cancel the billionaires’ tax even if proposition 40 passes.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "Vote NO on Propositions 41 and 42. Placed on the ballot by billionaires, these measures would cancel the billionaires’ tax even if proposition 40 passes.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Proposition 43 - NO - would require supermajorities for local initiatives to enact taxes whose proceeds are dedicated to a specified purpose. Supermajority requirements are undemocratic.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/yes",
+      "statement": "Proposition 44 - YES - would prohibit federally-qualified healthcare clinics from spending less than 90% of their annual revenue on mission-related purposes. It is sponsored by unions of healthcare workers and opposed by hospital management.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Vote NO on Proposition 45. Proposition 45 changes the California Environmental Quality Act, taking a sledgehammer to environmental review of and public comments about most land use and public works projects.",
+      "source": "https://peaceandfreedom.us/november-2026-voting-guide/"
+    }
+  ]
+}

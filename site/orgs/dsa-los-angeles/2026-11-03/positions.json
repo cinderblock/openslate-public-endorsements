@@ -1,0 +1,1323 @@
+{
+  "context": {
+    "title": "DSA Los Angeles — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Democratic Socialists of America, Los Angeles",
+      "uri": "https://dsa-la.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:44:31Z",
+    "sources": [
+      "https://voterguide.dsa-la.org/",
+      "https://dsa-la.org/voter-guide/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/dsa-los-angeles/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nithya Raman",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/nithya-raman",
+      "statement": "\"Nithya Raman\" — \"🌹 Endorsed\". \"DSA-LA enthusiastically endorses Nithya Raman for mayor because Angelenos deserve a city that works for them\"",
+      "source": "https://voterguide.dsa-la.org/#la-mayor"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/marissa-roy",
+      "statement": "\"Marissa Roy\" — \"🌹 Endorsed\". \"Cast your vote for Marissa Roy this November.\"",
+      "source": "https://voterguide.dsa-la.org/#la-city-attorney"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Barri Worth Girvan",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/barri-worth-girvan",
+      "statement": "\"Barri Worth Girvan\" — \"👍 Recommended\". \"DSA-LA recommends Barri Worth Girvan for Council District 3.\"",
+      "source": "https://voterguide.dsa-la.org/#la-city-council-3"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Estuardo Mazariegos",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-9/estuardo-mazariegos",
+      "statement": "\"Estuardo Mazariegos\" — \"🌹 Endorsed\". \"Vote Estuardo Mazariegos for Los Angeles City Council District 9.\"",
+      "source": "https://voterguide.dsa-la.org/#la-city-council-9"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "oppose",
+      "choice": "Alex Villanueva",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-sheriff/alex-villanueva",
+      "statement": "\"Alex Villanueva\" — \"Opposed\". \"Don’t vote for Villanueva.\"",
+      "source": "https://voterguide.dsa-la.org/#la-county-sheriff"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Adriana Cabrera",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/adriana-cabrera",
+      "statement": "\"Adriana Cabrera\" — \"👍 Recommended\". \"Veres is heavily favored here, due to incumbency and labor backing, especially from educator unions. Cabrera’s vision for LACCD provides one that is more community centered and driven. Veres should win handily and continue his steady pro-union positioning, but you can defend a vote for Cabrera.\"",
+      "source": "https://voterguide.dsa-la.org/#laccd-2"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Darryn Harris",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-4/darryn-harris",
+      "statement": "\"Darryn Harris\" — \"👍 Recommended\". \"Darryn Harris currently teaches at Santa Monica College (not a LACCD campus, though) and has experience working in Congress as an aide to Sydney Kamlager and Karen Bass (Washington D.C. era). His website is sparse in terms of a platform, but he cites wanting to build more low-cost housing on LACCD land, bringing more funding into the district before turning to cuts, and making student enrollment more accessible. He lists endorsements from UTLA, AFT 1521, and the Working Families Party. The labor and organizational backing makes Darryn the clear choice in this race.\"",
+      "source": "https://voterguide.dsa-la.org/#laccd-4"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Randall Winston",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-6/randall-winston",
+      "statement": "\"Randall Winston\" — \"👍 Recommended\". \"Randall Winston received the LA County Federation of Labor endorsement, and is backed by UTLA, AFT 1521, SEIU 721, former governor Jerry Brown, and DSA-LA Socialist in Office Hugo Soto-Martinez. His platform cites connecting students out of LACCD schools to good union jobs, ensuring students needs are met on campuses, with more councilors and a basic-needs hub, creating more transparency into how district dollars are spent, and ensuring the trustees remain reactive to the campuses. With strong labor backing and a clear vision that supports working class students, vote Randall Winston for District 6.\"",
+      "source": "https://voterguide.dsa-la.org/#laccd-6"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rhonda Haymon",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-64/rhonda-haymon",
+      "statement": "\"Following our friends at La Defensa, we recommend voting for:\" \"Rhonda Haymon for Office No. 64\"",
+      "source": "https://voterguide.dsa-la.org/#la-county-superior-court"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation for Office No. 65\"",
+      "source": "https://voterguide.dsa-la.org/#la-county-superior-court"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 87",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation for Office No. 87\"",
+      "source": "https://voterguide.dsa-la.org/#la-county-superior-court"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Ross",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/david-ross",
+      "statement": "\"Following our friends at La Defensa, we recommend voting for:\" \"David Ross for Office No. 131\"",
+      "source": "https://voterguide.dsa-la.org/#la-county-superior-court"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "\"Kelli Evans worked for ACLU for Northern California before being appointed in 2022 by Gavin Newsom. With an interest and background in civil liberties, you should vote yes to retain her.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-appellate-justices"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Samuel P. Sukaton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-3/samuel-p-sukaton",
+      "statement": "\"Sam Sukaton\" — \"👍 Recommended\". \"Vote Sam Sukaton for State Board of Equalization.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-board-of-equalization-3"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brett Haddoak",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-2/brett-haddoak",
+      "statement": "\"Brett Haddoak\" — \"👍 Recommended\". \"Vote for Brett Haddoak.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-clarita-council-2"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Valerie Bradford",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-4/valerie-bradford",
+      "statement": "\"Valerie Bradford\" — \"👍 Recommended\". \"Vote for Valerie Bradford.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-clarita-council-4"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kelvin Driscoll",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-5/kelvin-driscoll",
+      "statement": "\"Kelvin Driscoll\" — \"👍 Recommended\". \"But over a landlord, we recommend a vote for Dr. Kelvin Driscoll.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-clarita-council-5"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Julee Brooks",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-2/julee-brooks",
+      "statement": "\"Julee Brooks\" — \"👍 Recommended\". \"Protect public schools, vote for Julee Brooks.\"",
+      "source": "https://voterguide.dsa-la.org/#william-s-hart-union-2"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stacy Fortner",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
+      "statement": "\"Stacy Fortner\" — \"👍 Recommended\". \"We recommend you vote for Stacy Fortner.\"",
+      "source": "https://voterguide.dsa-la.org/#william-s-hart-union-5"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Larry Grable",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-1/larry-grable",
+      "statement": "\"Larry Grable\" — \"👍 Recommended\". \"Stand with our teachers and public schools and vote for Larry Grable for Trustee Area 1, Alisa Gentry for Trustee Area 2, and Chris Turnkey for Trustee Area 5.\"",
+      "source": "https://voterguide.dsa-la.org/#saugus-union"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alisa Gentry",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-2/alisa-gentry",
+      "statement": "\"Alisa Gentry\" — \"👍 Recommended\". \"Stand with our teachers and public schools and vote for Larry Grable for Trustee Area 1, Alisa Gentry for Trustee Area 2, and Chris Turnkey for Trustee Area 5.\"",
+      "source": "https://voterguide.dsa-la.org/#saugus-union"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Christopher Trunkey",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-5/christopher-trunkey",
+      "statement": "\"Chris Turnkey\" — \"👍 Recommended\". \"Stand with our teachers and public schools and vote for Larry Grable for Trustee Area 1, Alisa Gentry for Trustee Area 2, and Chris Turnkey for Trustee Area 5.\"",
+      "source": "https://voterguide.dsa-la.org/#saugus-union"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Noah Ropp",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-valley-water-agency-board-division-1/noah-ropp",
+      "statement": "\"Noah Ropp\" — \"👍 Recommended\". \"Vote for a voice who puts people over profits, vote for Noah Ropp.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-clarita-valley-water"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Muñoz-Guevara",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/juan-munoz-guevara",
+      "statement": "\"Juan Muñoz-Guevara\" — \"👍 Recommended\". \"Vote for Team Better Lynwood.\"",
+      "source": "https://voterguide.dsa-la.org/#lynwood-wide"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mishaun Watkins",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/mishaun-watkins",
+      "statement": "\"Mishaun Watkins\" — \"👍 Recommended\". \"Vote for Team Better Lynwood.\"",
+      "source": "https://voterguide.dsa-la.org/#lynwood-wide"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Emiliano Arellano",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/emiliano-arellano",
+      "statement": "\"Emiliano Arellano\" — \"👍 Recommended\". \"Vote for Team Better Lynwood.\"",
+      "source": "https://voterguide.dsa-la.org/#lynwood-wide"
+    },
+    {
+      "subject": {
+        "title": "Huntington Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nancy Martiz",
+      "choice_id": "la-county-registrar:2026-11-03/huntington-park-city-council-district-2/nancy-martiz",
+      "statement": "\"Nancy Martiz\" — \"👍 Recommended\". \"Overall, governance in Huntington Park makes a pretty good case that we have too many small independent cities in Los Angeles county and could afford to consolidate. There’s not a lot of good choices, so you should vote Nancy Martiz for District 2. None of the candidates in Districts 4 or 5 are worth a recommendation; you can pick your own poison or leave it blank.\"",
+      "source": "https://voterguide.dsa-la.org/#huntington-park-council"
+    },
+    {
+      "subject": {
+        "title": "Cudahy City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cynthia Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-gonzalez",
+      "statement": "\"Cynthia Gonzalez\" — \"👍 Recommended\". \"Following UNITE HERE Local 11, we recommend you vote for the two Cynthias, Gonzalez and Romo.\"",
+      "source": "https://voterguide.dsa-la.org/#cudahy-wide"
+    },
+    {
+      "subject": {
+        "title": "Cudahy City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cynthia Romo",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-romo",
+      "statement": "\"Cynthia Romo\" — \"👍 Recommended\". \"Following UNITE HERE Local 11, we recommend you vote for the two Cynthias, Gonzalez and Romo.\"",
+      "source": "https://voterguide.dsa-la.org/#cudahy-wide"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Post",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/stephen-post",
+      "statement": "\"Stephen Post\" — \"🌹 Endorsed\". \"Vote for Stephen Post, Chelsea Byers, and Helen Krieger\"",
+      "source": "https://voterguide.dsa-la.org/#west-hollywood-wide"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
+      "statement": "\"Chelsea Byers\" — \"👍 Recommended\". \"Vote for Stephen Post, Chelsea Byers, and Helen Krieger\"",
+      "source": "https://voterguide.dsa-la.org/#west-hollywood-wide"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
+      "statement": "\"Helen Krieger\" — \"👍 Recommended\". \"Vote for Stephen Post, Chelsea Byers, and Helen Krieger\"",
+      "source": "https://voterguide.dsa-la.org/#west-hollywood-wide"
+    },
+    {
+      "subject": {
+        "title": "Alhambra City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Amy Wong",
+      "choice_id": "la-county-registrar:2026-11-03/alhambra-city-council-district-1/amy-wong",
+      "statement": "\"Amy Wong\" — \"👍 Recommended\". \"Vote for Amy Wong.\"",
+      "source": "https://voterguide.dsa-la.org/#alhambra-council-1"
+    },
+    {
+      "subject": {
+        "title": "Alhambra City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Melissa Michelson",
+      "choice_id": "la-county-registrar:2026-11-03/alhambra-city-council-district-5/melissa-michelson",
+      "statement": "\"Melissa Michelson\" — \"👍 Recommended\". \"Vote Melissa Michelson.\"",
+      "source": "https://voterguide.dsa-la.org/#alhambra-council-5"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steven Kung",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-city-council-district-5/steven-kung",
+      "statement": "\"Steven Kung\" — \"👍 Recommended\". \"Vote Steven Kung for District 5.\"",
+      "source": "https://voterguide.dsa-la.org/#monterey-park-council-5"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\". \"We make no recommendation for Trustee Area 1.\"",
+      "source": "https://voterguide.dsa-la.org/#inglewood-usd-1"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shelby Richardson",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-2/shelby-richardson",
+      "statement": "\"Shelby Richardson\" — \"👍 Recommended\". \"we recommend you vote for Shelby Richardson for Area 2.\"",
+      "source": "https://voterguide.dsa-la.org/#inglewood-usd-2"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yaritza Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-3/yaritza-gonzalez",
+      "statement": "\"Yaritza González\" — \"🌹 Endorsed\". \"Yaritza has received endorsements from Latinas Lead California, the LA County Young Democrats, and the association of Raza Educators. DSA Los Angeles is proud to endorse Yaritza Gonzalez for Inglewood Unified. Come canvass to help elect her at shakeup.la [http://shakeup.la]\"",
+      "source": "https://voterguide.dsa-la.org/#inglewood-usd-3"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure BB (Eliminate Advertising on Public Right-Of-Way)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-inglewood-bb"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure AT (Amend the Admissions Tax for Large Venues)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-measure-at-amend-the-admissions-tax-for-large-venues/yes",
+      "statement": "\"Vote YES\". \"Vote YES on AT.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-inglewood-at"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District — Measure MM (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-measure-mm-school-bonds/yes",
+      "statement": "\"Vote YES\". \"Vote yes on MM.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-inglewood-mm"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Leslie Garcia",
+      "choice_id": "la-county-registrar:2026-11-03/west-covina-city-council-district-2/leslie-garcia",
+      "statement": "\"Leslie Garcia\" — \"👍 Recommended\". \"We recommend a vote for Leslie Garcia.\"",
+      "source": "https://voterguide.dsa-la.org/#west-covina-council-2"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#west-covina-council-4"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#west-covina-council-5"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nolan Southerland",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nolan-southerland",
+      "statement": "\"Nolan Southerland\" — \"🌹 Endorsed\"",
+      "source": "https://voterguide.dsa-la.org/#burbank-wide"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Van Gorder",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/mike-van-gorder",
+      "statement": "\"Mike van Gorder\" — \"🌹 Endorsed\"",
+      "source": "https://voterguide.dsa-la.org/#burbank-wide"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nikki Perez",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nikki-perez",
+      "statement": "\"Nikki Perez\" — \"👍 Recommended\". \"With your third vote, you should vote for Nikki Perez. Though Nikki is not a socialist, she has been a staunch and steady progressive on the council since being elected in 2022. She has voiced outspoken support for tenant protections including a strong rent cap, removing Flock and other ALPR mass surveillance from Burbank, and pushing back against the disturbing ICE presence and actions across the city. As an incumbent, she’s a favorite to win re-election, and is supported by the LA County Democratic Party, the Working Families Party, Konstantine Anthony, UH11, and various other local unions.\"",
+      "source": "https://voterguide.dsa-la.org/#burbank-wide"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Caroline Torosis",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/caroline-torosis",
+      "statement": "\"Caroline Torosis\" — \"👍 Recommended\". \"We recommend Caroline Torosis, Danny Ivanov, and Brett Morrow for the three open seats. The three make up the clearest progressive, pro-renter slate: all three endorsed by Santa Monica Renters rights and UNITE HERE Local 11.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-monica-wide"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Daniel Ivanov",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/daniel-ivanov",
+      "statement": "\"Danny Ivanov\" — \"👍 Recommended\". \"We recommend Caroline Torosis, Danny Ivanov, and Brett Morrow for the three open seats. The three make up the clearest progressive, pro-renter slate: all three endorsed by Santa Monica Renters rights and UNITE HERE Local 11.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-monica-wide"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brett Morrow",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/brett-morrow",
+      "statement": "\"Brett Morrow\" — \"👍 Recommended\". \"We recommend Caroline Torosis, Danny Ivanov, and Brett Morrow for the three open seats. The three make up the clearest progressive, pro-renter slate: all three endorsed by Santa Monica Renters rights and UNITE HERE Local 11.\"",
+      "source": "https://voterguide.dsa-la.org/#santa-monica-wide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-a-charter-amendment-reiterating-good-faith-negotiation-obligations-and-establishing-impartial-binding-arbitration-for-certified-public-safety-employee-disputes/no",
+      "statement": "\"Vote NO\". \"Vote No.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-county-a"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-e-ethics-commission-and-community-investment-budget-allocation-charter-amendment/yes",
+      "statement": "\"Vote YES\". \"Vote yes.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-county-e"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-te-property-transfer-tax-exemption-for-victims-of-january-2025-fire-disaster/no",
+      "statement": "\"Vote NO\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-te"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/yes",
+      "statement": "\"Vote YES\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-la"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-pl-city-planning-department/yes",
+      "statement": "\"Vote YES\". \"Vote yes on PL.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-pl"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\". \"We’re not making a recommendation.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-ee"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes",
+      "statement": "\"Vote YES\". \"Vote YES on Charter Amendment PRK.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-prk"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prt-city-airports-harbor-and-water-and-power-departments/yes",
+      "statement": "\"Vote YES\". \"Vote YES on PRT.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-prt"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure SC (Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\". \"No recommendation on Charter Amendment SC.\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-sc"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ballot-measure-la-city-fd"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Caroline Menjivar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-20/caroline-menjivar",
+      "statement": "\"Caroline Menjivar\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-20"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-22"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "\"John Erickson\" — \"👍 Recommended\". \"We recommend you vote for John Erickson, the clear progressive choice.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-24"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sarah Rascón",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sarah-rascon",
+      "statement": "\"Sarah Rascón\" — \"👍 Recommended\". \"The choice is clear: vote for Sarah Rascón.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-26"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lola Smallwood-Cuevas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-28/lola-smallwood-cuevas",
+      "statement": "\"Lola Smallwood-Cuevas\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-28"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\". \"We cannot recommend a vote for Bob Archuleta.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-senate-30"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Randall Putz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-34/randall-putz",
+      "statement": "\"Randall Putz\" — \"👍 Recommended\". \"Even a middling Democrat would be better than his Republican opponent, vote for Randall Putz.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-34"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "\"Pilar Schiavo\" — \"👍 Recommended\". \"Vote for Pilar Schiavo.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-40"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nicholas \"Nick\" Schultz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-44/nicholas-nick-schultz",
+      "statement": "\"Nick Schultz\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-44"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Colin D. Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/colin-d-hernandez",
+      "statement": "\"Colin Hernandez\" — \"👍 Recommended\". \"With an unquestionably Democratic Socialist platform, vote for Colin Hernandez.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-51"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Isaac G. Bryan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/isaac-g-bryan",
+      "statement": "\"Isaac Bryan\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-55"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
+      "statement": "\"Tina McKinnor\" — \"👍 Recommended\". \"As a strong and consistent progressive voice in the Assembly, we recommend that you vote for Tina McKinnor.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-61"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sara Deen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-66/sara-deen",
+      "statement": "\"Sara Deen\" — \"👍 Recommended\". \"Vote for decidedly non-socialist but still lesser-of-two-evils Sara Deen.\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-66"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-39"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-41"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-42"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-43"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-46"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-48",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-48"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-49"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-52"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-53"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-54"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-56"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-57"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-62"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-64"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-65"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-67"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#ca-state-assembly-69"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Angélica María Dueñas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/angelica-maria-duenas",
+      "statement": "\"Angelica Dueñas\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-29"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angela Gonzales-Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/angela-gonzales-torres",
+      "statement": "\"Angela Gonzales-Torres\" — \"🌹 Endorsed\". \"DSA-LA is proud to endorse Angela Gonzales-Torres for CA-34.\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-34"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Samantha Mota",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/samantha-mota",
+      "statement": "\"Samantha Mota\" — \"👍 Recommended\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-37"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-26"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-27"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-28"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-30"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-31"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-32"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-35"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-36"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-38"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-41"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-42"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-43"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"No recommendation\"",
+      "source": "https://voterguide.dsa-la.org/#us-congress-44"
+    }
+  ]
+}

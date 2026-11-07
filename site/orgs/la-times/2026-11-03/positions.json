@@ -1,0 +1,40 @@
+{
+  "context": {
+    "title": "Los Angeles Times Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles Times Editorial Board",
+      "uri": "https://www.latimes.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-28T16:05:45Z",
+    "sources": [
+      "https://www.latimes.com/opinion/story/2026-09-06/editorial-vote-no-on-proposition-40",
+      "https://www.latimes.com/topic/editorials"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/la-times/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "California can ask the wealthy to contribute more without embracing a measure this flawed. Proposition 40 is a temporary tax masquerading as a fiscal solution, a permanent precedent for ballot-box budgeting and the wrong answer to the very real problems facing California. Vote no on Proposition 40.",
+      "source": "https://www.latimes.com/opinion/story/2026-09-06/editorial-vote-no-on-proposition-40"
+    }
+  ]
+}

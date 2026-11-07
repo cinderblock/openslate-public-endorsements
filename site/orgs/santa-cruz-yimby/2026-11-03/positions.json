@@ -1,0 +1,86 @@
+{
+  "context": {
+    "title": "Santa Cruz YIMBY — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-cruz-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Cruz YIMBY",
+      "uri": "https://yimbyaction.org/chapters/santa-cruz-yimby",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:50:24Z",
+    "sources": [
+      "https://yimbyaction.org/chapters/santa-cruz-yimby",
+      "https://yimbyaction.org/endorsements/november-2026-california-general"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/santa-cruz-yimby/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Capitola City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/capitola",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Wilk",
+      "statement": "\"Who we're endorsing\" / \"Peter WilkCity of Capitola City Council MemberCitywide\" / \"Endorsed\"",
+      "source": "https://yimbyaction.org/chapters/santa-cruz-yimby"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "YIMBY Action",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/yimby-action/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "Governor of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "Attorney General of California",
+          "kind": "race",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://yimbyaction.org/chapters/santa-cruz-yimby"
+    }
+  ]
+}

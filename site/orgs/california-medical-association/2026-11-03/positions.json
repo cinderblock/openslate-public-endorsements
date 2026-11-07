@@ -1,0 +1,377 @@
+{
+  "context": {
+    "title": "California Medical Association — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Medical Association",
+      "uri": "https://www.cmadocs.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:01:51Z",
+    "sources": [
+      "https://www.cmadocs.org/voter-guide"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/california-medical-association/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "\"Below are the statewide races in which CMA has made an endorsement.\" … \"Governor\" \"Xavier Becerra …\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "\"Below are the statewide races in which CMA has made an endorsement.\" … \"Attorney General\" \"Rob Bonta …\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "\"Below are the statewide races in which CMA has made an endorsement.\" … \"Lieutenant Governor\" \"Fiona Ma …\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "\"Below are the statewide races in which CMA has made an endorsement.\" … \"State Treasurer\" \"Eleni Kounalakis …\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"Proposition 3 - VOTE YES\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"Proposition 39 - VOTE NO\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "\"Proposition 40 - VOTE NO\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"Proposition 44 - VOTE NO\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "CALPAC-Supported Candidates, U.S. Congress: \"District 6: Richard Pan, M.D.\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-26/jacqui-irwin",
+      "statement": "CALPAC-Supported Candidates, U.S. Congress: \"District 26: Jacqui Irwin\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "CALPAC-Supported Candidates, U.S. Congress: \"District 48: Marni von Wilpert\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-10/scott-sakakihara",
+      "statement": "CALPAC-Supported Candidates, State Senate: \"District 10: Scott Sakakihara\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Magsig",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-12/nathan-magsig",
+      "statement": "CALPAC-Supported Candidates, State Senate: \"District 12: Nathan Magsig\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "CALPAC-Supported Candidates, State Senate: \"District 26: Sara Hernandez\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/mara-elliott",
+      "statement": "CALPAC-Supported Candidates, State Senate: \"District 40: Mara Elliott\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dom Belza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-3/dom-belza",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 3: Dom Belza\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Lucan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-12/eric-lucan",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 12: Eric Lucan\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Pacheco",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-27/brian-pacheco",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 27: Brian Pacheco\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-31/annalisa-perea",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 31: Annalisa Perea\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Couch",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-32/david-couch",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 32: David Couch\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charles Frederick Hughes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-34/charles-frederick-hughes",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 34: Charles Hughes\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-35/andrae-gonzales",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 35: Andrae Gonzalez\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 42: Deborah Klein Lopez\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 65: Ayanna Davis\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Deen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-66/sara-deen",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 66: Sara Deen\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-67/mark-pulido",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 67: Mark Pulido\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Penaloza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-68/david-penaloza",
+      "statement": "CALPAC-Supported Candidates, State Assembly: \"District 68: David Penaloza\"",
+      "source": "https://www.cmadocs.org/voter-guide"
+    }
+  ]
+}

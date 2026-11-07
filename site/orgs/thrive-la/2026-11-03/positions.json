@@ -1,0 +1,676 @@
+{
+  "context": {
+    "title": "Thrive LA voter guide — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Thrive LA",
+      "uri": "https://www.thrivelosangeles.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:07:03Z",
+    "sources": [
+      "https://www.thrivelosangeles.org/voter-guide"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/thrive-la/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Bass",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/karen-bass",
+      "statement": "Karen Bass is the better choice for a city that cannot afford to hand its top office to ideological experimentation.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Timothy K. Gaspar",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/timothy-k-gaspar",
+      "statement": "Tim Gaspar is the pro-growth, pro-safety, pro-accountability leader District 3 has been waiting for.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Ugarte",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-9/jose-ugarte",
+      "statement": "Jose Ugarte is the results-oriented leader District 9 needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven F. Veres",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/steven-f-veres",
+      "statement": "Steven Veres and Kristina Irwin both offer Seat 2 voters a serious, experienced trustee.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristina Irwin",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/kristina-irwin",
+      "statement": "Steven Veres and Kristina Irwin both offer Seat 2 voters a serious, experienced trustee.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darryn Harris",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-4/darryn-harris",
+      "statement": "Either Darryn Harris or Elaine Alaniz will give Seat 4 the results-focused leadership LACCD students need.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elaine Alaniz",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-4/elaine-alaniz",
+      "statement": "Either Darryn Harris or Elaine Alaniz will give Seat 4 the results-focused leadership LACCD students need.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Winston",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-6/randall-winston",
+      "statement": "Randall Winston and Tonia Arey both bring the professional seriousness LACCD's board needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tonia Arey",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-6/tonia-arey",
+      "statement": "Randall Winston and Tonia Arey both bring the professional seriousness LACCD's board needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McKinney",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/john-mckinney",
+      "statement": "John McKinney is the experienced, results-driven City Attorney Los Angeles needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Goldsmith",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/brian-goldsmith",
+      "statement": "Brian Goldsmith is the pro-growth, fiscally accountable senator SD-24 needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "Sara Hernandez is the pro-housing, pro-building candidate District 26 needs in the State Senate.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/rick-chavez-zbur",
+      "statement": "Rick Chavez Zbur is the experienced, serious legislator the 51st District needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ashley M. Brown",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/ashley-m-brown",
+      "statement": "Ashley M. Brown is the community-rooted alternative District 55 needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Constance Jewel Menzies",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/constance-jewel-menzies",
+      "statement": "Watchpoint: No Policy Platform: Menzies has not published any policy positions, does not operate a campaign website, and did not respond to voter guide surveys, including from the CRPA. Voters should be aware this is a protest vote, not a policy endorsement.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Lockwood",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/brian-lockwood",
+      "statement": "Brian Lockwood is the fiscally responsible alternative the 61st District needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Seo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-66/paul-seo",
+      "statement": "Paul Seo is the proven, accountable leader the 66th District needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jay Obernolte",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-23/jay-obernolte",
+      "statement": "Jay Obernolte is the fiscally disciplined, pro-safety representative District 23 needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Maria Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/luz-maria-rivas",
+      "statement": "Luz Maria Rivas is the practical, credible choice to keep CD-29 out of the hands of the activist fringe.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/jimmy-gomez",
+      "statement": "Jimmy Gomez is the experienced, effective representative CD-34 needs to keep DSA ideology out of Congress.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-te-property-transfer-tax-exemption-for-victims-of-january-2025-fire-disaster/yes",
+      "statement": "Vote Yes on Measure TE. Fire victims deserve relief, not a transfer tax bill.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/no",
+      "statement": "Vote No on Measure LA.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-pl-city-planning-department/no",
+      "statement": "The reforms Measure PL attempts are needed. The vehicle it uses is flawed. Vote No, and demand the Council come back with a complete, fully drafted Charter amendment that delivers these benefits without the legal loose ends.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-ee-city-ethics-elections-and-governance/no",
+      "statement": "When good policy is bundled with provisions that reduce citizen power and legislative accountability, the responsible vote is no. Voters should reject Measure EE and demand these proposals come back as separate, honest questions.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes",
+      "statement": "Vote Yes on PRK. Los Angeles parks deserve a funding floor, and Los Angeles taxpayers deserve a city government that can prioritize.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prt-city-airports-harbor-and-water-and-power-departments/yes",
+      "statement": "Vote Yes on Measure PRT.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-fd-funding-for-the-los-angeles-fire-department-through-a-one-half-percent-sales-tax/yes",
+      "statement": "This is a trade-off, not a celebration. The tax is permanent, it mandates project labor agreements on fire station construction (increasing costs), and it creates a funding silo that reduces budget flexibility. But the core question is simple: do Angelenos trust the City Council to fund fire protection at the level this city requires through the normal appropriations process? The last decade, and the last fire season, answered that question. Vote yes on Measure FD.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure SC (Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-sc-los-angeles-unified-school-district-campaign-finance-rules-related-to-board-of-education-elections/yes",
+      "statement": "Measure SC costs taxpayers nothing, creates no new regulations or fees, and streamlines a clunky process. Vote yes.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Luna",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-sheriff/robert-luna",
+      "statement": "Robert Luna has earned a second term through results, not rhetoric.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maria Ghobadi",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-64/maria-ghobadi",
+      "statement": "Maria Ghobadi is the proven, principled jurist Los Angeles needs on the Superior Court bench.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Slotky Reitano",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-65/anna-slotky-reitano",
+      "statement": "Anna Slotky Reitano has the courtroom depth and institutional knowledge to serve effectively on the Superior Court.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 87",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David DeJute",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-87/david-dejute",
+      "statement": "David DeJute is the experienced, no-nonsense judge Los Angeles County needs on the Superior Court.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Tryfman",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/donna-tryfman",
+      "statement": "Donna Tryfman is the experienced, balanced, public-safety-minded judge LA County's Superior Court needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-a-charter-amendment-reiterating-good-faith-negotiation-obligations-and-establishing-impartial-binding-arbitration-for-certified-public-safety-employee-disputes/yes",
+      "statement": "On balance, the calculus is straightforward: public safety is the foundational obligation of county government, and the people who perform that work deserve a fair process for resolving disputes. The fiscal risks are real but manageable if elected officials exercise discipline in other areas of the budget. Vote yes on Measure A.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-e-ethics-commission-and-community-investment-budget-allocation-charter-amendment/yes",
+      "statement": "On balance, the ethics infrastructure outweighs the fiscal rigidity concern. County government desperately needs independent oversight with real enforcement power, and this measure delivers it. Vote yes on Measure E.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "Ben Allen is the experienced, substantive Insurance Commissioner California needs.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "Thrive LA supports Proposition 1, but with clear eyes. This is not how we would design housing policy from scratch. Government bonds are an expensive way to finance housing, and every dollar spent on debt service is a dollar unavailable for tax relief or regulatory reform. The measure does nothing to reduce permitting barriers, CEQA delays, or zoning restrictions that remain the single largest obstacle to housing production in California. Subsidized units built with these funds carry 55-year affordability covenants that layer bureaucratic restrictions onto the housing stock for generations.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "On balance, however, we support Proposition 2. The fiscal discipline of larger mandatory reserves and accelerated debt repayment outweighs the Gann Limit concern, particularly because the alternative is a Legislature that spends every surplus dollar and then demands new taxes to cover the shortfall. Saving more during booms is the single best way to prevent tax increases during busts. Proposition 2 imposes that discipline by formula, not by trusting politicians to exercise restraint on their own.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
+      "statement": "Californians were promised a temporary tax, and Proposition 3 makes it permanent. Vote No on Proposition 3.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "Proposition 4 is a reasonable, narrowly scoped reform that returns local control to local voters.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "Vote No on Proposition 5. The recall belongs to the voters, not the political establishment.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "Proposition 37 is a reasonable, narrowly targeted tool to help working Californians buy homes. Vote yes.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "Vote No on Proposition 38.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/yes",
+      "statement": "Vote YES on Proposition 39. Election integrity is not a partisan cause. It is the foundation every other policy debate rests on.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "Vote No on Proposition 40. It is a wealth tax that will drive capital out of California, shrink the tax base, and establish a dangerous precedent for taxing savings at every income level.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "Every new tax reduces economic activity. It discourages investment, drives mobile capital to other states, and raises costs for the businesses and workers who remain. Proposition 41 does not eliminate the ability to levy new taxes, but it ensures that voters get honest information before they vote and that the constitutional guardrails they already approved cannot be quietly circumvented. Vote yes on Proposition 41.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "Vote Yes on Proposition 42. It is the most important taxpayer protection on the 2026 ballot.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
+      "statement": "Vote yes on Proposition 43. It is the strongest taxpayer protection measure on this ballot.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "Vote No on Proposition 44. It will close clinics, eliminate jobs, and reduce healthcare access for the Californians who need it most.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "Vote yes on Proposition 45. It is the most consequential pro-housing, pro-growth measure on the 2026 ballot.",
+      "source": "https://www.thrivelosangeles.org/voter-guide"
+    }
+  ]
+}

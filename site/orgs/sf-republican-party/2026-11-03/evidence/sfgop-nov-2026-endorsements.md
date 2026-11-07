@@ -1,0 +1,108 @@
+# Evidence: San Francisco GOP — November 2026 Election
+
+- **Source URL**: https://sfgop.org/nov-2026-endorsements
+- **Retrieved**: 2026-10-19T21:04:20Z (curl GET with a browser User-Agent; HTML converted to text)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+November 2026 Election
+
+Official Endorsements and Recommendations for the November 3, 2026 Election
+
+Endorsements for the California statewide candidates and initiatives are on the California GOP website at https://cagop.org/endorsements/
+
+Our local endorsements this year reflect three simple principles: accountability in City Hall, no new taxes on struggling families and businesses, and common sense in how our city is run.
+
+Candidates
+
+Congress (CA-11) - Recommendation: Do NOT vote for Scott Wiener
+
+The race to succeed Nancy Pelosi leaves San Francisco with two candidates and no good choice. So we asked a simpler question: who would do the most damage in Washington? The answer is Scott Wiener. He wrote the book on overregulation in California. Don’t let him write the sequel in Congress. Do NOT vote for Scott Wiener.
+
+Congress (CA-15) — Endorsed: Charles Hoelter
+
+Charles Hoelter is a citizen candidate, not a career politician. A retired UPS supervisor and Peninsula resident for more than thirty years, Charles is running to restore accountability in Washington and bring common sense back to Congress. We endorse Charles Hoelter.
+
+State Assembly, District 17 — Endorsed: Manuel Noris-Barrera
+
+When no challenger made the June ballot, Manuel Noris-Barrera ran as a write-in so east-side voters would have a real choice in November. We endorse Manuel Noris-Barrera for Assembly.
+
+State Assembly, District 19 — Endorsed: Philip Wing
+
+Philip Wing spent his career as a financial advisor helping families live within their means, which is the discipline Sacramento has forgotten. We endorse Philip Wing for Assembly.
+
+Board of Supervisors, District 2 — Endorsed: Nicholas Berg
+
+Nicholas Berg has spent his career actually running things - including managing budgets, buildings, and teams across San Francisco's neighborhoods. He also serves as the SFGOP Chairman. We are proud to give Nick Berg our full endorsement.
+
+Board of Supervisors, District 4 — Recommended: Alan Wong
+
+Board of Supervisors, District 6 — Recommended: Matt Dorsey
+
+In Districts 4 and 6, we recommend Alan Wong and Matt Dorsey as the candidates best positioned to stand up for safe streets, functional government, and the everyday concerns of residents.
+
+Board of Education — Recommended: Laurence Lee, Phillip Kim, and Tim Tung
+
+Our public schools should focus on outcomes: reading, math, and preparing kids for real opportunity. We recommend Laurence Lee, Phillip Kim, and Tim Tung for the Board of Education.
+
+Community College Board — Recommended: Elijah Ball
+
+We recommend Elijah Ball for the Community College Board.
+
+Board of Equalization — Recommended: John Pimentel
+
+We recommend John Pimentel for the State Board of Equalization, California's elected tax oversight body. Taxpayers deserve a watchdog, not a rubber stamp.
+
+No Endorsement
+
+At this time, we are making no endorsements in Board of Supervisors, Districts 8 and 10.
+
+Ballot Measures
+
+[img: ✅] YES on A — Charter Changes Affecting Various City Departments and Commissions
+
+Streamlines our bloated City Charter and reins in the tangle of oversight committees that diffuse responsibility. Fewer layers, more accountability.
+
+[img: ❌] NO on B — Establishing a Municipal Finance Corporation and a Public Bank
+
+San Francisco's municipal government lacks the competence, integrity, and incentives to run a bank. We believe they would make lending decisions based on cronyism - not risk. Vote NO.
+
+[img: ❌] NO on C — Contributions to the Housing Fund
+
+Another budget set-aside that locks up taxpayer dollars while the city faces a structural deficit. Vote NO.
+
+[img: ❌] NO on D — Changes to Ballot Measure Process
+
+Prop D would quadruple the signatures required to place a citizen initiative on the ballot — from 2% to 8% of registered voters. The initiative process belongs to the people, not the politicians. Vote NO.
+
+[img: ✅] YES on E - City Administrator’s Authority and Changes to City Contracting
+
+When city services fail, voters should know exactly who is responsible. Prop E strengthens the executive branch's authority over city government so that accountability sits where voters can reach it - at the ballot box. Vote YES.
+
+[img: ✅] YES on F — Changes to Executive Branch Management
+
+Today, the Mayor can hire and fire only a small fraction of department heads; the rest answer to unelected commissions. Prop F lets the Mayor reorganize failing departments, appoint and remove department heads, and answer directly to voters for the results - with the Board of Supervisors retaining the power to block any change. Accountability requires authority. Vote YES
+
+[img: ✅] YES on G — Allowing Private Vehicles on the Great Highway in Sunset Dunes Park
+
+Westside families were promised a compromise and got a road closure. Prop G restores weekday vehicle access to the Upper Great Highway while preserving weekend recreation. Vote YES.
+
+[img: ❌] NO on H — Parcel Tax to Fund Public Muni Operations
+
+A 15-year property tax to bail out an agency that refuses to reform itself. Fix SFMTA's management before asking homeowners for more money. Vote NO.
+
+[img: ❌] NO on I — Changes to Real Property Transfer Tax
+
+Earmarks 50% of real estate transfer tax revenue to housing and development projects. It was signature-gathered largely by the Democratic Socialist of America. Mayor Lurie said it would create "an unaccountable slush fund for the groups that wrote it". Vote NO.
+
+[img: ❌] NO on J — Removal of Foreclosure Exemption for Real Property Transfer Tax
+
+Removes a longstanding tax exemption and squeezes property owners at their most vulnerable moment. Vote NO.
+
+[img: ❌] NO on RTM — Regional Transit Measure
+
+A 14-year sales tax levied across five counties funding regional transit - levied at 1% in San Francisco but only 0.5% everywhere else. San Franciscans already pay among the highest sales taxes in California. We shouldn't be paying twice the rate of Santa Clara or San Mateo residents for the same regional systems. Vote NO.
+
+Ballots arrive in mailboxes in early October. Vote early and share this guide with a neighbor.
+```

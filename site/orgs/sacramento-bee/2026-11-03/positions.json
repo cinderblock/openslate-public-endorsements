@@ -1,0 +1,321 @@
+{
+  "context": {
+    "title": "The Sacramento Bee Editorial Board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sacramento-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "The Sacramento Bee Editorial Board",
+      "uri": "https://www.sacbee.com/opinion/election-endorsements/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-11-01T17:00:00Z",
+    "sources": [
+      "https://www.sacbee.com/opinion/election-endorsements/",
+      "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
+    ],
+    "capture": {
+      "run": "2026-11-02T1300Z",
+      "manifest_sha256": "074b5dfa12cad5d36c319039318f33ffe535eb7b6a5d637fc9b5e53db97b32ad",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/5ae23a52b6fcb0d8cf7ab2dbc0fef9e103fbd21e/provenance/sacramento-bee/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "\"Democrat Xavier Becerra does not receive our endorsement by default, but because he shows the potential to lead this state well into an uncertain future, and offers a steadier, more substantive style of leadership that California has long — and desperately — needed.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316832589.html"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/herb-w-morgan",
+      "statement": "\"If the choice for controller were based solely on the merits and not party affiliation, voters would elect Republican Herb Morgan and oust Cohen. The collective editorial boards of The Sacramento Bee, Modesto Bee, Merced Sun-Star, Fresno Bee and San Luis Obispo Tribune endorse Morgan because he is the most qualified person for the office. Cohen did not respond to our interview requests and our board does not endorse candidates who won’t meet with us. Four years ago, we endorsed Cohen’s Republican candidate because she is an uninspiring candidate.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317171649.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/ami-bera",
+      "statement": "\"That’s why California voters approved Prop. 50 and it’s why Bera is the only candidate in this race who can be counted on to deliver.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317172915.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-1/heather-hadwick",
+      "statement": "\"We endorse Hadwick for another term representing California’s 1st Assembly District.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317045348.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-6/maggy-krell",
+      "statement": "\"She also isn’t afraid of liberal Democratic Party leaders who too often reject even modest attempts to stiffen the penalties for crimes. For this reason and others, The Sacramento Bee Editorial Board endorses Krell in her re-election campaign to continue representing the Assembly’s 6th District. Most of the 6th District is north of Highway 50, including downtown, Arden-Arcade, Natomas and Rio Linda.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317182902.html"
+    },
+    {
+      "subject": {
+        "title": "Sacramento County Board of Supervisors, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Flo Cofer",
+      "statement": "\"The Bee endorsed public health advocate Flojaune Cofer over Sacramento City Councilmember Eric Guerra in the June primary to fill this seat. We affirm our support for Cofer. She is best suited to shake up a stagnant board that needs to fundamentally change how it does its business. The public deserves better.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317079847.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Kozlowski",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Aquino",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Rohrbough",
+      "statement": "\"The Bee endorses incumbents Mike Kozlowski of District 1, Sarah Aquino of District 3 and Anna Rohrbough of District 5.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article316956698.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure I (Charter Amendment: City Council to Appoint and Direct the City Attorney)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Only Folsom voters can alter the city charter. Therefore, The Bee Editorial Board recommends ‘yes’ votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure J (Charter Amendment: Decision-Making Authority for Boards and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Only Folsom voters can alter the city charter. Therefore, The Bee Editorial Board recommends ‘yes’ votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Folsom — Measure K (Campaign Contribution Limit Increase from $150 to $500)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/folsom",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "\"Only Folsom voters can alter the city charter. Therefore, The Bee Editorial Board recommends ‘yes’ votes on Measures I, J and K.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317051745.html"
+    },
+    {
+      "subject": {
+        "title": "Sacramento City Unified School District — Measure M (Special Education Parcel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"This is why The Bee Editorial Board recommends a “No” vote on Measure M.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317497694.html"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeresia Ewell",
+      "statement": "\"This is why The Sacramento Bee Editorial Board endorses Jeresia Ewell to be RJUHSD’s trustee for Area 2. A lawyer, Ewell is an engaged candidate and a resident of West Roseville. She has two kids, including a child enrolled at an RJUHSD school. Ewell owns a legal consulting firm and serves in a bar association leadership role.\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317514817.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
+      "statement": "The Bee endorsed Sacramento City Councilmember Mai Vang over incumbent Doris Matsui",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317131383.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "\"The Sacramento Bee editorial board endorsed Dr. Richard Pan\"",
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317856063.html"
+    }
+  ],
+  "adopts": [
+    {
+      "issuer": "ed25519:55R2yyDnvx3DZCYshQQAb1LKJf6QAiyvojUvBbmziNuT",
+      "of": "McClatchy Media's California editorial boards (Sacramento Bee, Fresno Bee, Modesto Bee and others)",
+      "election": "2026-11-03",
+      "uri": "https://cinderblock.github.io/openslate-public-endorsements/orgs/mcclatchy-california-editorial-boards/2026-11-03/signed.slate",
+      "subjects": [
+        {
+          "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        },
+        {
+          "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+          "kind": "measure",
+          "jurisdiction": "us/ca",
+          "election": "2026-11-03"
+        }
+      ],
+      "source": "https://www.sacbee.com/opinion/election-endorsements/article317765284.html"
+    }
+  ]
+}

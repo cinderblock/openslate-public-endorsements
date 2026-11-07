@@ -1,0 +1,598 @@
+{
+  "context": {
+    "title": "Reproductive Freedom for All — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Reproductive Freedom for All",
+      "uri": "https://reproductivefreedomforall.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:37:12Z",
+    "sources": [
+      "https://reproductivefreedomforall.org/endorsements/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/reproductive-freedom-for-all/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Mike McGuire\" / \"CA-01\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/ami-bera",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Ami Bera\" / \"CA-03\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Richard Pan\" / \"CA-06\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/doris-matsui",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Doris Matsui\" / \"CA-07\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/josh-harder",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Josh Harder\" / \"CA-09\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-13/adam-gray",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Adam Gray\" / \"CA-13\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Randy Villegas\" / \"CA-22\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-27/george-whitesides",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"George Whitesides\" / \"CA-27\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-28/judy-chu",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Judy Chu\" / \"CA-28\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Maria Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/luz-maria-rivas",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Luz Rivas\" / \"CA-29\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Pete Aguilar\" / \"CA-33\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma J. Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-35/norma-j-torres",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Norma Torres\" / \"CA-35\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted W. Lieu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-36/ted-w-lieu",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Ted Lieu\" / \"CA-36\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/sydney-kamlager-dove",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Sydney Kamlager-Dove\" / \"CA-37\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Derek Tran\" / \"CA-45\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-47/dave-min",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Dave Min\" / \"CA-47\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Marni von Wilpert\" / \"CA-48\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Mike Levin\" / \"CA-49\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-51/sara-jacobs",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 U.S. House of Representatives\": \"Sara Jacobs\" / \"CA-51\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Gubernatorial Races\": \"Xavier Becerra\" / \"California - Governor\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Fiona Ma\" / \"California - Lt. Governor\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Rob Bonta\" / \"California - Attorney General\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Shirley Weber\" / \"California - Secretary of State\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Eleni Kounalakis\" / \"California - Treasurer\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Malia Cohen\" / \"California - Controller\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Ben Allen\" / \"California - Insurance Commissioner\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Jane Kim\" / \"California - Insurance Commissioner\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 Statewide Races\": \"Richard Barrera\" / \"California - Superintendent of Public Instruction\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-10/scott-sakakihara",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Scott Sakakihara\" / \"California SD-10\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-16/melissa-hurtado",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Melissa Hurtado\" / \"California SD-16\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-20/caroline-menjivar",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Caroline Menjivar\" / \"California SD-20\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"John Erickson\" / \"California SD-24\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Sara Hernandez\" / \"California SD-26\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine S. Blakespear",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-38/catherine-s-blakespear",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Catherine Blakespear\" / \"California SD-38\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/mara-elliott",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Mara Elliott\" / \"California SD-40\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy L. Slavensky",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-7/amy-l-slavensky",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Amy Slavensky\" / \"California AD-07\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-35/andrae-gonzales",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Andrae Gonzales\" / \"California AD-35\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Pilar Schiavo\" / \"California AD-40\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Deborah Klein Lopez\" / \"California AD-42\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-58/clarissa-cervantes",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Clarissa Cervantes\" / \"California AD-58\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey A Jackson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-60/corey-a-jackson",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Corey Jackson\" / \"California AD-60\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Ayanna Davis\" / \"California AD-65\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/chris-kluwe",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Chris Kluwe\" / \"California AD-72\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-76/darshana-patel",
+      "statement": "Under \"Who We're Endorsing\" / \"2026 State Legislatures\": \"Darshana R. Patel\" / \"California AD-76\".",
+      "source": "https://reproductivefreedomforall.org/endorsements/"
+    }
+  ]
+}

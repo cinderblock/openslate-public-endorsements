@@ -1,0 +1,102 @@
+# Evidence: Potrero Hill Democratic Club — Endorsements for November 3, 2026 General Election
+
+- **Source URL**: https://phdemclub.org/endorsements-for-november-3-2026-general-election/
+- **Retrieved**: 2026-10-19T21:07:54Z (curl GET with a browser User-Agent; HTML converted to text)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+Endorsements for November 3, 2026 General Election
+
+California Governor
+XAVIER BECERRA
+
+California Lieutenant Governor
+FIONA MA
+
+California Secretary of State
+SHIRLEY WEBER
+
+State Controller
+MALIA COHEN
+
+California Attorney General
+ROB BONTA
+
+California State Treasurer
+ELENI KOUNALAKIS
+
+Insurance Commissioner
+JANE KIM
+
+Board of Equalization Member, District 2
+SALLY LIEBER
+
+California Superintendent of Public Instruction
+RICHARD BARRERA
+
+State Assembly, District 17
+MATT HANEY
+
+Member, U.S. Congress, District 11
+SCOTT WIENER
+
+San Francisco Supervisor, District 10
+J.R. EPPLER sole endorsement
+
+SF Assessor-Recorder
+JOAQUIN TORRES
+
+SF Public Defender
+MANO RAJU
+
+SF Board of Education
+ALIDA FISHER, PHIL KIM, REINA TELLO
+
+SF Community College Board – full term
+LEAH LACROIX, BUNNY MCFADDEN
+
+SF Community College Board – full term
+RUTH FERGUSON
+
+Two Associate Justices of the Supreme Court
+YES
+
+Eleven Associate Justices, Court of Appeal, First District
+YES
+
+California Propositions
+1 – YES!! Bonds for housing affordability
+2 – YES!! Increases state’s rainy day fund
+3 – YES!! Permanent funding for schools and healthcare by extending existing tax on high incomes
+4 – YES!! Repeals prohibition against public funding of election campaigns
+5 – YES. Changes recall election process for statewide officers
+37 – YES. Loan program for middle-income buyers of qualified new homes
+38 – NO. Authorizes bonds for immunology medical research
+39 – NO!! Prohibits citizens from voting unless they present government-issued verification
+40 – NO. Imposes one-time tax on certain taxpayers
+41 – NO. Prohibits new state taxes that exclude revenues from state spending limit, requires audits for new state special taxes
+42 – NO. Prohibits new state personal property taxes and certain retroactive state taxes
+43 – NO!! Limits voters’ ability to raise revenues for local government services
+44 – NO. Requires community health clinics spend 90% of revenue on program services
+45 – NO. Modifies environmental review for certain projects
+
+San Francisco Propositions
+A – no position. Charter Changes Affecting Various City Departments and Commissions
+B – YES. Establishing a Municipal Finance Corporation and a Public Bank
+C – YES!! Contributions to the Housing Fund
+D – NO. Changes to Ballot Measure Process
+E – no position. City Administrator’s Authority and Changes to City Contracting
+F – NO. Changes to Executive Branch Management
+G – NO!! Allowing Private Vehicles on the Great Highway in Sunset Dunes Park
+H – YES!! Parcel Tax to Fund Public Muni Operations
+I – YES. Changes to Real Property Transfer Tax
+J – YES. Removal of Foreclosure Exemption for Real Property Transfer Tax
+
+Regional Proposition
+RTM – YES!! Regional Transit Measure
+
+!! = unanimous
+
+No position = neither YES nor NO received the requisite 60% of votes.
+```

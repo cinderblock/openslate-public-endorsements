@@ -1,0 +1,47 @@
+{
+  "context": {
+    "title": "League of Women Voters Bay Area: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "League of Women Voters Bay Area",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=759",
+      "https://acvote.alamedacountyca.gov/acvote-assets/02_election_information/PDFs/20261103/Voter%20Information%20Guide/vig_nov2026_eng.pdf#page=761",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/lwv-bay-area/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "League of Women Voters of the Bay Area signed the argument in favor of Bay Area Regional Measure RTM in the San Francisco Voter Information Pamphlet. Louise Rothman-Riemer (Co President) for League of Women Voters Bay Area signed the argument in favor of Bay Area Regional Measure RTM and the rebuttal to the argument against Bay Area Regional Measure RTM in the Alameda County Voter Information Guide.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=56"
+    }
+  ]
+}

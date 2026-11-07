@@ -1,0 +1,39 @@
+{
+  "context": {
+    "title": "SMFC Education Foundation: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "SMFC Education Foundation",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-25T05:42:54Z",
+    "sources": [
+      "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-5ArgInFavor-SMFCSD%20Bond_Redacted.pdf",
+      "https://smcacre.gov/system/files/2026-08/52-ENG-MW-RebutArgAgainst-SMFCSD-Bond_Redacted.pdf"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/smfc-education-foundation/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Mateo-Foster City School District — Measure W (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-foster-city-school-district-measure-w-bond-measure/yes",
+      "statement": "Christina Ogburn-Chow (President, SMFC Education Foundation) signed the argument in favor of San Mateo-Foster City School District Measure W and the rebuttal to the argument against San Mateo-Foster City School District Measure W in the San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election voter guide.",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M306-Contest%20Code-5ArgInFavor-SMFCSD%20Bond_Redacted.pdf"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "context": {
+    "title": "Long Beach Young Democrats — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Long Beach Young Democrats (LBYD)",
+      "uri": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T03:57:23Z",
+    "sources": [
+      "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268",
+      "https://www.instagram.com/p/DXQUW-BlDP9/?img_index=2"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/long-beach-young-democrats/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-42/robert-garcia",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"U.S. House California District 42\" … \"Robert Garcia\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-67/mark-pulido",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"California State Assembly District 67\" … \"Mark Pulido\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"California Commissioner of Insurance\" … \"Ben Allen\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Ross",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/david-ross",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"David Ross\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhonda Haymon",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-64/rhonda-haymon",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"Rhonda Haymon\"",
+      "source": "https://bluevoterguide.org/endorser-org/Long_Beach_Young_Democrats_(LBYD)/CA/3268"
+    }
+  ]
+}

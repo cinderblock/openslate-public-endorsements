@@ -1,0 +1,2475 @@
+{
+  "url": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf",
+  "sha256": "a7bed257d8237ce2251f178e841551fa5c3d7ddde8642bacea153ecaf07c9dd6",
+  "contests": [
+    {
+      "number": "2000",
+      "title": "Governor",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "XAVIER BECERRA",
+          "party": "DEM",
+          "designation": "Voting Rights Attorney",
+          "statementFiled": false
+        },
+        {
+          "name": "STEVE HILTON",
+          "party": "REP",
+          "designation": "Small Business Owner",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2005",
+      "title": "Lieutenant Governor",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FIONA MA",
+          "party": "DEM",
+          "designation": "State Treasurer / CPA",
+          "statementFiled": false
+        },
+        {
+          "name": "GLORIA ROMERO",
+          "party": "REP",
+          "designation": "Educator / Businesswoman",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2010",
+      "title": "Secretary of State",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SHIRLEY N. WEBER",
+          "party": "DEM",
+          "designation": "California Secretary of State",
+          "statementFiled": false
+        },
+        {
+          "name": "DONALD P. (DON) WAGNER",
+          "party": "REP",
+          "designation": "Orange County Supervisor",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2015",
+      "title": "Controller",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MALIA M. COHEN",
+          "party": "DEM",
+          "designation": "State Controller / Mother",
+          "statementFiled": false
+        },
+        {
+          "name": "HERB W MORGAN",
+          "party": "REP",
+          "designation": "Chief Investment Officer",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2020",
+      "title": "Treasurer",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ELENI KOUNALAKIS",
+          "party": "DEM",
+          "designation": "Lieutenant Governor of California",
+          "statementFiled": false
+        },
+        {
+          "name": "JENNIFER HAWKS",
+          "party": "REP",
+          "designation": "Retired Business Executive",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2025",
+      "title": "Attorney General",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROB BONTA",
+          "party": "DEM",
+          "designation": "California Attorney General",
+          "statementFiled": false
+        },
+        {
+          "name": "MICHAEL E. GATES",
+          "party": "REP",
+          "designation": "Deputy United States Attorney",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2030",
+      "title": "Insurance Commissioner",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BEN ALLEN",
+          "party": "DEM",
+          "designation": "California State Senator",
+          "statementFiled": false
+        },
+        {
+          "name": "JANE KIM",
+          "party": "DEM",
+          "designation": "Attorney / Consumer Advocate",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2035",
+      "title": "Member, State Board of Equalization, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SALLY J. LIEBER",
+          "party": "DEM",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "JOHN PIMENTEL",
+          "party": "DEM",
+          "designation": "Member, Board of Trustees, San Mateo County Community College District",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2203",
+      "title": "U.S. Representative, District 15",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KEVIN MULLIN",
+          "party": "DEM",
+          "designation": "U.S. Representative",
+          "statementFiled": true
+        },
+        {
+          "name": "CHARLES HOELTER",
+          "party": "REP",
+          "designation": "Retired Training Supervisor",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2204",
+      "title": "U.S. Representative, District 16",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SAM LICCARDO",
+          "party": "DEM",
+          "designation": "United States Representative",
+          "statementFiled": true
+        },
+        {
+          "name": "PETER SUNDIN SOULÉ",
+          "party": "REP",
+          "designation": "Investor",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2404",
+      "title": "Member of the State Assembly, District 19",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CATHERINE STEFANI",
+          "party": "DEM",
+          "designation": "Assemblymember",
+          "statementFiled": true
+        },
+        {
+          "name": "PHILIP LOUIS WING",
+          "party": "REP",
+          "designation": "Retired Financial Advisor",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2405",
+      "title": "Member of the State Assembly, District 21",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DIANE PAPAN",
+          "party": "DEM",
+          "designation": "California State Assemblymember",
+          "statementFiled": false
+        },
+        {
+          "name": "JABRA J MUHAWIEH",
+          "party": "REP",
+          "designation": "Enrolled Agent / Businessman",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "2406",
+      "title": "Member of the State Assembly, District 23",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARC BERMAN",
+          "party": "DEM",
+          "designation": "State Assemblymember",
+          "statementFiled": true
+        },
+        {
+          "name": "DAVID G. JOHNSON",
+          "party": "REP",
+          "designation": "Small Business Owner",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3000",
+      "title": "Superintendent of Public Instruction",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RICHARD BARRERA",
+          "designation": "State Superintendent Advisor",
+          "statementFiled": false
+        },
+        {
+          "name": "SONJA SHAW",
+          "designation": "School District President",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3020",
+      "title": "County Board of Education Member, Trustee Area 1",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SUSAN ALVARO",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3021",
+      "title": "County Board of Education Member, Trustee Area 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BEVERLY GERARD",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "DANA JOHNSON",
+          "designation": "Program Director / Commissioner",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3022",
+      "title": "County Board of Education Member, Trustee Area 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOHN C. BAKER",
+          "designation": "Grant Administrator / Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3103",
+      "title": "San Mateo County Community College District Member, Governing Board, Trustee Area 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MIKE GUINGONA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "JASON HOLT",
+          "designation": "Software Engineer / Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3105",
+      "title": "San Mateo County Community College District Member, Governing Board, Trustee Area 4",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RICHARD HOLOBER",
+          "designation": "College Board Vice-President",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3202",
+      "title": "Cabrillo Unified School District Member, Governing Board, Trustee Area A",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KYLE EKBERG",
+          "designation": "Father / Regulatory Strategist",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3204",
+      "title": "Cabrillo Unified School District Member, Governing Board, Trustee Area C",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PETER TOKOFSKY",
+          "designation": "Teacher / Dad / Journalist",
+          "statementFiled": true
+        },
+        {
+          "name": "LIZET CORTES-RONQUILLO",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3206",
+      "title": "Cabrillo Unified School District Member, Governing Board, Trustee Area E",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARY BETH ALEXANDER",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ANDREA ROSENTHAL",
+          "designation": "Teacher / Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3221",
+      "title": "La Honda-Pescadero Unified School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "DEBORAH WALTER-ROSAS",
+          "designation": "Paralegal / Grandparent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3244",
+      "title": "South San Francisco Unified School District Member, Governing Board, Trustee Area C",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHIALIN HSIEH",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "AVIN SHARMA",
+          "designation": "Parent / Finance Administrator",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3245",
+      "title": "South San Francisco Unified School District Member, Governing Board, Trustee Area D",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AMANDA ANTHONY",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3246",
+      "title": "South San Francisco Unified School District Member, Governing Board, Trustee Area E",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FRANK LARA",
+          "designation": "Teacher / Union Leader",
+          "statementFiled": true
+        },
+        {
+          "name": "MINA A. RICHARDSON",
+          "designation": "SSFUSD Trustee",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3300",
+      "title": "Jefferson Union High School District Member, Governing Board (Full Term)",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "LASAUNDRA A. GUTTER",
+          "designation": "Appointed Board Member",
+          "statementFiled": false
+        },
+        {
+          "name": "ROSIE TEJADA",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "SHERRETT WALKER",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3301",
+      "title": "Jefferson Union High School District Member, Governing Board (Short Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOELLE M. CASTORENO",
+          "designation": "Healthcare Administrator / Parent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3322",
+      "title": "San Mateo Union High School District Member, Governing Board, Trustee Area 1",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "TERI L. CHAVEZ",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3324",
+      "title": "San Mateo Union High School District Member, Governing Board, Trustee Area 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DIANA HARRIS",
+          "designation": "Teacher / Mother",
+          "statementFiled": true
+        },
+        {
+          "name": "JENNIFER JACOBSON",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3326",
+      "title": "San Mateo Union High School District Member, Governing Board, Trustee Area 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KIMO ROSENBAUM",
+          "designation": "Parent / Software Engineer",
+          "statementFiled": true
+        },
+        {
+          "name": "ALISON PROCTOR",
+          "designation": "San Mateo-Foster City School District Trustee",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3342",
+      "title": "Sequoia Union High School District Member, Governing Board, Trustee Area A",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AMY KOO",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ALON SHIRAN",
+          "designation": "Product Executive / Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3345",
+      "title": "Sequoia Union High School District Member, Governing Board, Trustee Area D",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MICHAEL DEKSHENIEKS",
+          "designation": "Management Executive / Parent",
+          "statementFiled": false
+        },
+        {
+          "name": "SATHVIK NORI",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3400",
+      "title": "Bayshore Elementary School District Member, Governing Board (Full Term)",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "GLORIA KARINA FERRUSCA",
+          "designation": "Mother / Attorney",
+          "statementFiled": true
+        },
+        {
+          "name": "DAVID T. RUDOLPH",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "JANE W. CAMARCO",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3422",
+      "title": "Belmont-Redwood Shores School District Member, Governing Board, Trustee Area 1",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHARLES SHAGONG",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3424",
+      "title": "Belmont-Redwood Shores School District Member, Governing Board, Trustee Area 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DAVID A. KOSS",
+          "designation": "Board President, BRSSD",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3440",
+      "title": "Brisbane School District Member, Governing Board",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "CHARLENE LARSON",
+          "designation": "Retired Federal Employee",
+          "statementFiled": true
+        },
+        {
+          "name": "MORGAN FINLAY",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "EMILY WIROWEK",
+          "designation": "Parent / Attorney",
+          "statementFiled": true
+        },
+        {
+          "name": "SARAH DUFFY",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3462",
+      "title": "Burlingame School District Member, Governing Board, Trustee Area 1",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SEMONTI STEPHENS",
+          "designation": "Appointed Burlingame School District Member",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3465",
+      "title": "Burlingame School District Member, Governing Board, Trustee Area 4",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LAURA BULL",
+          "designation": "Parent / Attorney",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3480",
+      "title": "Hillsborough City School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "GILBERT WAI",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "AN HUANG CHEN",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "DON GEDDIS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3500",
+      "title": "Jefferson Elementary School District Member, Governing Board (Full Term)",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "AARON RASHBA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ANTHONY TSUJISAKA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "SHAKEEL ALI",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3501",
+      "title": "Jefferson Elementary School District Member, Governing Board (Short Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "EILEEN R. POLICARPIO",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3520",
+      "title": "Las Lomitas Elementary School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "GAUTAM NADELLA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "HEATHER HOPKINS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ERIN K. TIEDENS",
+          "designation": "Substitute Teacher / Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3541",
+      "title": "Menlo Park City School District Member, Governing Board",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "JED SCOLNICK",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "MAYA HERSTEIN",
+          "designation": "Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "SHERWIN CHEN",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ANDREW BARNES",
+          "designation": "County of Santa Clara Facilities Professional",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3561",
+      "title": "Millbrae Elementary School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "CLAIRE BELTRAMI",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "DENIS FAMA",
+          "designation": "Educator / Consultant",
+          "statementFiled": false
+        },
+        {
+          "name": "NNENNA C. OKEZIE-SANCHEZ",
+          "designation": "Educator / Parent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3580",
+      "title": "Pacifica School District Member, Governing Board (Full Term)",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "BRIDGET HARDT",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "RACHEL DURKIN",
+          "designation": "Realtor / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "GRACE SOBIESKI",
+          "designation": "Parent / Educator",
+          "statementFiled": true
+        },
+        {
+          "name": "TIFFANY BUTTON",
+          "designation": "Quality Director / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "CHRISTOPHER SWIEDLER",
+          "designation": "Parent / Software Engineer",
+          "statementFiled": true
+        },
+        {
+          "name": "KATY BRADLEY",
+          "designation": "Union Organizer / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "LAVERNE R VILLALOBOS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3581",
+      "title": "Pacifica School District Member, Governing Board (Short Term)",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KELLY MENDOZA",
+          "designation": "Education Programs Leader",
+          "statementFiled": true
+        },
+        {
+          "name": "TRACEY SIMMONS",
+          "designation": "Artist / Biologist",
+          "statementFiled": true
+        },
+        {
+          "name": "ELIZABETH A. BREDALL",
+          "designation": "Special Education Paraprofessional",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3601",
+      "title": "Portola Valley School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "ROBERT KX JIN",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "AIMEE ARMSBY",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3620",
+      "title": "Ravenswood City School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "LAURA NUNEZ",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "MELE KASAVU LATU",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "TAMARA SOBOMEHIN",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3643",
+      "title": "Redwood City School District Member, Governing Board, Trustee Area 2",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DAVID E. WEEKLY",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3646",
+      "title": "Redwood City School District Member, Governing Board, Trustee Area 5",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CECILIA I. MARQUEZ",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3663",
+      "title": "San Bruno Park School District Member, Governing Board, Trustee Area 2",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DENISE COOK",
+          "designation": "Parent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3664",
+      "title": "San Bruno Park School District Member, Governing Board, Trustee Area 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DUANE BEADLES",
+          "designation": "Union Electrician / Parent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3666",
+      "title": "San Bruno Park School District Member, Governing Board, Trustee Area 5",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RAYMOND GIUSTI",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3680",
+      "title": "San Carlos School District Member, Governing Board",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "BORIS LIPKIN",
+          "designation": "Appointed San Carlos School District Member, Governing Board",
+          "statementFiled": true
+        },
+        {
+          "name": "RICHARD F. WAHL",
+          "designation": "Optician / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "MEGHA CHAWLA",
+          "designation": "Tech Executive / Mother",
+          "statementFiled": true
+        },
+        {
+          "name": "SHIVANI TRIPATHI",
+          "designation": "Community Volunteer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3702",
+      "title": "San Mateo-Foster City School District Member, Governing Board, Trustee Area 1 (Full Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ALLYSON CHAN",
+          "designation": "Education Programs Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "3703",
+      "title": "San Mateo-Foster City School District Member, Governing Board, Trustee Area 2 (Full Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SABRINA OCAMPO",
+          "designation": "Parent / Account Executive",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3704",
+      "title": "San Mateo-Foster City School District Member, Governing Board, Trustee Area 3 (Short Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "STACEY HO",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "3720",
+      "title": "Woodside Elementary School District Member, Governing Board",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "SUJAY JASWA",
+          "designation": "Tech Entrepreneur / Parent",
+          "statementFiled": false
+        },
+        {
+          "name": "AMANDA PEIFFER",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "MIA HALL",
+          "designation": "Parent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "4050",
+      "title": "Member, Board of Supervisors, District 5 (Short Term)",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARK NAGALES",
+          "designation": "Vice Mayor",
+          "statementFiled": true
+        },
+        {
+          "name": "JUSLYN CABRERA MANALO",
+          "designation": "Daly City Councilmember",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5000",
+      "title": "Town of Atherton Member, City Council (Full Term)",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "RICK DEGOLIA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "CHRISTINE DAVID",
+          "designation": "Non-Profit Leader",
+          "statementFiled": true
+        },
+        {
+          "name": "JERRY LEUGERS",
+          "designation": "Planning Commissioner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5001",
+      "title": "Town of Atherton Member, City Council (Short Term)",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "BILL WIDMER",
+          "designation": "Council Member",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5022",
+      "title": "City of Belmont Mayor",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JULIA MATES",
+          "designation": "Mayor of Belmont",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5023",
+      "title": "City of Belmont Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "GINA LATIMERLO",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5025",
+      "title": "City of Belmont Member, City Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SARAH K.M. DELISLE",
+          "designation": "Mother / Business Owner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5041",
+      "title": "City of Brisbane Member, City Council",
+      "onBallot": true,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "JULIE SIMS",
+          "designation": "Small Business Owner",
+          "statementFiled": true
+        },
+        {
+          "name": "CHARLES SPENCER",
+          "designation": "Small Business Owner",
+          "statementFiled": true
+        },
+        {
+          "name": "MADISON DAVIS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "CHAYA-BELLA DAVID",
+          "designation": "Community Volunteer",
+          "statementFiled": true
+        },
+        {
+          "name": "CHRISTOPHER HORNICK",
+          "designation": "Businessman / Entrepreneur",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5062",
+      "title": "City of Burlingame Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ANDREA PAPPAJOHN",
+          "designation": "Burlingame Vice Mayor",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5064",
+      "title": "City of Burlingame Member, City Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JEN FABER",
+          "designation": "Education Foundation Director",
+          "statementFiled": true
+        },
+        {
+          "name": "HOWARD WETTAN",
+          "designation": "City Commissioner / Attorney",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5066",
+      "title": "City of Burlingame Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PETER W. STEVENSON",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5081",
+      "title": "Town of Colma Member, City Council",
+      "onBallot": true,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "HELEN FISICARO",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "LAURA M WALSH",
+          "designation": "Medical Assistant",
+          "statementFiled": true
+        },
+        {
+          "name": "JOANNE F. DEL ROSARIO",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ELISABETH AURORA JENSON",
+          "designation": "Entrepreneur / Artist",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5100",
+      "title": "City of Daly City Member, City Council",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "THOMAS A. NURIS",
+          "designation": "Attorney",
+          "statementFiled": true
+        },
+        {
+          "name": "PAMELA DIGIOVANNI",
+          "designation": "Daly City Councilmember",
+          "statementFiled": true
+        },
+        {
+          "name": "TERESA PROAÑO",
+          "designation": "City Councilmember / Businesswoman",
+          "statementFiled": true
+        },
+        {
+          "name": "TONY BAYUDAN",
+          "designation": "Chief of Staff",
+          "statementFiled": true
+        },
+        {
+          "name": "ROD DAUS-MAGBUAL",
+          "designation": "Councilman / Professor / Director",
+          "statementFiled": true
+        },
+        {
+          "name": "ASIA SU",
+          "designation": "Small Business Owner",
+          "statementFiled": true
+        },
+        {
+          "name": "BARRY RODRIGUEZ",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "5121",
+      "title": "City of East Palo Alto Member, City Council",
+      "onBallot": true,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "HOLIFA WINDOM",
+          "designation": "Businesswoman",
+          "statementFiled": true
+        },
+        {
+          "name": "GAIL WILK DIXON",
+          "designation": "Legal Investigator",
+          "statementFiled": true
+        },
+        {
+          "name": "RUBEN ABRICA",
+          "designation": "Substitute Teacher",
+          "statementFiled": true
+        },
+        {
+          "name": "SAM JIMENEZ",
+          "designation": "Plumbing Business Owner",
+          "statementFiled": true
+        },
+        {
+          "name": "OFELIA BELLO",
+          "designation": "Nonprofit Executive Director",
+          "statementFiled": true
+        },
+        {
+          "name": "DEBORAH LEWIS-VIRGES",
+          "designation": "Pastor / Community Advocate",
+          "statementFiled": true
+        },
+        {
+          "name": "MICHAEL MASHACK",
+          "designation": "Planning Commissioner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5142",
+      "title": "City of Foster City Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ART KIESEL",
+          "designation": "Mayor",
+          "statementFiled": true
+        },
+        {
+          "name": "PHOEBE SHIN VENKAT",
+          "designation": "Nonprofit Executive / Councilmember",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5143",
+      "title": "City of Foster City Member, City Council, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "STACY JIMENEZ",
+          "designation": "Councilmember / Attorney",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5163",
+      "title": "City of Half Moon Bay Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROBERT BROWNSTONE",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "DAVID GORN",
+          "designation": "Planning Commissioner Chair",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5166",
+      "title": "City of Half Moon Bay Member, City Council, District 4",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RON KIES",
+          "designation": "Geologist",
+          "statementFiled": true
+        },
+        {
+          "name": "DEBBIE RUDDOCK",
+          "designation": "Retired Legislative Analyst",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5167",
+      "title": "City of Half Moon Bay Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SUSIE MORASCI",
+          "designation": "Paralegal",
+          "statementFiled": true
+        },
+        {
+          "name": "STEVEN R. BOOKER",
+          "designation": "Electrician",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5181",
+      "title": "Town of Hillsborough Member, City Council",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "LESLIE MARDEN RAGSDALE",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "JEFF BAXTER",
+          "designation": "Retired Accounting Partner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5202",
+      "title": "City of Menlo Park Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JAMES ROHR",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": true
+        },
+        {
+          "name": "WONMAN LEE",
+          "designation": "Software Engineer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5203",
+      "title": "City of Menlo Park Member, City Council, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DREW COMBS",
+          "designation": "Menlo Park City Councilmember",
+          "statementFiled": true
+        },
+        {
+          "name": "VAMSI VELAGAPUDI",
+          "designation": "Community Volunteer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5205",
+      "title": "City of Menlo Park Member, City Council, District 4",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHARLOTTE REED",
+          "designation": "Communications Professional / Singer",
+          "statementFiled": true
+        },
+        {
+          "name": "LAURA MELAHN",
+          "designation": "Entrepreneur / Nonprofit Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5223",
+      "title": "City of Millbrae Member, City Council, District 2 (Full Term)",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SISSY RILEY",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5224",
+      "title": "City of Millbrae Member, City Council, District 3 (Short Term)",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JUAN GÁMEZ",
+          "designation": "Business Consultant / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "ANN SCHNEIDER",
+          "designation": "Community Volunteer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5225",
+      "title": "City of Millbrae Member, City Council, District 4 (Full Term)",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ALBERT YAM",
+          "designation": "University Data Analyst",
+          "statementFiled": true
+        },
+        {
+          "name": "BOB NGUYEN",
+          "designation": "Small Business Owner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5243",
+      "title": "City of Pacifica Member, City Council, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHRISTINE BOLES",
+          "designation": "Architect / Businesswoman / Councilmember",
+          "statementFiled": true
+        },
+        {
+          "name": "DAN URBAN",
+          "designation": "Retired Regional Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5244",
+      "title": "City of Pacifica Member, City Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CINDY ABBOTT",
+          "designation": "Nonprofit Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5246",
+      "title": "City of Pacifica Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARGO MEIMAN",
+          "designation": "Retired Teacher",
+          "statementFiled": true
+        },
+        {
+          "name": "SAM CASILLAS",
+          "designation": "Climate Resiliency Manager",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5260",
+      "title": "Town of Portola Valley Member, Town Council",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "MARY HUFTY",
+          "designation": "Portola Valley Vice Mayor",
+          "statementFiled": true
+        },
+        {
+          "name": "CRAIG S TAYLOR",
+          "designation": "Town Council Member",
+          "statementFiled": true
+        },
+        {
+          "name": "JUDITH A. HASKO",
+          "designation": "Town Council Member",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5283",
+      "title": "City of Redwood City Member, City Council, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHRIS STURKEN",
+          "designation": "City Council Member",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5286",
+      "title": "City of Redwood City Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KAIA EAKIN",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5287",
+      "title": "City of Redwood City Member, City Council, District 6",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DIANE HOWARD",
+          "designation": "City Councilmember / Nurse",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5300",
+      "title": "City of San Bruno Mayor",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RICO E. MEDINA",
+          "designation": "Mayor, City of San Bruno",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "5303",
+      "title": "City of San Bruno Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JENNIFER M. BLANCO",
+          "designation": "Juvenile Justice Commissioner",
+          "statementFiled": true
+        },
+        {
+          "name": "KINGSLEY MA",
+          "designation": "School Board President",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5306",
+      "title": "City of San Bruno Member, City Council, District 4",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MARTY P. MEDINA",
+          "designation": "San Bruno City Councilmember District 4",
+          "statementFiled": true
+        },
+        {
+          "name": "AUROS HARMAN",
+          "designation": "Planning Commissioner / Engineer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5320",
+      "title": "City of San Carlos Member, City Council",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "PRANITA VENKATESH",
+          "designation": "Councilmember / Educator",
+          "statementFiled": true
+        },
+        {
+          "name": "SARA MCDOWELL",
+          "designation": "City Councilmember / Mother",
+          "statementFiled": true
+        },
+        {
+          "name": "ADAM RAK",
+          "designation": "San Carlos City Councilmember",
+          "statementFiled": true
+        },
+        {
+          "name": "MARK D. IWANOWSKI",
+          "designation": "Business Owner / Entrepreneur",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5342",
+      "title": "City of San Mateo Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "TASO ZOGRAFOS",
+          "designation": "Business Executive / Engineer",
+          "statementFiled": true
+        },
+        {
+          "name": "LISA DIAZ NASH",
+          "designation": "San Mateo Councilmember, District 1",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5344",
+      "title": "City of San Mateo Member, City Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SEEMA PATEL",
+          "designation": "Planning Commissioner",
+          "statementFiled": true
+        },
+        {
+          "name": "ROBERT G. NEWSOM JR.",
+          "designation": "Councilmember / Businessman / Father",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5346",
+      "title": "City of San Mateo Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DAVE JOHNSON",
+          "designation": "Pastor / Coach",
+          "statementFiled": true
+        },
+        {
+          "name": "DANA YATES SAHAE",
+          "designation": "Community Advocate / Parent",
+          "statementFiled": true
+        },
+        {
+          "name": "ADAM LORAINE",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5362",
+      "title": "City of South San Francisco Member, City Council, District 1",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "AYSHA DOMINGUEZ PAMUKCU",
+          "designation": "Policy Fund Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5364",
+      "title": "City of South San Francisco Member, City Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BUENAFLOR (FLOR) NICOLAS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "SOPHIA CYRIS",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": true
+        },
+        {
+          "name": "MELANIE OLSON",
+          "designation": "Associate Planner",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5366",
+      "title": "City of South San Francisco Member, City Council, District 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "EDDIE FLORES",
+          "designation": "South San Francisco Councilmember, District 5",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5370",
+      "title": "City of South San Francisco City Clerk",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROSA GOVEA ACOSTA",
+          "designation": "City Clerk",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5371",
+      "title": "City of South San Francisco City Treasurer",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "FRANK RISSO",
+          "designation": "City Treasurer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5381",
+      "title": "Town of Woodside Member, Town Council, District 2",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "LYLE WEAVER",
+          "designation": "Retired Engineer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "5382",
+      "title": "Town of Woodside Member, Town Council, District 3",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DANIEL DRUKER",
+          "designation": "Retired Technology Executive",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6001",
+      "title": "Bayshore Sanitary District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "IRIS GALLAGHER",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "KENNETH A. TONNA",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6021",
+      "title": "Broadmoor Police Protection District Member, Board of Commissioners",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "JOHN V. AGUERRE",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ANNA MARIE BRIZUELA",
+          "designation": "Investment Compliance Officer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6042",
+      "title": "Coastside County Water District Member, Board of Directors, Zone 1 (Short Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "DAVID R. DICKSON",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6043",
+      "title": "Coastside County Water District Member, Board of Directors, Zone 2 (Full Term)",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHRIS R MICKELSEN",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6046",
+      "title": "Coastside County Water District Member, Board of Directors, Zone 5",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "NANCY ELEANORA POSS",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": true
+        },
+        {
+          "name": "JOEY P. SILVA",
+          "designation": "Retired Maintenance Supervisor",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6064",
+      "title": "Coastside Fire Protection District Member, Board of Directors, District C",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PATRICK HANNA",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6065",
+      "title": "Coastside Fire Protection District Member, Board of Directors, District D",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RYAN MCGRAW",
+          "designation": "Deputy Fire Marshal",
+          "statementFiled": false
+        },
+        {
+          "name": "CYNTHIA SHERRILL",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6066",
+      "title": "Coastside Fire Protection District Member, Board of Directors, District E",
+      "onBallot": true,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "GARY BURKE",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "ALEX CARRILLO",
+          "designation": "Crisis Management Professional",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6120",
+      "title": "Granada Community Services District Member, Board of Directors",
+      "onBallot": true,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "BARBARA DYE",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "KEVIN W. SNIECINSKI",
+          "designation": "Researcher / Community Advocate",
+          "statementFiled": true
+        },
+        {
+          "name": "MATT ALLEN",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "PATRICK TIERNEY",
+          "designation": "Retired Professor",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6140",
+      "title": "Highlands Recreation District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "GORDON STRAUSE",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": true
+        },
+        {
+          "name": "UY UT",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6160",
+      "title": "Ladera Recreation District Member, Board of Directors (Full Term)",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "SHAWN SALMON",
+          "designation": "Product Marketing Lead",
+          "statementFiled": false
+        },
+        {
+          "name": "BRIAN WALL",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6161",
+      "title": "Ladera Recreation District Member, Board of Directors (Short Term)",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "HELEN WANG",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6200",
+      "title": "Menlo Park Fire Protection District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "CHUCK BERNSTEIN",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "GARY L. BLOOM",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "ROBERT JONES",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6224",
+      "title": "Mid-Peninsula Water District Member, Board of Directors, Division 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "NEELA PATEL",
+          "designation": "Appointed Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6225",
+      "title": "Mid-Peninsula Water District Member, Board of Directors, Division 4",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "JOANN COVINGTON",
+          "designation": "Member, MPWD Board of Directors",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6226",
+      "title": "Mid-Peninsula Water District Member, Board of Directors, Division 5",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "CHARLES \"CHUCK\" COTTEN",
+          "designation": "Appointed Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6240",
+      "title": "Midcoast Community Council Councilmember",
+      "onBallot": false,
+      "voteFor": 4,
+      "candidates": [
+        {
+          "name": "SCOTT BOLLINGER",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "JOAN BRENNAN",
+          "designation": "Garden Designer",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6260",
+      "title": "Midpeninsula Regional Open Space District Member, Board of Directors, Ward 5",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KAREN C. HOLMAN",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6261",
+      "title": "Midpeninsula Regional Open Space District Member, Board of Directors, Ward 6",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BRYAN BECK",
+          "designation": "Retired Statistical Programmer",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6282",
+      "title": "Montara Water and Sanitary District Member, Board of Directors, Division 1",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "WILLIAM \"BILL\" SOFTKY",
+          "designation": "MWSD Board Director",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6284",
+      "title": "Montara Water and Sanitary District Member, Board of Directors, Division 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "SCOTT BOYD",
+          "designation": "Director, Montara Water & Sanitary District",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6286",
+      "title": "Montara Water and Sanitary District Member, Board of Directors, Division 5",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "VIRGINIA \"GINNY\" MCSHANE",
+          "designation": "Retired Teacher",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6302",
+      "title": "North Coast County Water District Member, Board of Directors, Zone A",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "WILLIAM HAUSER",
+          "designation": "(No Ballot Designation)",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6303",
+      "title": "North Coast County Water District Member, Board of Directors, Zone B",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ANNE DEJARNATT",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6306",
+      "title": "North Coast County Water District Member, Board of Directors, Zone E",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "RON ASH",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6320",
+      "title": "Peninsula Health Care District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 3,
+      "candidates": [
+        {
+          "name": "LAWRENCE WILLIAM CAPPEL",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "DENNIS ZELL",
+          "designation": "Incumbent",
+          "statementFiled": true
+        },
+        {
+          "name": "HENRY SANCHEZ",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6349",
+      "title": "Pescadero Municipal Advisory Council Councilmember",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "CULLEN ROSE",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6363",
+      "title": "San Mateo County Harbor District Member, Board of Commissioners, District 2",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "GEORGE W. DOMURAT",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6364",
+      "title": "San Mateo County Harbor District Member, Board of Commissioners, District 3",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "KATHRYN SLATER-CARTER",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6382",
+      "title": "Sequoia Healthcare District Member, Board of Directors, Zone A",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "WILLIAM FONG",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6384",
+      "title": "Sequoia Healthcare District Member, Board of Directors, Zone C",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "ROSANNE FOUST",
+          "designation": "Appointed Sequoia Healthcare District Member, Board of Directors",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6386",
+      "title": "Sequoia Healthcare District Member, Board of Directors, Zone E",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "BRIAN GREENBERG",
+          "designation": "Psychologist / Health Advocate",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6401",
+      "title": "West Bay Sanitary District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 2,
+      "candidates": [
+        {
+          "name": "EDWARD MORITZ",
+          "designation": "Incumbent",
+          "statementFiled": false
+        },
+        {
+          "name": "ROY THIELE-SARDINA",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6423",
+      "title": "Westborough Water District Member, Board of Directors, Zone 2",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "THOMAS CHAMBERS",
+          "designation": "Incumbent",
+          "statementFiled": true
+        }
+      ]
+    },
+    {
+      "number": "6425",
+      "title": "Westborough Water District Member, Board of Directors, Zone 4",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "PERRY BAUTISTA",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    },
+    {
+      "number": "6441",
+      "title": "Woodside Fire Protection District Member, Board of Directors",
+      "onBallot": false,
+      "voteFor": 1,
+      "candidates": [
+        {
+          "name": "MATT MILLER",
+          "designation": "Incumbent",
+          "statementFiled": false
+        }
+      ]
+    }
+  ]
+}

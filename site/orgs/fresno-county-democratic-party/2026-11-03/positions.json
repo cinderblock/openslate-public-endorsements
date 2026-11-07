@@ -1,0 +1,599 @@
+{
+  "context": {
+    "title": "Fresno County Democratic Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/fresno-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Fresno County Democratic Party",
+      "uri": "https://fresnocountydemocrats.org/",
+      "kind": "party"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-19T21:11:51Z",
+    "sources": [
+      "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/fresno-county-democratic-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "\"Governor XAVIER BECERRA\" (CADEM \"NOVEMBER 2026 ENDORSEMENTS\" graphic)",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "\"Lieutenant Governor FIONA MA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "\"Attorney General ROB BONTA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "\"Secretary of State SHIRLEY WEBER\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "\"Controller MALIA COHEN\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "\"Treasurer ELENI KOUNALAKIS\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "\"Insurance Commissioner BEN ALLEN\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "\"Superintendent of Public Instruction RICHARD BARRERA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/nelson-esparza",
+      "statement": "\"State Board of Equalization, District 1 NELSON ESPARZA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-5/michael-masuda",
+      "statement": "\"U.S. Congressional District 5 MICHAEL MASUDA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adam Gray",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-13/adam-gray",
+      "statement": "\"U.S. Congressional District 13 ADAM GRAY\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "\"U.S. Congressional District 18 ZOE LOFGREN\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sandra Van Scotter",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-20/sandra-van-scotter",
+      "statement": "\"U.S. Congressional District 20 SANDRA VAN SCOTTER\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-21/jim-costa",
+      "statement": "\"U.S. Congressional District 21 JIM COSTA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "statement": "\"U.S. Congressional District 22 RANDY VILLEGAS\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Esmeralda Soria",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-14/esmeralda-soria",
+      "statement": "\"State Senate District 14 ESMERALDA SORIA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-16/melissa-hurtado",
+      "statement": "\"State Senate District 16 MELISSA HURTADO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Pacheco",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-27/brian-pacheco",
+      "statement": "\"State Assembly, District 27 BRIAN PACHECO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-31/annalisa-perea",
+      "statement": "\"State Assembly, District 31 ANNALISA PEREA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"Prop 1: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"Prop 2: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"Prop 3: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"Prop 4: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "\"Prop 5: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "\"Prop 37: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/yes",
+      "statement": "\"Prop 38: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"Prop 39: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"Prop 40: YES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"Prop 41: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"Prop 42: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"Prop43: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"Prop 44: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"Prop 45: NO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno County Board of Supervisors, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Karbassi",
+      "statement": "\"Fresno Board of Supervisors Area 1 MIKE KARBASSI\" (FCDCC \"NOVEMBER 2026 ENDORSEMENTS\" graphic)",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Fuentes",
+      "statement": "\"Fresno City Council District 1 ROB FUENTES\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nav Gurm",
+      "statement": "\"Fresno City Council District 7 NAV  GURM\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Clovis City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/clovis",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Almond",
+      "statement": "\"Clovis City Council District 5 SARAH ALMOND\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Parlier Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/parlier",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lionel Lopez, Jr.",
+      "statement": "\"Parlier Mayor LIONEL LOPEZ\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno County Superintendent of Schools",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michele Cantwell-Copher",
+      "statement": "\"Fresno County Superintendent of Schools MICHELL CANTWELL-COPHER\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno County Superior Court Judge, Office No. 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose L. Salazar",
+      "statement": "\"Fresno County Superior Court, Seat 7 JOSE SALAZAR\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "State Center Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Destiny Rodriguez",
+      "statement": "\"State Center Comm College District, Area 1 DESTINY RODRIQUEZ\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Fresno Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Riley Talford",
+      "statement": "\"Fresno Unified School District, Area 3 RILEY TALLFORD\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Central Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joshua Sellers",
+      "statement": "\"Central Unified School District Area 1 JOSH SELLERS\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Central Unified School District Board, Area 3 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erica Gonzalez Piedra",
+      "statement": "\"Central Unified School District Area 3 ERICA PIEDRA\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Mendota Unified School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/fresno-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Gilbert Arias-Romero",
+      "statement": "\"Mendota Unified School District KEVIN ARIAS-ROMERO\"",
+      "source": "https://fresnocountydemocrats.org/en_US/democratic-party-endorsements/"
+    }
+  ]
+}

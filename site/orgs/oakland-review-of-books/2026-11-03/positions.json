@@ -1,0 +1,568 @@
+{
+  "context": {
+    "title": "Oakland Review of Books — November 3, 2026 voting guide",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Oakland Review of Books",
+      "uri": "https://www.oaklandreviewofbooks.org/",
+      "kind": "news_organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-31T17:48:09Z",
+    "sources": [
+      "https://www.oaklandreviewofbooks.org/voting-guide-2026/"
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/oakland-review-of-books/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "statement": "Lateefah Simon will, in fact, do it",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/lateefah-simon-will-in-fact-do-it/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "Adriana Valencia for AC Transit & Fiona Ma for CA lieutenant governor",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/fiona-ma-for-lieutenant-governor-and-adriana-valencia-for-ac-transit-ward-3/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "We don’t talk about the Bontas",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/we-dont-talk-about-the-bontas/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "You are going to vote for Eleni Kounalakis for California state treasurer. But let us be completely clear: You’re not going to do it because she’s qualified, and certainly not because of her extensive connections through her husband to Stanford’s Hoover Institute. You’re not going to do it because, after serving as lieutenant governor, she announced her candidacy for governor, and then was like, just kidding, I’d rather be…treasurer?!",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/vote-for-eleni-kounalakis/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "And for God’s sake, don’t click the link on his garbage AI song. Vote Malia Cohen.",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/somebody-is-going-to-vote-for-herb-morgan-dont-let-it-be-you/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "Vote Barrera. Bury the transphobe.",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/vote-barrera-bury-the-transphobe/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "district": "us/ca/boe-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "statement": "You’re voting for the state political bench. So stick with Sally Lieber.",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/youre-not-voting-for-the-board-of-equalization/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Rendon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-14/mark-rendon",
+      "statement": "Screw realistic: Mark Rendón over Buffy Wicks",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/screw-realistic-mark-rendon-over-buffy-wicks/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-18/mia-bonta",
+      "statement": "We don’t talk about the Bontas",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/we-dont-talk-about-the-bontas/"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adriana Valencia",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/adriana-valencia",
+      "statement": "Adriana Valencia for AC Transit & Fiona Ma for CA lieutenant governor",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/fiona-ma-for-lieutenant-governor-and-adriana-valencia-for-ac-transit-ward-3/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Auditor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Michael C. Houston",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-auditor/michael-c-houston",
+      "statement": "You actually don’t need to vote for Michael Houston",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/you-actually-dont-need-to-vote-for-michael-houston/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "Prop 1: Yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/prop-1-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "Prop 2: Yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/prop-2-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "Prop 3: Yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-3-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "Prop 4: Yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/prop-4-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "Prop 5: Yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-5-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "Prop 37: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-37-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "Prop 38: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-38-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "Prop 39: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-39-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "Prop 40: Hell fuck yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/prop-40-hell-yes/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "Props 41 & 42: Hell fuck no",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/props-41-42-hell-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "Props 41 & 42: Hell fuck no",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/props-41-42-hell-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Prop 43: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-43-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "Prop 44: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-44-no/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Prop 45: No",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/proposition-45-no/"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Regional Transit Measure: God yes",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/regional-transit-measure-god-yes/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ee-governance-structure/no",
+      "statement": "Measure EE doesn’t speak for me. Vote no.",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/measure-ee-doesnt-speak-for-me-vote-no/"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ff-transfer-tax-on-foreclosures/yes",
+      "statement": "Yes on FF, obviously",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/yes-on-ff-obviously/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Charles A. Smiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-charles-a-smiley/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Kathleen M. Banke",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-kathleen-m-banke/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Monique Langhorne Wilson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-monique-langhorne-wilson/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Therese M. Stewart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-therese-m-stewart/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tara M. Desautels",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tara-m-desautels/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Ioana Petrou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-ioana-petrou/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Victor A. Rodriguez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-victor-a-rodriguez/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Tracie L. Brown",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-tracie-l-brown/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Mark Simons",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-mark-simons/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Danny Y. Chou",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-danny-y-chou/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, First District — Retain Justice Gordon Burns",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-first-district-retain-justice-gordon-burns/yes",
+      "statement": "Retain the judges",
+      "source": "https://www.oaklandreviewofbooks.org/voting-guide-2026/retain-the-judges/"
+    }
+  ]
+}

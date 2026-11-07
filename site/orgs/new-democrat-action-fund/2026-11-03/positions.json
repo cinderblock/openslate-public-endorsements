@@ -1,0 +1,65 @@
+{
+  "context": {
+    "title": "New Democrat Coalition Action Fund — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "New Democrat Coalition Action Fund",
+      "uri": "https://newdemactionfund.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:07:29Z",
+    "sources": [
+      "https://newdemactionfund.com/candidates"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/new-democrat-action-fund/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "Listed under \"Endorsed Candidates\": \"Dr. Richard Pan CA-06\".",
+      "source": "https://newdemactionfund.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-26/jacqui-irwin",
+      "statement": "Listed under \"Endorsed Candidates\": \"Jacqui Irwin CA-26\".",
+      "source": "https://newdemactionfund.com/candidates"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "Listed under \"Endorsed Candidates\": \"Marni Von Wilpert CA-48\".",
+      "source": "https://newdemactionfund.com/candidates"
+    }
+  ]
+}

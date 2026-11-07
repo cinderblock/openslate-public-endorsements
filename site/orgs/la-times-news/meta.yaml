@@ -1,0 +1,8 @@
+name: Los Angeles Times
+slug: la-times-news
+uri: https://www.latimes.com/
+kind: news_organization
+about: |
+  The Los Angeles Times newsroom: its voter guide ("Your guide to Proposition N") and
+  news coverage of ballot measures. The paper's editorial board is a separate org here
+  (la-times).

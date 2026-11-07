@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "California Society of Certified Public Accountants (CalCPAs): positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "California Society of Certified Public Accountants (CalCPAs)",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-22T08:06:00Z",
+    "sources": [
+      "https://voterguide.sos.ca.gov/propositions/41/arguments-rebuttals.htm"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/calcpas/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "Denise LeDuc Froemming (CPA, President) signed the argument in favor of Proposition 41 in the official voter guide.",
+      "source": "https://voterguide.sos.ca.gov/propositions/41/arguments-rebuttals.htm"
+    }
+  ]
+}

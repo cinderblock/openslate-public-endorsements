@@ -1,0 +1,45 @@
+{
+  "context": {
+    "title": "Santa Clara County Firefighters, IAFF Local 1165: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Clara County Firefighters, IAFF Local 1165",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-24T20:25:56Z",
+    "sources": [
+      "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/santa-clara-county-firefighters-local-1165/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Anthony Fletcher (President Santa Clara County Firefighter Local 1165) signed the argument in favor of Bay Area Regional Measure RTM and the rebuttal to the argument against Bay Area Regional Measure RTM in the Santa Clara County Voter Information Guide.",
+      "source": "https://ca.omniballot.us/published/06085/1968/vg/721_md.json"
+    }
+  ]
+}

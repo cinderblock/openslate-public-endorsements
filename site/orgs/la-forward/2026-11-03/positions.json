@@ -1,0 +1,2673 @@
+{
+  "context": {
+    "title": "LA Forward Progressive Voter Guide — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "LA Forward",
+      "uri": "https://www.laforward.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T17:06:14Z",
+    "sources": [
+      "https://laforwardguide.org/",
+      "https://laforwardguide.org/districts/burbank-usd",
+      "https://laforwardguide.org/districts/centinela-valley-union-high-school-district",
+      "https://laforwardguide.org/districts/culver-city-usd",
+      "https://laforwardguide.org/districts/foothill-municipal-water-district",
+      "https://laforwardguide.org/districts/garvey-school-district",
+      "https://laforwardguide.org/districts/glendora-usd",
+      "https://laforwardguide.org/districts/inglewood-usd",
+      "https://laforwardguide.org/districts/la-community-college-district",
+      "https://laforwardguide.org/districts/los-angeles-usd",
+      "https://laforwardguide.org/districts/lynwood-usd",
+      "https://laforwardguide.org/districts/palos-verdes-usd",
+      "https://laforwardguide.org/districts/pasadena-area-community-college-district",
+      "https://laforwardguide.org/districts/rowland-usd",
+      "https://laforwardguide.org/districts/santa-clarita-valley-water-agency",
+      "https://laforwardguide.org/districts/santa-monica-college",
+      "https://laforwardguide.org/districts/santa-monica-malibu-usd",
+      "https://laforwardguide.org/districts/saugus-union-school-district",
+      "https://laforwardguide.org/districts/torrance-usd",
+      "https://laforwardguide.org/districts/william-s-hart-union-school-district",
+      "https://laforwardguide.org/districts/wiseburn-usd",
+      "https://laforwardguide.org/guide/alhambra",
+      "https://laforwardguide.org/guide/baldwin-park",
+      "https://laforwardguide.org/guide/burbank",
+      "https://laforwardguide.org/guide/carson",
+      "https://laforwardguide.org/guide/city-of-glendora",
+      "https://laforwardguide.org/guide/city-of-lynwood",
+      "https://laforwardguide.org/guide/city-of-maywood",
+      "https://laforwardguide.org/guide/city-of-monrovia",
+      "https://laforwardguide.org/guide/city-of-palmdale",
+      "https://laforwardguide.org/guide/city-of-paramount",
+      "https://laforwardguide.org/guide/city-of-south-gate",
+      "https://laforwardguide.org/guide/city-of-whittier",
+      "https://laforwardguide.org/guide/claremont",
+      "https://laforwardguide.org/guide/cudahy",
+      "https://laforwardguide.org/guide/culver-city",
+      "https://laforwardguide.org/guide/duarte",
+      "https://laforwardguide.org/guide/el-segundo",
+      "https://laforwardguide.org/guide/hawthorne",
+      "https://laforwardguide.org/guide/hermosa-beach",
+      "https://laforwardguide.org/guide/inglewood",
+      "https://laforwardguide.org/guide/la-county-ballot-measures",
+      "https://laforwardguide.org/guide/la-county-candidates",
+      "https://laforwardguide.org/guide/lawndale",
+      "https://laforwardguide.org/guide/los-angeles",
+      "https://laforwardguide.org/guide/manhattan-beach",
+      "https://laforwardguide.org/guide/monterey-park",
+      "https://laforwardguide.org/guide/pasadena",
+      "https://laforwardguide.org/guide/rosemead",
+      "https://laforwardguide.org/guide/santa-clarita",
+      "https://laforwardguide.org/guide/santa-monica",
+      "https://laforwardguide.org/guide/south-pasadena",
+      "https://laforwardguide.org/guide/state-assembly",
+      "https://laforwardguide.org/guide/state-senate",
+      "https://laforwardguide.org/guide/statewide-ballot-measures",
+      "https://laforwardguide.org/guide/statewide-offices",
+      "https://laforwardguide.org/guide/the-city-of-huntington-park",
+      "https://laforwardguide.org/guide/west-covina",
+      "https://laforwardguide.org/guide/west-hollywood",
+      "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/la-forward/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Burbank Unified School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rosemary Morrison",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-unified-school-district-board-trustee-area-3/rosemary-morrison",
+      "source": "https://laforwardguide.org/districts/burbank-usd"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stephanie Loredo",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-unified-school-district-board/stephanie-loredo",
+      "source": "https://laforwardguide.org/districts/culver-city-usd"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brian Guerrero",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-unified-school-district-board/brian-guerrero",
+      "source": "https://laforwardguide.org/districts/culver-city-usd"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Triston Ezidore",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-unified-school-district-board/triston-ezidore",
+      "source": "https://laforwardguide.org/districts/culver-city-usd"
+    },
+    {
+      "subject": {
+        "title": "Foothill Municipal Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Amy Chen",
+      "choice_id": "la-county-registrar:2026-11-03/foothill-municipal-water-district-board-division-4/amy-chen",
+      "source": "https://laforwardguide.org/districts/foothill-municipal-water-district"
+    },
+    {
+      "subject": {
+        "title": "Foothill Municipal Water District Board, Division 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Noosha Razavian",
+      "choice_id": "la-county-registrar:2026-11-03/foothill-municipal-water-district-board-division-5/noosha-razavian",
+      "source": "https://laforwardguide.org/districts/foothill-municipal-water-district"
+    },
+    {
+      "subject": {
+        "title": "Glendora Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Monica García",
+      "choice_id": "la-county-registrar:2026-11-03/glendora-unified-school-district-board-area-2/monica-garcia",
+      "source": "https://laforwardguide.org/districts/glendora-usd"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Joyce Randall",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-1/joyce-randall",
+      "source": "https://laforwardguide.org/districts/inglewood-usd"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shelby Richardson",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-2/shelby-richardson",
+      "source": "https://laforwardguide.org/districts/inglewood-usd"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District Board, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yaritza Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-board-district-3/yaritza-gonzalez",
+      "source": "https://laforwardguide.org/districts/inglewood-usd"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Unified School District — Measure MM (School Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-unified-school-district-measure-mm-school-bonds/yes",
+      "source": "https://laforwardguide.org/districts/inglewood-usd"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steven F. Veres",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-2/steven-f-veres",
+      "source": "https://laforwardguide.org/districts/la-community-college-district"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Darryn Harris",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-4/darryn-harris",
+      "source": "https://laforwardguide.org/districts/la-community-college-district"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Community College District Board, Seat 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Randall Winston",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-community-college-district-board-seat-6/randall-winston",
+      "source": "https://laforwardguide.org/districts/la-community-college-district"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure SC (Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-sc-los-angeles-unified-school-district-campaign-finance-rules-related-to-board-of-education-elections/yes",
+      "statement": "LA Forward recommends a YES vote.",
+      "source": "https://laforwardguide.org/districts/los-angeles-usd"
+    },
+    {
+      "subject": {
+        "title": "Lynwood Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mariela Renteria",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-unified-school-district-board/mariela-renteria",
+      "source": "https://laforwardguide.org/districts/lynwood-usd"
+    },
+    {
+      "subject": {
+        "title": "Palos Verdes Peninsula Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Allyson Lehrer",
+      "choice_id": "la-county-registrar:2026-11-03/palos-verdes-peninsula-unified-school-district-board/allyson-lehrer",
+      "source": "https://laforwardguide.org/districts/palos-verdes-usd"
+    },
+    {
+      "subject": {
+        "title": "Palos Verdes Peninsula Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Louis Harley",
+      "choice_id": "la-county-registrar:2026-11-03/palos-verdes-peninsula-unified-school-district-board/louis-harley",
+      "source": "https://laforwardguide.org/districts/palos-verdes-usd"
+    },
+    {
+      "subject": {
+        "title": "Palos Verdes Peninsula Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Paul Vidal",
+      "choice_id": "la-county-registrar:2026-11-03/palos-verdes-peninsula-unified-school-district-board/paul-vidal",
+      "source": "https://laforwardguide.org/districts/palos-verdes-usd"
+    },
+    {
+      "subject": {
+        "title": "Pasadena Area Community College District — Measure UP (Bonds)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/pasadena-area-community-college-district-measure-up-bonds/yes",
+      "source": "https://laforwardguide.org/districts/pasadena-area-community-college-district"
+    },
+    {
+      "subject": {
+        "title": "Rowland Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kevin Hayakawa",
+      "choice_id": "la-county-registrar:2026-11-03/rowland-unified-school-district-board-area-5/kevin-hayakawa",
+      "source": "https://laforwardguide.org/districts/rowland-usd"
+    },
+    {
+      "subject": {
+        "title": "Rowland Unified School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brandon Macias",
+      "choice_id": "la-county-registrar:2026-11-03/rowland-unified-school-district-board-area-3/brandon-macias",
+      "source": "https://laforwardguide.org/districts/rowland-usd"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Noah Ropp",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-valley-water-agency-board-division-1/noah-ropp",
+      "source": "https://laforwardguide.org/districts/santa-clarita-valley-water-agency"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lynne Plambeck",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-valley-water-agency-board-division-3/lynne-plambeck",
+      "source": "https://laforwardguide.org/districts/santa-clarita-valley-water-agency"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita Valley Water Agency Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maria Gutzeit",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-valley-water-agency-board-division-3/maria-gutzeit",
+      "source": "https://laforwardguide.org/districts/santa-clarita-valley-water-agency"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sion Roy",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/sion-roy",
+      "source": "https://laforwardguide.org/districts/santa-monica-college"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Luis Barrera Castañon",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/luis-barrera-castanon",
+      "source": "https://laforwardguide.org/districts/santa-monica-college"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tom Peters",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/tom-peters",
+      "source": "https://laforwardguide.org/districts/santa-monica-college"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Community College District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kera Blades-Snell",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-community-college-district-board/kera-blades-snell",
+      "source": "https://laforwardguide.org/districts/santa-monica-college"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alicia Mignano",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-malibu-unified-school-district-board/alicia-mignano",
+      "source": "https://laforwardguide.org/districts/santa-monica-malibu-usd"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica-Malibu Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stacy Rouse",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-malibu-unified-school-district-board/stacy-rouse",
+      "source": "https://laforwardguide.org/districts/santa-monica-malibu-usd"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Larry Grable",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-1/larry-grable",
+      "source": "https://laforwardguide.org/districts/saugus-union-school-district"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alisa Gentry",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-2/alisa-gentry",
+      "source": "https://laforwardguide.org/districts/saugus-union-school-district"
+    },
+    {
+      "subject": {
+        "title": "Saugus Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Christopher Trunkey",
+      "choice_id": "la-county-registrar:2026-11-03/saugus-union-school-district-board-trustee-area-5/christopher-trunkey",
+      "source": "https://laforwardguide.org/districts/saugus-union-school-district"
+    },
+    {
+      "subject": {
+        "title": "Torrance Unified School District Board, Area D",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ryan Rauzon",
+      "choice_id": "la-county-registrar:2026-11-03/torrance-unified-school-district-board-area-d/ryan-rauzon",
+      "source": "https://laforwardguide.org/districts/torrance-usd"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Julee Brooks",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-2/julee-brooks",
+      "source": "https://laforwardguide.org/districts/william-s-hart-union-school-district"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stacy Fortner",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
+      "source": "https://laforwardguide.org/districts/william-s-hart-union-school-district"
+    },
+    {
+      "subject": {
+        "title": "Wiseburn Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rebecca Hamburg Cappy",
+      "choice_id": "la-county-registrar:2026-11-03/wiseburn-unified-school-district-board/rebecca-hamburg-cappy",
+      "source": "https://laforwardguide.org/districts/wiseburn-usd"
+    },
+    {
+      "subject": {
+        "title": "Alhambra City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy Wong",
+      "choice_id": "la-county-registrar:2026-11-03/alhambra-city-council-district-1/amy-wong",
+      "statement": "LA Forward is proud to endorse Amy Wong for Alhambra City Council District 1.",
+      "source": "https://laforwardguide.org/guide/alhambra"
+    },
+    {
+      "subject": {
+        "title": "Alhambra — Measure DB (Prohibit Data Centers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/alhambra-measure-db-prohibit-data-centers/yes",
+      "source": "https://laforwardguide.org/guide/alhambra"
+    },
+    {
+      "subject": {
+        "title": "Alhambra — Measure HT (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/alhambra",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/alhambra-measure-ht-hotel-tax/yes",
+      "source": "https://laforwardguide.org/guide/alhambra"
+    },
+    {
+      "subject": {
+        "title": "Baldwin Park City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/baldwin-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alejandra Avila",
+      "choice_id": "la-county-registrar:2026-11-03/baldwin-park-city-council/alejandra-avila",
+      "source": "https://laforwardguide.org/guide/baldwin-park"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nikki Perez",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nikki-perez",
+      "statement": "There are three at-large council spots up for election this November in Burbank. LA Forward is proud to endorse incumbent Councilmember Perez for re-election, along with Mike Van Gorder and Nolan Southerland.",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Van Gorder",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/mike-van-gorder",
+      "statement": "There are three at-large council spots up for election this November in Burbank. LA Forward is proud to endorse Mike Van Gorder, along with incumbent Councilmember Perez and newcomer Nolan Southerland.",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nolan Southerland",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nolan-southerland",
+      "statement": "There are three at-large council spots up for election this November in Burbank. LA Forward is proud to endorse Nolan Southerland, along with Mike Van Gorder and incumbent Councilmember Perez.",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure C (City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-measure-c-city-services/yes",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure CC (Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-measure-cc-charter-amendment/yes",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Burbank — Measure CD (By-District Council Elections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-measure-cd-by-district-council-elections/no",
+      "source": "https://laforwardguide.org/guide/burbank"
+    },
+    {
+      "subject": {
+        "title": "Carson City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/carson",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Hollaway",
+      "choice_id": "la-county-registrar:2026-11-03/carson-city-council-district-4/john-hollaway",
+      "statement": "We recommend you vote for him.",
+      "source": "https://laforwardguide.org/guide/carson"
+    },
+    {
+      "subject": {
+        "title": "Glendora City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/glendora",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Teri Merrick",
+      "choice_id": "la-county-registrar:2026-11-03/glendora-city-council-district-1/teri-merrick",
+      "statement": "LA Forward recommends voting for Merrick.",
+      "source": "https://laforwardguide.org/guide/city-of-glendora"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Emiliano Arellano",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/emiliano-arellano",
+      "statement": "We enthusiastically recommend you vote for Juan Muñoz-Guevara, Mishaun Watkins, and Emiliano Arellano.",
+      "source": "https://laforwardguide.org/guide/city-of-lynwood"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Muñoz-Guevara",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/juan-munoz-guevara",
+      "statement": "We enthusiastically recommend you vote for Juan Muñoz-Guevara, Mishaun Watkins, and Emiliano Arellano.",
+      "source": "https://laforwardguide.org/guide/city-of-lynwood"
+    },
+    {
+      "subject": {
+        "title": "Lynwood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mishaun Watkins",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-city-council/mishaun-watkins",
+      "statement": "We enthusiastically recommend you vote for Juan Muñoz-Guevara, Mishaun Watkins, and Emiliano Arellano.",
+      "source": "https://laforwardguide.org/guide/city-of-lynwood"
+    },
+    {
+      "subject": {
+        "title": "Lynwood — Measure L (Lynwood Public Safety/Community Protection/City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lynwood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/lynwood-measure-l-lynwood-public-safety-community-protection-city-services/yes",
+      "source": "https://laforwardguide.org/guide/city-of-lynwood"
+    },
+    {
+      "subject": {
+        "title": "Maywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/maywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mayra Aguiluz",
+      "choice_id": "la-county-registrar:2026-11-03/maywood-city-council/mayra-aguiluz",
+      "statement": "Mayra is endorsed by the CA Working Families Party and we recommend voting for her.",
+      "source": "https://laforwardguide.org/guide/city-of-maywood"
+    },
+    {
+      "subject": {
+        "title": "Monrovia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/monrovia",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tamala Kelly",
+      "choice_id": "la-county-registrar:2026-11-03/monrovia-city-council/tamala-kelly",
+      "statement": "LA Forward recommends you vote for Tamala Kelly and Larry Spicer.",
+      "source": "https://laforwardguide.org/guide/city-of-monrovia"
+    },
+    {
+      "subject": {
+        "title": "Monrovia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/monrovia",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Larry Spicer",
+      "choice_id": "la-county-registrar:2026-11-03/monrovia-city-council/larry-spicer",
+      "statement": "LA Forward recommends you vote for Tamala Kelly and Larry Spicer.",
+      "source": "https://laforwardguide.org/guide/city-of-monrovia"
+    },
+    {
+      "subject": {
+        "title": "Palmdale City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/palmdale",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anain Robles",
+      "choice_id": "la-county-registrar:2026-11-03/palmdale-city-council-district-3/anain-robles",
+      "source": "https://laforwardguide.org/guide/city-of-palmdale"
+    },
+    {
+      "subject": {
+        "title": "Palmdale City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/palmdale",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eric Ohlsen",
+      "choice_id": "la-county-registrar:2026-11-03/palmdale-city-council-district-4/eric-ohlsen",
+      "source": "https://laforwardguide.org/guide/city-of-palmdale"
+    },
+    {
+      "subject": {
+        "title": "Palmdale City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/palmdale",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Raycine Ector",
+      "choice_id": "la-county-registrar:2026-11-03/palmdale-city-council-district-5/raycine-ector",
+      "source": "https://laforwardguide.org/guide/city-of-palmdale"
+    },
+    {
+      "subject": {
+        "title": "Paramount — Measure P (Public Safety, Environment, Streets, and Business Improvement)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/paramount",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/paramount-measure-p-public-safety-environment-streets-and-business-improvement/yes",
+      "source": "https://laforwardguide.org/guide/city-of-paramount"
+    },
+    {
+      "subject": {
+        "title": "South Gate — Measure SG (Fiscal Emergency Funding)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/south-gate",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/south-gate-measure-sg-fiscal-emergency-funding/yes",
+      "source": "https://laforwardguide.org/guide/city-of-south-gate"
+    },
+    {
+      "subject": {
+        "title": "Whittier — Measure EL (Election Date Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/whittier",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/whittier-measure-el-election-date-charter-amendment/yes",
+      "source": "https://laforwardguide.org/guide/city-of-whittier"
+    },
+    {
+      "subject": {
+        "title": "Whittier — Measure EV (Mayor and City Council Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/whittier",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/whittier-measure-ev-mayor-and-city-council-term-limits/yes",
+      "source": "https://laforwardguide.org/guide/city-of-whittier"
+    },
+    {
+      "subject": {
+        "title": "Claremont City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/claremont",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jennifer Stark",
+      "choice_id": "la-county-registrar:2026-11-03/claremont-city-council-district-3/jennifer-stark",
+      "statement": "Neither candidate lists any organizational endorsements. We recommend Stark for re-election.",
+      "source": "https://laforwardguide.org/guide/claremont"
+    },
+    {
+      "subject": {
+        "title": "Claremont City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/claremont",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Anna Jacobsen",
+      "choice_id": "la-county-registrar:2026-11-03/claremont-city-council-district-4/anna-jacobsen",
+      "statement": "The District 4 seat on Claremont City Council is open, as incumbent Jed Leano has chosen not to run for re-election. We recommend that voters choose Anna Jacobsen to succeed him.",
+      "source": "https://laforwardguide.org/guide/claremont"
+    },
+    {
+      "subject": {
+        "title": "Claremont Unified School District Board, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Krista Elhai",
+      "choice_id": "la-county-registrar:2026-11-03/claremont-unified-school-district-board-district-1/krista-elhai",
+      "source": "https://laforwardguide.org/guide/claremont"
+    },
+    {
+      "subject": {
+        "title": "Claremont Unified School District — Measure CS (Funding for Claremont Schools)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/claremont-unified-school-district-measure-cs-funding-for-claremont-schools/yes",
+      "source": "https://laforwardguide.org/guide/claremont"
+    },
+    {
+      "subject": {
+        "title": "Cudahy City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cynthia Gonzalez",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-gonzalez",
+      "statement": "There are three at-large City Council seats up for election this November. Cynthia Gonzalez and Cynthia Romo are running together as a slate and LA Forward recommends you vote for both of them.",
+      "source": "https://laforwardguide.org/guide/cudahy"
+    },
+    {
+      "subject": {
+        "title": "Cudahy City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Cynthia Romo",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-city-council/cynthia-romo",
+      "statement": "There are three at-large City Council seats up for election this November. Cynthia Gonzalez and Cynthia Romo are running together as a slate and LA Forward recommends you vote for both of them.",
+      "source": "https://laforwardguide.org/guide/cudahy"
+    },
+    {
+      "subject": {
+        "title": "Cudahy — Measure OK (Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-measure-ok-sales-tax/yes",
+      "source": "https://laforwardguide.org/guide/cudahy"
+    },
+    {
+      "subject": {
+        "title": "Cudahy — Measure H (Rent Stabilization)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/cudahy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/cudahy-measure-h-rent-stabilization/yes",
+      "source": "https://laforwardguide.org/guide/cudahy"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Freddy Puza",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/freddy-puza",
+      "statement": "There are two at-large seats up for election on the Culver City Council this fall and LA Forward is proud to endorse both Freddy Puza and Thomas Auero Small for these important positions.",
+      "source": "https://laforwardguide.org/guide/culver-city"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Aujero Small",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/thomas-aujero-small",
+      "statement": "There are two at-large seats up for election on the Culver City Council this fall and LA Forward is proud to endorse both Freddy Puza and Thomas Auero Small for these important positions.",
+      "source": "https://laforwardguide.org/guide/culver-city"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure AA (Parcel Tax for Local Schools)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-measure-aa-parcel-tax-for-local-schools/yes",
+      "source": "https://laforwardguide.org/guide/culver-city"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure T (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-measure-t-hotel-tax/yes",
+      "source": "https://laforwardguide.org/guide/culver-city"
+    },
+    {
+      "subject": {
+        "title": "Culver City — Measure YV (Voting Age Lowered to 16)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-measure-yv-voting-age-lowered-to-16/yes",
+      "source": "https://laforwardguide.org/guide/culver-city"
+    },
+    {
+      "subject": {
+        "title": "Duarte City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/duarte",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Margaret Finlay",
+      "choice_id": "la-county-registrar:2026-11-03/duarte-city-council-district-1/margaret-finlay",
+      "source": "https://laforwardguide.org/guide/duarte"
+    },
+    {
+      "subject": {
+        "title": "El Segundo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Pickhaver",
+      "choice_id": "la-county-registrar:2026-11-03/el-segundo-city-council/john-pickhaver",
+      "statement": "LA Forward is proud to endorse John Pickhaver for an at-large El Segundo City Council seat, alongside our allies at Indivisible South Bay. His two opponents are registered independents who lean conservative – Chris Pimentel (current Mayor), and Ryan Baldino (Mayor Pro Tem). Voters can vote for up to two candidates, but we’re recommending voting only for John Pickhaver.",
+      "source": "https://laforwardguide.org/guide/el-segundo"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hawthorne",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Katrina Manning",
+      "choice_id": "la-county-registrar:2026-11-03/hawthorne-city-council/katrina-manning",
+      "statement": "Two Democratic incumbents, Katrina Manning and Alex Monteiro are running for reelection against a Republican challenger, Sergio Montara. There are two open seats and we’re recommending voting for both incumbent Democrats: Manning and Monteiro.",
+      "source": "https://laforwardguide.org/guide/hawthorne"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hawthorne",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Alexandre Monteiro",
+      "choice_id": "la-county-registrar:2026-11-03/hawthorne-city-council/alexandre-monteiro",
+      "statement": "Two Democratic incumbents, Katrina Manning and Alex Monteiro are running for reelection against a Republican challenger, Sergio Montara. There are two open seats and we’re recommending voting for both incumbent Democrats: Manning and Monteiro.",
+      "source": "https://laforwardguide.org/guide/hawthorne"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/hawthorne",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "L. David Patterson",
+      "choice_id": "la-county-registrar:2026-11-03/hawthorne-city-treasurer/l-david-patterson",
+      "source": "https://laforwardguide.org/guide/hawthorne"
+    },
+    {
+      "subject": {
+        "title": "Hawthorne — Measure O (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hawthorne",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/hawthorne-measure-o-hotel-tax/yes",
+      "statement": "This measure provides a source of revenue from major sporting events in LA without imposing an additional tax burden on residents that will go towards upkeep of local infrastructure. LA Forward recommends supporting this measure.",
+      "source": "https://laforwardguide.org/guide/hawthorne"
+    },
+    {
+      "subject": {
+        "title": "Hermosa Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hermosa-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maggie Bove LaMonica",
+      "choice_id": "la-county-registrar:2026-11-03/hermosa-beach-city-council/maggie-bove-lamonica",
+      "statement": "LA Forward recommends you vote for Maggie Bove-LaMonica, Eric Horne, and Ray Jackson.",
+      "source": "https://laforwardguide.org/guide/hermosa-beach"
+    },
+    {
+      "subject": {
+        "title": "Hermosa Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hermosa-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Raymond Jackson",
+      "choice_id": "la-county-registrar:2026-11-03/hermosa-beach-city-council/raymond-jackson",
+      "statement": "LA Forward recommends you vote for Maggie Bove-LaMonica, Eric Horne, and Ray Jackson.",
+      "source": "https://laforwardguide.org/guide/hermosa-beach"
+    },
+    {
+      "subject": {
+        "title": "Hermosa Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/hermosa-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eric Horne",
+      "choice_id": "la-county-registrar:2026-11-03/hermosa-beach-city-council/eric-horne",
+      "statement": "LA Forward recommends you vote for Maggie Bove-LaMonica, Eric Horne, and Ray Jackson.",
+      "source": "https://laforwardguide.org/guide/hermosa-beach"
+    },
+    {
+      "subject": {
+        "title": "Hermosa Beach — Measure HB (Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/hermosa-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/hermosa-beach-measure-hb-sales-tax/yes",
+      "statement": "On the ballot is a measure to increase the sales tax bv 0.5%. The recommendation is to vote yes.",
+      "source": "https://laforwardguide.org/guide/hermosa-beach"
+    },
+    {
+      "subject": {
+        "title": "Inglewood Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Fre'Drisha Dixion",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-mayor/fredrisha-dixion",
+      "statement": "We think the best choice is Fre’Drisha Dixon, who was recently endorsed by the environmental organization, LA League of Conservation Voters. Maro Kakoussian, President of LALCV, said ‘Fre’Drisha Dixon brings strong community connections earned through her vibrant advocacy for Inglewood schools. As Mayor, she will focus on parks, air quality, traffic congestion, and fossil-fueled digital billboards, all while preserving affordability and quality of life for Inglewood’s residents.",
+      "source": "https://laforwardguide.org/guide/inglewood"
+    },
+    {
+      "subject": {
+        "title": "Inglewood City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yolanda Davidson",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-city-council-district-1/yolanda-davidson",
+      "statement": "We recommend incumbent Yolanda Davidson.",
+      "source": "https://laforwardguide.org/guide/inglewood"
+    },
+    {
+      "subject": {
+        "title": "Inglewood City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Subrina Miller",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-city-council-district-2/subrina-miller",
+      "statement": "In District 2, Democrat Subrina Miller is challenging Democratic incumbent Alex Padilla (not to be confused with California’s U.S. Senator). Padilla is an ally of the current controversial mayor James Butts and has been part of efforts to keep community voices out of city hall – including moving council meetings to the middle of the day when most people aren’t able to attend. He’s backed by the police unions. Subrina Miller is challenging the status quo in Inglewood. We recommend Miller.",
+      "source": "https://laforwardguide.org/guide/inglewood"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure AT (Amend the Admissions Tax for Large Venues)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-measure-at-amend-the-admissions-tax-for-large-venues/yes",
+      "source": "https://laforwardguide.org/guide/inglewood"
+    },
+    {
+      "subject": {
+        "title": "Inglewood — Measure BB (Eliminate Advertising on Public Right-Of-Way)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/inglewood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/inglewood-measure-bb-eliminate-advertising-on-public-right-of-way/no",
+      "source": "https://laforwardguide.org/guide/inglewood"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure A (Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-a-charter-amendment-reiterating-good-faith-negotiation-obligations-and-establishing-impartial-binding-arbitration-for-certified-public-safety-employee-disputes/no",
+      "statement": "\"Measure A — Binding Arbitration for Labor Disputes [Oppose]\" / \"This measure would amend the LA County Charter to change how certain labor disputes are handled with a range of ‘public safety employees,’ among them sheriff’s deputies, firefighters, lifeguards, and medical examiners. For disputes involving ‘wages, hours, and other terms and conditions of employment,’ a binding arbitration process would settle negotiations between unions and LA County that have reached an impasse. Specifically, each side would select an arbiter, these two arbiters would select a third, and this three-person panel would be empowered to reach binding decisions, issue-by-issue, by choosing between the last offers put forward by each party. LA Forward recommends voting ‘no.’\"",
+      "source": "https://laforwardguide.org/guide/la-county-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-e-ethics-commission-and-community-investment-budget-allocation-charter-amendment/yes",
+      "statement": "We recommend a yes vote on charter amendments to give increased independence and structure to the Ethics Commission, AND to continue the County’s commitment for community investment and alternatives to incarceration.",
+      "source": "https://laforwardguide.org/guide/la-county-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robert Luna",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-sheriff/robert-luna",
+      "statement": "Vote for incumbent Robert Luna to block right-winger Alex Villanueva from returning to the office.",
+      "source": "https://laforwardguide.org/guide/la-county-candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Maria Ghobadi",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-64/maria-ghobadi",
+      "statement": "We have serious concerns about the most common progressive choice in this race, Rhonda Haymon. When we declined to endorse or recommend her 2024 run (against the judge who held her in contempt of court), the way she responded was one of the least professional reactions we’ve seen in our many years of doing endorsements. This behavior is mirrored in other public reporting. While we are reluctant to recommend prosecutors over public defenders, our concerns about Haymon leave us no choice but to suggest you vote for Maria Ghobadi who has extensive Democratic club and union backing, in addition to conservative support.",
+      "source": "https://laforwardguide.org/guide/la-county-candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Justin Clayton",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-65/justin-clayton",
+      "statement": "Both Clayton and Reitano have the same ‘Qualified’ rating from the LA County Bar Association and endorsements from a variety of current judges. Due to support from the public defenders union and Working Families Party, we give the edge to Clayton.",
+      "source": "https://laforwardguide.org/guide/la-county-candidates"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "David Ross",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/david-ross",
+      "statement": "In this open race, there are two public defenders – Donna Tryfman and David Ross. According to Met News’ endorsement of Tryfman, she has a reputation for being more abrasive while Ross is more of a smooth talker. Both have extensive endorsements and would likely make good judges. We give the edge in this race to Ross, who has more progressive support, including a recommendation from La Defensa, while Tryfman is recommended by conservative group ‘Thrive.’ Ross reports that he has not accepted any contributions from law enforcement, and he will not accept donations from corporations or PACs. Ross received a ‘Qualified’ rating from the Los Angeles County Bar Association.",
+      "source": "https://laforwardguide.org/guide/la-county-candidates"
+    },
+    {
+      "subject": {
+        "title": "Lawndale Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/lawndale",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Robert Pullen-Miles",
+      "choice_id": "la-county-registrar:2026-11-03/lawndale-mayor/robert-pullen-miles",
+      "statement": "Democratic incumbent Robert Pullen-Miles is running for re-election against Republican challenger (and current city councilmember) Francisco M. Talavera. We’d recommend Pullen-Miles over his Republican challenger.",
+      "source": "https://laforwardguide.org/guide/lawndale"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nithya Raman",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/nithya-raman",
+      "statement": "For all these reasons and more, LA Forward is proud to join partners in endorsing Nithya Raman for Mayor.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marissa Roy",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/marissa-roy",
+      "statement": "In the race for LA City Attorney, voters have one of the easiest choices on the ballot. Marissa Roy is the best choice for LA City Attorney. After a disastrous four years of incumbent Hydee Feldstein Soto, Roy promises to make the office of City Attorney a true public interest law firm that protects workers, tenants, immigrants, and communities from corporate abuse — not a rubber stamp for the powerful. We endorse Marissa Roy for LA City Attorney.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barri Worth Girvan",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/barri-worth-girvan",
+      "statement": "Barri Worth Girvan is the best choice for the West Valley, and LA Forward is proud to endorse her for LA City Council District 3.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Estuardo Mazariegos",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-9/estuardo-mazariegos",
+      "statement": "Estuardo Mazariegos is the best choice in City Council District 9, endorsed local teachers (UTLA), healthcare workers, environmental justice groups, and Bernie Sanders, and and all of us at LA Forward",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-ee-city-ethics-elections-and-governance/no",
+      "statement": "Measure EE is likely to pass but we recommend you vote No to send a message to City Council to get serious and stop kicking the bucket down the road when it comes to real reform for good government. We’re sick and tired of it.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-fd-funding-for-the-los-angeles-fire-department-through-a-one-half-percent-sales-tax/yes",
+      "statement": "LA Forward suggests a YES vote on Measure FD.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/yes",
+      "statement": "LA Forward endorses LA City Charter Amendment LA.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-pl-city-planning-department/yes",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes",
+      "statement": "LA Forward endorses LA City Charter Amendment PRK.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prt-city-airports-harbor-and-water-and-power-departments/yes",
+      "statement": "We recommend you support this measure. These are modest changes to streamline and strengthen these departments’ operations. Codifying an existing operational policy that has shown to be effective, like the Harbor District’s annual allocation of funds to public access projects, is a good government measure to ensure adherence.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-te-property-transfer-tax-exemption-for-victims-of-january-2025-fire-disaster/no",
+      "statement": "LA Forward joins with Councilmember Hernandez in opposing Measure TE as an overly broad exemption that is not only restricted to people who lost their primary family home and that opens the door to further attempts to cut ULA and reduce this key source of revenue for homelessness prevention.",
+      "source": "https://laforwardguide.org/guide/los-angeles"
+    },
+    {
+      "subject": {
+        "title": "Manhattan Beach City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/manhattan-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Amy Howorth",
+      "choice_id": "la-county-registrar:2026-11-03/manhattan-beach-city-council/amy-howorth",
+      "statement": "Amy Howorth. She received the endorsement from Beach Cities Democrats. We recommend voting only for Amy.",
+      "source": "https://laforwardguide.org/guide/manhattan-beach"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven Kung",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-city-council-district-5/steven-kung",
+      "statement": "Steven Kung is challenging incumbent Vinh Ngo for Monterey Park City Council District 5. Kung is a LA Forward member, and we’re proud to endorse him, alongside CA Working Families Party, No Data Center Monterey Park, Jane Fonda Climate PAC",
+      "source": "https://laforwardguide.org/guide/monterey-park"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park — Measure HOM (Create HOME Housing Overlays)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-measure-hom-create-home-housing-overlays/yes",
+      "source": "https://laforwardguide.org/guide/monterey-park"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park — Measure AAA (Hotel Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-measure-aaa-hotel-tax/yes",
+      "source": "https://laforwardguide.org/guide/monterey-park"
+    },
+    {
+      "subject": {
+        "title": "Pasadena — Measure PFD (Firefighter/Paramedic Emergency Medical/Wildfire)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/pasadena",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/pasadena-measure-pfd-firefighter-paramedic-emergency-medical-wildfire/yes",
+      "source": "https://laforwardguide.org/guide/pasadena"
+    },
+    {
+      "subject": {
+        "title": "Rosemead City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rosemead",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Lam",
+      "choice_id": "la-county-registrar:2026-11-03/rosemead-city-council/diana-lam",
+      "statement": "There are three at-large seats on the Rosemead City Council up for election and LA Forward is excited to endorse our member Diana Lam for one of them and pleased to recommend incumbents Sandra Armenta and Steven Ly for the remaining two spots.",
+      "source": "https://laforwardguide.org/guide/rosemead"
+    },
+    {
+      "subject": {
+        "title": "Rosemead City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rosemead",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sandra Armenta",
+      "choice_id": "la-county-registrar:2026-11-03/rosemead-city-council/sandra-armenta",
+      "statement": "There are three at-large seats on the Rosemead City Council up for election and LA Forward is excited to endorse our member Diana Lam for one of them and pleased to recommend incumbents Sandra Armenta and Steven Ly for the remaining two spots.",
+      "source": "https://laforwardguide.org/guide/rosemead"
+    },
+    {
+      "subject": {
+        "title": "Rosemead City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rosemead",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Steven Ly",
+      "choice_id": "la-county-registrar:2026-11-03/rosemead-city-council/steven-ly",
+      "statement": "There are three at-large seats on the Rosemead City Council up for election and LA Forward is excited to endorse our member Diana Lam for one of them and pleased to recommend incumbents Sandra Armenta and Steven Ly for the remaining two spots.",
+      "source": "https://laforwardguide.org/guide/rosemead"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brett Haddoak",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-2/brett-haddoak",
+      "statement": "Brett Haddoak is the best choice in the Santa Clarita district 2 council race, rooted in the city’s need and set on solving its challenges. He’s a life-long resident who works as a software engineer. He spends time volunteering with Bridge for Homes, the primary homeless services provider in SCV.",
+      "source": "https://laforwardguide.org/guide/santa-clarita"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Valerie Bradford",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-4/valerie-bradford",
+      "statement": "In this five candidate race, Valerie Bradford is the best choice against incumbent Republican councilmember Laurene Weste. A nonprofit founder and a long-time community activist, she’s focused on compassionate effective responses to homelessness, protecting renters, creating affordable housing and good jobs. She’s the only Democrat in the race and is the only one backed by environmental and labor organizations.",
+      "source": "https://laforwardguide.org/guide/santa-clarita"
+    },
+    {
+      "subject": {
+        "title": "Santa Clarita City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clarita",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kelvin Driscoll",
+      "choice_id": "la-county-registrar:2026-11-03/santa-clarita-city-council-district-5/kelvin-driscoll",
+      "statement": "This race in a diverse, renter-heavy part of Santa Clarita features a contest between Dr. Kelvin Driscoll, who’s been a leader in social service and child welfare work, versus Bob Khalsa, who’s a landlord. Driscoll has the endorsement of the Santa Clarita Democrats, Congressman George Whitesides, the LA County Federation of Labor, Sierra Club, and many more. Vote for Driscoll.",
+      "source": "https://laforwardguide.org/guide/santa-clarita"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Torosis",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/caroline-torosis",
+      "statement": "LA Forward is proud to endorse Caroline Torosis for re-election and to recommend two other candidates, Brett Morrow and Danny Ivanov.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Daniel Ivanov",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/daniel-ivanov",
+      "statement": "LA Forward is proud to endorse Caroline Torosis for re-election and to recommend two other candidates, Brett Morrow and Danny Ivanov.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Brett Morrow",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/brett-morrow",
+      "statement": "LA Forward is proud to endorse Caroline Torosis for re-election and to recommend two other candidates, Brett Morrow and Danny Ivanov.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Rent Control Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Heather Thomason",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/heather-thomason",
+      "statement": "Santa Monicans for Renters’ Rights has endorsed Kurt Gonska, Sue Himmelrich, and Heather Thomason for three at-large spots on the Rent Control Board and we recommend them.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Rent Control Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sue Himmelrich",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/sue-himmelrich",
+      "statement": "Santa Monicans for Renters’ Rights has endorsed Kurt Gonska, Sue Himmelrich, and Heather Thomason for three at-large spots on the Rent Control Board and we recommend them.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica Rent Control Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kurt Gonska",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-rent-control-board/kurt-gonska",
+      "statement": "Santa Monicans for Renters’ Rights has endorsed Kurt Gonska, Sue Himmelrich, and Heather Thomason for three at-large spots on the Rent Control Board and we recommend them.",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure GG (Amend Santa Monica Rent Control Law)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-gg-amend-santa-monica-rent-control-law/yes",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure RR (Eviction Tenant Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-rr-eviction-tenant-protections/yes",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure VV (Expand Just Cause Eviction Protections)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-vv-expand-just-cause-eviction-protections/yes",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica — Measure TT (Establish Major Events Period for the Existing Transient Occupancy Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-measure-tt-establish-major-events-period-for-the-existing-transient-occupancy-tax/yes",
+      "source": "https://laforwardguide.org/guide/santa-monica"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Randall Putz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-34/randall-putz",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Juan Carrillo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-39/juan-carrillo",
+      "statement": "We recommend him because the Republican would be worse.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "She has endorsements from California Environmental Voters, ACCE Action, CEJA Action, Reproductive Freedom for All California, and many labor organizations. She far better than the Republican alternative and we encourage you to vote for her.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John Harabedian",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-41/john-harabedian",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Deborah Klein Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
+      "statement": "Although she may not be a progressive champion on every issue, we see are as real upgrade from incumbent Jacqui Irwin and we’re especially excited for her work on environmental policy and disaster preparedness. We recommend voting for her over the Republican Nordblum.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Celeste Rodriguez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-43/celeste-rodriguez",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nicholas \"Nick\" Schultz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-44/nicholas-nick-schultz",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jesse Gabriel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-46/jesse-gabriel",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mike Fong",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-49/mike-fong",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jessica Caloza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-52/jessica-caloza",
+      "statement": "She faces no real opposition, except for a token Republican.We recommend voting forher and encouraging her and her office to take bolder progressive stands.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-54/mark-gonzalez",
+      "statement": "We recommend Gonzalez due to his strong voting record, but suggest voters keep careful watch on his office to make sure he keeps following through.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Isaac G. Bryan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/isaac-g-bryan",
+      "statement": "We strongly recommend you vote for him.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sade Elhawary",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/sade-elhawary",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "José Luis Solache",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-62/jose-luis-solache",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
+      "statement": "After she wins in November, we hope she chooses a progressive approach to legislating and avoids following corporate and law enforcement donors.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sara Deen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-66/sara-deen",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Mark Pulido",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-67/mark-pulido",
+      "statement": "Pulido is a better option than Morales although we’re not thrilled with some of his donors including Google, Kalshi, Meta, Anaheim Police Association, and AT&T.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Josh Lowenthal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-69/josh-lowenthal",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Caroline Menjivar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-20/caroline-menjivar",
+      "source": "https://laforwardguide.org/guide/state-senate"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "John Erickson is the strongest choice for State Senate in District 24 for voters who want a pro‑tenant, pro‑worker, pro‑climate champion with a proven record of bold local leadership. He’s endorsed by California Working Families Party and we recommend voting for him.",
+      "source": "https://laforwardguide.org/guide/state-senate"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Sarah Rascón",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sarah-rascon",
+      "statement": "Residents of Senate District 26 deserve a state senator who comes from the community, and is deeply rooted in immigrant neighborhoods, environmental justice, and working-class Los Angeles. That candidate is Sarah Rascon.",
+      "source": "https://laforwardguide.org/guide/state-senate"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Lola Smallwood-Cuevas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-28/lola-smallwood-cuevas",
+      "source": "https://laforwardguide.org/guide/state-senate"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chris Duncan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-36/chris-duncan",
+      "source": "https://laforwardguide.org/guide/state-senate"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "LA Forward strongly recommends a YES vote on Proposition 1, a $11.25 billion bond measure to fund affordable housing targeting the lowest income people across the state. Housing affordability continues to be one of, if not the biggest, challenge facing California. A third of renter households pay more than half their income on housing, while 80% of extremely low-income households pay more than half their income on housing. Put simply, that’s a million California households facing hard choices between groceries, needed healthcare, schoolbooks for their kids, and paying the rent.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "Proposition 2 would double the cap on the state’s rainy-day fund (the Budget Stabilization Account, BSA) from 10% to 20% of annual tax revenue, and allow state lawmakers and the governor to use reserve funds to pay off state debt (but would not be required). Under current state law, California lawmakers may save only 10% of the general fund to the BSA. LA Forward suggests voters should support Proposition 2.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "LA Forward recommends you vote YES on making the millionaires tax permanent so we don’t gut our state’s education system.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "LA Forward recommends voting YES on Proposition 4.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "LA Forward recommends that you vote yes on Prop 5.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "While the measure is widely supported and is very likely to pass, LA Forward joins with the League of Women Voters, ACCE and other groups in suggesting you vote no on this proposition.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "We join with the League of Women Voters, Courage California and a growing number of editorial boards to recommend you vote NO on Prop 38.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "LA Forward urges you to Vote No on Prop 39.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "This one-time tax would affect about 250 billionaires with $2 trillion in total wealth living in California. VOTING YES on Prop 40 would allow California to deliver widespread health and education access to the majority while increasing the tax burden of a very small subset of residents.Top supporters of Proposition 40",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "Proposition 41 would make any future attempt at passing special taxes more difficult by requiring an expensive, time-consuming audit prior to an election. VOTING NO allows voters the continued ability to directly determine the necessity and acceptability of any proposed special tax.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "Proposition 42 would make any future attempt at passing special taxes more difficult by eliminating the ability to levy those taxes on certain kinds of wealth, like retirement savings and individually owned assets. VOTING NO gives voters the continued opportunity to directly vote on any proposed special wealth tax.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Proposition 43 limits local voters' ability to fund essential local services and gives even more power to corporations. LA Forward strongly recommends a NO vote.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "At a time when community health providers are already facing significant financial uncertainty due to federal funding cuts, California should be strengthening its health care safety net and not creating another constraint that could reduce access to care. LA Forward recommends that you vote no on Proposition 44.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Proposition 45 makes major revisions to the California Environmental Quality Act (‘CEQA’), the 1970 state bill that mandates a process for including environmental protection in the approval process of developments throughout the state. For a broad variety of projects deemed ‘essential’ Prop 45 changes and limits both the CEQA review process by public agencies and the court review process for CEQA lawsuits. It also, again for ‘essential’ projects, establishes time limits for CEQA review, public comment, and CEQA litigation. LA Forward recommends voting ‘no’ on Prop 45.",
+      "source": "https://laforwardguide.org/guide/statewide-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "Xavier Becerra is likable and has an impressive resume, including stints as a Congressman, CA Attorney General, and Secretary of Health and Human Services under Joe Biden. Furthermore, Becerra is the Democrat in the race and unquestionably the superior choice to Trump-endorsed Republican Steve Hilton.",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "LA Forward recommends Dr. Shirley Weber in re-election bid for California Secretary of State. In 2021 she was appointed by Governor Newsom to the position of Secretary of State to replace Alex Padilla. She won a statewide election in 2022 to continue in the role and is now up for re-election. She is formerly a professor of Africana studies at San Diego State University, a member of the San Diego Board of Education and served in the CA State Assembly from 2012 to 2020. During her time as Secretary of State Weber has prioritized expanding access to the ballot box for every voter and voter education and outreach.",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "LA Forward recommends incumbent Malia Cohen for a second four-year term. Cohen is backed by the California Labor Federation, California Environmental Voters, CA Council for Affordable Housing, California Nurses Association and more. Cohen has made addressing the housing crisis and expanding affordable housing priorities during her time in office. She used property tax abatements to stimulate affordable housing, backed AB 2353 which helps non-profit affordable housing developers secure the welfare property tax exemption and also approved $804 million in bond authority for affordable student housing. Cohen also led the way on property tax relief for those affected by the Palisades and Altadena fires. In addition to housing she has prioritized expanding health care, protecting the environment and equal rights as top issues of her campaign.",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Samuel P. Sukaton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-3/samuel-p-sukaton",
+      "statement": "Fortunately there is a progressive alternative, Sam Sukaton.",
+      "source": "https://laforwardguide.org/guide/statewide-offices"
+    },
+    {
+      "subject": {
+        "title": "Huntington Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/huntington-park",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Nancy Martiz",
+      "choice_id": "la-county-registrar:2026-11-03/huntington-park-city-council-district-2/nancy-martiz",
+      "statement": "Huntington Park is in the middle of switching from a government system with five at-large council seats to district-based elections. There are a lot of weak candidates. The only one we suggest voting for is Nancy Martiz in District 2.",
+      "source": "https://laforwardguide.org/guide/the-city-of-huntington-park"
+    },
+    {
+      "subject": {
+        "title": "Huntington Park — Measure HP (Term Limits)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/huntington-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/huntington-park-measure-hp-term-limits/yes",
+      "source": "https://laforwardguide.org/guide/the-city-of-huntington-park"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Leslie Garcia",
+      "choice_id": "la-county-registrar:2026-11-03/west-covina-city-council-district-2/leslie-garcia",
+      "statement": "LA Forward recommends you vote for Leslie H. Garcia, who is endorsed by the CA Working Families Party.",
+      "source": "https://laforwardguide.org/guide/west-covina"
+    },
+    {
+      "subject": {
+        "title": "West Covina City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-covina",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Fredrick Fred Sykes",
+      "choice_id": "la-county-registrar:2026-11-03/west-covina-city-council-district-5/fredrick-fred-sykes",
+      "statement": "LA Forward recommends you vote for Frederick Sykes.",
+      "source": "https://laforwardguide.org/guide/west-covina"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
+      "statement": "Like many small cities, West Hollywood has a five-person at-large City Council. Three seats are up for election this year and there is only one incumbent running, progressive Councilmember Chelsea Byers. We recommend you vote for her, along with Helen Krieger, and Stephen Post. All three are endorsed by the California Working Families Party, as well as the hotel workers union and Streets for All.",
+      "source": "https://laforwardguide.org/guide/west-hollywood"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Stephen Post",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/stephen-post",
+      "statement": "Like many small cities, West Hollywood has a five-person at-large City Council. Three seats are up for election this year and there is only one incumbent running, progressive Councilmember Chelsea Byers. We recommend you vote for her, along with Helen Krieger, and Stephen Post. All three are endorsed by the California Working Families Party, as well as the hotel workers union and Streets for All.",
+      "source": "https://laforwardguide.org/guide/west-hollywood"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
+      "statement": "Like many small cities, West Hollywood has a five-person at-large City Council. Three seats are up for election this year and there is only one incumbent running, progressive Councilmember Chelsea Byers. We recommend you vote for her, along with Helen Krieger, and Stephen Post. All three are endorsed by the California Working Families Party, as well as the hotel workers union and Streets for All.",
+      "source": "https://laforwardguide.org/guide/west-hollywood"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Colin D. Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/colin-d-hernandez",
+      "statement": "Zbur is being challenged from the left by DSA member Colin Hernandez. His campaign is a long shot but we’re far too disappointed with Zbur on a wide range of policy and political matters to let him get a pass.",
+      "source": "https://laforwardguide.org/guide/state-assembly"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Michelle C. Kim",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-michelle-c-kim/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Gregory J. Weingart",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gregory-j-weingart/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Steve Goorvitch",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-steve-goorvitch/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Anne Richardson",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-anne-richardson/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Rashida A. Adams",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-rashida-a-adams/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Mark Hanasono",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-mark-hanasono/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Helen Zukin",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-helen-zukin/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Audra M. Mori",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-audra-m-mori/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Nicholas Daum",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-nicholas-daum/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Armen Tamzarian",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-armen-tamzarian/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Brian M. Hoffstadt",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-brian-m-hoffstadt/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Tari L. Cody",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-tari-l-cody/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Kenneth R. Yegan",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-kenneth-r-yegan/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Gonzalo C. Martinez",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-gonzalo-c-martinez/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Natalie Stone",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-natalie-stone/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice John Wiley",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-john-wiley/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Matthew A. Scherb",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-matthew-a-scherb/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Second District — Retain Justice Victor G. Viramontes",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-2",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-second-district-retain-justice-victor-g-viramontes/yes",
+      "statement": "None of the State Judicial candidates up for this retention election have any record of administrative discipline against them. There are no active campaigns to remove them. We recommend you vote to retain all the State Supreme Court and Court of Appeals Justices on your Los Angeles County ballot.",
+      "source": "https://laforwardguide.org/guide/associate-justices-court-of-appeal"
+    }
+  ]
+}

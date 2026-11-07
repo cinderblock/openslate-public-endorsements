@@ -1,0 +1,351 @@
+{
+  "context": {
+    "title": "Los Angeles Area Chamber of Commerce — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Los Angeles Area Chamber of Commerce",
+      "uri": "https://lachamber.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:49:12Z",
+    "sources": [
+      "https://lachamber.com/2026-voter-guide",
+      "https://lachamber.com/clientuploads/pdf/2026/26_Voter-Guide.pdf",
+      "https://lachamber.com/blog/2026/10/08/the-business-voice/los-angeles-let-s-turn-out-in-numbers/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/la-area-chamber-of-commerce/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Los Angeles Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Karen Bass",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-mayor/karen-bass",
+      "statement": "\"Karen Bass Mayor of Los Angeles\" (listed under \"City of Los Angeles Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Attorney",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McKinney",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-attorney/john-mckinney",
+      "statement": "\"John McKinney City Attorney\" (listed under \"City of Los Angeles Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Timothy K. Gaspar",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-3/timothy-k-gaspar",
+      "statement": "\"Tim Gaspar Council District 3\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jose Ugarte",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-council-district-9/jose-ugarte",
+      "statement": "\"Jose Ugarte Council District 9\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County Sheriff",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Luna",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-sheriff/robert-luna",
+      "statement": "\"Robert Luna County Sheriff\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brian Goldsmith",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/brian-goldsmith",
+      "statement": "\"Brian Goldsmith State Senate District 24\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "\"Sara Hernandez State Senate District 26\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 66",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-66",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paul Seo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-66/paul-seo",
+      "statement": "\"Paul Seo State Assembly District 66\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
+      "statement": "\"Dr. Ayanna Davis State Assembly District 65\" (listed under \"County of Los Angeles & State of California Candidate Endorsements\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure EE (City Ethics, Elections, and Governance)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-ee-city-ethics-elections-and-governance/no",
+      "statement": "\"CHARTER AMENDMENT EE City Ethics, Elections, and Governance Bundles six changes related to reducing Council meetings, raising signature threshold challenging mayoral decisions, and changing city ethics rules. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure LA (City Infrastructure, Budget, Finance, and Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-la-city-infrastructure-budget-finance-and-contracting/no",
+      "statement": "\"CHARTER AMENDMENT LA City Governance and Administrative Reform Modernizes city government operations over the budget, infrastructure, municipal revenue generation, contracting, and public works authority. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PL (City Planning Department)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-pl-city-planning-department/yes",
+      "statement": "\"CHARTER AMENDMENT PL City Planning Department Reform Consolidates Area Planning Commissions into a single Neighborhood Appeals Commission and streamlines certain planning decisions and timelines for review. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRT (City Airports, Harbor, and Water and Power Departments)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prt-city-airports-harbor-and-water-and-power-departments/no",
+      "statement": "\"CHARTER AMENDMENT PRT Port, Airport, and DWP Governance Bundles five governance changes to the Port of LA, LAX and DWP addressing leasing authority, public access investments, workforce impact disclosures, Airport Commission membership, and retirement options. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure PRK (City Department of Recreation and Parks Budget)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-prk-city-department-of-recreation-and-parks-budget/yes",
+      "statement": "\"CHARTER AMENDMENT PRK City Department of Recreation and Parks Budget Doubles the minimum guaranteed annual funding allocation for the Department of Recreation and Parks over a ten-year phase-in period. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure FD (Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-fd-funding-for-the-los-angeles-fire-department-through-a-one-half-percent-sales-tax/no",
+      "statement": "\"INITIATIVE ORDINANCE FD Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax Creates a permanent half-cent increase in sales tax to fund the Los Angeles Fire Department. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles City — Measure TE (Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-city-measure-te-property-transfer-tax-exemption-for-victims-of-january-2025-fire-disaster/yes",
+      "statement": "\"PROP TE\" [...] \"✓ SUPPORT\" (the HTML guide repeats the PL description under TE by mistake; the PDF guide gives TE as \"Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster\" with \"SUPPORT\")",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"PROP 1 Veterans and Affordable Housing Bond Act of 2026 Authorizes $10 billion in general obligation bonds for affordable and veterans housing. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"PROP 2 Save for California's Future Act (Rainy Day Fund Expansion) Expands the state's rainy day reserve fund cap from 10% to 20%. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
+      "statement": "\"PROP 3 Permanent Extension of High-Income Tax Rates Makes permanent the elevated income taxes on higher earners to fund education and healthcare. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "\"PROP 37 Second Mortgage Homebuyer Program & Revenue Bond Initiative Creates a $25 billion mortgage loan program for middle-income buyers. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "\"PROP 40 Billionaire Tax Establishes a one-time 5% billionaire tax to fund healthcare, food assistance, and other public services. ✗ OPPOSE\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "\"PROP 41 Mandatory Audits of Programs Funded by New State Special Taxes Requires state audits of programs funded by new special taxes before going to voters. Designed to block Prop 40. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"PROP 42 Prohibition on Taxes on Asset Ownership (Anti-Wealth Tax Constitutional Amendment) Prevents new taxes on personal property. Designed to block Prop 40. NEUTRAL\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
+      "statement": "\"PROP 43 Local Taxpayer Protection Act — Two-Thirds Vote for Citizen-Initiated Special Taxes Raises the threshold for citizen-driven special tax ballot initiatives to pass from a simple majority to two-thirds supermajority. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "\"PROP 45 Changes to Environmental Review Process for Certain Projects Initiative Amends CEQA to expedite environmental review on special infrastructure projects. ✓ SUPPORT\"",
+      "source": "https://lachamber.com/2026-voter-guide"
+    }
+  ]
+}

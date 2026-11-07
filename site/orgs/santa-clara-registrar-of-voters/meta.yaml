@@ -1,0 +1,16 @@
+name: Santa Clara County Registrar of Voters
+slug: santa-clara-registrar-of-voters
+uri: https://vote.santaclaracounty.gov/
+kind: election-authority
+logo: logo.png
+logo_source: https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=256&url=https%3A%2F%2Fvote.santaclaracounty.gov%2F
+about: |
+  Santa Clara County's election office. This bundle is a ballot source, not
+  an endorsement: every qualified local candidate and local measure on the
+  county's ballot as a neutral position, so a voter's ballot shows the whole
+  field. Built by scripts/scc-rov-ballot.ts from Santa Clara's Final
+  Qualified List of Local Eligible Candidates and the measures listed by its
+  online Voter Information Guide (on Democracy Live's OmniBallot), saved
+  under evidence/. Titles reuse the catalog's existing subjects where a
+  bundle already names the contest. Federal and state offices come from the
+  Secretary of State's bundle.

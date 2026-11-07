@@ -1,0 +1,773 @@
+{
+  "context": {
+    "title": "Wellstone Democratic Renewal Club — November 3, 2026 endorsements",
+    "jurisdiction": "us/ca/alameda-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Wellstone Democratic Renewal Club",
+      "uri": "https://www.wellstoneclub.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-31T17:47:36Z",
+    "sources": [
+      "https://www.wellstoneclub.org/endorsements.html"
+    ],
+    "capture": {
+      "run": "2026-11-01T1300Z",
+      "manifest_sha256": "71b102b1c4030f4e7896ded96436168acde2a26ecceb2d955c292dce13a0355e",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/8646b034c03cfce44e9f445b03e42e9b04184d74/provenance/wellstone-democratic-renewal-club/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "district": "us/ca/boe-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-18/mia-bonta",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Auditor",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jenny Wong",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-auditor/jenny-wong",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daria Wrubel",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/daria-wrubel",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-1",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Moni Gangopadhyay",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-1/moni-gangopadhyay",
+      "label": "2nd-place endorsement",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Syrak Micael",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/syrak-micael",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "district": "us/ca/berkeley/council-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Wallman",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-8/michael-wallman",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ka'Dijah A. Brown",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/kadijah-a-brown",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sandy Park",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/sandy-park",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-4740",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Shanoski",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-unified-school-district-board/jennifer-shanoski",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avery Arbaugh",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/avery-arbaugh",
+      "statement": "Berkeley Rent Board: Berkeley Tenants Convention slate",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida Martinac",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/ida-martinac",
+      "statement": "Berkeley Rent Board: Berkeley Tenants Convention slate",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nathan Mizell",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/nathan-mizell",
+      "statement": "Berkeley Rent Board: Berkeley Tenants Convention slate",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Vylma Ortiz",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/vylma-ortiz",
+      "statement": "Berkeley Rent Board: Berkeley Tenants Convention slate",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley Rent Stabilization Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Rodriguez",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-rent-stabilization-board/derek-rodriguez",
+      "statement": "Berkeley Rent Board: Berkeley Tenants Convention slate",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Barbara Lee",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-mayor/barbara-lee",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Auditor",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael C. Houston",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-auditor/michael-c-houston",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Brouhard",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-2/jennifer-brouhard",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sylvia Pfeiffer Williams",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/sylvia-pfeiffer-williams",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-4",
+        "election": "2026-11-03"
+      },
+      "stance": "lean_for",
+      "choice": "Kathryn Camp",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-4/kathryn-camp",
+      "label": "2nd-place endorsement",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/unsd-28050/ta-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valarie Bachelor",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/valarie-bachelor",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Adriana Valencia",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-3/adriana-valencia",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "AC Transit Board, Ward 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ac-transit/ward-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Syed",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ac-transit-board-ward-4/sarah-syed",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "EBMUD Board of Directors, Ward 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ebmud",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marguerite Young",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/ebmud-board-of-directors-ward-3/marguerite-young",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Peralta Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "district": "us/ca/ccd-340/ta-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sandra Weese",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/peralta-community-college-district-board-area-5/sandra-weese",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "label": "No recommendation",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "The Wellstone Club urges you to VOTE NO on Prop 45 (the mailer incorrectly recommends a 'yes' vote).",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure U (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-u-bond-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure V (Sales Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "label": "No recommendation",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure W (Charter Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-w-charter-amendment-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure X (Rent Ordinance Amendment Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-x-rent-ordinance-amendment-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Y (Arts Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-y-arts-tax-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure Z (Parcel Tax to Fund a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-z-parcel-tax-to-fund-a-public-bank/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Berkeley — Measure AA (Soda Tax Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-measure-aa-soda-tax-measure/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure EE (Governance Structure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "label": "No recommendation",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    },
+    {
+      "subject": {
+        "title": "Oakland — Measure FF (Transfer Tax on Foreclosures)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-measure-ff-transfer-tax-on-foreclosures/yes",
+      "source": "https://www.wellstoneclub.org/endorsements.html"
+    }
+  ]
+}

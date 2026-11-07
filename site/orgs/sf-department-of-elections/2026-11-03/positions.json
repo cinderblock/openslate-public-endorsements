@@ -1,0 +1,1149 @@
+{
+  "context": {
+    "title": "San Francisco Department of Elections — 2026-11-03 ballot: qualified local candidates and measures",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Department of Elections",
+      "uri": "https://www.sf.gov/departments--department-elections",
+      "kind": "election-authority"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-20T05:16:44Z",
+    "sources": [
+      "https://www.sf.gov/reports--candidates-nov-3-2026-general-election",
+      "https://www.sf.gov/qualified-ballot-measures",
+      "https://www.sf.gov/ranked-choice-voting"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/sf-department-of-elections/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Assessor-Recorder",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Joaquin Torres",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Public Defender",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Manohar Raju",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-public-defender/manohar-raju",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 2",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Nicholas Berg",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/nicholas-berg",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 2",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Guy McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/guy-mccoy",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 2",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Monthanus Ratanapakdee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/monthanus-ratanapakdee",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-2",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 2",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Stephen Sherrill",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/stephen-sherrill",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 4",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Albert Chow",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/albert-chow",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 4",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jeremy Julian Greco",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/jeremy-julian-greco",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-4",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 4",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 6",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Alex Behrend",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/alex-behrend",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-6",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 6",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 8",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Gary McCoy",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/gary-mccoy",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 8",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Michael T. Nguyen",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/michael-t-nguyen",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 8",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Darshini Patel",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/darshini-patel",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 8",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Emanuel \"Manny\" Yekutiel",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/emanuel-manny-yekutiel",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Pearci \"PJ\" Bastiany III",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/pearci-pj-bastiany-iii",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Dionjay (DJ) Brookter",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/dionjay-dj-brookter",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Deandra Bryant",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/deandra-bryant",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "J.R. Eppler",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/j-r-eppler",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ellsworth \"Ell\" M. Jennison, Jr.",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/ellsworth-ell-m-jennison-jr",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Mike Trouble Lin",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/mike-trouble-lin",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jamo Muhammad",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/jamo-muhammad",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jessica Pessecow",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/jessica-pessecow",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "district": "us/ca/sf/sup-10",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Supervisors, District 10",
+          "ranks": 10
+        }
+      },
+      "stance": "neutral",
+      "choice": "Shawn M. Richard",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/shawn-m-richard",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Autumn Brown Garibay",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/autumn-brown-garibay",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Virginia Cheung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/virginia-cheung",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Alida Fisher",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/alida-fisher",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ryan Hazelton",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/ryan-hazelton",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Laurance Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/laurance-lee",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Reina Tello",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/reina-tello",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Board of Education",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Tim Tung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/tim-tung",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Rome Moses Jones",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/rome-moses-jones",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Monroe Lace",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/monroe-lace",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Leah LaCroix",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/leah-lacroix",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Jeremy Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/jeremy-lee",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Bunny McFadden",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/bunny-mcfadden",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Erwin Tam",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/erwin-tam",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board",
+          "vote_for": 3
+        }
+      },
+      "stance": "neutral",
+      "choice": "Lisa Wynn",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/lisa-wynn",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board, Partial Term",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Community College Board Partial Term",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Ruth Ferguson",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board-partial-term/ruth-ferguson",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "BART Board, District 8",
+          "vote_for": 1
+        }
+      },
+      "stance": "neutral",
+      "choice": "Sara Barz",
+      "choice_id": "sf-department-of-elections:2026-11-03/bart-board-of-directors-district-8/sara-barz",
+      "source": "https://www.sf.gov/reports--candidates-nov-3-2026-general-election"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition A",
+          "number": "A",
+          "label": "Charter Changes Affecting Various City Departments and Commissions",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition A",
+          "number": "A",
+          "label": "Charter Changes Affecting Various City Departments and Commissions",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition B",
+          "number": "B",
+          "label": "Establishing a Municipal Finance Corporation and a Public Bank",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition B",
+          "number": "B",
+          "label": "Establishing a Municipal Finance Corporation and a Public Bank",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition C",
+          "number": "C",
+          "label": "Contributions to the Housing Fund",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition C",
+          "number": "C",
+          "label": "Contributions to the Housing Fund",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition D",
+          "number": "D",
+          "label": "Changes to Ballot Measure Process",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition D",
+          "number": "D",
+          "label": "Changes to Ballot Measure Process",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition E",
+          "number": "E",
+          "label": "City Administrator's Authority and Changes to City Contracting",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition E",
+          "number": "E",
+          "label": "City Administrator's Authority and Changes to City Contracting",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition F",
+          "number": "F",
+          "label": "Changes to Executive Branch Management",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition F",
+          "number": "F",
+          "label": "Changes to Executive Branch Management",
+          "measure_type": "Charter Amendment"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition G",
+          "number": "G",
+          "label": "Allowing Private Vehicles on the Great Highway in Sunset Dunes Park",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition G",
+          "number": "G",
+          "label": "Allowing Private Vehicles on the Great Highway in Sunset Dunes Park",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition H",
+          "number": "H",
+          "label": "Parcel Tax to Fund Public Muni Operations",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition H",
+          "number": "H",
+          "label": "Parcel Tax to Fund Public Muni Operations",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition I",
+          "number": "I",
+          "label": "Changes to Real Property Transfer Tax",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition I",
+          "number": "I",
+          "label": "Changes to Real Property Transfer Tax",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition J",
+          "number": "J",
+          "label": "Removal of Foreclosure Exemption for Real Property Transfer Tax",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Proposition J",
+          "number": "J",
+          "label": "Removal of Foreclosure Exemption for Real Property Transfer Tax",
+          "measure_type": "Ordinance"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Regional Measure RTM",
+          "number": "RTM",
+          "label": "Regional Transit Measure",
+          "measure_type": "Regional Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "kind": "measure",
+        "election": "2026-11-03",
+        "ballot": {
+          "heading": "Regional Measure RTM",
+          "number": "RTM",
+          "label": "Regional Transit Measure",
+          "measure_type": "Regional Measure"
+        }
+      },
+      "stance": "neutral",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/no",
+      "source": "https://www.sf.gov/qualified-ballot-measures"
+    }
+  ]
+}

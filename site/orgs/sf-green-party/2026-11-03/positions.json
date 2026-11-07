@@ -1,0 +1,465 @@
+{
+  "context": {
+    "title": "San Francisco Green Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Francisco Green Party",
+      "uri": "https://www.sfgreenparty.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T16:48:10Z",
+    "sources": [
+      "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sf-green-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "statement": "\"Congress: Connie Chan\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Julian Greco",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/jeremy-julian-greco",
+      "statement": "\"Supervisor, D4: Jeremy Greco\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"Supervisor, D6 - no endorsement\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael T. Nguyen",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-8/michael-t-nguyen",
+      "statement": "\"Supervisor, D8: Michael Nguyen\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pearci \"PJ\" Bastiany III",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/pearci-pj-bastiany-iii",
+      "statement": "\"Supervisor, D10 - Pearci 'PJ' Bastiany III\" / \"PJ Bastiany is a martial artist and community organizer who is running a campaign in support of affordable housing, safety, and opportunity in District 10. We awarded him our sole endorsement.\" / \"Although he's a member of the Democratic Party, Bastiany is a fierce opponent of the Israeli genocide in Gaza. He became a supporter of Green Party gubernatorial candidate Butch Ware due to Ware's outspoken advocacy for Palestinians. Bastiany also shares a number of other Green Values, including strong support for housing that is truly affordable to current members of the community, as well as an emphasis on creative, community-based public safety measures as an alternative to simply throwing more money at the police. He also supports a rollback of 'care not cash' to give assistance directly to people in need.\" / \"Although he's been excluded from coverage by mainstream press outlets (including Mission Local), we think Bastiany is an exciting candidate and we look forward to hearing more of his ideas in the future. We award him our sole endorsement.\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/virginia-cheung",
+      "statement": "\"School Board: Virginia Cheung and Alida Fisher\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alida Fisher",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/alida-fisher",
+      "statement": "\"School Board: Virginia Cheung and Alida Fisher\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leah LaCroix",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/leah-lacroix",
+      "statement": "\"College Board: Leah LaCroix and Jeremy Lee\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/jeremy-lee",
+      "statement": "\"College Board: Leah LaCroix and Jeremy Lee\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/no",
+      "statement": "\"NO on A - commission reform to lower public oversight\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "statement": "\"YES on B - keep moving towards a public bank\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"no consensus for or against C - housing trust fund\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "\"NO on D - restricting ballot access for future propositions\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/no",
+      "statement": "\"NO on E - less oversight over City contracting\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "\"NO on F - more unelected, corrupt appointees and less accountability\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"no position for or against G - the measure to open the Great Highway to cars on weekdays\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/yes",
+      "statement": "\"YES on H - progressive parcel tax to fund Muni\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"no consensus for or against I - dedicate $120 million from real estate transfer tax to 'affordable housing'\" / \"Prop I would make changes to the real estate transfer tax (2020's Prop I), which we strongly supported. The original Prop I brought in $200 million per year by taxing the sale of very expensive properties (those worth over $10 million). This revenue has since increased to $240 million/year, and is an excellent means of taxing the rich. Although Greens strongly support the current transfer tax, we did not reach consensus on the new Prop I, which would redirect about half of the money ($120 million/year) to affordable housing run by nonprofits. We therefore did not take a position supporting or opposing Prop I.\" / \"Prop I starts with a mostly revenue-neutral tweak that would raise taxes on the highest value properties while also exempting new development (another example of the control of real estate developers over City politics). But Prop I's major effect would be to require that $120 million/year would be required to be spent on affordable housing run by nonprofits. Some Greens think that such projects are a good use of money and essential to preventing homelessness and displacement. Other Greens argued that the money should be invested in a better affordable housing model instead (such as tenant-governed social housing for people of all income levels), as the non-profit housing model results in poorly run developments and is subject to corruption. Since we did not reach consensus, we hope that individual Greens will weigh both sides and make up your own mind.\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "\"YES on J - end exemption to real estate transfer tax by banks foreclosing on properties\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "\"no consensus for or against RTM - regional sales taxes to fund BART, Muni, and other local transit\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/no",
+      "statement": "\"NO on 1 - bond to fund private housing for veterans\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/no",
+      "statement": "\"NO on 2 - put more state tax money in 'rainy day fund' instead of priorities like public transit\" / \"Prop 2 is also a repeat of a previous bad idea, Prop 2 from 2014. The previous measure changed the maximum size of California's 'rainy day fund' from 5% of annual revenue to 10%, and the new Prop 2 would raise that limit again to 20%. This was a bad idea then and a worse idea now. As we wrote at the time:\" / \"Unfortunately, our state schools and universities are in a 'rainy day' right now. It is foolish to withhold money rather then spending it at a time when spending is desperately needed to stimulate the economy. The tech sector is doing great, but for most other people, the economy is as bad as it's been since the Wall Street meltdown.\" / \"We should be spending state money on priorities like public transit rather than raising taxes on poor people. Vote NO on Prop 2.\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"YES on 3 - keep the tax on rich people to fund public education\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"YES on 4 - allow public financing of candidates for state office\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "\"NO on 5 - neuter state recall elections instead of reforming them using RCV\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "\"NO on 37 - $25 billion bond for subsidized mortgages for new housing\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "\"NO on 38 - $8.4 billion bond for immunology research\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"NO on 39 - make it harder to vote by requiring people to show ID or write it on mail-in ballot\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"YES on 40 - billionaire wealth tax (we helped gather sigs for this)\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"NO on 41 - makes it harder to raise taxes\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"NO on 42 - blocks billionaire tax\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"NO on 43 - makes it harder to raise local taxes (2/3 requirement instead of majority)\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/yes",
+      "statement": "\"YES on 44 - SEIU-UHW measure to require more of health clinic revenues to go to services instead of executive pay\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"NO on 45 - guts environmental protection laws in order to enable data centers and other development\"",
+      "source": "https://sfgreenparty.org/endorsements/123-november-2026-endorsements"
+    }
+  ]
+}

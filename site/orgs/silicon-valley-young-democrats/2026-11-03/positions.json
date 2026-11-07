@@ -1,0 +1,104 @@
+{
+  "context": {
+    "title": "Silicon Valley Young Democrats — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-clara-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Silicon Valley Young Democrats",
+      "uri": "https://www.svyd.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:20:56Z",
+    "sources": [
+      "https://www.svyd.org/2026-general-endorsements"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/silicon-valley-young-democrats/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "statement": "Endorsement image captioned \"Jane Kim, State Insurance Commissioner\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-26/patrick-ahrens",
+      "statement": "Endorsement image captioned \"Patrick Ahrens, Assembly District 26\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter Ortiz",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-5/peter-ortiz",
+      "statement": "Endorsement image captioned \"Peter Ortiz, San José City Council District 5\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose City Council, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-jose",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gordon Chester",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-city-council-district-9/gordon-chester",
+      "statement": "Endorsement image captioned \"Gordon Chester, San José City Council District 9\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "San Jose Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tomara Hall",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/san-jose-unified-school-district-board-trustee-area-2/tomara-hall",
+      "statement": "Endorsement image captioned \"Tomara Hall, San José Unified School District Board of Trustees Area 2\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    },
+    {
+      "subject": {
+        "title": "Berryessa Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-clara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaria Jaug",
+      "choice_id": "santa-clara-registrar-of-voters:2026-11-03/berryessa-union-school-district-board/jaria-jaug",
+      "statement": "Endorsement image captioned \"Jaria Jaug, Berryessa Union School District Board of Trustees\"",
+      "source": "https://www.svyd.org/2026-general-endorsements"
+    }
+  ]
+}

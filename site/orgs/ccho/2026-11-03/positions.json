@@ -1,0 +1,82 @@
+{
+  "context": {
+    "title": "Council of Community Housing Organizations: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Council of Community Housing Organizations",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-23T10:10:15Z",
+    "sources": [
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=136",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=137",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=138",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=77",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85",
+      "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=94"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/ccho/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/yes",
+      "statement": "Council of Community Housing Organizations signed the paid argument in favor of San Francisco Proposition B in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=77"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-c-contributions-to-the-housing-fund/yes",
+      "statement": "Council of Community Housing Organizations signed the paid argument in favor of San Francisco Proposition C in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=85"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "Council of Community Housing Organizations signed the paid argument against San Francisco Proposition D in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=94"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "jurisdiction": "us/ca/sf",
+        "kind": "measure",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/yes",
+      "statement": "Council of Community Housing Coalitions and Council of Community Housing Organizations signed the argument in favor of San Francisco Proposition I and the rebuttal to the argument against San Francisco Proposition I and the paid argument in favor of San Francisco Proposition I in the San Francisco Voter Information Pamphlet.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf#page=136"
+    }
+  ]
+}

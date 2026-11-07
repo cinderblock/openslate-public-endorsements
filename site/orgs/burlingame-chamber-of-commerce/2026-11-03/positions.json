@@ -1,0 +1,38 @@
+{
+  "context": {
+    "title": "Burlingame Chamber of Commerce: positions from signed ballot arguments, 2026-11-03 California general election",
+    "jurisdiction": "us/ca/san-mateo-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Burlingame Chamber of Commerce",
+      "kind": "organization"
+    },
+    "mode": "inferred",
+    "retrieved_at": "2026-10-25T05:42:40Z",
+    "sources": [
+      "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-5ArgInFavor-Burlingame%20ESD%20Bond_Redacted.pdf"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/burlingame-chamber-of-commerce/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Burlingame School District — Measure R (Bond Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "san-mateo-county-elections:2026-11-03/burlingame-school-district-measure-r-bond-measure/yes",
+      "statement": "Susan Baker (Burlingame Chamber of Commerce, CEO) signed the argument in favor of Burlingame School District Measure R in the San Mateo County measure documents (resolutions, impartial analyses, arguments as filed), November 3, 2026 General Election voter guide.",
+      "source": "https://smcacre.gov/system/files/2026-08/52-ENG-M105-Contest%20Code-5ArgInFavor-Burlingame%20ESD%20Bond_Redacted.pdf"
+    }
+  ]
+}

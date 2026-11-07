@@ -1,0 +1,2925 @@
+{
+  "context": {
+    "title": "Equality California — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Equality California",
+      "uri": "https://www.eqca.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-11-01T16:33:12Z",
+    "sources": [
+      "https://www.eqca.org/elections/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/equality-california/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"YES on Proposition 1: Safe, Affordable Homes for Veterans, Seniors & Working Families\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "\"YES on Proposition 2: Save for California’s Future\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"YES on Proposition 3: Protect Our Schools & Healthcare\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/yes",
+      "statement": "\"YES on Proposition 38: Research to Find Cures for Major Diseases in Our Lifetime\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"NO on Proposition 39: Stop Trump’s Power Grab – Protect Your Voice, Protect Our Vote\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "\"NO on Proposition 40: Protect Funding for Schools, Healthcare & Public Safety\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"NO on Proposition 43: Protect Local Funding\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"NO on Proposition 44: Stop the Attack on Patients & Clinics\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "\"Governor: Xavier Becerra\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "statement": "\"Lieutenant Governor: Fiona Ma\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley N. Weber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/shirley-n-weber",
+      "statement": "\"Secretary of State: Shirley Weber\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "\"Attorney General: Rob Bonta\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "statement": "\"Treasurer: Eleni Kounalakis\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Barrera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/richard-barrera",
+      "statement": "\"State Superintendent of Public Instruction: Richard Barrera\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "statement": "\"Controller: Malia Cohen\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "\"Insurance Commissioner: Ben Allen\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nelson Esparza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/nelson-esparza",
+      "statement": "\"Board of Equalization, District 1: Nelson Esparza\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "statement": "\"Board of Equalization, District 2: Sally Lieber\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Gipson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-3/mike-gipson",
+      "statement": "\"Board of Equalization, District 3: Mike Gipson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tom Umberg",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-4/tom-umberg",
+      "statement": "\"Board of Equalization, District 4: Tom Umberg\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike McGuire",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-1/mike-mcguire",
+      "statement": "\"Congressional District 1: Mike McGuire\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jared Huffman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-2/jared-huffman",
+      "statement": "\"Congressional District 2: Jared Huffman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ami Bera",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/ami-bera",
+      "statement": "\"Congressional District 3: Ami Bera\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Thompson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-4/mike-thompson",
+      "statement": "\"Congressional District 4: Mike Thompson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Masuda",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-5/michael-masuda",
+      "statement": "\"Congressional District 5: Michael Masuda\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Pan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/richard-pan",
+      "statement": "\"Congressional District 6: Dr. Richard Pan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Doris Matsui",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/doris-matsui",
+      "statement": "\"Congressional District 7: Doris Matsui\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Garamendi",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-8/john-garamendi",
+      "statement": "\"Congressional District 8: John Garamendi\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Harder",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-9/josh-harder",
+      "statement": "\"Congressional District 9: Josh Harder\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark DeSaulnier",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-10/mark-desaulnier",
+      "statement": "\"Congressional District 10: Mark DeSaulnier\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Wiener",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/scott-wiener",
+      "statement": "\"Congressional District 11: Scott Wiener\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "statement": "\"Congressional District 12: Lateefah Simon\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "statement": "\"Congressional District 14: Aisha Wahab\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Mullin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-15/kevin-mullin",
+      "statement": "\"Congressional District 15: Kevin Mullin\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sam Liccardo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-16/sam-liccardo",
+      "statement": "\"Congressional District 16: Sam Liccardo\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "statement": "\"Congressional District 17: Ro Khanna\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Zoe Lofgren",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-18/zoe-lofgren",
+      "statement": "\"Congressional District 18: Zoe Lofgren\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Panetta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-19/jimmy-panetta",
+      "statement": "\"Congressional District 19: Jimmy Panetta\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Costa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-21/jim-costa",
+      "statement": "\"Congressional District 21: Jim Costa\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "statement": "\"Congressional District 22: Randy Villegas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tessa Lynn Hodge",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-23/tessa-lynn-hodge",
+      "statement": "\"Congressional District 23: Tessa Lynn Hodge\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "\"Congressional District 24: Salud Carbajal\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Raul Ruiz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-25/raul-ruiz",
+      "statement": "\"Congressional District 25: Raul Ruiz\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqui Irwin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-26/jacqui-irwin",
+      "statement": "\"Congressional District 26: Jacqui Irwin\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 27",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-27",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "George Whitesides",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-27/george-whitesides",
+      "statement": "\"Congressional District 27: George Whitesides\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Chu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-28/judy-chu",
+      "statement": "\"Congressional District 28: Judy Chu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Maria Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-29/luz-maria-rivas",
+      "statement": "\"Congressional District 29: Luz Rivas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Friedman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-30/laura-friedman",
+      "statement": "\"Congressional District 30: Laura Friedman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gil Cisneros",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-31/gil-cisneros",
+      "statement": "\"Congressional District 31: Gil Cisneros\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brad Sherman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-32/brad-sherman",
+      "statement": "\"Congressional District 32: Brad Sherman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 33",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-33",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Aguilar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-33/pete-aguilar",
+      "statement": "\"Congressional District 33: Pete Aguilar\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jimmy Gomez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/jimmy-gomez",
+      "statement": "\"Congressional District 34: Jimmy Gomez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma J. Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-35/norma-j-torres",
+      "statement": "\"Congressional District 35: Norma Torres\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ted W. Lieu",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-36/ted-w-lieu",
+      "statement": "\"Congressional District 36: Ted Lieu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sydney Kamlager-Dove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-37/sydney-kamlager-dove",
+      "statement": "\"Congressional District 37: Sydney Kamlager-Dove\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hilda Solis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-38/hilda-solis",
+      "statement": "\"Congressional District 38: Hilda Solis\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Takano",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-39/mark-takano",
+      "statement": "\"Congressional District 39: Mark Takano\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Linda Sánchez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-41/linda-sanchez",
+      "statement": "\"Congressional District 41: Linda Sánchez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-42/robert-garcia",
+      "statement": "\"Congressional District 42: Robert Garcia\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maxine Waters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-43/maxine-waters",
+      "statement": "\"Congressional District 43: Maxine Waters\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nanette Diaz Barragan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-44/nanette-diaz-barragan",
+      "statement": "\"Congressional District 44: Nanette Barragán\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 45",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-45",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Tran",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-45/derek-tran",
+      "statement": "\"Congressional District 45: Derek Tran\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lou Correa",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-46/lou-correa",
+      "statement": "\"Congressional District 46: Lou Correa\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dave Min",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-47/dave-min",
+      "statement": "\"Congressional District 47: Dave Min\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marni von Wilpert",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/marni-von-wilpert",
+      "statement": "\"Congressional District 48: Marni von Wilpert\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Levin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/mike-levin",
+      "statement": "\"Congressional District 49: Mike Levin\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Peters",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-50/scott-peters",
+      "statement": "\"Congressional District 50: Scott Peters\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Jacobs",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-51/sara-jacobs",
+      "statement": "\"Congressional District 51: Sara Jacobs\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Vargas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-52/juan-vargas",
+      "statement": "\"Congressional District 52: Juan Vargas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-2/damon-connolly",
+      "statement": "\"Senate District 2: Damon Connolly\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jaron Brandon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-4/jaron-brandon",
+      "statement": "\"Senate District 4: Jaron Brandon\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-6/sean-frame",
+      "statement": "\"Senate District 6: Sean Frame\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-8",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelique Ashby",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-8/angelique-ashby",
+      "statement": "\"Senate District 8: Angelique Ashby\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Scott Sakakihara",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-10/scott-sakakihara",
+      "statement": "\"Senate District 10: Scott Sakakihara\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Esmeralda Soria",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-14/esmeralda-soria",
+      "statement": "\"Senate District 14: Esmeralda Soria\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melissa Hurtado",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-16/melissa-hurtado",
+      "statement": "\"Senate District 16: Melissa Hurtado\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Padilla",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-18/steve-padilla",
+      "statement": "\"Senate District 18: Steve Padilla\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-20/caroline-menjivar",
+      "statement": "\"Senate District 20: Caroline Menjivar\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Susan Rubio",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-22/susan-rubio",
+      "statement": "\"Senate District 22: Susan Rubio\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "statement": "\"Senate District 24: John Erickson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sara Hernandez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sara-hernandez",
+      "statement": "\"Senate District 26: Sara Hernandez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-28/lola-smallwood-cuevas",
+      "statement": "\"Senate District 28: Lola Smallwood-Cuevas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob J. Archuleta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-30/bob-j-archuleta",
+      "statement": "\"Senate District 30: Bob Archuleta\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Avelino Valencia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-34/avelino-valencia",
+      "statement": "\"Senate District 34: Avelino Valencia\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Duncan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-36/chris-duncan",
+      "statement": "\"Senate District 36: Chris Duncan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine S. Blakespear",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-38/catherine-s-blakespear",
+      "statement": "\"Senate District 38: Catherine Blakespear\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mara Elliott",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/mara-elliott",
+      "statement": "\"Senate District 40: Mara Elliott\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-2/chris-rogers",
+      "statement": "\"Assembly District 2: Chris Rogers\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cecilia M. Aguiar-Curry",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-4/cecilia-m-aguiar-curry",
+      "statement": "\"Assembly District 4: Cecilia Aguiar-Curry\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Neva Parker",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-5/neva-parker",
+      "statement": "\"Assembly District 5: Neva Parker\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggy Krell",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-6/maggy-krell",
+      "statement": "\"Assembly District 6: Maggy Krell\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amy L. Slavensky",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-7/amy-l-slavensky",
+      "statement": "\"Assembly District 7: Amy Slavensky\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 9",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-9",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Adams",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-9/matthew-adams",
+      "statement": "\"Assembly District 9: Matthew Adams\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-10",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Nguyen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-10/stephanie-nguyen",
+      "statement": "\"Assembly District 10: Stephanie Nguyen\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lori D Wilson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-11/lori-d-wilson",
+      "statement": "\"Assembly District 11: Lori Wilson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 13",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-13",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rhodesia Ransom",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-13/rhodesia-ransom",
+      "statement": "\"Assembly District 13: Rhodesia Ransom\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Buffy Wicks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-14/buffy-wicks",
+      "statement": "\"Assembly District 14: Buffy Wicks\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 15",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-15",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anamarie Avila Farias",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-15/anamarie-avila-farias",
+      "statement": "\"Assembly District 15: Anamarie Ávila Farías,\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 16",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-16",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Bauer-Kahan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-16/rebecca-bauer-kahan",
+      "statement": "\"Assembly District 16: Rebecca Bauer-Kahan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Haney",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-17/matt-haney",
+      "statement": "\"Assembly District 17: Matt Haney\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 18",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-18",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mia Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-18/mia-bonta",
+      "statement": "\"Assembly District 18: Mia Bonta\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 19",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-19",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Catherine Stefani",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-19/catherine-stefani",
+      "statement": "\"Assembly District 19: Catherine Stefani\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-20/liz-ortega",
+      "statement": "\"Assembly District 20: Liz Ortega\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 21",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-21",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diane Papan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-21/diane-papan",
+      "statement": "\"Assembly District 21: Diane Papan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 23",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-23",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marc Berman",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-23/marc-berman",
+      "statement": "\"Assembly District 23: Marc Berman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/alex-lee",
+      "statement": "\"Assembly District 24: Alex Lee\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-25/ash-kalra",
+      "statement": "\"Assembly District 25: Ash Kalra\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Ahrens",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-26/patrick-ahrens",
+      "statement": "\"Assembly District 26: Patrick Ahrens\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gail Pellerin",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-28/gail-pellerin",
+      "statement": "\"Assembly District 28: Gail Pellerin\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 29",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-29",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Rivas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-29/robert-rivas",
+      "statement": "\"Assembly District 29: Robert Rivas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 30",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-30",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dawn Addis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-30/dawn-addis",
+      "statement": "\"Assembly District 30: Dawn Addis\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 31",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-31",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Annalisa Perea",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-31/annalisa-perea",
+      "statement": "\"Assembly District 31: Annalisa Perea\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randall Putz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-34/randall-putz",
+      "statement": "\"Assembly District 34: Randall Putz\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 35",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-35",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrae Gonzales",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-35/andrae-gonzales",
+      "statement": "\"Assembly District 35: Andrae Gonzales\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 36",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-36",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ida S. Obeso-Martinez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-36/ida-s-obeso-martinez",
+      "statement": "\"Assembly District 36: Ida Obeso-Martinez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-37/gregg-hart",
+      "statement": "\"Assembly District 37: Gregg Hart\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Bennett",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-38/steve-bennett",
+      "statement": "\"Assembly District 38: Steve Bennett\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 39",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-39",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Juan Carrillo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-39/juan-carrillo",
+      "statement": "\"Assembly District 39: Juan Carrillo\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pilar Schiavo",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-40/pilar-schiavo",
+      "statement": "\"Assembly District 40: Pilar Schiavo\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 41",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-41",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Harabedian",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-41/john-harabedian",
+      "statement": "\"Assembly District 41: John Harabedian\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 42",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-42",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Deborah Klein Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-42/deborah-klein-lopez",
+      "statement": "\"Assembly District 42: Deborah Klein Lopez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 43",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-43",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Celeste Rodriguez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-43/celeste-rodriguez",
+      "statement": "\"Assembly District 43: Celeste Rodriguez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicholas \"Nick\" Schultz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-44/nicholas-nick-schultz",
+      "statement": "\"Assembly District 44: Nick Schultz\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 46",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-46",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jesse Gabriel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-46/jesse-gabriel",
+      "statement": "\"Assembly District 46: Jesse Gabriel\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Rubio",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-48/blanca-rubio",
+      "statement": "\"Assembly District 48: Blanca Rubio\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Fong",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-49/mike-fong",
+      "statement": "\"Assembly District 49: Mike Fong\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 50",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-50",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robert Garcia",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-50/robert-garcia",
+      "statement": "\"Assembly District 50: Robert Garcia\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 51",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-51",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rick Chavez Zbur",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-51/rick-chavez-zbur",
+      "statement": "\"Assembly District 51: Rick Chavez Zbur\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 52",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-52",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Caloza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-52/jessica-caloza",
+      "statement": "\"Assembly District 52: Jessica Caloza\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 53",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-53",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Rodriguez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-53/michelle-rodriguez",
+      "statement": "\"Assembly District 53: Michelle Rodriguez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 54",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-54",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Gonzalez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-54/mark-gonzalez",
+      "statement": "\"Assembly District 54: Mark Gonzalez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac G. Bryan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/isaac-g-bryan",
+      "statement": "\"Assembly District 55: Isaac Bryan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 56",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-56",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lisa Calderon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-56/lisa-calderon",
+      "statement": "\"Assembly District 56: Lisa Calderon\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/sade-elhawary",
+      "statement": "\"Assembly District 57: Sade Elhawary\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-58/clarissa-cervantes",
+      "statement": "\"Assembly District 58: Clarissa Cervantes\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey A Jackson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-60/corey-a-jackson",
+      "statement": "\"Assembly District 60: Corey Jackson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
+      "statement": "\"Assembly District 61: Tina McKinnor\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 62",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-62",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "José Luis Solache",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-62/jose-luis-solache",
+      "statement": "\"Assembly District 62: José Luis Solache\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 64",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-64",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Blanca Pacheco",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-64/blanca-pacheco",
+      "statement": "\"Assembly District 64: Blanca Pacheco\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-65",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ayanna Davis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-65/ayanna-davis",
+      "statement": "\"Assembly District 65: Ayanna Davis\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 67",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-67",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Pulido",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-67/mark-pulido",
+      "statement": "\"Assembly District 67: Mark Pulido\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 69",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-69",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Josh Lowenthal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-69/josh-lowenthal",
+      "statement": "\"Assembly District 69: Josh Lowenthal\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 70",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-70",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Paula Swift",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-70/paula-swift",
+      "statement": "\"Assembly District 70: Paula Swift\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 71",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-71",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "JJ Galvez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-71/jj-galvez",
+      "statement": "\"Assembly District 71: JJ Galvez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/chris-kluwe",
+      "statement": "\"Assembly District 72: Chris Kluwe\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 73",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-73",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cottie Petrie-Norris",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-73/cottie-petrie-norris",
+      "statement": "\"Assembly District 73: Cottie Petrie-Norris\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sergio Farias",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-74/sergio-farias",
+      "statement": "\"Assembly District 74: Sergio Farias\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gerald C. Boursiquot",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-75/gerald-c-boursiquot",
+      "statement": "\"Assembly District 75: Gerald Boursiquot\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 76",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-76",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darshana Patel",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-76/darshana-patel",
+      "statement": "\"Assembly District 76: Darshana Patel\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 77",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-77",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tasha Boerner",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-77/tasha-boerner",
+      "statement": "\"Assembly District 77: Tasha Boerner\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 78",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-78",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ward",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-78/chris-ward",
+      "statement": "\"Assembly District 78: Chris Ward\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-79/lashae-sharp-collins",
+      "statement": "\"Assembly District 79: LaShae Sharp-Collins\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 80",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-80",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David A. Alvarez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-80/david-a-alvarez",
+      "statement": "\"Assembly District 80: David Alvarez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Berkeley City Council, District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/berkeley",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aidan Hill",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/berkeley-city-council-district-7/aidan-hill",
+      "statement": "\"Berkeley City Council, District 7: Aidan Hill\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Burbank City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/burbank",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nikki Perez",
+      "choice_id": "la-county-registrar:2026-11-03/burbank-city-council/nikki-perez",
+      "statement": "\"Burbank City Council, At-Large: Nikki Perez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Concord City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/concord",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robyn Kuslits",
+      "statement": "\"Concord City Council, District 3: Robyn Kuslits\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Culver City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/culver-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Freddy Puza",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-city-council/freddy-puza",
+      "statement": "\"Culver City City Council, At-Large: Freddy Puza\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Triston Ezidore",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-unified-school-district-board/triston-ezidore",
+      "statement": "\"Culver City School Board: Triston Ezidore\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Culver City Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie Loredo",
+      "choice_id": "la-county-registrar:2026-11-03/culver-city-unified-school-district-board/stephanie-loredo",
+      "statement": "\"Culver City Unified School District, At-Large: Stephanie Loredo\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Patrick Grillot",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-city-council-district-1/patrick-grillot",
+      "statement": "\"El Cajon City Council, District 1: Patrick Grillot\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Cerrito City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cerrito",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Quinto",
+      "statement": "\"El Cerrito City Council, At-Large: Gabe Quinto\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Fullerton City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/fullerton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jozef Maldonado",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/fullerton-city-council-district-5/jozef-maldonado",
+      "statement": "\"Fullerton City Council, District 5: Jozef Maldonado\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Mull",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-4/steve-mull",
+      "statement": "\"Grossmont Union High School District, Area 4: Steve Mull\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Beth Damsky",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-2/andrea-beth-damsky",
+      "statement": "\"Helix Water District, Division 2: Andrea Beth Damsky\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liliana Soriano Garista",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-4/liliana-soriano-garista",
+      "statement": "\"Helix Water District, Division 4: Liliana Soriano Garista\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "La Mesa-Spring Valley School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Brianna Coston",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-spring-valley-school-district-board-trustee-area-3/brianna-coston",
+      "statement": "\"La Mesa – Spring Valley School District, Area 3: Brianna Coston\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Lemon Grove City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/lemon-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Krystle Johnson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/lemon-grove-city-council/krystle-johnson",
+      "statement": "\"Lemon Grove City Council, At-Large: Krystle Johnson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charlene Wang",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-2/charlene-wang",
+      "statement": "\"Oakland City Council, District 2: Charlene Wang\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Oakland City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/oakland",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Janani Ramachandran",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-city-council-district-4/janani-ramachandran",
+      "statement": "\"Oakland City Council, District 4: Janani Ramachandran\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Hazelton",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/ryan-hazelton",
+      "statement": "\"San Francisco Board of Education, At-Large: Ryan Hazelton\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "statement": "\"San Francisco City College Board Trustee, At-Large: Elijah Ball\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Monroe Lace",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/monroe-lace",
+      "statement": "\"San Francisco City College Board Trustee, At-Large: Monroe Lace\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Erwin Tam",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/erwin-tam",
+      "statement": "\"San Francisco City College Board Trustee, At-Large: Erwin Tam\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "\"San Francisco Unified School District Board of Trustees: Phil Kim\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo County Board of Education, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dana Johnson",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-county-board-of-education-trustee-area-2/dana-johnson",
+      "statement": "\"San Mateo County Board of Education, Area 2: Dana Johnson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Ramon City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-ramon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marisol Rubio",
+      "statement": "\"San Ramon City Council, District 4: Marisol Rubio\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Santa Monica City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-monica",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Daniel Ivanov",
+      "choice_id": "la-county-registrar:2026-11-03/santa-monica-city-council/daniel-ivanov",
+      "statement": "\"Santa Monica City Council, At-Large: Danny Ivanov\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kenneth Zuniga",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-mayor/kenneth-zuniga",
+      "statement": "\"Mayor, City of Vista: Kenneth Zuniga\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kyle Brazeal",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/kyle-brazeal",
+      "statement": "\"West Hollywood City Council, At-Large: Kyle Brazeal\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chelsea Byers",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/chelsea-byers",
+      "statement": "\"West Hollywood City Council, At-Large: Chelsea Byers\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jonathan Cottrell",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/jonathan-cottrell",
+      "statement": "\"West Hollywood City Council, At-Large: Jonathan Cottrell\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "West Hollywood City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/west-hollywood",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Helen Krieger",
+      "choice_id": "la-county-registrar:2026-11-03/west-hollywood-city-council/helen-krieger",
+      "statement": "\"West Hollywood City Council, At-Large: Helen Krieger\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-a-a-transparent-accountable-modern-county-government/yes",
+      "statement": "\"San Diego County: Measure A (County Governance and Ethics Reform Amendments): YES\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-b-measure-to-fund-san-diego-county-health-safety-services/yes",
+      "statement": "\"San Diego County: Measure B (San Diego Health & Safety Act): YES\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Artesia City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/artesia",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Rocha",
+      "choice_id": "la-county-registrar:2026-11-03/artesia-city-council/dan-rocha",
+      "statement": "\"Artesia City Council, At-Large: Dan Rocha\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Beaumont Unified School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Megan Garcia",
+      "statement": "\"Beaumont Unified School District, Area 4: Megan Garcia\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Buellton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Silva",
+      "statement": "\"Mayor, City of Buellton: David Silva\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Cathedral City City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/cathedral-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Antonio Baciu",
+      "statement": "\"Cathedral City, District 5: Antonio Baciu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Coachella Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/coachella",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Figueroa",
+      "statement": "\"Mayor, City of Coachella: Frank Figueroa\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Corte Madera Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/corte-madera",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eli Beckman",
+      "statement": "\"Corte Madera Town Council, At-Large: Eli Beckman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Daly City City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/daly-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tony Bayudan",
+      "choice_id": "san-mateo-county-elections:2026-11-03/daly-city-city-council/tony-bayudan",
+      "statement": "\"Daly City Council, At-Large: Atanacio ‘Tony’ Bayudan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Monte Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Florencio Briones",
+      "choice_id": "la-county-registrar:2026-11-03/el-monte-union-high-school-district-board-area-4/florencio-briones",
+      "statement": "\"El Monte Union High School District, Area 4: Florencio Briones\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "El Segundo City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-segundo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Pickhaver",
+      "choice_id": "la-county-registrar:2026-11-03/el-segundo-city-council/john-pickhaver",
+      "statement": "\"El Segundo City Council, At-Large: John Pickhaver\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Elk Grove Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Vargas",
+      "statement": "\"Elk Grove Unified School District Board of Trustees, District 2: Michael Vargas\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Fallbrook Public Utility District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gerry Hoffman",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/fallbrook-public-utility-district-board-division-2/gerry-hoffman",
+      "statement": "\"Fallbrook Fire Protection District, Division 2: Gerald ‘Gerry’ Hoffman\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Garden Grove City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/garden-grove",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hieu Nguyen",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/garden-grove-city-council-district-4/hieu-nguyen",
+      "statement": "\"Garden Grove City Council, District 4: Hieu Nguyen\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Hacienda La Puente Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Johnathon Yoder",
+      "choice_id": "la-county-registrar:2026-11-03/hacienda-la-puente-unified-school-district-board-area-2/johnathon-yoder",
+      "statement": "\"Hacienda La Puente Unified School District Board, Area 2: Johnny Yoder\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Lucia Mar Unified School District Board, Trustee Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Kandel",
+      "statement": "\"Lucia Mar Unified School District Board of Trustees, Area 7: Donna Kandel\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Montebello City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/montebello",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Santana",
+      "choice_id": "la-county-registrar:2026-11-03/montebello-city-council-district-5/james-santana",
+      "statement": "\"Montebello City Council, District 5: James Santana\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Monterey Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tyller Williamson",
+      "statement": "\"Mayor, City of Monterey: Tyller Williamson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Monterey Park City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/monterey-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Thomas Wong",
+      "choice_id": "la-county-registrar:2026-11-03/monterey-park-city-council-district-1/thomas-wong",
+      "statement": "\"Monterey Park City Council, At-Large: Thomas Wong\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Murrieta Valley Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nancy Young",
+      "statement": "\"Murrieta Valley School Board, District 2: Nancy Young\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Oakland Unified School District Board, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valarie Bachelor",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/oakland-unified-school-district-board-district-6/valarie-bachelor",
+      "statement": "\"Oakland School Board, District 6: Valarie Bachelor\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Palm Desert City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-desert",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jonathon Polly",
+      "statement": "\"Palm Desert City Council, District 4: Jonathon Polly\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Palm Springs City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/palm-springs",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeffrey Bernstein",
+      "statement": "\"Palm Springs City Council: Jeffrey Bernstein\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Redlands Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Schavrien",
+      "statement": "\"Redlands Unified School District, Area 2: Ryan Schavrien\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Redwood City City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/redwood-city",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Sturken",
+      "choice_id": "san-mateo-county-elections:2026-11-03/redwood-city-city-council-district-2/chris-sturken",
+      "statement": "\"Redwood City Council, District 2: Chris Sturken\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Bernardino City Council, Ward 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-bernardino",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christian Shaughnessy",
+      "statement": "\"San Bernardino City Council, Ward 2: Christian Shaughnessy\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Leandro City Council, District 2 (Short Term)",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-leandro",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Aguilar",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/san-leandro-city-council-district-2-short-term/james-aguilar",
+      "statement": "\"San Leandro City Council, District 2: James Aguilar\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Mateo Union High School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-mateo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Diana Harris",
+      "choice_id": "san-mateo-county-elections:2026-11-03/san-mateo-union-high-school-district-board-trustee-area-3/diana-harris",
+      "statement": "\"San Mateo Union High School District, Area 3: Diana Harris\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Santa Ana Unified School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/orange-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Hector Bustos",
+      "choice_id": "oc-registrar-of-voters:2026-11-03/santa-ana-unified-school-district-board-trustee-area-5/hector-bustos",
+      "statement": "\"Santa Ana Unified School District Trustee, Area 5: Hector Bustos\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Santa Paula City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-paula",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pedro A. Chavez",
+      "statement": "\"Santa Paula City Council, At-Large: Pedro Chavez\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "South San Francisco City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/south-san-francisco",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aysha Dominguez Pamukcu",
+      "choice_id": "san-mateo-county-elections:2026-11-03/south-san-francisco-city-council-district-1/aysha-dominguez-pamukcu",
+      "statement": "\"South San Francisco City Council, District 1: Aysha Pamukcu\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Stanislaus Union School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/stanislaus-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John Casselberry",
+      "statement": "\"Stanislaus Union School District, Area 5: John Casselberry\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Tracy Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/tracy",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Arriola",
+      "statement": "\"Mayor, City of Tracy: Dan Arriola\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Vallejo City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/vallejo",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tara Beasley-Stansberry",
+      "statement": "\"Vallejo City Council, District 5: Tara Beasley-Stansberry\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Ventura Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/ventura-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amber Thompson",
+      "statement": "\"Ventura Unified School District, Area 4: Amber Thompson\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Desert Healthcare District Board, Zone 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/riverside-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Kelly",
+      "statement": "\"Desert Healthcare District and Foundation Board, Zone 1: David ‘Jax’ Kelly\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Natomas Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Neil Pople",
+      "statement": "\"Natomas Unified School District, Area 1: Neil Pople\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Rohnert Park City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/rohnert-park",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael DeSimone",
+      "statement": "\"Rohnert Park City Council, District 2: Michael DeSimone\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "San Luis Coastal Unified School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-luis-obispo-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Glavan",
+      "statement": "\"San Luis Coastal Unified School District, Area 2: Michael Glavan\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Victorville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/victorville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Derek Marshall",
+      "statement": "\"Victorville City Council, District 4: Derek Marshall\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Julee Brooks",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-2/julee-brooks",
+      "statement": "\"William S. Hart Union High School District Board of Trustees, Area 2: Julee Brooks\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "William S. Hart Union High School District Board, Trustee Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stacy Fortner",
+      "choice_id": "la-county-registrar:2026-11-03/william-s-hart-union-high-school-district-board-trustee-area-5/stacy-fortner",
+      "statement": "\"William S. Hart Union High School Board of Trustees, Area 5: Stacy Fortner\"",
+      "source": "https://www.eqca.org/elections/"
+    },
+    {
+      "subject": {
+        "title": "Chabot-Las Positas Community College District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/alameda-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Harris Mojadedi",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/chabot-las-positas-community-college-district-board-area-3/harris-mojadedi",
+      "statement": "\"Chabot-Las Positas Community College Board: Harris Mojadedi\"",
+      "source": "https://www.eqca.org/elections/"
+    }
+  ]
+}

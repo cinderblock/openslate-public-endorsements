@@ -1,0 +1,567 @@
+{
+  "context": {
+    "title": "Working Families Party (California) — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Working Families Party (California)",
+      "uri": "https://workingfamilies.org/states/california/",
+      "kind": "party"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-15T01:14:06Z",
+    "sources": [
+      "https://workingfamilies.org/states/california/"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/working-families-party-ca/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jane Kim",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/jane-kim",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sally J. Lieber",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-2/sally-j-lieber",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Samuel P. Sukaton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-3/samuel-p-sukaton",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "Prop – 1: Invest in Affordable Homes",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "Prop – 2: Strengthen California’s Rainy Day Fund",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "Prop – 3: Keep the Wealthy Paying Their Fair Share",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "Prop – 4: Small-Donor Democracy Over Big Money in Politics",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "Prop – 5: Reform Recall Elections",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/yes",
+      "statement": "Prop 38: Fund Life-Saving Medical Research",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "Prop 39: Reject Voter Suppression",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "Prop 40: Tax Billionaires to Fund Healthcare & Education",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "Prop 41: Billionaire Tax Poison Pill",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "Prop 42: Billionaire Tax Poison Pill",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Prop 43: Protect Local Funding",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "Prop 44: Protect Community Health Clinics",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Prop 45: Reject Corporate Polluting Projects",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-7",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mai Vang",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-7/mai-vang",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lateefah Simon",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-12/lateefah-simon",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 14",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-14",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Aisha Wahab",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-14/aisha-wahab",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 17",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-17",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ro Khanna",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-17/ro-khanna",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Villegas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/randy-villegas",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 34",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-34",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angela Gonzales-Torres",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-34/angela-gonzales-torres",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Damon Connolly",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-2/damon-connolly",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sean Frame",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-6/sean-frame",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Caroline Menjivar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-20/caroline-menjivar",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John M. Erickson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-24/john-m-erickson",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 26",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-26",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Rascón",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-26/sarah-rascon",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 28",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-28",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lola Smallwood-Cuevas",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-28/lola-smallwood-cuevas",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-2",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Rogers",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-2/chris-rogers",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 12",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-12",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jackie Elward",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-12/jackie-elward",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 20",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-20",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Liz Ortega",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-20/liz-ortega",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alex Lee",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-24/alex-lee",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 25",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-25",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ash Kalra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-25/ash-kalra",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 44",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-44",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Nicholas \"Nick\" Schultz",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-44/nicholas-nick-schultz",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 47",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-47",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Leila Namvar",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-47/leila-namvar",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 55",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-55",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Isaac G. Bryan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-55/isaac-g-bryan",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 57",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-57",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sade Elhawary",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-57/sade-elhawary",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 58",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-58",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Clarissa Cervantes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-58/clarissa-cervantes",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 60",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-60",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Corey A Jackson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-60/corey-a-jackson",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 61",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-61",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tina Simone McKinnor",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-61/tina-simone-mckinnor",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 68",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-68",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessie Lopez",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-68/jessie-lopez",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 72",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-72",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Kluwe",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-72/chris-kluwe",
+      "source": "https://workingfamilies.org/states/california/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 79",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-79",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "LaShae Sharp-Collins",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-79/lashae-sharp-collins",
+      "source": "https://workingfamilies.org/states/california/"
+    }
+  ]
+}

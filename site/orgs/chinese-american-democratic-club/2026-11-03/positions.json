@@ -1,0 +1,615 @@
+{
+  "context": {
+    "title": "Chinese American Democratic Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/sf",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Chinese American Democratic Club",
+      "uri": "https://www.sfcadc.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T17:18:02Z",
+    "sources": [
+      "https://www.sfcadc.org/cadc_11_2026_recommendations",
+      "https://www.sfcadc.org/endorsements"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/chinese-american-democratic-club/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Fiona Ma",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/fiona-ma",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Malia M. Cohen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/malia-m-cohen",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Secretary of State — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Insurance Commissioner — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 11",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-11",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Connie Chan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-11/connie-chan",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Assessor-Recorder",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joaquin Torres",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-assessor-recorder/joaquin-torres",
+      "statement": "Listed as \"Assessor-Recorder — Joaquín Torres\".",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Public Defender",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Manohar Raju",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-public-defender/manohar-raju",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephen Sherrill",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-2/stephen-sherrill",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Wong",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-4/alan-wong",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matt Dorsey",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-6/matt-dorsey",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "Board of Supervisors, District 8 — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Theo Ellington",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/theo-ellington",
+      "rank": 1,
+      "weight": 1,
+      "statement": "Ranked-choice first choice: \"Board of Supervisors, District 10 — 1) Theo Ellington，2) Dion-Jay Brookter\".",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Board of Supervisors, District 10",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dionjay (DJ) Brookter",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-board-of-supervisors-district-10/dionjay-dj-brookter",
+      "rank": 2,
+      "weight": 0.5,
+      "statement": "Ranked-choice second choice: \"Board of Supervisors, District 10 — 1) Theo Ellington，2) Dion-Jay Brookter\".",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phil Kim",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/phil-kim",
+      "statement": "Listed as \"Philip Kim, Virginia Cheung, Laurance Lee\" in \"Board of Education — Philip Kim, Virginia Cheung, Laurance Lee\".",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Virginia Cheung",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/virginia-cheung",
+      "statement": "\"Board of Education — Philip Kim, Virginia Cheung, Laurance Lee\"",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Unified School District Board of Education",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurance Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-unified-school-district-board-of-education/laurance-lee",
+      "statement": "\"Board of Education — Philip Kim, Virginia Cheung, Laurance Lee\"",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Lee",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/jeremy-lee",
+      "statement": "\"City College Trustee — Jeremy Lee, Elijah Ball\" (term not specified; both are full-term candidates).",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco Community College Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Elijah Ball",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-community-college-board/elijah-ball",
+      "statement": "\"City College Trustee — Jeremy Lee, Elijah Ball\" (term not specified; both are full-term candidates).",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "BART Board of Directors, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/bart-8",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "BART Board — No Position",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "1 — $11.2B Veterans and Affordable Housing Bond Act — NO POSITION",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "statement": "Expands California's ability to save surplus revenues by increasing the capacity of state reserves and modifying how deposits are treated under the constitutional spending limit. CADC supports Prop. 2 because setting aside more revenue during strong economic years can help California withstand future downturns without imposing a new tax. The committee specifically reconsidered whether Prop. 2 conflicted with Prop. 41 and concluded that the two address different issues: Prop. 2 facilitates saving existing revenue, while Prop. 41 governs how revenue from new special taxes is treated.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "Makes permanent the higher California income-tax rates originally enacted as temporary taxes and currently scheduled to expire after 2030, affecting roughly the highest-income 2% of taxpayers. CADC supports Prop. 3 because these rates have been in place for many years and generate substantial funding for schools and other public services; allowing them to expire could result in a significant revenue loss. Members supporting the measure viewed continuation as maintaining the existing tax structure rather than imposing a new increase, while several members remained neutral because of California's already-high top income-tax rate.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "Removes California's statewide constitutional prohibition against using public money to finance political campaigns, allowing state and local governments to establish public campaign-financing systems with safeguards. It does not itself create or fund a statewide program. CADC supports Prop. 4 because public financing can reduce candidates' dependence on wealthy donors and special interests, and San Francisco already has experience with such a system. The committee also considered the concern that taxpayers would ultimately be financing political campaigns.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "Changes California's recall process so voters would decide whether an elected state official should be recalled without simultaneously selecting a replacement candidate through the current two-question system. CADC supports Prop. 5 because the existing process can allow a replacement candidate with substantially less than majority support to take office and can turn recalls into partisan alternative elections. The committee concluded that simplifying the process would create a more orderly method for handling vacancies following a successful recall.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "Creates a California Housing Finance Agency program offering qualifying middle-income buyers assistance of up to 17% of the purchase price of certain newly constructed homes, financed through as much as $25 billion in revenue bonds. CADC supports Prop. 37 because it can expand homeownership for middle-income families while encouraging construction of additional housing. Unlike ordinary General Obligation bonds, the bonds are intended to be repaid through the homebuyers' loans rather than directly from the state General Fund, which was an important factor in the committee's support.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "Authorizes $8.4 billion in General Obligation bonds for immunology and immunotherapy research, including research involving cancer, heart disease and Alzheimer's disease. CADC recognizes the importance of medical research but opposes Prop. 38 because the state would incur approximately $500 million annually in debt service for about 25 years while the financial and medical returns remain uncertain. Committee members also questioned the fragmented approach of dedicating a large state bond to selected areas of medical research rather than addressing medical research more broadly.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "Requires government-issued identification for in-person voting, identifying information for mail ballots, and additional government efforts to verify voters' citizenship. CADC opposes Prop. 39 because citizenship is already required to vote and California already uses voter-registration and signature-verification systems. The committee concluded that the additional requirements could create unnecessary barriers for eligible voters while imposing potentially substantial new state and local administrative costs.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "Imposes a one-time tax of up to 5% on certain wealth above $1 billion, with most proceeds directed to health care and additional funding for food assistance, education and administration. CADC opposes Prop. 40 because taxing unrealized wealth and difficult-to-value assets could be administratively complicated and could encourage high-income residents and entrepreneurs to relocate, potentially reducing California's future income-tax base. The committee also objected to exempting the new revenue from the state's constitutional spending limit.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "Requires additional review and auditing of programs funded by newly enacted state special taxes and prevents new taxes from being structured so their revenues escape California's constitutional spending limit. CADC supports Prop. 41 because new taxes should remain subject to established spending controls and accountability requirements. This provision directly conflicts with Prop. 40's attempt to exempt billionaire-tax proceeds from the spending limit, strengthening CADC's position in favor of Prop. 41 and against Prop. 40.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "Amends the California Constitution to prohibit new state taxes based on ownership or control of personal property—including financial assets, investments, business interests and intellectual property—and restricts certain retroactive state taxes; real estate is excluded. CADC supports Prop. 42 because it establishes a constitutional limit against new wealth or asset taxes and retroactive taxation. It also directly conflicts with Prop. 40's proposed billionaire wealth tax, so if both measures pass, their competing provisions could ultimately depend on which receives more affirmative votes or on judicial resolution.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Requires local special taxes—taxes dedicated to a particular purpose—to receive two-thirds voter approval whether proposed by government or directly by voters through an initiative. CADC opposes Prop. 43 because it would make it substantially harder for local communities to approve taxes for services they choose to fund.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "Requires covered nonprofit community health clinics to spend at least 90% of their revenue on health-care services, with enforcement mechanisms for clinics that fail to comply. CADC opposes Prop. 44 because members questioned whether a rigid statewide 90% requirement adequately accounts for administrative and operational costs.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "Changes the California Environmental Quality Act by imposing deadlines and expediting environmental review and litigation for certain projects while limiting some alternatives and procedures currently available under CEQA. CADC opposes Prop. 45 because the committee was concerned that accelerating review and restricting alternatives could weaken meaningful environmental protections. Members also noted opposition from organizations and leaders concerned with health, water, air and housing and expressed concern about the measure's heavy financial backing from a small number of wealthy technology-sector supporters.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "Bay Area — Regional Measure RTM (Regional Transit Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/bay-area",
+        "voted_in": [
+          "us/ca/alameda-county",
+          "us/ca/contra-costa-county",
+          "us/ca/san-mateo-county",
+          "us/ca/santa-clara-county",
+          "us/ca/sf"
+        ],
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "alameda-registrar-of-voters:2026-11-03/bay-area-regional-measure-rtm-regional-transit-measure/yes",
+      "statement": "Imposes a 14-year regional sales tax—1% in San Francisco and 0.5% in Alameda, Contra Costa, San Mateo, and Santa Clara counties—to fund transit operations, including Muni, BART, Caltrain, and other Bay Area transit services. CADC supports RTM because public transit needs stable funding to maintain essential service, therefore, a broadly based sales tax spreads the cost across the general population, and is more equitable than Prop H which primarily place the transit-funding burden on property owners.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition A (Charter Changes Affecting Various City Departments and Commissions)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-a-charter-changes-affecting-various-city-departments-and-commissions/yes",
+      "statement": "Restructures San Francisco's extensive system of commissions and advisory bodies by eliminating or consolidating some bodies, standardizing appointment and removal procedures, and making portions of the structure easier to change in the future. CADC supports Prop. A because San Francisco has accumulated numerous overlapping, inactive or duplicative bodies that can diffuse responsibility and consume staff resources. The committee favored clearer lines of accountability and a more streamlined government structure while recognizing the counterargument that commissions provide independent public oversight.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition B (Establishing a Municipal Finance Corporation and a Public Bank)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-b-establishing-a-municipal-finance-corporation-and-a-public-bank/no",
+      "statement": "Allows San Francisco to establish a nonprofit Municipal Finance Corporation that could finance affordable housing, small businesses and other public priorities and potentially evolve into a city-owned public bank. CADC opposes Prop. B because the measure creates the institutional framework without identifying a secure source for the substantial capitalization needed to establish the bank. Members were concerned about financial risk and committing the City to a banking structure before its funding and long-term viability were clear.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition C (Contributions to the Housing Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "abstain",
+      "statement": "C — Contribute bigger shares from General Funds to the Housing Trust Fund — NO POSITION",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition D (Changes to Ballot Measure Process)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-d-changes-to-ballot-measure-process/no",
+      "statement": "Changes San Francisco's rules governing how certain measures qualify for and appear on the local ballot. CADC opposes Prop. D because it would effectively eliminate grassroots volunteer signature-gathering as a practical path to the ballot, leaving well-funded campaigns better able to qualify measures by paying professional petition circulators—currently around $18 per signature. CADC has led all five successful grassroots recall campaigns that qualified for the ballot through voter signatures and believes ordinary residents must retain a meaningful and affordable way to petition their government and bring measures directly to voters.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition E (City Administrator's Authority and Changes to City Contracting)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-e-city-administrators-authority-and-changes-to-city-contracting/yes",
+      "statement": "Expands and centralizes the City Administrator's authority over procurement, contracts, technology and multi-department projects while increasing the dollar thresholds at which contracts require individual Board of Supervisors approval. CADC supports Prop. E because members believe San Francisco's contracting and procurement system can be unnecessarily slow and fragmented and that clearer centralized responsibility can improve efficiency and accountability. The committee nevertheless recognized that the measure reduces some case-by-case oversight of contracts by the Board of Supervisors.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition F (Changes to Executive Branch Management)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-f-changes-to-executive-branch-management/no",
+      "statement": "Gives the Mayor greater authority over department heads, commissioners, and City reorganization, and in some areas changes the Board of Supervisors' role from prior approval to the ability to reject a Mayoral action after it is proposed. CADC recognizes the goal of making the Mayor more accountable for department performance, but is concerned about weakening independent oversight. Having already supported Prop. A to streamline commissions and Prop. E to expand the City Administrator's authority and streamline contracting, CADC believes Prop. F goes a step too far by further reducing existing checks and balances.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition G (Allowing Private Vehicles on the Great Highway in Sunset Dunes Park)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-g-allowing-private-vehicles-on-the-great-highway-in-sunset-dunes-park/yes",
+      "statement": "Reopens the Upper Great Highway to vehicles on weekdays while maintaining recreational use on weekends and holidays, creating a compromise between transportation access and the recreational use established after the roadway's permanent closure. CADC supports Prop. G as a balanced approach that preserves the corridor for recreation while restoring weekday transportation access for working families, seniors, people with disabilities and others who rely on vehicles. The committee viewed the measure as allowing San Francisco to share the corridor rather than forcing an all-road or all-park choice.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition H (Parcel Tax to Fund Public Muni Operations)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-h-parcel-tax-to-fund-public-muni-operations/no",
+      "statement": "Creates a 15-year parcel tax projected to generate approximately $160 million annually for Muni operations, with different rates for residential and commercial properties and limited pass-throughs to some rent-controlled tenants. CADC opposes Prop. H because San Francisco voters are simultaneously being asked to approve a regional transit sales tax that would also provide substantial new funding to Muni. The committee believed SFMTA should demonstrate greater cost control and accountability before property owners and some renters are asked to shoulder another dedicated tax, particularly one that increases with inflation.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition I (Changes to Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-i-changes-to-real-property-transfer-tax/no",
+      "statement": "Changes San Francisco's transfer tax on very large real-estate transactions by redirecting a substantial portion of the revenue toward affordable housing rather than leaving it available for general City purposes. CADC opposes Prop. I because the measure would restrict future use of volatile transfer-tax revenue and reduce the City's flexibility to respond to changing budget needs. Members supported affordable housing as a goal but concluded that elected officials should retain greater discretion over General Fund resources rather than permanently earmarking this revenue.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    },
+    {
+      "subject": {
+        "title": "San Francisco — Proposition J (Removal of Foreclosure Exemption for Real Property Transfer Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sf",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "sf-department-of-elections:2026-11-03/san-francisco-proposition-j-removal-of-foreclosure-exemption-for-real-property-transfer-tax/yes",
+      "statement": "Removes San Francisco's transfer-tax exemption when lenders take ownership of certain large commercial or multifamily properties through foreclosure, while preserving the exemption for single-family homes, condominiums and residential properties with fewer than five units. CADC supports Prop. J because the majority concluded that large lenders and investors taking ownership of major properties should not automatically receive a transfer-tax exemption unavailable in an ordinary sale and that such properties should contribute to City revenues. Members also considered the opposing concern that imposing a transfer tax during foreclosure could increase lenders' losses, discourage financing or complicate the recovery of distressed properties.",
+      "source": "https://www.sfcadc.org/cadc_11_2026_recommendations"
+    }
+  ]
+}

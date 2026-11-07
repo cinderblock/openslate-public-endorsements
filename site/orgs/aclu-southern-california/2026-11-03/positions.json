@@ -1,0 +1,157 @@
+{
+  "context": {
+    "title": "ACLU of Southern California — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "ACLU of Southern California",
+      "uri": "https://www.aclusocal.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:12:25Z",
+    "sources": [
+      "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/",
+      "https://www.aclusocal.org/aclu-socal-2026-voter-guide/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/aclu-southern-california/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "statement": "\"YES on Prop 1 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "statement": "\"YES on Prop 3 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "statement": "\"YES on Prop 4 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/yes",
+      "statement": "\"YES on Prop 40 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "\"NO on Prop 39 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "\"NO on Prop 41 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "\"NO on Prop 42 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "\"NO on Prop 43 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "\"NO on Prop 45 that …\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    },
+    {
+      "subject": {
+        "title": "Los Angeles County — Measure E (Ethics Commission and Community Investment Budget Allocation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "la-county-registrar:2026-11-03/los-angeles-county-measure-e-ethics-commission-and-community-investment-budget-allocation-charter-amendment/yes",
+      "statement": "\"LOS ANGELES — The ACLU of Southern California released its 2026 Voter Guide, endorsing Yes on Propositions 1, 3, 4, and 40 and No on Propositions 39, 41, 42, 43, and 45 for the election on November 3, 2026. The ACLU SoCal also endorses Yes on Measure E on the ballot in Los Angeles County.\" / \"YES on Measure E that would provide greater independence and structure for the County of Los Angeles Ethics Commission, Office of Ethics Compliance, and Ethics Compliance Officer promised by 2024’s Measure G\"",
+      "source": "https://www.aclusocal.org/press-releases/aclu-of-southern-california-proposition-endorsements-for-2026-election/"
+    }
+  ]
+}

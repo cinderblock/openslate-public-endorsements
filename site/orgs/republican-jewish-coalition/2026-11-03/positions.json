@@ -1,0 +1,40 @@
+{
+  "context": {
+    "title": "Republican Jewish Coalition PAC — November 3, 2026 California general election endorsements (California picks only)",
+    "jurisdiction": "us/ca",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Republican Jewish Coalition PAC",
+      "uri": "https://www.rjchq.org/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T21:16:14Z",
+    "sources": [
+      "https://www.rjcpac.com/",
+      "https://www.rjcpac.com/candidate/david-valadao/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/republican-jewish-coalition/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 22",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-22",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David G. Valadao",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-22/david-g-valadao",
+      "statement": "Candidate page \"Rep. David Valadao\", \"CA-22·House·CA·Incumbent\", marked \"Endorsed\": \"Congressman David Valadao has managed to build a solid bond with constituents that enables him to win despite a Democrat-leaning district. The Congressman stood loyally with our ally Israel after October 7, 2023, and as a result became a target of pro-Hamas radicals who vandalized his district office. Democrats have high hopes that they’ll unseat Valadao this year as they did in 2018. (He won it back in 2020.) This largely rural Central Valley district is not a hot spot for raising campaign funds. Congressman Valadao is counting on support from conservatives aware of how important this seat is to keeping a GOP majority in the House.\"",
+      "source": "https://www.rjcpac.com/candidate/david-valadao/"
+    }
+  ]
+}

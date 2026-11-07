@@ -1,0 +1,971 @@
+{
+  "context": {
+    "title": "San Diego Lincoln Club — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/san-diego-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "San Diego Lincoln Club",
+      "uri": "https://sdlincolnclub.com/",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-28T16:07:40Z",
+    "sources": [
+      "https://sdlincolnclub.com/endorsement-committee/",
+      "https://drive.google.com/file/d/1e_b4fKKa0L0pSywFKOb4v291Obu1sbS_/view?usp=sharing"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sd-lincoln-club/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 48",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-48",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jim Desmond",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-48/jim-desmond",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 49",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-49",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Armen Kurdian",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-49/armen-kurdian",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/steve-hilton",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/herb-w-morgan",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/michael-e-gates",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 32",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-32",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kelly Seyarto",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-32/kelly-seyarto",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 38",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-38",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Bassett",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-38/laura-bassett",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 40",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-40",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristie Bruce-Lane",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-40/kristie-bruce-lane",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 74",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-74",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Davies",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-74/laurie-davies",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 75",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-75",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carl DeMaio",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-75/carl-demaio",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Assessor/Recorder/Clerk",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jordan Marks",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-assessor-recorder-clerk/jordan-marks",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Treasurer-Tax Collector",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shirley Nakawatase",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-treasurer-tax-collector/shirley-nakawatase",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kristine Alessio",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-board-of-supervisors-district-4/kristine-alessio",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Jones",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-board-of-supervisors-district-5/rebecca-jones",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Lenac",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-healthcare-district-board-zone-2/randy-lenac",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Healthcare District Board, Zone 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Maggie T. Watkins",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-healthcare-district-board-zone-4/maggie-t-watkins",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Helix Water District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kathleen Coates Hedberg",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/helix-water-district-board-division-4/kathleen-coates-hedberg",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cole Marting",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-2/cole-marting",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "North County Fire Protection District Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Christine Ibbotson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/north-county-fire-protection-district-board-division-3/christine-ibbotson",
+      "statement": "Division 3: Christine Ibbotson",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Palomar Health Board, Division 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laurie Edwards-Tate",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-health-board-division-3/laurie-edwards-tate",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Keith Blackburn",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-mayor/keith-blackburn",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Carlsbad City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/carlsbad",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Melanie Burkholder",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/carlsbad-city-council-district-1/melanie-burkholder",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "John McCann",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-mayor/john-mccann",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/chula-vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Angelica Martinez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-city-council-district-2/angelica-martinez",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Coronado City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/coronado",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricky Hoyt",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-city-council/ricky-hoyt",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "El Cajon Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Wells",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-mayor/bill-wells",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "El Cajon City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/el-cajon",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chuck Kaye",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/el-cajon-city-council-district-1/chuck-kaye",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Escondido Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dane White",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-mayor/dane-white",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tanner Horsley",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-city-council-district-1/tanner-horsley",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Escondido City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/escondido",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Garcia",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-city-council-district-2/joe-garcia",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mitchell \"Mitch\" McKay",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/imperial-beach-mayor/mitchell-mitch-mckay",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Imperial Beach City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/imperial-beach",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mariko Nakawatase",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/imperial-beach-city-council-district-3/mariko-nakawatase",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "La Mesa Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Laura Lothian",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-mayor/laura-lothian",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "La Mesa City Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca/la-mesa",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Exeter",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/la-mesa-city-treasurer/bill-exeter",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Oceanside City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/oceanside",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Robinson",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/oceanside-city-council-district-2/richard-robinson",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Poway Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Vaus",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-mayor/steve-vaus",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Poway City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/poway",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peter De Hoff",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/poway-city-council-district-3/peter-de-hoff",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Richard Bailey",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-2/richard-bailey",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Powell",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-6/mark-powell",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego City Council, District 8",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gerardo Ramirez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-city-council-district-8/gerardo-ramirez",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Marcos Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mike Sannella",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-mayor/mike-sannella",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Marcos City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-marcos",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lindsey Smith",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-marcos-city-council-district-2/lindsey-smith",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob McNelis",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-city-council-district-1/rob-mcnelis",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eddie Vandiver",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-city-council-district-2/eddie-vandiver",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Santee City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/santee",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ronn Hall",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/santee-city-council-district-2/ronn-hall",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Vista Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Green",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-mayor/joe-green",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Vista City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/vista",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Nuñez",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/vista-city-council-district-1/frank-nunez",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anthony Carnevale",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-1/anthony-carnevale",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jolyana Jirjees",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-2/jolyana-jirjees",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Cajon Valley Union School District Board, Trustee Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lily Schworm",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/cajon-valley-union-school-district-board-trustee-area-3/lily-schworm",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jorge Balvaneda",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-1/jorge-balvaneda",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Norma Toothman",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-3/norma-toothman",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Chula Vista Elementary School District Board, Seat 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Delia Dominguez Cervantes",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/chula-vista-elementary-school-district-board-seat-5/delia-dominguez-cervantes",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Grossmont Union High School District Board, Trustee Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Charissa \"Chrissy\" McCullough",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/grossmont-union-high-school-district-board-trustee-area-4/charissa-chrissy-mccullough",
+      "statement": "Charissa McCullough (Area 4)",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Coronado Unified School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Peggy Duncan",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/coronado-unified-school-district-board/peggy-duncan",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Escondido Union School District Board, Trustee Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Chris Ranglas",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/escondido-union-school-district-board-trustee-area-2/chris-ranglas",
+      "statement": "Chris Ranglas (Area 2)",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Del Mar Union School District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alan Kholos",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/del-mar-union-school-district-board/alan-kholos",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "Palomar Community College District Board, Trustee Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Frank Xu",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/palomar-community-college-district-board-trustee-area-1/frank-xu",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/no",
+      "statement": "NO on Prop 1",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/no",
+      "statement": "NO on Prop 2",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
+      "statement": "NO on Prop 3",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
+      "statement": "NO on Prop 4",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "NO on Prop 5",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "NO on Prop 37",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "NO on Prop 38",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/yes",
+      "statement": "YES on Prop 39",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "NO on Prop 40",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "YES on Prop 41",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "YES on Prop 42",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
+      "statement": "YES on Prop 43",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "NO on Prop 44",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "YES on Prop 45",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure A (A Transparent, Accountable, Modern County Government)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-a-a-transparent-accountable-modern-county-government/no",
+      "statement": "NO on County Measure A",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego County — Measure B (Measure to Fund San Diego County Health & Safety Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-county-measure-b-measure-to-fund-san-diego-county-health-safety-services/no",
+      "statement": "NO on County Measure B",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    },
+    {
+      "subject": {
+        "title": "San Diego Unified School District — Measure M (San Diego Unified School District Repair, Student Safety, No Tax Rate Increase Measure)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/san-diego-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "sd-registrar-of-voters:2026-11-03/san-diego-unified-school-district-measure-m-san-diego-unified-school-district-repair-student-safety-no-tax-rate-increase-measure/no",
+      "statement": "NO on City of San Diego Measure M",
+      "source": "https://sdlincolnclub.com/endorsement-committee/"
+    }
+  ]
+}

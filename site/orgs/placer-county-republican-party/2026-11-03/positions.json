@@ -1,0 +1,1176 @@
+{
+  "context": {
+    "title": "Placer County Republican Party — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/placer-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Placer County Republican Party",
+      "uri": "https://placergop.org/",
+      "kind": "organization"
+    },
+    "mode": "transcribed",
+    "retrieved_at": "2026-10-20T04:02:35Z",
+    "sources": [
+      "https://placergop.org/endorsements/",
+      "https://placergop.org/wp-content/uploads/PlacerGOP2026-VoterGuide.pdf",
+      "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    ],
+    "capture": {
+      "run": "2026-10-31T1200Z",
+      "manifest_sha256": "22ef5c4c7acd8e0efe918e7df5bb28c253ed921b9aa453fb239baa50d8375c26",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/61cc7dcd8e694f845b7c8a1218b91585a8fa375a/provenance/placer-county-republican-party/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Robb Tucker",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-3/robb-tucker",
+      "statement": "\"U.S. Congress District 3: Robb Tucker\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Kevin Kiley",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-6/kevin-kiley",
+      "statement": "\"U.S. Congress District 6: Kevin Kiley\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steve Hilton",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/steve-hilton",
+      "statement": "\"California Governor: Steve Hilton\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lieutenant Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gloria Romero",
+      "choice_id": "ca-secretary-of-state:2026-11-03/lieutenant-governor-of-california/gloria-romero",
+      "statement": "\"California Lieutenant Governor: Gloria Romero\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Superintendent of Public Instruction",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sonja Shaw",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-superintendent-of-public-instruction/sonja-shaw",
+      "statement": "\"California State Superintendent of Public Instruction: Sonja Shaw\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Board of Equalization, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Shannon Grove",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-board-of-equalization-district-1/shannon-grove",
+      "statement": "\"California State Board of Equalization: Shannon Grove\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Secretary of State",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donald P. (Don) Wagner",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-secretary-of-state/donald-p-don-wagner",
+      "statement": "\"California Secretary of State: Don Wagner\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Controller",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Herb W Morgan",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-controller/herb-w-morgan",
+      "statement": "\"California State Controller: Herb Morgan\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jennifer Hawks",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/jennifer-hawks",
+      "statement": "\"California State Treasure: Jennifer Hawks\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael E. Gates",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/michael-e-gates",
+      "statement": "\"California Attorney General: Michael Gates\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-4",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Alexandra Duarte",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-4/alexandra-duarte",
+      "statement": "\"State Senate District 4: Alexandra Duarte\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Senate, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/sd-6",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Roger Niello",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-senate-district-6/roger-niello",
+      "statement": "\"State Senate District 6: Roger Niello\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-1",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Heather Hadwick",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-1/heather-hadwick",
+      "statement": "\"State Assembly District 1: Heather Hadwick\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dom Belza",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-3/dom-belza",
+      "statement": "\"State Assembly District 3: Dom Belza\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-5",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Joe Patterson",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-5/joe-patterson",
+      "statement": "\"State Assembly District 5: Joe Patterson\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Auburn Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Renee Dowd-Grigsby",
+      "statement": "\"Auburn Union School District –Vote for 3-:\" / \"Renee Dowd-Grigsby\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Auburn Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Greg Holt",
+      "statement": "\"Auburn Union School District –Vote for 3-:\" / \"Greg Holt\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Auburn Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jayson Wedge",
+      "statement": "\"Auburn Union School District –Vote for 3-:\" / \"Jayson Wedge\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Natasha Thao",
+      "statement": "\"Center Joint Unified School District-TA1:\" / \"Natasha Thao\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Howard Ballin",
+      "statement": "\"Center Joint Unified School District-TA2:\" / \"Howard Ballin\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Colfax School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Lomen",
+      "statement": "\"Colfax School District:\" / \"Jessica Lomen\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Dry Creek Joint Elementary School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ryan Haynes",
+      "statement": "\"Dry Creek Joint Elementary School District-TA1:\" / \"Ryan Haynes\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Dry Creek Joint Elementary School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jason Walker",
+      "statement": "\"Dry Creek Joint Elementary School District-TA5:\" / \"Jason Walker\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Eureka Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Steven Berry",
+      "statement": "\"Eureka Union School District –Vote for 3–:\" / \"Steven Berry\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Eureka Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Matthew Dahlstrom",
+      "statement": "\"Eureka Union School District –Vote for 3–:\" / \"Matthew Dahlstrom\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Eureka Union School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Curtis Glace",
+      "statement": "\"Eureka Union School District –Vote for 3–:\" / \"Curtis Glace\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Loomis Union School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Darci Stratton",
+      "statement": "\"Loomis Union School District-TA3:\" / \"Darci Stratton\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Loomis Union School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mendi Chadwich",
+      "statement": "\"Loomis Union School District-TA4:\" / \"Mendi Chadwich\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Newcastle Elementary School District Board of Trustees",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jacqueline Lostritto",
+      "statement": "\"Newcastle Elementary School District:\" / \"Jacqueline Lostritto\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer County Board of Education, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sergey Terebkov",
+      "statement": "\"Placer County Board of Education-TA1:\" / \"Sergey Terebkov\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer Union High School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Carrie Featherston",
+      "statement": "\"Placer Union High School District-TA2:\" / \"Carrie Featherston\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer Union High School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jessica Spaid",
+      "statement": "\"Placer Union High School District-TA3:\" / \"Jessica Spaid\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Emerson Lake",
+      "statement": "\"Placer Union High School District-TA4:\" / \"Emerson Lake\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Tiffany Saathoff",
+      "statement": "\"Rocklin Unified School District-TA2:\" / \"Tiffany Saathoff\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rebecca Hoehne",
+      "statement": "\"Rocklin Unified School District-TA4:\" / \"Rebecca Hoehne\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dereck Counter",
+      "statement": "\"Rocklin Unified School District-TA5:\" / \"Dereck Counter\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville City School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Lewis McGeorge",
+      "statement": "\"Roseville City School District-TA2:\" / \"Lewis McGeorge\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville City School District Board, Area 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bruce Lou",
+      "statement": "\"Roseville City School District-TA3:\" / \"Bruce Lou\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville City School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Wendy Biel",
+      "statement": "\"Roseville City School District-TA4:\" / \"Wendy Biel\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Pete Constant",
+      "statement": "\"Roseville Joint Union High School District-TA2:\" / \"Pete Constant\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville Joint Union High School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Phillip Escamilla",
+      "statement": "\"Roseville Joint Union High School District-TA4:\" / \"Phillip Escamilla\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Romness",
+      "statement": "\"Sierra Joint Community College-TA1:\" / \"Bob Romness\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Judy Gilmore",
+      "statement": "\"Sierra Joint Community College-TA2:\" / \"Judy Gilmore\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Sierra Joint Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Cari Dawson Bartley",
+      "statement": "\"Sierra Joint Community College-TA5:\" / \"Cari Dawson Bartley\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Quinn Eichhorst",
+      "statement": "\"Western Placer Unified School District-TA1:\" / \"Quinn Eichhorst\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Marjorie Proffitt",
+      "statement": "\"Western Placer Unified School District-TA2:\" / \"Marjorie Proffitt\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Western Placer Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michelle Kubo",
+      "statement": "\"Western Placer Unified School District-TA4:\" / \"Michelle Kubo\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Auburn City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/auburn",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Stephanie McKenzie",
+      "statement": "\"Auburn City Council:\" / \"Stephanie McKenzie\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lincoln City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/lincoln",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Holly Andreatta",
+      "statement": "\"Lincoln City Council, District 1:\" / \"Holly Andreatta\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lincoln City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lincoln",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Brown",
+      "statement": "\"Lincoln City Council, District 2:\" / \"Ben Brown\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Loomis Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/loomis",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Amanda Cortez",
+      "statement": "\"Loomis Town Council –Vote for ONLY 2-:\" / \"Amanda Cortez\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Loomis Town Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/loomis",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Randy Green",
+      "statement": "\"Loomis Town Council –Vote for ONLY 2-:\" / \"Randy Green\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin City Council",
+        "kind": "race",
+        "jurisdiction": "us/ca/rocklin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bill Halldin",
+      "statement": "\"Rocklin City Council –Vote for 1–\" / \"Bill Halldin\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/roseville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Nelson",
+      "statement": "\"Roseville City Council, District 2:\" / \"David Nelson\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/roseville",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Michael Franks",
+      "statement": "\"Roseville City Council, District 4:\" / \"Michael Franks\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Foresthill Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Bob Roddick",
+      "statement": "\"Foresthill Public Utility District Director  –Vote for 3–\" / \"Bob Roddick\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Foresthill Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dan Andries",
+      "statement": "\"Foresthill Public Utility District Director  –Vote for 3–\" / \"Dan Andries\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Foresthill Public Utility District Board",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Debbie Guidi",
+      "statement": "\"Foresthill Public Utility District Director  –Vote for 3–\" / \"Debbie Guidi\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Nevada Irrigation District Board, Division 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Earl Stephens",
+      "statement": "\"Nevada Irrigation District, Division 4:\" / \"Earl Stephens\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer County Water Agency Board, Division 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jefferson Willoughby",
+      "statement": "\"Placer County Water Agency Director, Div. 1:\" / \"Jefferson Willoughby\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/no",
+      "statement": "\"1:  No  (Borrows 11.25 billion for costly housing projects)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/no",
+      "statement": "\"2:  No  (Guts state budget spending limit and cancels tax rebates)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/no",
+      "statement": "\"3:  No  (Income tax increase)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/no",
+      "statement": "\"4:  No  (Gives your tax dollars to politicians campaigns)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/no",
+      "statement": "\"5:  No  (Weakens citizen’s right to recall politicians from office)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/no",
+      "statement": "\"37:  No  (Borrows 25 billion for costly housing projects)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "\"38:  No  (Public Private partnership bonds for immunology research)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/yes",
+      "statement": "\"39:  Yes  (Voter ID to improve trust in elections)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "\"40:  No  (“Billionaire” tax which is really an “everyone” tax)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/yes",
+      "statement": "\"41:  Yes  (Audit special taxes)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/yes",
+      "statement": "\"42:  Yes  (Stop the savings tax)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/yes",
+      "statement": "\"43:  Yes  (Local tax payer initiative, saves Prop 13)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "\"44:  No  (Imposes costly mandates on community health clinics)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/yes",
+      "statement": "\"45:  Yes  (Reduce housing costs by cutting red tape)\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Roseville — Measure A (City Council Compensation Charter Amendment)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/roseville",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"A-City of Roseville:  Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "South Placer Fire District — Measure B",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"B-South Placer Fire Protection District:  Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin — Measure C (Half-Cent Sales Tax for City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/rocklin",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"C-City of Rocklin:  Oppose\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Rocklin Unified School District — Measure D (School Facilities Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"D-Rocklin School District:  Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Center Joint Unified School District — Measure E (School Facilities Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/sacramento-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"E-Center Joint Unified School District:  Oppose\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Lincoln — Measure F (One-Cent Sales Tax for City Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/lincoln",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"F-City of Lincoln:  Oppose\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer County — Measure G (Charter Amendment: Board of Supervisors Vacancies)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"G-County of Placer:  Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Placer County — Measure H (Charter Amendment: County Executive Officer Removal)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"H-County of Placer:  Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Colfax — Measure I (Streets and Infrastructure Sales Tax)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/colfax",
+        "election": "2026-11-03"
+      },
+      "stance": "neutral",
+      "statement": "\"I-City of Colfax: Neutral\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "Tahoe Truckee Unified School District — Measure P (School Parcel Tax Renewal)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/placer-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "statement": "\"P-Tahoe Truckee Unified School District:  Oppose\"",
+      "source": "https://placergop.org/endorsements/"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Kelli M. Evans",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-kelli-m-evans/no",
+      "statement": "\"CALIFORNIA SUPREME COURT\" / \"Kelli M. Evans NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Supreme Court — Retain Justice Joshua Groban",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-supreme-court-retain-justice-joshua-groban/no",
+      "statement": "\"CALIFORNIA SUPREME COURT\" / \"Joshua Groban NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Laurie Earl",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-laurie-earl/yes",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Laurie Earl YES\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Lauri Damrell",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-lauri-damrell/no",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Lauri Damrell NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice David B. Sapp",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-david-b-sapp/no",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"David B. Sapp NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Stacy Boulware Eurie",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-stacy-boulware-eurie/yes",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Stacy Boulware Eurie YES\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Jonathan Renner",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-jonathan-renner/yes",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Jonathan Renner YES\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Aimee A. Feinberg",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-aimee-a-feinberg/no",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Aimee A. Feinberg NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    },
+    {
+      "subject": {
+        "title": "California Court of Appeal, Third District — Retain Justice Shama Mesiwala",
+        "kind": "measure",
+        "jurisdiction": "us/ca/coa-3",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-court-of-appeal-third-district-retain-justice-shama-mesiwala/no",
+      "statement": "\"COURT OF APPEAL • THIRD DISTRICT\" / \"Shama Mesiwala NO\"",
+      "source": "https://placergop.org/wp-content/uploads/Judges2026.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "context": {
+    "title": "Democratic Women's Study Club of Long Beach — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/los-angeles-county",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Democratic Women's Study Club of Long Beach",
+      "uri": "https://www.facebook.com/DWSCLB",
+      "kind": "organization"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-19T22:48:26Z",
+    "sources": [
+      "https://bluevoterguide.org/endorser-org/Democratic_Womens_Study_Club_of_Long_Beach/CA/2916",
+      "https://www.facebook.com/DWSCLB/posts/pfbid0re4zBhoi9gTzbJNkUnn9FuMbnTzwePGkh9CBQFfdgLUC87GpUKNmWDWHkWorD1XMl"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/democratic-womens-study-club-long-beach/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 131",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Donna Tryfman",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-131/donna-tryfman",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"Donna Tryfman\"",
+      "source": "https://bluevoterguide.org/endorser-org/Democratic_Womens_Study_Club_of_Long_Beach/CA/2916"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 65",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Anna Slotky Reitano",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-65/anna-slotky-reitano",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"Anna Slotky Reitano\"",
+      "source": "https://bluevoterguide.org/endorser-org/Democratic_Womens_Study_Club_of_Long_Beach/CA/2916"
+    },
+    {
+      "subject": {
+        "title": "Superior Court of Los Angeles County, Office 87",
+        "kind": "race",
+        "jurisdiction": "us/ca/los-angeles-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David DeJute",
+      "choice_id": "la-county-registrar:2026-11-03/superior-court-of-los-angeles-county-office-87/david-dejute",
+      "statement": "Blue Voter Guide, viewing \"General on November 3, 2026\": \"Superior Court of Los Angeles County\" … \"David DeJute\"",
+      "source": "https://bluevoterguide.org/endorser-org/Democratic_Womens_Study_Club_of_Long_Beach/CA/2916"
+    }
+  ]
+}

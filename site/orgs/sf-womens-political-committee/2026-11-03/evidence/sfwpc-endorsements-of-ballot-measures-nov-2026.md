@@ -1,0 +1,70 @@
+# Evidence: SFWPC — Endorsements of Ballot Measures for November 2026 Election
+
+- **Source URL**: https://sfwpc.org/endorsements-of-ballot-measures-for-november-2026-election/
+- **Retrieved**: 2026-10-19T21:25:07Z (curl GET with a browser User-Agent; HTML converted to text)
+
+## Page text (verbatim; nav/footer stripped)
+
+```text
+ENDORSEMENTS OF BALLOT MEASURES FOR NOVEMBER 2026 ELECTION
+
+August 15, 2026 by sfwpcgeneral
+
+We want to thank all of the candidates, campaigns, and members who participated in our process. The members have spoken! Please see the ballot measures SFWPC is supporting this November:
+
+Local Measures
+
+Measure A – SUPPORT – Charter Changes Affecting Various City Departments and Commissions
+
+Measure B – SUPPORT – Establishing a Municipal Finance Corporation and a Public Bank
+
+Measure C – SUPPORT – Contributions to the Housing Fund
+
+Measure D – OPPOSE – Changes to Ballot Measure Process
+
+Measure E – OPPOSE – City Administrator’s Authority and Changes to City Contracting
+
+Measure F – OPPOSE – Changes to Executive Branch Management
+
+Measure G – OPPOSE – Allowing Private Vehicles on the Great Highway in Sunset Dunes Park
+
+Measure H – SUPPORT – Parcel Tax to Fund Public Muni Operations
+
+Measure I – SUPPORT – Changes to Real Property Transfer Tax
+
+Measure J – SUPPORT – Removal of Foreclosure Exemption for Real Property Transfer Tax
+
+Regional Measures
+
+Regional Ballot Measure – SUPPORT – Regional Transit Measure
+
+Statewide Propositions
+
+Prop 1 – SUPPORT – The Veterans and Affordable Housing Bond Act of 2026
+
+Prop 2 – SUPPORT – Save for California’s Future Act
+
+Prop 3 – SUPPORT – Permanent High-Income Tax for Schools and Healthcare
+
+Prop 4 – SUPPORT – California Fair Elections Act of 2026
+
+Prop 5 – SUPPORT – Elections: recall of state officers
+
+Prop 37 – SUPPORT – California Middle-Class Homeownership Act
+
+Prop 38 – OPPOSE – California Immunology and Immunotherapy Bond Act of 2026
+
+Prop 39 – OPPOSE – California Voter ID Initiative
+
+Prop 40 – SUPPORT – California Billionaire Tax
+
+Prop 41 – OPPOSE – Special Tax Audit Requirement
+
+Prop 42 – OPPOSE – Retirement & Personal Savings Protection Act
+
+Prop 43 – OPPOSE – Save Prop 13 – Local Taxpayer Protection Initiative
+
+Prop 44 – SUPPORT – Require Community Health Clinics Spend 90% Of Revenue On Program Services. Initiative Statute
+
+Prop 45 – OPPOSE – Modifies Environmental Review For Certain Projects
+```

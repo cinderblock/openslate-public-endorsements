@@ -1,0 +1,467 @@
+{
+  "context": {
+    "title": "Santa Barbara Independent editorial board — November 3, 2026 California general election endorsements",
+    "jurisdiction": "us/ca/santa-barbara",
+    "election": "2026-11-03"
+  },
+  "attribution": {
+    "of": {
+      "name": "Santa Barbara Independent (editorial board)",
+      "uri": "https://www.independent.com/",
+      "kind": "editorial_board"
+    },
+    "mode": "scraped",
+    "retrieved_at": "2026-10-30T17:06:14Z",
+    "sources": [
+      "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    ],
+    "capture": {
+      "run": "2026-10-30T1747Z",
+      "manifest_sha256": "d3f31fed85f8433e73fe7013f12dfd242a1b4d7c25ca2145ce23800cf2329ddd",
+      "provenance": "https://raw.githubusercontent.com/cinderblock/openslate-source-captures/47a1415cd30c3ec00373372010cc89c8bd85c441/provenance/sb-independent/2026-11-03.json"
+    }
+  },
+  "positions": [
+    {
+      "subject": {
+        "title": "California — Proposition 1 (Authorizes Bonds for Housing Affordability Programs)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-1-authorizes-bonds-for-housing-affordability-programs/yes",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 2 (Increases State's Rainy Day Fund)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-2-increases-states-rainy-day-fund/yes",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 3 (Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-3-provides-permanent-funding-for-schools-and-health-care-by-extending-existing-tax-on-high-incomes/yes",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 4 (Repeals Prohibition Against Public Funding of Election Campaigns)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-4-repeals-prohibition-against-public-funding-of-election-campaigns/yes",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 5 (Changes Recall Election Process for Statewide Officers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-5-changes-recall-election-process-for-statewide-officers/yes",
+      "statement": "This one requires some squinting, but we recommend a yes. Right now, when successful recall campaigns are launched against sitting governors, for example, their replacement is chosen in the same election. Typically, these are circuses with far more clowns than conductors. Typically, hundreds of candidates are involved, many one-time wonders looking only for the 15 minutes of fame to which they think they’re entitled. Prop. 5 takes all the fun out of this, requiring a whole new special election to select the replacement for whichever candidate got recalled. This one can be argued both ways, but when possible, we prefer to err on the side of sanity.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 37 (Creates Loan Program for Middle-Income Buyers of Qualified New Homes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-37-creates-loan-program-for-middle-income-buyers-of-qualified-new-homes/yes",
+      "statement": "If approved, Prop. 37 would authorize the sale of $25 billion in bonds, the proceeds to be a loan to help middle-class would-be first-time homeowners to be able to make a 17 percent down payment for a home valued at no more than $1.5 million. We wonder just how far that $25 billion will go and how many people will actually be helped, but any response to the state’s housing crisis will require scatter-shot solutions. And this is one.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 38 (Authorizes Bonds for Immunology Medical Research)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-38-authorizes-bonds-for-immunology-medical-research/no",
+      "statement": "If state voters approve Prop. 38, they will be all but guaranteeing that the measure’s biggest financial backer will be granted half of the $8 billion in bond dollars the measure secures for cutting-edge research in cancer, dementia, and immune disorders. While the measure does not mention Gary K. Michelson, founder of the California Institute for Immunology and Immunotherapy, it does list very specific requirements that only Michelson’s Institute can satisfy. Michelsen has donated $8 million to pass Prop. 38. The proposition’s remaining $4 billion will be available to a wider field for competition, but if Prop. 38 passes, state taxpayers will be on the hook for annual payments of $500 to $600 million a year for 25 years. We have no reason to question the scientific expertise of Michelson’s institute, but we do know a sweetheart deal when we see one. While such research is absolutely essential, the arrangement, originally exposed by CalMatters, underscores the extent to which special interests have usurped the proposition process. California reformers passed that process100 years ago to protect the citizens of this state from those very special interests. Vote No on Prop. 38.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 39 (Prohibits Citizens from Voting Unless They Present Government-Issued Identification)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-39-prohibits-citizens-from-voting-unless-they-present-government-issued-identification/no",
+      "statement": "Prop. 39 was hatched by those subscribing to a floridly paranoid conspiracy theory popular in certain circles that the Democratic Party is allowing undocumented immigrants into the county to exploit their votes. For those suffering such hallucinations, we would strongly suggest psychiatric attention. For everyone else, we urge you to vote no on Prop. 39. It is dangerously and sloppily written and purports to solve a problem that simply does not exist.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 40 (Imposes One-Time Tax on Certain Taxpayers)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-40-imposes-one-time-tax-on-certain-taxpayers/no",
+      "statement": "Of course, the billionaires, presumably terrified of becoming wealth-tax refugees, have raised $200 million to stop the measure. Yes, it’s a gross spectacle. But if the devil is in the details, then Prop. 40 needs an exorcist.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 41 (Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-41-prohibits-new-state-taxes-that-exclude-revenues-from-state-spending-limit-requires-audits-for-new-state-special-taxes/no",
+      "statement": "If billionaires ever wondered why they have such a bad rap, Props. 41 and 42 offer 200 million good reasons why. That’s the amount of money they have already spent supporting these two initiatives they hatched as poison pills just in case Prop. 40, the billionaire’s tax, were to succeed. Prop. 41 would require a special audit before any special tax — such as Prop. 40 — specifically examining all government programs designated for additional funding with the proceeds of that one-time tax. Technically, Prop. 41 might not stop Prop. 40 outright, but it sure would gum up the works if it passed. Prop. 42 is more direct and to the point: If passed, it would flat-out prohibit the enactment of any taxes on personal wealth, which is precisely the new income stream that Prop. 40 hopes to tap into. Currently, California taxes income only, not wealth, which entails such things as art, wine, car collections, business interests, intellectual property and retirement accounts. We don’t support Prop. 40 for a host of good reasons, but this kind of spending is enough to make anyone want to stop being so reasonable.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 42 (Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-42-prohibits-new-state-personal-property-taxes-and-certain-retroactive-state-taxes/no",
+      "statement": "If billionaires ever wondered why they have such a bad rap, Props. 41 and 42 offer 200 million good reasons why. That’s the amount of money they have already spent supporting these two initiatives they hatched as poison pills just in case Prop. 40, the billionaire’s tax, were to succeed. Prop. 41 would require a special audit before any special tax — such as Prop. 40 — specifically examining all government programs designated for additional funding with the proceeds of that one-time tax. Technically, Prop. 41 might not stop Prop. 40 outright, but it sure would gum up the works if it passed. Prop. 42 is more direct and to the point: If passed, it would flat-out prohibit the enactment of any taxes on personal wealth, which is precisely the new income stream that Prop. 40 hopes to tap into. Currently, California taxes income only, not wealth, which entails such things as art, wine, car collections, business interests, intellectual property and retirement accounts. We don’t support Prop. 40 for a host of good reasons, but this kind of spending is enough to make anyone want to stop being so reasonable.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 43 (Limits Voters' Ability to Raise Revenues for Local Government Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-43-limits-voters-ability-to-raise-revenues-for-local-government-services/no",
+      "statement": "Prop. 43 would make it harder for voters to approve local special taxes that they — not their local government officials — put on the ballot by raising the percentage of votes required for passage from 50 percent to two-thirds. We will spare you the minutia of applicable state tax and election codes, but the point here is to make it harder for people to tax themselves for specific purposes. Fighting over this one are the usual collection of taxpayer protection and the unions. We are far from thrilled by the hint of higher taxes, but with the federal government now in full retreat from many of its traditional support roles, local governments will have increasingly rely upon their own local resources to weather the local disasters and health-care shortfalls.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 44 (Requires Community Health Clinics Spend 90% Of Revenue on Program Services)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-44-requires-community-health-clinics-spend-90-of-revenue-on-program-services/no",
+      "statement": "This is yet another high-minded grudge match that drags voters into terrain over which we lack the competence needed to make an even quasi-informed decision. Who doesn’t think money going to medical clinics goes to services rather than administrative overhead? But 90 percent? California has about 2,000 safety net clinics; right now, they are being battered by violent changes in federal health care funding courtesy of Donald Trump’s Big Bad Beautiful Budget Bill. In Santa Barbara, the constellation of health care providers making up our health care universe are reeling. The community care clinics provide the absolute bedrock of safety-net care. However high-minded and lofty such efficiency mandates might seem, this is absolutely not the time for voters to meddle. Our medical world can survive half-assed opinions and knee-jerk reactions; it can’t, however, survive half-assed and knee-jerk votes.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California — Proposition 45 (Modifies Environmental Review for Certain Projects)",
+        "kind": "measure",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "No",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-proposition-45-modifies-environmental-review-for-certain-projects/no",
+      "statement": "If you think an eight-story monstrosity built right behind the Santa Barbara Mission is a good way to solve Santa Barbara’s housing crisis, then maybe you might also think Prop. 45 is a good way to solve the state’s red tape problem. Otherwise, we urge you to vote no. We will stipulate the problems caused by excessive red tape are real and really infuriating. But anybody claiming to have a simple solution is to be distrusted. Red tape exists in such abundance in Coastal California because Coastal California is too damn beautiful for its own good. Balancing all that beauty with all that infinite demand requires a finesse, delicacy, and wisdom. Prop. 45 is just another one-size-fits-all solution that will not succeed in getting affordable housing built but will definitely succeed in making the coast ugly. Beauty counts. Vote no.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Governor of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Xavier Becerra",
+      "choice_id": "ca-secretary-of-state:2026-11-03/governor-of-california/xavier-becerra",
+      "statement": "If only, on occasion, it would be refreshing to seriously consider a candidate for elected office from the Republican party. But we’ve had little opportunity in this century. Certainly not in the case of this year’s gubernatorial election. Steve Hilton, the Republican standard bearer, is at best a MAGA mouthpiece, clever, and verbally nimble, but seemingly untroubled by the mass moral mayhem inflicted by his boss seemingly for no greater purpose than cruelty for cruelty’s sake. We are supporting Becerra mainly because Hilton is so very much worse. We remain troubled, however, by Becerra because of his level of care for unaccompanied migrant children when he ran Health and Human Services during the Biden administration. The New York Times, through an investigative series, exposed how many unaccompanied minors were falling through the cracks and into the hands of labor traffickers. It’s disheartening that he continues to shrug off those questions as mere ‘Trump talking points.’ We might soon find ourselves pining for the good old days of Gavin Newsom. The alleged dialectics of the two-party system has been exposed as a mirage too many times now, but here we are, and Becerra is what is. We sincerely hope he will be much better than we expect.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Attorney General of California",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Rob Bonta",
+      "choice_id": "ca-secretary-of-state:2026-11-03/attorney-general-of-california/rob-bonta",
+      "statement": "Attorney General Rob Bonta just launched his 83rd legal action against the Trump administration. If successful, this one could save motorists anywhere from $185 billion to $400 billion. This is money that will otherwise be funneled directly into oil industry coffers as a happy windfall. The Trump administration is now proposing to put the kibosh on the next scheduled improvement in federal fuel efficiency standards. The auto industry regards these standards — the single most effective tool against the proliferation of greenhouse gases aside from the catalytic converter — as an intrusive nuisance. As of 2031, the fuel efficiency required of Detroit would jump from the current 34.9 miles per gallon to 50.4. Detroit says it will cost $60 billion to comply with these new standards. Trump says by freezing this efficiency upgrade, new cars will be on average $1,300 cheaper. But even by Trump’s own math, the average gas price of the same car will be $1,600 more expensive. Even factoring in for inevitable performative theatrics, Bonta has truly outdone himself keeping the Trump White House in partial check. To date, of the 83 legal actions he filed, he has won 21, eight were withdrawn, and in 45, he secured some tentative preliminary relief. Sixty-six remain ongoing.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California State Assembly, District 37",
+        "kind": "race",
+        "jurisdiction": "us/ca/ad-37",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gregg Hart",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-state-assembly-district-37/gregg-hart",
+      "statement": "These are just a few of the bills that Hart has gotten passed, and only some of the issues he has consistently worked to solve. Gregg Hart is a genuine political athlete endowed with rare stamina, smarts, connections, and a moral compass. We are lucky to have him representing us in Sacramento.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California Treasurer",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eleni Kounalakis",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-treasurer/eleni-kounalakis",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "California Insurance Commissioner",
+        "kind": "race",
+        "jurisdiction": "us/ca",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ben Allen",
+      "choice_id": "ca-secretary-of-state:2026-11-03/california-insurance-commissioner/ben-allen",
+      "statement": "With natural disasters becoming more intense and more frequent, Californians find themselves increasingly up against the wall when it comes to finding remotely affordable fire and home insurance. What the state offers with its FAIR plan falls drastically short and given the state of the state budget, won’t be getting any better soon. Allen preaches the gospel of fire risk reduction and hopes to enlist anyone within earshot to this crusade. While the lingo of insurance is so opaque and obtuse, by design no doubt, we need a commissioner who will push and fight and ask all the uncomfortable questions so when that the time comes, we won’t find ourselves abjectly horrified by all the terrible answers. Ben Allen fills that bill. And perhaps if he’s elected, the answers won’t be quite so horrifying.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "US House of Representatives, California District 24",
+        "kind": "race",
+        "jurisdiction": "us/ca/cd-24",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Salud Carbajal",
+      "choice_id": "ca-secretary-of-state:2026-11-03/us-house-of-representatives-california-district-24/salud-carbajal",
+      "statement": "As a matter of existential urgency, we are betting the farm that this November the nationwide effort to take the majority away from the Republicans — who’ve surrendered their spines and souls — in both the House and the Senate will succeed. One important step is to send Carbajal back to Congress. He deserves our support.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Eric Friedman",
+      "statement": "We are endorsing councilmember Eric Friedman — a moderate’s moderate who we believe will bring balance and a spirit of cooperation to the council, something that has long been missing from the present group on the dais. Friedman, a low-key policy wonk with decades of serious front-line government service under his belt, will work infinitely harder and more effectively to find consensus than the current mayor has. The council will be weighted toward a progressive agenda, one we generally support, but we believe Friedman will be able to incorporate other sensible ideas from the more moderate members, thus avoiding the bitterness and stalemates that have hindered this council for the last eight years. Given the weighty fiscal and political challenges confronting City Hall, those skills will be key.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Devon Wardlow",
+      "statement": "In person, Wardlow is like a sprinter trapped in the body of a long-distance runner; nobody on that council will outwork her. If you live in District 4, we urge a vote for Devon Wardlow. All of Santa Barbara will benefit.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ian Baucke",
+      "statement": "For the three council seats, we are endorsing Devon Wardlow, Gabe Escobedo, and Ian Baucke, three young, smart, wonky progressives all with actual experience in government service. All are fueled by a seething impatience to maximize the city’s limited opportunities to get genuinely affordable housing built and to bring downtown back to life. We know there will be disagreements. We certainly hope so. But these three councilmembers bring a better balance to discussions. And, with Eric Friedman’s guidance as mayor, we think the ensuing debate will be more constructive, civil, and fruitful.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara City Council, District 6",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Gabe Escobedo",
+      "statement": "For the three council seats, we are endorsing Devon Wardlow, Gabe Escobedo, and Ian Baucke, three young, smart, wonky progressives all with actual experience in government service. All are fueled by a seething impatience to maximize the city’s limited opportunities to get genuinely affordable housing built and to bring downtown back to life. We know there will be disagreements. We certainly hope so. But these three councilmembers bring a better balance to discussions. And, with Eric Friedman’s guidance as mayor, we think the ensuing debate will be more constructive, civil, and fruitful.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Lompoc Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Jeremy Ball",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Lompoc City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sharlameigne Segovia",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Lompoc City Council, District 3",
+        "kind": "race",
+        "jurisdiction": "us/ca/lompoc",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Sarah Anne Read",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Buellton Mayor",
+        "kind": "race",
+        "jurisdiction": "us/ca/buellton",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "David Silva",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Luz Reyes-Martín",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Goleta City Council, District 2",
+        "kind": "race",
+        "jurisdiction": "us/ca/goleta",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "James Kyriaco",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara County Board of Supervisors, District 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Ricardo Valencia",
+      "statement": "In the quest to fill Lavagnino’s shoes, we are endorsing Ricardo Valencia, an18-year Santa Maria High School teacher, a four-year member of the Santa Maria School Board, and an unapologetically progressive Democrat. The child of undocumented immigrants from Mexico, Valencia grew up raw and poor in both Guadalupe and Santa Maria. His parents worked hard, but the family was forced to move often, once into a homeless shelter. Valencia said he was falling in with gang life but was saved by a high school teacher who saw in him possibilities he didn’t see himself. Valencia was the first in his family to attend college at UC Berkeley and graduate school at Tufts.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Unified School District Board, Area 1",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Mark Philibosian",
+      "statement": "The other candidate who intrigues us is Mark Philibosian, mostly because his background is in finance and his wife is a teacher. Philibosian is openly Christian; his wife teaches at a Christian school. We don’t know what that may or may not mean, but he too knows how to read data when it comes to test scores and expenditures and revenues. If you can’t do high finance, you’ve got no business on the school board. Maybe if we had more number crunchers there, principals would not be so brazen as to rig class president elections.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Unified School District Board, Area 4",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Valerie Amparan",
+      "statement": "Clearly, one of the two most technically qualified is Valerie Amparan, a charter school mom with loads of nonprofit and corporate experience. She knows how to read a spreadsheet and what it means. She also knows how to use ‘data,’ something most students are taught but many candidates are not. For the record, she is Latina, said to be proud of her Central Valley roots and a cross between a badass and a pain-in-the-ass. Little wonder, then, why she was endorsed by board members Celeste Kafri and Sunita Beall, who are both smart, tough, independent, and comfortable asking uncomfortable questions.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Community College District Board, Area 5",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Dominique Luján",
+      "statement": "Area 5: Dominique Lujan",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Santa Barbara Community College District Board, Area 7",
+        "kind": "race",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Andrea Varon",
+      "statement": "For thousands of students and hundreds of professional educators, the Santa Barbara Community College board of directors calls the shots on a host of critical policy and fiscal matters. We have seen what mischief ensues when unqualified candidates get elected. In Area 7, encompassing the Mesa, Hope Ranch, the Upper Westside and Samarkand, we are lucky to have a qualified candidate: Andrea Varon, a teacher and school administrator for 43 years. One of the candidates Varon is running against is the daughter of the chair of county’s very pro-MAGA Republican Central Committee, Heather McGinnis. The other, Oscar Zavala, is worthy of consideration with a 30-year career as a SBCC counselor, but is not waging a campaign, relying instead on being a longtime Mesa resident.",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    },
+    {
+      "subject": {
+        "title": "Allan Hancock Joint Community College District — Measure H (Affordable Higher Education Bond)",
+        "kind": "measure",
+        "jurisdiction": "us/ca/santa-barbara-county",
+        "election": "2026-11-03"
+      },
+      "stance": "endorse",
+      "choice": "Yes",
+      "statement": "Measure H is one of the smartest, best conceived education and economic development bond measures to be put before voters anywhere in Santa Barbara County for eons. …",
+      "source": "https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/"
+    }
+  ]
+}
