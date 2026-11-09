@@ -12,5 +12,4 @@ Signing happens in GitHub Actions because the project key is a GitHub secret.
 Building the branch there keeps any Cloudflare credential out of GitHub.
 
 Each build's result shows on its commit here as the GitHub check
-`Workers Builds: openslate-catalog`. Builds run only for commits that change a
-file, so an empty commit won't start one.
+`Workers Builds: openslate-catalog`.
