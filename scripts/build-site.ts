@@ -6,7 +6,8 @@
 // the capture repo is reachable (scripts/lib/provenance.ts).
 
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
-import { join } from "node:path";
+import { dirname, join } from "node:path";
+import { buildCatalogShards } from "../.openslate/packages/core/src/index";
 import { catalogExtras } from "./catalog-extras";
 import { evidenceFiles, evidencePage, TAKEDOWN } from "./evidence-page";
 import { provenanceRoot, readProvenance } from "./lib/provenance";
@@ -129,6 +130,18 @@ catalog = {
 };
 await Bun.write(join(DIST, "index.json"), `${JSON.stringify(catalog, null, 2)}\n`);
 
+// The same entries and slates cut into shards, one per election and region (`us/ca`): an
+// app reads `shards.json` and fetches only its voter's states, so the catalog can grow
+// past what anyone should download whole. index.json and bundle.json above stay for older
+// apps. A shard's files carry no date, so one whose slates didn't change is byte for byte
+// what was published before, and nobody downloads it again.
+const sharded = await buildCatalogShards(bundleEntries, catalog.generated_at);
+for (const file of sharded.files) {
+  mkdirSync(dirname(join(DIST, file.path)), { recursive: true });
+  await Bun.write(join(DIST, file.path), file.text);
+}
+await Bun.write(join(DIST, "shards.json"), `${JSON.stringify(sharded.list, null, 2)}\n`);
+
 const publicKey = JSON.parse(await Bun.file(join(ROOT, "keys/project-public.json")).text()) as {
   publicKey: string;
 };
@@ -205,6 +218,7 @@ const html = `<!doctype html>
   <p class="meta">
     Project key: <code>${escape(publicKey.publicKey)}</code><br>
     Catalog (metadata only): <a href="index.json">index.json</a> &middot;
+    By election and state: <a href="shards.json">shards.json</a> &middot;
     <strong>Bundle (every signed slate inline, single fetch):</strong> <a href="bundle.json">bundle.json</a> &middot;
     Public key file: <a href="keys/project-public.json">keys/project-public.json</a> &middot;
     Well-known: <a href="well-known/openslate.json">well-known/openslate.json</a> &middot;
@@ -254,5 +268,5 @@ ${tableBody}
 await Bun.write(join(DIST, "index.html"), html);
 
 console.log(
-  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline, ${withLogo} with a logo, ${withLean} with a lean, ${evidence.size} with evidence`,
+  `built dist/ — ${catalog.entries.length} slate(s), bundle.json with ${bundleEntries.length} tokens inline, ${sharded.list.shards.length} shard(s), ${withLogo} with a logo, ${withLean} with a lean, ${evidence.size} with evidence`,
 );

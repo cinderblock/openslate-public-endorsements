@@ -141,6 +141,7 @@ Either one exposes:
 | `index.html` | Human-readable list of every slate with copy-import links. |
 | `index.json` | Machine-readable catalog of all slates, with each org's `logo` and `lean`. |
 | `bundle.json` | Every `index.json` entry with its signed slate inline (`token`): the whole catalog in one request. |
+| `shards.json` | The catalog cut by election and region (`us/ca`; `us` for what the whole country votes on): each shard's own `index.json` and `bundle.json` under `shards/<election>/<region>/`, with its entry count, size and a `revision` that changes only when the shard does. The app reads this first and fetches only its voter's states. Built by OpenSlate core's `buildCatalogShards`. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
 | `orgs/<slug>/<election>/evidence/` | What the slate was built from: an index page, the captured pages and `NOTES.md`. Saved news pages aren't published: `withheld.json` lists each one's URL, size and hash (see below). |
