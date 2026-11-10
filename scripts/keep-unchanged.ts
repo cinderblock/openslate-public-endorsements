@@ -14,7 +14,7 @@ import { existsSync } from "node:fs";
 import { join } from "node:path";
 import { canonicalize, verifySlate } from "../.openslate/packages/core/src/index";
 
-const PUBLISHED = "https://cinderblock.github.io/openslate-public-endorsements/index.json";
+const PUBLISHED = "https://catalog.openslate.us/index.json";
 
 /**
  * The token to publish: `published` when it's a valid slate from the same signer saying

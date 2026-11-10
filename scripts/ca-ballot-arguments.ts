@@ -21,7 +21,7 @@ import { SIGNERS, type Target, speaksFor } from "./lib/argument-signers";
 const election = process.argv[2];
 if (!election) throw new Error("usage: ca-ballot-arguments.ts <election> [--apply]");
 const apply = process.argv.includes("--apply");
-const GUIDES = "https://cinderblock.github.io/openslate-public-endorsements/guides.json";
+const GUIDES = "https://catalog.openslate.us/guides.json";
 // The guide pages as saved by the ballot repo, pinned to the commit the guide was built from.
 const SAVED_PAGES = "https://github.com/cinderblock/openslate-ballot-ca-2026-11-03/blob/5f20bcbcd58b577bdb76fa71f0afead9d36e2f21/evidence";
 

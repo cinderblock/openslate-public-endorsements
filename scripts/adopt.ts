@@ -16,7 +16,9 @@
 
 import { samePerson } from "../.openslate/packages/core/src/index";
 
-const PAGES = "https://cinderblock.github.io/openslate-public-endorsements";
+// The catalog's home since 2026-11-10. Older adoptions keep the GitHub Pages address
+// they were written with; nothing fetches it, and both hosts serve the same files.
+const CATALOG = "https://catalog.openslate.us";
 const args = process.argv.slice(2);
 const flag = (name: string) => {
   const i = args.indexOf(name);
@@ -75,11 +77,15 @@ const adoption = {
   issuer: key,
   of: target.json.attribution.of.name as string,
   election,
-  uri: `${PAGES}/orgs/${adopted}/${election}/signed.slate`,
+  uri: `${CATALOG}/orgs/${adopted}/${election}/signed.slate`,
   subjects,
   source,
 };
-const existing = (self.json.adopts ?? []).filter((a: { uri: string }) => a.uri !== adoption.uri);
+// The same adoption is the same issuer, org and election, whichever host its uri names.
+const existing = (self.json.adopts ?? []).filter(
+  (a: { issuer: string; of: string; election: string }) =>
+    !(a.issuer === adoption.issuer && a.of === adoption.of && a.election === adoption.election),
+);
 self.json.adopts = [...existing, adoption];
 console.log(`${adopting} adopts ${subjects.length} position(s) from ${adoption.of}`);
 if (args.includes("--apply")) {

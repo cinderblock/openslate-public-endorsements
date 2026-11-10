@@ -25,7 +25,7 @@ import { SIGNERS, type Target, speaksFor } from "./lib/argument-signers";
 const election = process.argv[2];
 if (!election) throw new Error("usage: county-ballot-arguments.ts <election> [--apply]");
 const apply = process.argv.includes("--apply");
-const GUIDES = "https://cinderblock.github.io/openslate-public-endorsements/guides.json";
+const GUIDES = "https://catalog.openslate.us/guides.json";
 
 interface Subject {
   title: string;

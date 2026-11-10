@@ -184,7 +184,7 @@ To ask for something to be removed, use the
 
 OpenSlate's web app ships with a **Catalog** tab that fetches this site's
 `index.json` and offers one-click import of any listed slate. The default
-catalog URL is `https://cinderblock.github.io/openslate-public-endorsements/index.json`;
+catalog URL is `https://catalog.openslate.us/index.json`;
 end-users (or self-hosters) can override it via the in-app URL field, or at
 build time via `VITE_PUBLIC_ENDORSEMENTS_CATALOG`.
 
