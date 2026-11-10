@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "generated_at": "2026-11-10T20:45:14.593Z",
+  "shards": [
+    {
+      "region": "us/ca",
+      "election": "2026-06-02",
+      "index": "shards/2026-06-02/us/ca/index.json",
+      "entries": 30,
+      "bundle": {
+        "path": "shards/2026-06-02/us/ca/bundle.json",
+        "bytes": 295885
+      },
+      "revision": "ff1ed7fcc76ea916961b5a96d9f2f373"
+    },
+    {
+      "region": "us/ca",
+      "election": "2026-11-03",
+      "index": "shards/2026-11-03/us/ca/index.json",
+      "entries": 383,
+      "bundle": {
+        "path": "shards/2026-11-03/us/ca/bundle.json",
+        "bytes": 11672922
+      },
+      "revision": "64d0accaf0ec85bbdc96fb2ed18b383c"
+    }
+  ]
+}
