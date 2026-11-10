@@ -13,3 +13,7 @@ Building the branch there keeps any Cloudflare credential out of GitHub.
 
 Each build's result shows on its commit here as the GitHub check
 `Workers Builds: openslate-catalog`.
+
+The Cloudflare Workers and Pages GitHub app must have access to this repo
+(github.com/settings/installations, Repository access). Without it, pushes here
+never reach Workers Builds and nothing deploys.
