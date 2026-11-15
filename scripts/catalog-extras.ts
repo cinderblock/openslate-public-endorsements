@@ -19,12 +19,15 @@ import {
   leanOf,
   mergeContrasts,
   resolveAdoptions,
+  subjectIdentity,
   verifySlate,
 } from "../.openslate/packages/core/src/index";
 
 export interface ExtrasInput {
   slug: string;
   election: string;
+  /** The slate's path: an organization's own slate and the report of it share slug and election. */
+  path: string;
   token: string;
 }
 
@@ -93,15 +96,31 @@ export function catalogExtras(root: string, entries: ExtrasInput[]): Map<string,
     );
     return [...payload.positions, ...adopted.positions.map((a) => a.position)];
   };
-  const positions = new Map(
-    decoded.map((d) => [`${d.slug}/${d.election}`, positionsOf(d.payload)]),
-  );
+  const positions = new Map(decoded.map((d) => [d.path, positionsOf(d.payload)]));
+
+  /**
+   * An org's picks in an election: its own slate's, and the report of it on races its own
+   * slate doesn't cover (SPEC §7.1). Undefined when it has no slate there.
+   */
+  const picksOf = (slug: string, election: string): Position[] | undefined => {
+    const mine = decoded.filter((d) => d.slug === slug && d.election === election);
+    if (mine.length === 0) return undefined;
+    const own = mine
+      .filter((d) => !d.payload.attribution)
+      .flatMap((d) => positions.get(d.path) ?? []);
+    const covered = new Set(own.map((p) => subjectIdentity(p.subject)));
+    const reported = mine
+      .filter((d) => d.payload.attribution)
+      .flatMap((d) => positions.get(d.path) ?? [])
+      .filter((p) => !covered.has(subjectIdentity(p.subject)));
+    return [...own, ...reported];
+  };
 
   // Contrasts per election.
   const contrastsByElection = new Map<string, Contrasts>();
   for (const election of new Set(decoded.map((d) => d.election))) {
     const inElection = decoded.filter((d) => d.election === election);
-    const at = (slug: string) => positions.get(`${slug}/${election}`);
+    const at = (slug: string) => picksOf(slug, election);
     const poles = partyPairs(inElection.map((d) => d.slug)).flatMap(({ left, right }) => {
       const l = at(left);
       const r = at(right);
@@ -115,11 +134,12 @@ export function catalogExtras(root: string, entries: ExtrasInput[]): Map<string,
 
   const out = new Map<string, Extras>();
   for (const entry of entries) {
-    const key = `${entry.slug}/${entry.election}`;
+    const key = entry.path;
     const extras: Extras = logoOf(root, entry.slug);
-    const d = decoded.find((x) => x.slug === entry.slug && x.election === entry.election);
+    const d = decoded.find((x) => x.path === entry.path);
     const contrasts = contrastsByElection.get(entry.election);
-    const own = positions.get(key);
+    // An org's own slate stands for the org: its lean counts the report's leftover races too.
+    const own = d?.payload.attribution ? positions.get(key) : picksOf(entry.slug, entry.election);
     if (d && contrasts && own && d.payload.attribution?.of.kind !== ELECTION_AUTHORITY) {
       const { left, right } = leanOf(own, contrasts);
       if (left + right > 0) extras.lean = { left, right };

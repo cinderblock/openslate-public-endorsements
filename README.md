@@ -3,11 +3,16 @@
 A community-maintained directory of **publicly-attributed endorsement slates**
 in the [OpenSlate](https://github.com/cinderblock/openslate) format.
 
-Every slate in this repository is a **secondhand report**: it is signed by
-this project's researcher key, with the `attribution` field naming the
+Most slates in this repository are **secondhand reports**: signed by this
+project's researcher key, with the `attribution` field naming the
 organization whose public stances are being summarized. The named
-organization did not sign the slate themselves. Consumers should always
-prefer a firsthand slate from an organization if one becomes available.
+organization did not sign those itself.
+
+An organization can also send in **its own signed slate**
+(`firsthand.slate`, signed with the organization's own key). It's listed as
+signed by the organization and supersedes the report of it for that
+election; see [Organizations' own slates](#organizations-own-slates) and, for
+the organization, [SUBMIT.md](./SUBMIT.md).
 
 ## Scope
 
@@ -60,10 +65,11 @@ Women Voters) are usually a poor fit for this repo.
 .
 ├── orgs/
 │   └── <slug>/
-│       ├── meta.yaml                  # display name, uri, kind, logo, logo_source, logo_background
+│       ├── meta.yaml                  # display name, uri, kind, logo, logo_source, logo_background, keys
 │       ├── logo.<ext>                 # the org's site icon (png/svg/webp/ico/jpg/gif)
 │       └── <election-or-year>/
-│           └── positions.json         # source of truth — what we sign
+│           ├── positions.json         # source of truth — what we sign
+│           └── firsthand.slate        # the org's own signed slate, when it sent one (SUBMIT.md)
 ├── catalog-site/                     # wrangler.jsonc, _headers, README for the catalog-site branch
 ├── keys/
 │   └── project-public.json            # the project's public signing key
@@ -144,6 +150,7 @@ Either one exposes:
 | `shards.json` | The catalog cut by election and region (`us/ca`; `us` for what the whole country votes on): each shard's own `index.json` and `bundle.json` under `shards/<election>/<region>/`, with its entry count, size and a `revision` that changes only when the shard does. The app reads this first and fetches only its voter's states. Built by OpenSlate core's `buildCatalogShards`. |
 | `orgs/<slug>/<election>/signed.slate` | The signed slate token (one line). |
 | `orgs/<slug>/<election>/positions.json` | The source positions (for transparency). |
+| `orgs/<slug>/<election>/firsthand.slate` | The organization's own signed slate, when it sent one. |
 | `orgs/<slug>/<election>/evidence/` | What the slate was built from: an index page, the captured pages and `NOTES.md`. Saved news pages aren't published: `withheld.json` lists each one's URL, size and hash (see below). |
 | `orgs/<slug>/meta.yaml` | Per-org metadata. |
 | `orgs/<slug>/logo.<ext>` | The org's logo, when `meta.yaml` has a `logo:` key. |
@@ -489,9 +496,44 @@ nothing says which passage it means, it's listed for a person to fix.
   quote, not a researcher opinion. A quote is the whole passage, or marks
   each omission with `…` (see "Statements quote whole passages" above).
 
-When an organization publishes their own firsthand slate, the slate here
-should be marked superseded (or removed) — a firsthand slate signed by the
-entity's own key always beats a secondhand attribution.
+When an organization publishes its own firsthand slate, it goes in beside the
+report (below), and the report is marked superseded: a firsthand slate
+signed by the entity's own key always beats a secondhand attribution.
+
+## Organizations' own slates
+
+An organization signs its own slate in the OpenSlate app with its own key, and
+sends it in as `orgs/<slug>/<election>/firsthand.slate` (one signed token, one
+line) by pull request. [SUBMIT.md](./SUBMIT.md) walks a volunteer through it.
+This repo never re-signs it.
+
+- **The key is pinned in `orgs/<slug>/meta.yaml`**, under `keys:`, by a
+  maintainer who confirmed out of band that it's the organization's, with a
+  note of how (`confirmed:`). That listing is the trust: it's what lets the app
+  show the slate as the organization's.
+- **`scripts/firsthand.ts`** checks every `firsthand.slate`: a valid
+  signature, by a key `meta.yaml` lists, no `attribution`, for its folder's
+  election, not expired. Races and names the ballot doesn't have are warnings
+  only: the slate is the organization's own words, so they're passed back to
+  it. `verify.yml` runs the check on pull requests and writes a summary for
+  the reviewer, including whether the organization's own
+  `/.well-known/openslate.json` lists the key.
+- **`--index`**, in `publish.yml` after `sign --batch`, lists each slate in
+  `index.json` beside the report: with `reported_as` (the organization as its
+  reports' `attribution.of` name it, or from `meta.yaml` when there's no
+  report), and the report for the same election gets `superseded_by` (the
+  path of the organization's slate). The report's `signed.slate` keeps its path
+  and stays published, since other slates may adopt it.
+- **The app** files the organization's slate and the reports of it under one
+  source (one follow choice, one count per race), shows it as "signed by
+  them", and on each race both cover, uses the organization's own pick
+  (SPEC §7.1). It believes `reported_as` only from its default catalog.
+- **Lean** for the organization's slate counts its own picks plus the
+  report's on races its slate doesn't cover; the app skips a superseded
+  report's lean.
+
+To retire a key, remove it from `meta.yaml`; a slate signed with it then fails
+the checks.
 
 ## Republished picks: adopt, don't copy
 

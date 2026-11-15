@@ -53,6 +53,10 @@ interface IndexEntry {
   lean?: { left: number; right: number };
   /** Site path of the page listing what the slate was built from (its evidence/ folder). */
   evidence?: string;
+  /** On an organization's own slate: the organization as its reports name it (scripts/firsthand.ts). */
+  reported_as?: { name: string; uri?: string; kind?: string };
+  /** On a report: the path of the organization's own slate for the same election. */
+  superseded_by?: string;
 }
 
 interface Catalog {
@@ -96,6 +100,8 @@ const evidence = new Map<string, string>();
 const captures = await provenanceRoot();
 console.log(captures ? "capture details: found" : "capture details: not available, skipped");
 for (const entry of catalog.entries) {
+  // The evidence/ folder is what the researcher's report was built from, not the org's own slate.
+  if (!entry.attribution) continue;
   const folder = join("orgs", entry.slug, entry.election, "evidence");
   if (!existsSync(join(ROOT, folder))) continue;
   const files = evidenceFiles(join(ROOT, folder));
@@ -106,10 +112,10 @@ for (const entry of catalog.entries) {
     join(DIST, folder, "index.html"),
     evidencePage(entry, files, provenance, withheld),
   );
-  evidence.set(`${entry.slug}/${entry.election}`, `orgs/${entry.slug}/${entry.election}/evidence/`);
+  evidence.set(entry.path, `orgs/${entry.slug}/${entry.election}/evidence/`);
 }
 const withExtras = <T extends IndexEntry>(entry: T): T => {
-  const key = `${entry.slug}/${entry.election}`;
+  const key = entry.path;
   const page = evidence.get(key);
   return { ...entry, ...extras.get(key), ...(page ? { evidence: page } : {}) };
 };
@@ -156,25 +162,27 @@ function escape(s: string): string {
 
 const rows = catalog.entries
   .map((e) => {
-    const slateUrl = `orgs/${e.slug}/${e.election}/signed.slate`;
-    const posUrl = `orgs/${e.slug}/${e.election}/positions.json`;
-    const orgName = e.attribution?.of.name ?? e.slug;
+    const slateUrl = e.path;
+    const posUrl = e.attribution ? `orgs/${e.slug}/${e.election}/positions.json` : undefined;
+    const orgName = e.attribution?.of.name ?? e.reported_as?.name ?? e.issuer.name ?? e.slug;
+    const orgUri = e.attribution?.of.uri ?? e.reported_as?.uri;
     const logo = e.logo
       ? `<img class="logo${e.logo_background === "dark" ? " logo-dark" : ""}" src="${escape(e.logo)}" alt="" loading="lazy">`
       : "";
-    const orgLink = e.attribution?.of.uri
-      ? `<a href="${escape(e.attribution.of.uri)}">${escape(orgName)}</a>`
-      : escape(orgName);
+    const orgLink = orgUri ? `<a href="${escape(orgUri)}">${escape(orgName)}</a>` : escape(orgName);
+    const superseded = e.superseded_by
+      ? `<br><span class="meta">superseded by <a href="${escape(e.superseded_by)}">the organization's own slate</a></span>`
+      : "";
     const attrCell = e.attribution
-      ? `<code>${escape(e.attribution.mode)}</code> · retrieved <span class="iso-date" data-iso="${escape(e.attribution.retrieved_at)}">${escape(e.attribution.retrieved_at.slice(0, 10))}</span>`
-      : "&mdash;";
-    return `      <tr>
+      ? `<code>${escape(e.attribution.mode)}</code> · retrieved <span class="iso-date" data-iso="${escape(e.attribution.retrieved_at)}">${escape(e.attribution.retrieved_at.slice(0, 10))}</span>${superseded}`
+      : `<strong>signed by the organization</strong> · <span class="iso-date" data-iso="${escape(e.issued_at)}">${escape(e.issued_at.slice(0, 10))}</span><br><code class="meta">${escape(e.issuer.key)}</code>`;
+    return `      <tr${e.superseded_by ? ' class="superseded"' : ""}>
         <td>${logo}</td>
         <td>${orgLink}</td>
         <td>${escape(e.election)}</td>
         <td>${e.positions}</td>
         <td>${attrCell}</td>
-        <td><a href="${slateUrl}">slate</a> &middot; <a href="${posUrl}">positions.json</a>${e.evidence ? ` &middot; <a href="${escape(e.evidence)}">evidence</a>` : ""}</td>
+        <td><a href="${escape(slateUrl)}">slate</a>${posUrl ? ` &middot; <a href="${posUrl}">positions.json</a>` : ""}${e.evidence ? ` &middot; <a href="${escape(e.evidence)}">evidence</a>` : ""}</td>
       </tr>`;
   })
   .join("\n");
@@ -203,6 +211,8 @@ const html = `<!doctype html>
     .logo { width: 24px; height: 24px; object-fit: contain; display: block; }
     .logo-dark { background: #1b1f24; border-radius: 4px; padding: 2px; box-sizing: border-box; }
     .note { background: #fffae6; border: 1px solid #e8d97a; padding: .75rem 1rem; border-radius: 4px; margin: 1rem 0; }
+    tr.superseded td { color: #777; }
+    code.meta { font-size: .75rem; word-break: break-all; }
   </style>
 </head>
 <body>
@@ -210,9 +220,11 @@ const html = `<!doctype html>
   <p class="meta">A directory of publicly-attributed endorsement slates in the <a href="https://github.com/cinderblock/openslate">OpenSlate</a> format.</p>
 
   <div class="note">
-    Every slate here is a <strong>secondhand report</strong> &mdash; signed by
-    the project's researcher key, not by the named organization. Prefer a
-    firsthand slate from an organization if one exists.
+    Most slates here are <strong>secondhand reports</strong> &mdash; signed by
+    the project's researcher key, not by the named organization. A slate
+    <strong>signed by the organization</strong> itself, with a key this
+    project confirmed is the organization's, supersedes the report of it.
+    <a href="https://github.com/cinderblock/openslate-public-endorsements/blob/master/SUBMIT.md">Is it your organization? Add your own signed slate.</a>
   </div>
 
   <p class="meta">

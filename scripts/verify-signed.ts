@@ -1,12 +1,14 @@
 #!/usr/bin/env bun
 // Verify every signed .slate produced by `openslate sign --batch`. Confirms the
 // signature is valid AND that the issuer matches the project's published
-// public key in keys/project-public.json. Runs in CI after signing, before
-// the static site is built.
+// public key in keys/project-public.json. Then every organization's own
+// firsthand.slate, against the keys its meta.yaml lists (scripts/firsthand.ts).
+// Runs in CI after signing, before the static site is built.
 
 import { existsSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { verifySlate } from "../.openslate/packages/core/src/index";
+import { checkAll } from "./firsthand";
 
 const ROOT = process.cwd();
 const ORGS_DIR = join(ROOT, "orgs");
@@ -63,6 +65,17 @@ for (const slug of listDirs(ORGS_DIR)) {
     const note = attr ? ` (secondhand for ${attr.of.name})` : "";
     console.log(`OK    ${rel}${note}`);
   }
+}
+
+for (const own of checkAll(ROOT)) {
+  if (own.problems.length) {
+    bad++;
+    console.error(`FAIL  ${own.path}`);
+    for (const p of own.problems) console.error(`      ${p}`);
+    continue;
+  }
+  ok++;
+  console.log(`OK    ${own.path} (signed by ${own.payload?.issuer.name ?? "the organization"})`);
 }
 
 console.log(`\n${ok} verified, ${bad} failed`);

@@ -32,3 +32,8 @@ jobs:
 
       - name: Schema- and ballot-check every positions.json
         run: bun scripts/verify-positions.ts
+
+      # An organization's own firsthand.slate: signed by a key its meta.yaml lists, for its
+      # folder's election. The job summary has what a reviewer needs (SUBMIT.md).
+      - name: Check every organization-signed slate
+        run: bun scripts/firsthand.ts
