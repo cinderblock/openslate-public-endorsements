@@ -20,8 +20,11 @@ update after that.
 1. **Your organization's OpenSlate identity.** In the
    [OpenSlate app](https://openslate.us), go to Publish → Compose and create
    an identity of kind *Organization*, named as your organization is known.
-   Download the backup file when it offers, and keep it somewhere safe: it
-   holds your secret key, so never send it to anyone, including us.
+   Download the backup when it offers, with a passphrase, and keep it
+   somewhere safe: it holds your secret key, so never send it to us or
+   anyone outside your organization. For a second officer who signs too,
+   send them the encrypted backup and tell them the passphrase separately;
+   they restore it under Publish → Identities.
 2. **Your public key**, the line starting `ed25519:` shown for that identity.
    This one is safe to share: it only lets people check your signature.
 3. **A free [GitHub](https://github.com/signup) account.** No GitHub? See
